@@ -265,6 +265,7 @@ Dashboard dirancang untuk Microsoft Excel desktop. Beberapa tampilan grafik (pir
 
 **Wahyu Akbar** — Data Analyst
 
-- LinkedIn: [tambahkan tautan]
-- Email: [tambahkan alamat email]
-- Portofolio lain: [tambahkan tautan]
+- LinkedIn: https://www.linkedin.com/in/akbarparsan/
+- Email: akbarparsan@gmail.com
+- Portofolio lain: https://github.com/akbarparsan/smelter-reliability-energy-analytics
+                   https://github.com/akbarparsan/smelter-performance-dashboard
