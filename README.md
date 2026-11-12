@@ -130,7 +130,6 @@ Sheet pada workbook: `KPI_Dashboard` (tampilan), `KPI_Data` (perhitungan), lalu 
 
 **Honda_Motor_Ocean_Theme_Dashboard.xlsx** menampilkan empat grafik bertema laut (lollipop model terlaris, gelembung kontribusi cabang, tren bulanan, dan tangga KPB).
 
-![Dashboard bertema laut](images/dashboard_ocean_theme.png)
 
 ## 7. Definisi KPI
 
