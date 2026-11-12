@@ -1,0 +1,1001 @@
+No_Transaksi,Tanggal_Transaksi,Nama_Konsumen,No_HP,Kota,Cabang,Salesperson,Model_Motor,No_Rangka,Warna,Metode_Bayar,Leasing,Tenor_Bulan,DP_Rp,Diskon_Rp,Status_Kredit,Status_Transaksi,Sumber_Prospek,Tanggal_Serah_Terima
+TRX-00001,2025-01-02,Sari Hakim,082207321997,Bogor,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1S10000009,Abu-abu,Cash,,,,200000,,Selesai,Media sosial,2025-01-13
+TRX-00002,2025-01-02,Budi Tanjung ,085276024423,Depok,Cabang Pusat,Budi Santoso,BeAT,MH1BT1S10000036,Biru,Kredit Leasing,Leasing Mitra,18,3490000,0,Disetujui,Selesai,Media sosial,2025-01-14
+TRX-00003,2025-01-02,Ayu Wibowo,082296338805,Serang,Cabang Barat,Indra Maulana,Scoopy,MH1SC1S10000056,Hitam,Cash,,,,100000,,Selesai,Walk-in,2025-01-07
+TRX-00004,2025-01-04,Sdr. Budi Nur Permana,08780732136,Sukabumi,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1S10000077,Silver,Cash,,,,0,,Selesai,Referral,2025-01-13
+TRX-00005,2025-01-04,Bagus Maulana,085714619150,Bekasi,Cabang Utara,Dewi Anggraini,Vario 125,MH1V12S10000116,Hitam,Kredit Leasing,Leasing Nusa,18,4990000,950000,Disetujui,Selesai,Walk-in,2025-01-07
+TRX-00006,2025-01-05,Rudi Siti Halim,08574443263,Karawang,Cabang Utara,Citra Lestari,BeAT,MH1BT1S10000140,Abu-abu,Kredit Leasing,Leasing Mitra,12,5210000,0,Disetujui,Selesai,Walk-in,2025-01-13
+TRX-00007,2025-01-05,Bagus Saputra,089523061408,Serang,Cabang Barat,Joko Susilo,Revo,MH1RV1S10000152,Silver,Kredit Leasing,Leasing Sentosa,24,3750000,1250000,Disetujui,Selesai,Media sosial,2025-01-09
+TRX-00008,2025-01-07,Joko Rahayu,085286961542,Karawang,Cabang Utara,Citra Lestari,PCX 160,MH1PC1S10000160,Merah,Kredit Leasing,Leasing Mitra,12,7180000,0,Disetujui,Selesai,Walk-in,2025-01-21
+TRX-00009,2025-01-07,Dedi Rahayu,081291701640,Cianjur,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1S10000198,Putih,Kredit Leasing,Leasing Nusa,18,3350000,0,Disetujui,Selesai,Pameran,2025-01-09
+TRX-00010,2025-01-07,Kartika Santoso,089652746703,Bekasi,Cabang Utara,Dewi Anggraini,Genio,MH1GN1S10000201,Putih,Kredit Leasing,Leasing Nusa,18,4760000,550000,Ditolak,Batal,Walk-in,
+TRX-00011,2025-01-07,Taufik Purnomo,081176476112,Bogor,Cabang Pusat,Andi Prasetyo,Scoopy,MH1SC1S10000239,Silver,Kredit Leasing,Leasing Mitra,35,6730000,950000,Disetujui,Selesai,Media sosial,2025-01-09
+TRX-00012,2025-01-08,Yusuf Nugroho,089679703053,Bekasi,Cabang Utara,Citra Lestari,BeAT,MH1BT1S10000242,Biru,Kredit Leasing,Leasing Sentosa,30,5230000,0,Disetujui,Selesai,Referral,2025-01-21
+TRX-00013,2025-01-08,Sari Susanto,08520671508,Bogor,Cabang Pusat,Budi Santoso,Genio,MH1GN1S10000265,Biru,Kredit Leasing,Leasing Mitra,18,4700000,0,Disetujui,Selesai,Walk-in,2025-01-09
+TRX-00014,2025-01-08,Wahyu Setiawan,08575332890,Bekasi,Cabang Utara,Citra Lestari,Vario 125,MH1V12S10000266,Abu-abu,Kredit Leasing,Leasing Nusa,30,6020000,1250000,Disetujui,Selesai,Telemarketing,2025-01-13
+TRX-00015,2025-01-11,Indah Gunawan Susanto,087825465877,Bogor,Cabang Pusat,Andi Prasetyo,Scoopy,MH1SC1S10000286,Biru,Kredit Leasing,Leasing Mitra,35,4950000,0,Disetujui,Selesai,Pameran,2025-01-15
+TRX-00016,2025-01-12,Teguh Firmansyah,081362358853,Indramayu,Cabang Timur,Hendra Kusuma,Vario 160,mh1v16s10000296,Silver,Cash,,,,0,,Selesai,Walk-in,2025-01-25
+TRX-00017,2025-01-12,Bpk. Sri Permana,081317500697,Depok,Cabang Pusat,Andi Prasetyo,Vario 160,MH1V16S10000311,Hitam,Kredit Leasing,Leasing Sentosa,35,8090000,950000,Disetujui,Selesai,Walk-in,2025-01-13
+TRX-00018,2025-01-12,Irfan Nugroho ,082273634569,Karawang,Cabang Utara,Dewi Anggraini,ADV160,MH1AD1S10000346,Merah,Kredit Leasing,Leasing Nusa,24,8640000,250000,Ditolak,Batal,Walk-in,
+TRX-00019,2025-01-14,Rizky Halim,089583421028,Cianjur,Cabang Selatan,Eko Wahyudi,ADV160,MH1AD1S10000384,Hitam,Kredit Leasing,Leasing Nusa,30,7750000,1450000,Disetujui,Selesai,Pameran,2025-01-17
+TRX-00020,2025-01-14,Sari Pratama ,085759666264,Depok,Cabang Pusat,Budi Santoso,BeAT,MH1BT1S10000403,Biru,Kredit Leasing,Leasing Sentosa,18,5460000,0,Disetujui,Selesai,Telemarketing,2025-01-25
+TRX-00021,2025-01-15,Bagus Setiawan,081387056625,Bogor,Cabang Pusat,Budi Santoso,Scoopy,MH1SC1S10000411,Abu-abu,Cash,,,,0,,Selesai,Walk-in,2025-01-24
+TRX-00022,2025-01-15,Maya Bagus Rahayu,082266730664,Serang,Cabang Barat,Indra Maulana,ADV160,MH1AD1S10000412,Putih,Kredit Leasing,Leasing Mitra,24,11010000,0,Disetujui,Selesai,Media sosial,2025-01-16
+TRX-00023,2025-01-16,Nur Yoga Kurniawan,08571605941,Bekasi,Cabang Utara,Dewi Anggraini,Supra X 125,MH1SX1S10000425,Putih,Cash,,,,150000,,Selesai,Media sosial,2025-01-25
+TRX-00024,2025-01-16,Lina Kartika Lestari,081155958271,Tangerang,Cabang Barat,Joko Susilo,CRF150L,MH1CR1S10000457,Hitam,Cash,,,,1250000,,Selesai,Walk-in,2025-01-27
+TRX-00025,2025-01-16,Fajar Halim,089662925503,Cianjur,Cabang Selatan,Fajar Nugroho,Scoopy,MH1SC1S10000467,Silver,Cash,,,,0,,Selesai,Referral,2025-01-17
+TRX-00026,2025-01-17,Eko Melati Gunawan,087798900998,Bogor,Cabang Pusat,Budi Santoso,ADV160,MH1AD1S10000469,Hitam,Kredit Leasing,Leasing Nusa,18,8370000,0,Disetujui,Selesai,Pameran,2025-01-13
+TRX-00027,2025-01-17,Eko Purnomo,081295098523,Bogor,Cabang Pusat,Andi Prasetyo,Scoopy,MH1SC1S10000487,Silver,Kredit Leasing,Leasing Nusa,35,6240000,950000,Disetujui,Selesai,Pameran,2025-01-20
+TRX-00028,2025-01-17,Bpk. Joko Ratna Siregar,082110320365,Cianjur,Cabang Selatan,Eko Wahyudi,CB150R,MH1CB1S10000495,Merah,Cash,,,,1300000,,Selesai,Walk-in,2025-01-29
+TRX-00029,2025-01-18,Nur Wibowo,089650896710,Bogor,Cabang Pusat,Budi Santoso,BeAT,MH1BT1S10000535,Biru,Kredit Leasing,Leasing Mitra,30,4380000,0,Disetujui,Selesai,Media sosial,2025-01-22
+TRX-00030,2025-01-18,Indah Hendra Rahayu,081279725185,Karawang,Cabang Utara,Citra Lestari,Vario 160,MH1V16S10000543,Biru,Kredit Leasing,Leasing Mitra,35,5190000,0,Disetujui,Selesai,Media sosial,2025-01-30
+TRX-00031,2025-01-18,Putri Santoso,089681279129,Cianjur,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1S10000571,Hitam,Kredit Leasing,Leasing Mitra,35,5560000,0,Ditolak,Batal,Media sosial,
+TRX-00032,2025-01-18,Teguh Santoso,082252865046,Sukabumi,Cabang Selatan,Fajar Nugroho,BeAT,MH1BT1S10000601,Hitam,Kredit Leasing,Leasing Nusa,12,3740000,0,Disetujui,Selesai,Walk-in,2025-01-26
+TRX-00033,2025-01-18,Indah Handayani,08224384213,Cianjur,Cabang Selatan,Fajar Nugroho,BeAT,MH1BT1S10000636,Merah,Cash,,,,750000,,Selesai,Media sosial,2025-01-20
+TRX-00034,2025-01-19,Anton Nasution,081322509269,Bekasi,Cabang Utara,Dewi Anggraini,Revo,MH1RV1S10000637,Biru,Kredit Leasing,Leasing Nusa,30,4820000,400000,Disetujui,Selesai,Telemarketing,2025-01-30
+TRX-00035,2025-01-19,Ahmad Sari Nugroho,08577072862,Indramayu,Cabang Timur,Gita Permata,PCX 160,MH1PC1S10000647,Putih,Kredit Leasing,Leasing Sentosa,12,6490000,0,Disetujui,Selesai,Referral,2025-01-20
+TRX-00036,2025-01-19,Hendra Hidayat ,08770144172,Bogor,Cabang Pusat,Andi Prasetyo,Vario 160,MH1V16S10000652,Merah,Kredit Leasing,Leasing Mitra,30,5470000,750000,Disetujui,Selesai,Telemarketing,2025-01-26
+TRX-00037,2025-01-19,Siti Nugroho,08139421229,Sukabumi,Cabang Selatan,Eko Wahyudi,PCX 160,MH1PC1S10000690,Putih,Kredit Leasing,Leasing Sentosa,35,6460000,0,Disetujui,Selesai,Media sosial,2025-01-22
+TRX-00038,2025-01-20,Rina Halim,08217713795,Indramayu,Cabang Timur,Gita Permata,Vario 160,MH1V16S10000706,Putih,Kredit Leasing,Leasing Mitra,30,5020000,300000,Disetujui,Selesai,Media sosial,2025-01-31
+TRX-00039,2025-01-20,Hendra Siregar,08779139885,Bogor,Cabang Pusat,Budi Santoso,ADV160,MH1AD1S10000736,Putih,Cash,,,,0,,Selesai,Walk-in,2025-01-31
+TRX-00040,2025-01-20,Yoga Susanto,08523101820,Depok,Cabang Pusat,Budi Santoso,Vario 160,MH1V16S10000776,Silver,Kredit Leasing,Leasing Sentosa,30,4890000,1250000,Disetujui,Selesai,Walk-in,2025-02-02
+TRX-00041,2025-01-21,Sari Hakim,081326728527,Bekasi,Cabang Utara,Citra Lestari,Vario 125,mh1v12s10000803,Merah,Kredit Leasing,Leasing Sentosa,24,6740000,500000,Disetujui,Selesai,Referral,2025-01-26
+TRX-00042,2025-01-21,Melati Firmansyah,08962922545,Bekasi,Cabang Utara,Citra Lestari,CB150R,MH1CB1S10000824,Merah,Kredit Leasing,Leasing Sentosa,12,5430000,150000,Disetujui,Selesai,Walk-in,2025-02-02
+TRX-00043,2025-01-22,Lina Lina Nasution,089530668195,Serang,Cabang Barat,Joko Susilo,BeAT,MH1BT1S10000826,Biru,Cash,,,,450000,,Selesai,Telemarketing,2025-01-27
+TRX-00044,2025-01-22,Ratna Kurniawan,082234607317,Indramayu,Cabang Timur,Gita Permata,Vario 160,MH1V16S10000855,Abu-abu,Kredit Leasing,Leasing Sentosa,30,7330000,1450000,Ditolak,Batal,Walk-in,
+TRX-00045,2025-01-22,Lina Lina Setiawan,081162432016,Serang,Cabang Barat,Joko Susilo,Vario 125,MH1V12S10000887,Merah,Kredit Leasing,Leasing Mitra,12,6160000,500000,Disetujui,Selesai,Media sosial,2025-02-05
+TRX-00046,2025-01-23,Hendra Lestari,082121136970,Bogor,Cabang Pusat,Andi Prasetyo,Revo,MH1RV1S10000905,Biru,Kredit Leasing,Leasing Sentosa,24,5370000,0,Disetujui,Selesai,Referral,2025-02-04
+TRX-00047,2025-01-24,Lina Firmansyah,08962056968,Depok,Cabang Pusat,Andi Prasetyo,Vario 160,MH1V16S10000927,Silver,Kredit Leasing,Leasing Sentosa,35,7530000,400000,Disetujui,Selesai,Media sosial,2025-02-06
+TRX-00048,2025-01-24,Kartika Hidayat,087852675499,Cirebon,Cabang Timur,Hendra Kusuma,CB150R,MH1CB1S10000930,Abu-abu,Cash,,,,0,,Selesai,Walk-in,2025-01-26
+TRX-00049,2025-01-24,Yoga Kartika Purnomo,08110592619,Bogor,Cabang Pusat,Budi Santoso,Stylo 160,MH1ST1S10000932,Silver,Kredit Leasing,Leasing Nusa,12,8160000,0,Disetujui,Batal,Walk-in,
+TRX-00050,2025-01-25,Ibu Dedi Wibowo,085766974747,Tangerang,Cabang Barat,Indra Maulana,CB150R,MH1CB1S10000969,Silver,Kredit Leasing,Leasing Mitra,18,7970000,950000,Disetujui,Selesai,Walk-in,2025-01-28
+TRX-00051,2025-01-25,Yusuf Tanjung,08789207593,Tangerang,Cabang Barat,Joko Susilo,Scoopy,MH1SC1S10000993,Merah,Kredit Leasing,Leasing Sentosa,24,6490000,550000,Disetujui,Selesai,Referral,2025-02-04
+TRX-00052,2025-01-26,Kartika Wijaya,085790940431,Sukabumi,Cabang Selatan,Eko Wahyudi,Vario 125,MH1V12S10001027,Silver,Kredit Leasing,Leasing Nusa,18,5260000,450000,Ditolak,Batal,Pameran,
+TRX-00053,2025-01-26,Aditya Ratna Siregar,085291755127,Karawang,Cabang Utara,Dewi Anggraini,Scoopy,MH1SC1S10001038,Hitam,Kredit Leasing,Leasing Mitra,12,4300000,1000000,Disetujui,Selesai,Media sosial,2025-02-06
+TRX-00054,2025-01-26,Nur Fajar Wibowo,085249151258,Bekasi,Cabang Utara,Citra Lestari,Vario 125,MH1V12S10001066,Putih,Kredit Leasing,Leasing Mitra,35,4480000,1450000,Disetujui,Selesai,Referral,2025-01-31
+TRX-00055,2025-01-27,Joko Santoso ,085796282785,Depok,Cabang Pusat,Budi Santoso,Genio,MH1GN1S10001103,Silver,Kredit Leasing,Leasing Nusa,12,5080000,0,Disetujui,Selesai,Walk-in,2025-02-09
+TRX-00056,2025-01-28,HENDRA FAJAR HAKIM,085246789781,Cianjur,Cabang Selatan,Eko Wahyudi,Supra X 125,MH1SX1S10001111,Abu-abu,Kredit Leasing,Leasing Nusa,35,5680000,750000,Disetujui,Selesai,Referral,2025-02-04
+TRX-00057,2025-01-29,Rizky Rahayu,087775164603,Sukabumi,Cabang Selatan,Fajar Nugroho,Supra X 125,MH1SX1S10001113,Hitam,Cash,,,,1300000,,Selesai,Walk-in,2025-02-04
+TRX-00058,2025-01-29,Kartika Lestari,081190008438,Depok,Cabang Pusat,Andi Prasetyo,Vario 125,MH1V12S10001121,Merah,Cash,,,,0,,Selesai,Walk-in,2025-02-06
+TRX-00059,2025-01-30,Sri Halim,08119083102,Cirebon,Cabang Timur,Gita Permata,Genio,MH1GN1S10001135,Biru,Kredit Leasing,Leasing Nusa,30,4110000,0,Disetujui,Selesai,Telemarketing,2025-02-13
+TRX-00060,2025-01-31,Reza Purnomo,08214382044,Bekasi,Cabang Utara,Citra Lestari,ADV160,MH1AD1S10001167,Silver,Kredit Leasing,Leasing Mitra,24,9810000,0,Ditolak,Batal,Pameran,
+TRX-00061,2025-01-31,Reza Lestari,08778928560,Cianjur,Cabang Selatan,Fajar Nugroho,Vario 125,MH1V12S10001202,Abu-abu,Kredit Leasing,Leasing Mitra,30,6520000,1300000,Ditolak,Batal,Walk-in,
+TRX-00062,2025-01-31,Bambang Susanto,087801558015,Sukabumi,Cabang Selatan,Eko Wahyudi,Vario 160,MH1V16S10001213,Putih,Kredit Leasing,Leasing Mitra,18,7490000,1450000,Disetujui,Selesai,Walk-in,2025-02-11
+TRX-00063,2025-02-01,Ibu Joko Saputra,082106882739,Bekasi,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1S10001243,Biru,Cash,,,,0,,Batal,Media sosial,
+TRX-00064,2025-02-01,Dedi Tanjung,08524595037,Cianjur,Cabang Selatan,Eko Wahyudi,Scoopy,mh1sc1s10001258,Putih,Kredit Leasing,Leasing Nusa,24,6400000,0,Ditolak,Batal,Walk-in,
+TRX-00065,2025-02-01,Wahyu Teguh Permana ,08966960726,Indramayu,Cabang Timur,Gita Permata,Vario 160,MH1V16S10001279,Abu-abu,Kredit Leasing,Leasing Sentosa,12,6770000,0,Disetujui,Selesai,Walk-in,2025-02-06
+TRX-00066,2025-02-02,Yusuf Maulana,087765192948,Cirebon,Cabang Timur,Gita Permata,BeAT,MH1BT1S10001286,Biru,Kredit Leasing,Leasing Sentosa,35,5550000,0,Ditolak,Batal,Telemarketing,
+TRX-00067,2025-02-03,Sari Susanto,081344467098,Serang,Cabang Barat,Indra Maulana,Genio,MH1GN1S10001318,Abu-abu,Kredit Leasing,Leasing Sentosa,30,3590000,1200000,Disetujui,Selesai,Media sosial,2025-02-15
+TRX-00068,2025-02-05,Yusuf Hidayat,082258785927,Karawang,Cabang Utara,Citra Lestari,Revo,MH1RV1S10001335,Putih,Kredit Leasing,Leasing Mitra,18,2890000,0,Disetujui,Selesai,Walk-in,2025-02-14
+TRX-00069,2025-02-06,Fajar Purnomo,089620297611,Cirebon,Cabang Timur,Hendra Kusuma,ADV160,MH1AD1S10001349,Biru,Kredit Leasing,Leasing Mitra,12,8170000,900000,Disetujui,Selesai,Pameran,2025-02-10
+TRX-00070,2025-02-07,Rudi Gunawan,08781090521,Bogor,Cabang Pusat,Andi Prasetyo,Scoopy,MH1SC1S10001386,Putih,Kredit Leasing,Leasing Nusa,24,3760000,1150000,Disetujui,Selesai,Media sosial,2025-02-21
+TRX-00071,2025-02-08,Yoga Halim,08135890874,Depok,Cabang Pusat,Budi Santoso,Scoopy,MH1SC1S10001395,Silver,Kredit Leasing,Leasing Mitra,18,4380000,650000,Disetujui,Selesai,Referral,2025-02-22
+TRX-00072,2025-02-08,Eko Purnomo,08959652642,Cirebon,Cabang Timur,Gita Permata,PCX 160,MH1PC1S10001431,Abu-abu,Kredit Leasing,Leasing Mitra,35,5540000,1400000,Disetujui,Selesai,Walk-in,2025-02-17
+TRX-00073,2025-02-08,Anton Halim,08571513818,Depok,Cabang Pusat,Andi Prasetyo,Vario 160,MH1V16S10001449,Abu-abu,Kredit Leasing,Leasing Mitra,24,7610000,0,Disetujui,Selesai,Referral,2025-02-18
+TRX-00074,2025-02-09,Hendra Taufik Setiawan,087885443026,Cirebon,Cabang Timur,Gita Permata,PCX 160,MH1PC1S10001461,Silver,Cash,,,,350000,,Selesai,Media sosial,2025-02-21
+TRX-00075,2025-02-10,Putri Santoso,08771997243,Cianjur,Cabang Selatan,Eko Wahyudi,Vario 160,MH1V16S10001499,Silver,Kredit Leasing,Leasing Sentosa,12,6380000,650000,Disetujui,Selesai,Telemarketing,2025-02-22
+TRX-00076,2025-02-11,Aditya Aditya Setiawan,085232491337,Cianjur,Cabang Selatan,Fajar Nugroho,PCX 160,MH1PC1S10001536,Abu-abu,Kredit Leasing,Leasing Nusa,35,9590000,0,Disetujui,Selesai,Telemarketing,2025-02-17
+TRX-00077,2025-02-11,Putri Saputra ,087726884553,Bogor,Cabang Pusat,Budi Santoso,BeAT,MH1BT1S10001563,Merah,Kredit Leasing,Leasing Sentosa,30,4580000,950000,Disetujui,Selesai,Walk-in,2025-02-23
+TRX-00078,2025-02-12,Bagus Wahyu Pratama,08220013804,Karawang,Cabang Utara,Dewi Anggraini,Genio,MH1GN1S10001571,Abu-abu,Kredit Leasing,Leasing Nusa,24,4050000,250000,Disetujui,Selesai,Walk-in,2025-02-23
+TRX-00079,2025-02-12,Sri Nugroho ,087733904349,Cirebon,Cabang Timur,Hendra Kusuma,BeAT,MH1BT1S10001581,Merah,Kredit Leasing,Leasing Nusa,24,4060000,700000,Disetujui,Selesai,Walk-in,2025-02-15
+TRX-00080,2025-02-15,Rina Melati Wijaya,08218921685,Bogor,Cabang Pusat,Andi Prasetyo,Supra X 125,MH1SX1S10001596,Putih,Kredit Leasing,Leasing Sentosa,18,5400000,0,Disetujui,Selesai,Walk-in,2025-02-19
+TRX-00081,2025-02-16,Indah Hakim ,089664871657,Bogor,Cabang Pusat,Budi Santoso,Vario 125,MH1V12S10001599,Merah,Kredit Leasing,Leasing Sentosa,30,6080000,250000,Disetujui,Batal,Pameran,
+TRX-00082,2025-02-17,Hendra Nugroho,085782578358,Cianjur,Cabang Selatan,Fajar Nugroho,BeAT,MH1BT1S10001606,Biru,Cash,,,,300000,,Selesai,Media sosial,2025-02-18
+TRX-00083,2025-02-17,Sdr. Fajar Wijaya,08136767006,Karawang,Cabang Utara,Citra Lestari,Vario 125,MH1V12S10001618,Merah,Kredit Leasing,Leasing Mitra,12,6810000,0,Disetujui,Selesai,Referral,2025-02-28
+TRX-00084,2025-02-17,Yoga Firmansyah,082103397950,Depok,Cabang Pusat,Andi Prasetyo,Stylo 160,MH1ST1S10001643,Hitam,Kredit Leasing,Leasing Sentosa,24,6050000,0,Disetujui,Selesai,Referral,2025-02-21
+TRX-00085,2025-02-19,Nur Kurniawan,08212364888,Depok,Cabang Pusat,Budi Santoso,PCX 160,MH1PC1S10001654,Putih,Kredit Leasing,Leasing Sentosa,12,10230000,450000,Disetujui,Selesai,Referral,2025-02-25
+TRX-00086,2025-02-19,Yoga Putri Handayani,082191864948,Bogor,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1S10001679,Biru,Kredit Leasing,Leasing Nusa,12,3030000,0,Disetujui,Selesai,Referral,2025-02-25
+TRX-00087,2025-02-21,Dian Rahayu,08573920408,Cirebon,Cabang Timur,Hendra Kusuma,Supra X 125,MH1SX1S10001688,Biru,Kredit Leasing,Leasing Nusa,18,4610000,0,Disetujui,Selesai,Walk-in,2025-02-28
+TRX-00088,2025-02-21,Eko Maulana,089524630094,Indramayu,Cabang Timur,Gita Permata,Vario 160,MH1V16S10001705,Silver,Kredit Leasing,Leasing Sentosa,12,5520000,250000,Disetujui,Selesai,Walk-in,2025-02-28
+TRX-00089,2025-02-21,Kartika Aditya Tanjung,082105077630,Depok,Cabang Pusat,Budi Santoso,Vario 160,MH1V16S10001720,Silver,Kredit Leasing,Leasing Nusa,18,6850000,850000,Disetujui,Selesai,Media sosial,2025-02-26
+TRX-00090,2025-02-22,Anton Firmansyah,08129493370,Tangerang,Cabang Barat,Joko Susilo,Stylo 160,MH1ST1S10001739,Abu-abu,Kredit Leasing,Leasing Mitra,12,7080000,1500000,Disetujui,Batal,Pameran,
+TRX-00091,2025-02-22,Bpk. Rizky Handayani,08781975179,Serang,Cabang Barat,Indra Maulana,Vario 125,MH1V12S10001749,Silver,Kredit Leasing,Leasing Sentosa,30,5040000,450000,Disetujui,Selesai,Referral,2025-03-01
+TRX-00092,2025-02-23,Eko Purnomo,089587294502,Karawang,Cabang Utara,Dewi Anggraini,Vario 125,mh1v12s10001756,Abu-abu,Kredit Leasing,Leasing Mitra,18,5620000,0,Disetujui,Selesai,Pameran,2025-03-03
+TRX-00093,2025-02-23,Aditya Nasution,082103356587,Karawang,Cabang Utara,Citra Lestari,Vario 125,MH1V12S10001783,Merah,Kredit Leasing,Leasing Sentosa,35,4580000,1000000,Disetujui,Selesai,Walk-in,2025-03-02
+TRX-00094,2025-02-23,WAHYU WIJAYA,089510222160,Bogor,Cabang Pusat,Budi Santoso,Revo,MH1RV1S10001806,Biru,Kredit Leasing,Leasing Sentosa,35,4840000,300000,Disetujui,Selesai,Walk-in,2025-02-28
+TRX-00095,2025-02-23,Sri Rahayu,08958593838,Cianjur,Cabang Selatan,Fajar Nugroho,Vario 125,MH1V12S10001817,Putih,Kredit Leasing,Leasing Mitra,35,5550000,400000,Disetujui,Selesai,Walk-in,2025-02-26
+TRX-00096,2025-02-23,Bpk. Agus Utami,082281567066,Depok,Cabang Pusat,Budi Santoso,ADV160,MH1AD1S10001837,Putih,Kredit Leasing,Leasing Sentosa,30,7520000,0,Disetujui,Selesai,Pameran,2025-03-03
+TRX-00097,2025-02-25,Kartika Rahayu,08772349294,Bekasi,Cabang Utara,Citra Lestari,BeAT,MH1BT1S10001859,Biru,Kredit Leasing,Leasing Mitra,12,5100000,300000,Disetujui,Selesai,Referral,2025-03-09
+TRX-00098,2025-02-27,Ibu Siti Permana,087781507142,Serang,Cabang Barat,Joko Susilo,Genio,mh1gn1s10001862,Biru,Kredit Leasing,Leasing Nusa,18,3830000,1100000,Disetujui,Selesai,Walk-in,2025-03-02
+TRX-00099,2025-02-27,Budi Ahmad Permana,082198847824,Karawang,Cabang Utara,Citra Lestari,Stylo 160,MH1ST1S10001867,Biru,Kredit Leasing,Leasing Sentosa,35,7310000,0,Ditolak,Batal,Media sosial,
+TRX-00100,2025-02-27,Budi Santoso,089504893030,Bekasi,Cabang Utara,Citra Lestari,BeAT,MH1BT1S10001893,Biru,Cash,,,,1450000,,Selesai,Pameran,2025-03-05
+TRX-00101,2025-02-28,Ahmad Anton Tanjung,082234242695,Bogor,Cabang Pusat,Budi Santoso,BeAT,MH1BT1S10001920,Putih,Cash,,,,0,,Selesai,Referral,2025-03-14
+TRX-00102,2025-02-28,Bpk. Siti Purnomo,08133641549,Cianjur,Cabang Selatan,Fajar Nugroho,Vario 125,MH1V12S10001951,Putih,Kredit Leasing,Leasing Sentosa,35,6120000,0,Disetujui,Selesai,Media sosial,2025-03-11
+TRX-00103,2025-02-28,Reza Halim,08139960752,Tangerang,Cabang Barat,Indra Maulana,Scoopy,mh1sc1s10001981,Silver,Kredit Leasing,Leasing Sentosa,30,4860000,100000,Disetujui,Selesai,Pameran,2025-03-07
+TRX-00104,2025-02-28,Ratna Nasution,089682802023,Karawang,Cabang Utara,Citra Lestari,PCX 160,MH1PC1S10002014,Hitam,Kredit Leasing,Leasing Sentosa,18,6760000,1000000,Ditolak,Batal,Walk-in,
+TRX-00105,2025-03-01,Sari Hidayat,08786528209,Bogor,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1S10002034,Abu-abu,Kredit Leasing,Leasing Nusa,12,3270000,550000,Disetujui,Selesai,Walk-in,2025-03-03
+TRX-00106,2025-03-02,Rudi Permana,08212292477,Bogor,Cabang Pusat,Budi Santoso,BeAT,MH1BT1S10002050,Abu-abu,Kredit Leasing,Leasing Mitra,30,4850000,0,Disetujui,Selesai,Pameran,2025-03-09
+TRX-00107,2025-03-02,Fitri Firmansyah,08780418062,Depok,Cabang Pusat,Andi Prasetyo,Genio,mh1gn1s10002073,Hitam,Kredit Leasing,Leasing Mitra,24,4020000,1200000,Disetujui,Selesai,Referral,2025-02-25
+TRX-00108,2025-03-02,Budi Hidayat,08227210351,Depok,Cabang Pusat,Andi Prasetyo,PCX 160,MH1PC1S10002101,Hitam,Kredit Leasing,Leasing Mitra,35,5530000,0,Disetujui,Selesai,Referral,2025-03-15
+TRX-00109,2025-03-02,Teguh Utami,08960193368,Sukabumi,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1S10002141,Biru,Kredit Leasing,Leasing Sentosa,12,5170000,1000000,Disetujui,Selesai,Walk-in,2025-03-16
+TRX-00110,2025-03-02,Siti Halim,08782570018,Sukabumi,Cabang Selatan,Eko Wahyudi,CB150R,MH1CB1S10002155,Merah,Cash,,,,750000,,Selesai,Media sosial,2025-03-15
+TRX-00111,2025-03-03,Rina Yoga Nugroho,082110379870,Tangerang,Cabang Barat,Indra Maulana,Vario 160,MH1V16S10002178,Hitam,Kredit Leasing,Leasing Sentosa,30,7280000,0,Disetujui,Selesai,Walk-in,2025-03-07
+TRX-00112,2025-03-03,Dedi Pratama,085764718308,Cianjur,Cabang Selatan,Fajar Nugroho,Revo,MH1RV1S10002186,Abu-abu,Kredit Leasing,Leasing Nusa,24,5340000,100000,Disetujui,Selesai,Pameran,2025-03-08
+TRX-00113,2025-03-04,Joko Saputra,08214825270,Depok,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1S10002218,Silver,Kredit Leasing,Leasing Nusa,18,5390000,650000,Disetujui,Selesai,Walk-in,2025-03-16
+TRX-00114,2025-03-04,Joko Purnomo,081318910185,Depok,Cabang Pusat,Budi Santoso,PCX 160,MH1PC1S10002251,Putih,Cash,,,,1250000,,Selesai,Media sosial,2025-03-13
+TRX-00115,2025-03-05,Wahyu Permana,08963176487,Karawang,Cabang Utara,Citra Lestari,BeAT,MH1BT1S10002278,Abu-abu,Kredit Leasing,Leasing Nusa,12,3370000,1000000,Ditolak,Batal,Walk-in,
+TRX-00116,2025-03-05,Anton Rahayu,085712326307,Cianjur,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1S10002296,Biru,Kredit Leasing,Leasing Nusa,24,4320000,0,Disetujui,Selesai,Referral,2025-03-17
+TRX-00117,2025-03-05,Indah Halim,081207945173,Tangerang,Cabang Barat,Joko Susilo,Vario 160,MH1V16S10002334,Abu-abu,Kredit Leasing,Leasing Mitra,35,8030000,100000,Disetujui,Selesai,Walk-in,2025-03-11
+TRX-00118,2025-03-05,Gunawan Setiawan,089586399782,Karawang,Cabang Utara,Citra Lestari,PCX 160,MH1PC1S10002371,Merah,Kredit Leasing,Leasing Nusa,35,8960000,250000,Disetujui,Selesai,Media sosial,2025-03-07
+TRX-00119,2025-03-07,Indah Kartika Halim,081343943189,Indramayu,Cabang Timur,Hendra Kusuma,Vario 160,MH1V16S10002376,Abu-abu,Kredit Leasing,Leasing Sentosa,30,7090000,600000,Disetujui,Selesai,Referral,2025-03-12
+TRX-00120,2025-03-08,Gunawan Bagus Firmansyah,08773321979,Sukabumi,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1S10002396,Silver,Cash,,,,0,,Selesai,Referral,2025-03-16
+TRX-00121,2025-03-08,Dian Eko Permana,08954610630,Sukabumi,Cabang Selatan,Eko Wahyudi,Revo,MH1RV1S10002417,Merah,Kredit Leasing,Leasing Nusa,30,5220000,0,Disetujui,Selesai,Referral,2025-03-22
+TRX-00122,2025-03-10,Ibu Bagus Wijaya,08131691091,Serang,Cabang Barat,Joko Susilo,Scoopy,MH1SC1S10002454,Silver,Cash,,,,0,,Selesai,Media sosial,2025-03-22
+TRX-00123,2025-03-11,Ratna Setiawan ,081285296562,Karawang,Cabang Utara,Citra Lestari,Genio,MH1GN1S10002470,Silver,Kredit Leasing,Leasing Mitra,24,3340000,950000,Disetujui,Selesai,Walk-in,2025-03-17
+TRX-00124,2025-03-12,Reza Wibowo,082230772632,Cianjur,Cabang Selatan,Eko Wahyudi,ADV160,MH1AD1S10002480,Hitam,Kredit Leasing,Leasing Sentosa,30,9710000,100000,Disetujui,Selesai,Telemarketing,2025-03-24
+TRX-00125,2025-03-12,Fitri Santoso,08786372113,Tangerang,Cabang Barat,Indra Maulana,Supra X 125,MH1SX1S10002516,Silver,Cash,,,,550000,,Selesai,Walk-in,2025-03-22
+TRX-00126,2025-03-12,Yoga Pratama,08772370153,Karawang,Cabang Utara,Citra Lestari,BeAT,MH1BT1S10002553,Silver,Cash,,,,0,,Selesai,Media sosial,2025-03-25
+TRX-00127,2025-03-13,Joko Rudi Santoso,081343482146,Cianjur,Cabang Selatan,Fajar Nugroho,Scoopy,MH1SC1S10002574,Biru,Kredit Leasing,Leasing Mitra,24,5780000,200000,Disetujui,Selesai,Media sosial,2025-03-19
+TRX-00128,2025-03-15,Bpk. Wahyu Maulana,08782703708,Bekasi,Cabang Utara,Dewi Anggraini,Scoopy,MH1SC1S10002606,Biru,Cash,,,,0,,Selesai,Walk-in,2025-03-19
+TRX-00129,2025-03-15,Citra Yusuf Nugroho,085757931811,Cirebon,Cabang Timur,Hendra Kusuma,BeAT,MH1BT1S10002629,Biru,Kredit Leasing,Leasing Nusa,30,4490000,0,Ditolak,Batal,Walk-in,
+TRX-00130,2025-03-17,Yusuf Purnomo,081277278940,Depok,Cabang Pusat,Andi Prasetyo,PCX 160,MH1PC1S10002645,Putih,Cash,,,,0,,Selesai,Referral,2025-03-25
+TRX-00131,2025-03-17,Taufik Ratna Nasution,089641367580,Bogor,Cabang Pusat,Andi Prasetyo,Scoopy,mh1sc1s10002683,Silver,Kredit Leasing,Leasing Nusa,35,4680000,650000,Disetujui,Selesai,Walk-in,2025-03-19
+TRX-00132,2025-03-17,Fitri Tanjung,081143619793,Serang,Cabang Barat,Indra Maulana,PCX 160,MH1PC1S10002690,Hitam,Cash,,,,0,,Selesai,Referral,2025-03-18
+TRX-00133,2025-03-18,Ibu Yoga Halim,082273743773,Sukabumi,Cabang Selatan,Fajar Nugroho,Vario 125,MH1V12S10002706,Putih,Kredit Leasing,Leasing Sentosa,24,6770000,400000,Disetujui,Selesai,Media sosial,2025-03-25
+TRX-00134,2025-03-18,Gunawan Nugroho,089557149232,Sukabumi,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1S10002730,Merah,Cash,,,,800000,,Selesai,Walk-in,2025-03-23
+TRX-00135,2025-03-19,Kartika Yusuf Nugroho,081150793484,Cirebon,Cabang Timur,Hendra Kusuma,BeAT,MH1BT1S10002751,Merah,Kredit Leasing,Leasing Mitra,12,4320000,300000,Disetujui,Selesai,Referral,2025-03-27
+TRX-00136,2025-03-20,Dewi Wibowo,08966030144,Depok,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1S10002763,Abu-abu,Cash,,,,450000,,Selesai,Walk-in,2025-03-24
+TRX-00137,2025-03-22,Wahyu Pratama,082119741461,Indramayu,Cabang Timur,Hendra Kusuma,BeAT,MH1BT1S10002777,Hitam,Cash,,,,0,,Selesai,Telemarketing,2025-03-29
+TRX-00138,2025-03-22,Yusuf Setiawan,085784271054,Depok,Cabang Pusat,Budi Santoso,CB150R,MH1CB1S10002781,Abu-abu,Kredit Leasing,Leasing Sentosa,35,7050000,0,Disetujui,Selesai,Media sosial,2025-03-30
+TRX-00139,2025-03-22,Teguh Susanto,08951482583,Cianjur,Cabang Selatan,Eko Wahyudi,Revo,MH1RV1S10002799,Hitam,Kredit Leasing,Leasing Sentosa,18,4070000,0,Disetujui,Selesai,Referral,2025-04-02
+TRX-00140,2025-03-22,Ayu Dewi Santoso,08779776179,Indramayu,Cabang Timur,Hendra Kusuma,Genio,MH1GN1S10002802,Putih,Kredit Leasing,Leasing Sentosa,30,3230000,0,Disetujui,Selesai,Media sosial,2025-03-18
+TRX-00141,2025-03-22,Yoga Gunawan,087776418050,Depok,Cabang Pusat,Budi Santoso,CB150R,MH1CB1S10002821,Abu-abu,Kredit Leasing,Leasing Sentosa,30,5960000,0,Disetujui,Selesai,Pameran,2025-03-29
+TRX-00142,2025-03-22,Joko Tanjung,087727698847,Bekasi,Cabang Utara,Citra Lestari,BeAT,MH1BT1S10002823,Hitam,Cash,,,,1000000,,Selesai,Walk-in,2025-03-28
+TRX-00143,2025-03-23,Sari Wijaya,089543183391,Bogor,Cabang Pusat,Andi Prasetyo,Supra X 125,MH1SX1S10002863,Biru,Cash,,,,150000,,Selesai,Telemarketing,2025-03-25
+TRX-00144,2025-03-23,Budi Halim,08123386033,Indramayu,Cabang Timur,Gita Permata,Vario 125,MH1V12S10002898,Biru,Kredit Leasing,Leasing Sentosa,35,5640000,700000,Ditolak,Batal,Walk-in,
+TRX-00145,2025-03-23,Irfan Santoso,082200388632,Sukabumi,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1S10002917,Biru,Cash,,,,950000,,Selesai,Media sosial,2025-03-25
+TRX-00146,2025-03-24,Rizky Hidayat,089681318537,Bogor,Cabang Pusat,Andi Prasetyo,ADV160,MH1AD1S10002935,Putih,Cash,,,,0,,Selesai,Referral,2025-04-04
+TRX-00147,2025-03-24,Citra Anton Firmansyah,08774628147,Sukabumi,Cabang Selatan,Fajar Nugroho,CRF150L,MH1CR1S10002940,Biru,Kredit Leasing,Leasing Sentosa,12,9930000,0,Disetujui,Selesai,Walk-in,2025-03-26
+TRX-00148,2025-03-25,Taufik Permana,08780085309,Sukabumi,Cabang Selatan,Eko Wahyudi,Vario 125,MH1V12S10002949,Merah,Kredit Leasing,Leasing Sentosa,12,5350000,0,Disetujui,Selesai,Walk-in,2025-04-04
+TRX-00149,2025-03-26,Fajar Maulana,085776180800,Bogor,Cabang Pusat,Andi Prasetyo,ADV160,MH1AD1S10002956,Merah,Kredit Leasing,Leasing Nusa,30,7510000,0,Disetujui,Selesai,Pameran,2025-04-07
+TRX-00150,2025-03-27,Rizky Hakim ,08524945173,Karawang,Cabang Utara,Citra Lestari,Scoopy,MH1SC1S10002978,Hitam,Kredit Leasing,Leasing Nusa,18,6670000,600000,Disetujui,Selesai,Walk-in,2025-04-04
+TRX-00151,2025-03-28,Rizky Kurniawan,08119206360,Bekasi,Cabang Utara,Dewi Anggraini,Vario 160,MH1V16S10003001 ,Putih,Kredit Leasing,Leasing Mitra,12,7460000,800000,Disetujui,Selesai,Media sosial,2025-04-03
+TRX-00152,2025-03-28,YUSUF PURNOMO,085734068895,Karawang,Cabang Utara,Citra Lestari,Vario 160,MH1V16S10003032,Biru,Kredit Leasing,Leasing Nusa,24,4990000,450000,Disetujui,Selesai,Media sosial,2025-03-31
+TRX-00153,2025-03-29,Melati Nasution,085213412051,Bogor,Cabang Pusat,Budi Santoso,Vario 125,MH1V12S10003066,Abu-abu,Kredit Leasing,Leasing Mitra,12,4010000,1400000,Disetujui,Selesai,Referral,2025-04-04
+TRX-00154,2025-03-30,Teguh Hidayat,08575845035,Karawang,Cabang Utara,Citra Lestari,Genio,MH1GN1S10003096,Hitam,Cash,,,,0,,Selesai,Walk-in,2025-04-08
+TRX-00155,2025-03-31,Anton Siregar,082258102931,Cirebon,Cabang Timur,Hendra Kusuma,Supra X 125,MH1SX1S10003109,Hitam,Kredit Leasing,Leasing Nusa,24,3980000,0,Disetujui,Selesai,Media sosial,2025-04-07
+TRX-00156,2025-03-31,Siti Nasution,08133674236,Bogor,Cabang Pusat,Andi Prasetyo,Supra X 125,MH1SX1S10003125,Silver,Cash,,,,1300000,,Selesai,Pameran,2025-04-06
+TRX-00157,2025-03-31,Rizky Gunawan,087820580780,Bogor,Cabang Pusat,Andi Prasetyo,Genio,MH1GN1S10003164,Merah,Cash,,,,1500000,,Selesai,Pameran,2025-04-10
+TRX-00158,2025-03-31,Sri Permana ,089566994674,Tangerang,Cabang Barat,Joko Susilo,CB150R,MH1CB1S10003194,Merah,Kredit Leasing,Leasing Sentosa,30,10220000,0,Disetujui,Selesai,Media sosial,2025-04-03
+TRX-00159,2025-04-02,Indah Gunawan,08212118452,Cirebon,Cabang Timur,Hendra Kusuma,ADV160,MH1AD1S10003195,Hitam,Kredit Leasing,Leasing Nusa,30,7520000,750000,Disetujui,Selesai,Walk-in,2025-04-15
+TRX-00160,2025-04-02,Ratna Rahayu,08577851121,Sukabumi,Cabang Selatan,Eko Wahyudi,Vario 125,MH1V12S10003231,Hitam,Kredit Leasing,Leasing Mitra,18,5670000,0,Ditolak,Batal,Referral,
+TRX-00161,2025-04-03,GUNAWAN NASUTION,08571026524,Cirebon,Cabang Timur,Gita Permata,Vario 125,MH1V12S10003248,Putih,Kredit Leasing,Leasing Mitra,35,4520000,450000,Disetujui,Selesai,Media sosial,2025-04-10
+TRX-00162,2025-04-05,Kartika Firmansyah,082115502987,Depok,Cabang Pusat,Budi Santoso,Vario 125,MH1V12S10003277,Biru,Kredit Leasing,Leasing Nusa,30,6310000,550000,Disetujui,Selesai,Walk-in,2025-04-06
+TRX-00163,2025-04-06,Taufik Santoso,087763176186,Sukabumi,Cabang Selatan,Eko Wahyudi,Vario 125,MH1V12S10003305,Biru,Cash,,,,500000,,Selesai,Telemarketing,2025-04-09
+TRX-00164,2025-04-06,Nur Nur Pratama,08120843005,Cianjur,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1S10003310,Abu-abu,Kredit Leasing,Leasing Sentosa,24,4970000,650000,Disetujui,Selesai,Pameran,2025-04-07
+TRX-00165,2025-04-06,Citra Permana,08138318761,Cirebon,Cabang Timur,Gita Permata,Vario 125,MH1V12S10003331,Biru,Kredit Leasing,Leasing Sentosa,24,5400000,550000,Disetujui,Selesai,Referral,2025-04-19
+TRX-00166,2025-04-07,Budi Dian Halim ,08229052211,Bogor,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1S10003337,Silver,Kredit Leasing,Leasing Sentosa,35,5270000,1400000,Disetujui,Selesai,Referral,2025-04-15
+TRX-00167,2025-04-07,Dian Utami,08579368643,Serang,Cabang Barat,Indra Maulana,Vario 125,MH1V12S10003356,Biru,Kredit Leasing,Leasing Nusa,24,5780000,0,Disetujui,Selesai,Walk-in,2025-04-03
+TRX-00168,2025-04-08,Nur Dedi Nasution,089596783135,Depok,Cabang Pusat,Andi Prasetyo,Vario 125,MH1V12S10003392,Merah,Kredit Leasing,Leasing Nusa,18,5300000,1050000,Disetujui,Selesai,Telemarketing,2025-04-16
+TRX-00169,2025-04-08,Joko Susanto,089501484818,Sukabumi,Cabang Selatan,Fajar Nugroho,Vario 160,MH1V16S10003419,Abu-abu,Kredit Leasing,Leasing Mitra,18,4940000,0,Disetujui,Selesai,Referral,2025-04-15
+TRX-00170,2025-04-09,Reza Nasution,08133858277,Bogor,Cabang Pusat,Budi Santoso,Vario 125,MH1V12S10003459,Biru,Cash,,,,600000,,Selesai,Pameran,2025-04-12
+TRX-00171,2025-04-10,Bpk. Siti Maulana,08952729301,Karawang,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1S10003467,Putih,Kredit Leasing,Leasing Nusa,12,5160000,400000,Disetujui,Selesai,Walk-in,2025-04-13
+TRX-00172,2025-04-12,Ahmad Firmansyah,08225852725,Bogor,Cabang Pusat,Andi Prasetyo,Scoopy,MH1SC1S10003497,Hitam,Kredit Leasing,Leasing Mitra,35,6340000,0,Disetujui,Selesai,Referral,2025-04-24
+TRX-00173,2025-04-12,Sdr. Indah Agus Wibowo,08773219651,Bogor,Cabang Pusat,Budi Santoso,Stylo 160,MH1ST1S10003508,Abu-abu,Kredit Leasing,Leasing Mitra,30,4290000,1050000,Disetujui,Selesai,Pameran,2025-04-19
+TRX-00174,2025-04-15,Bambang Saputra,08965296297,Bekasi,Cabang Utara,Dewi Anggraini,PCX 160,MH1PC1S10003515,Biru,Kredit Leasing,Leasing Sentosa,30,9380000,1100000,Disetujui,Selesai,Walk-in,2025-04-27
+TRX-00175,2025-04-15,Putri Indah Pratama,081183648076,Bogor,Cabang Pusat,Andi Prasetyo,Scoopy,MH1SC1S10003547,Biru,Kredit Leasing,Leasing Nusa,12,4880000,300000,Disetujui,Batal,Walk-in,
+TRX-00176,2025-04-17,Kartika Wibowo,085712649679,Cirebon,Cabang Timur,Hendra Kusuma,Vario 160,MH1V16S10003575,Silver,Cash,,,,0,,Selesai,Walk-in,2025-04-28
+TRX-00177,2025-04-17,Yoga Irfan Tanjung,087720250130,Karawang,Cabang Utara,Dewi Anggraini,Revo,MH1RV1S10003599,Merah,Cash,,,,700000,,Selesai,Walk-in,2025-04-20
+TRX-00178,2025-04-17,Nadia Setiawan,08529439723,Bogor,Cabang Pusat,Budi Santoso,PCX 160,MH1PC1S10003637,Abu-abu,Kredit Leasing,Leasing Nusa,18,5810000,1500000,Disetujui,Selesai,Walk-in,2025-04-24
+TRX-00179,2025-04-18,Agus Setiawan,085261551010,Indramayu,Cabang Timur,Hendra Kusuma,Scoopy,MH1SC1S10003674,Merah,Kredit Leasing,Leasing Mitra,35,5240000,300000,Ditolak,Batal,Walk-in,
+TRX-00180,2025-04-19,Yusuf Nugroho,089631538322,Cirebon,Cabang Timur,Hendra Kusuma,BeAT,MH1BT1S10003688,Hitam,Kredit Leasing,Leasing Mitra,18,4160000,200000,Ditolak,Batal,Walk-in,
+TRX-00181,2025-04-19,Yoga Firmansyah,08773636760,Bekasi,Cabang Utara,Citra Lestari,Scoopy,MH1SC1S10003700,Hitam,Kredit Leasing,Leasing Mitra,30,4670000,0,Disetujui,Selesai,Walk-in,2025-04-24
+TRX-00182,2025-04-19,Dian Gunawan,081238033533,Bekasi,Cabang Utara,Citra Lestari,Supra X 125,MH1SX1S10003713,Putih,Kredit Leasing,Leasing Mitra,12,4660000,150000,Disetujui,Selesai,Walk-in,2025-04-23
+TRX-00183,2025-04-19,Ratna Siregar ,081320787780,Depok,Cabang Pusat,Budi Santoso,Vario 160,MH1V16S10003741,Biru,Kredit Leasing,Leasing Mitra,24,6100000,0,Disetujui,Selesai,Media sosial,2025-04-27
+TRX-00184,2025-04-20,Ratna Reza Siregar,08771547622,Indramayu,Cabang Timur,Gita Permata,Scoopy,MH1SC1S10003756,Biru,Cash,,,,950000,,Selesai,Media sosial,2025-04-23
+TRX-00185,2025-04-20,Irfan Wijaya,08135936121,Depok,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1S10003765,Merah,Kredit Leasing,Leasing Sentosa,35,3530000,0,Disetujui,Selesai,Media sosial,2025-04-22
+TRX-00186,2025-04-20,Wahyu Nasution,081116984486,Bekasi,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1S10003776,Biru,Cash,,,,1300000,,Selesai,Media sosial,2025-04-24
+TRX-00187,2025-04-20,Teguh Santoso,089684096103,Depok,Cabang Pusat,Budi Santoso,Vario 160,MH1V16S10003781,Merah,Cash,,,,0,,Selesai,Pameran,2025-04-24
+TRX-00188,2025-04-22,Gunawan Ayu Kurniawan ,085272640897,Cirebon,Cabang Timur,Hendra Kusuma,Vario 125,MH1V12S10003804,Merah,Kredit Leasing,Leasing Nusa,30,4980000,1000000,Disetujui,Selesai,Media sosial,2025-04-23
+TRX-00189,2025-04-23,Indah Hakim,082125283417,Karawang,Cabang Utara,Dewi Anggraini,PCX 160,MH1PC1S10003815,Hitam,Kredit Leasing,Leasing Sentosa,35,5830000,1350000,Disetujui,Selesai,Pameran,2025-05-04
+TRX-00190,2025-04-23,Nadia Wijaya,089583215382,Cirebon,Cabang Timur,Gita Permata,BeAT,MH1BT1S10003843,Biru,Kredit Leasing,Leasing Nusa,35,3700000,850000,Ditolak,Batal,Walk-in,
+TRX-00191,2025-04-24,Bambang Budi Rahayu,087743936942,Bekasi,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1S10003852,Silver,Cash,,,,0,,Selesai,Walk-in,2025-05-05
+TRX-00192,2025-04-25,Wahyu Halim,08520216712,Depok,Cabang Pusat,Budi Santoso,Scoopy,MH1SC1S10003885,Silver,Kredit Leasing,Leasing Sentosa,18,4190000,0,Disetujui,Selesai,Referral,2025-05-08
+TRX-00193,2025-04-25,Dian Handayani,081252758301,Cirebon,Cabang Timur,Gita Permata,BeAT,MH1BT1S10003922,Silver,Kredit Leasing,Leasing Mitra,30,4950000,0,Disetujui,Selesai,Walk-in,2025-05-02
+TRX-00194,2025-04-25,Ahmad Santoso,08213990776,Bogor,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1S10003955,Hitam,Kredit Leasing,Leasing Nusa,12,5570000,600000,Disetujui,Selesai,Referral,2025-05-02
+TRX-00195,2025-04-26,Ayu Purnomo,08527293312,Bogor,Cabang Pusat,Andi Prasetyo,Stylo 160,MH1ST1S10003975,Hitam,Kredit Leasing,Leasing Sentosa,30,4510000,0,Disetujui,Selesai,Media sosial,2025-04-30
+TRX-00196,2025-04-26,Maya Hidayat,081262584196,Cianjur,Cabang Selatan,Eko Wahyudi,Vario 160,MH1V16S10003990,Silver,Kredit Leasing,Leasing Nusa,18,6680000,1100000,Disetujui,Selesai,Referral,2025-05-06
+TRX-00197,2025-04-26,Siti Nasution,08952318945,Bogor,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1S10004003,Hitam,Kredit Leasing,Leasing Mitra,24,4400000,1250000,Disetujui,Selesai,Media sosial,2025-05-02
+TRX-00198,2025-04-26,Rina Utami,087749824909,Tangerang,Cabang Barat,Joko Susilo,BeAT,MH1BT1S10004009,Biru,Cash,,,,550000,,Selesai,Walk-in,2025-05-02
+TRX-00199,2025-04-26,Fitri Siti Setiawan,08524387548,Depok,Cabang Pusat,Budi Santoso,BeAT,MH1BT1S10004015,Abu-abu,Kredit Leasing,Leasing Mitra,35,2960000,0,Disetujui,Selesai,Walk-in,2025-04-28
+TRX-00200,2025-04-27,Ratna Pratama,08787786345,Bekasi,Cabang Utara,Citra Lestari,Supra X 125,MH1SX1S10004055,Hitam,Kredit Leasing,Leasing Mitra,12,3910000,0,Disetujui,Selesai,Referral,2025-05-08
+TRX-00201,2025-04-28,Rizky Santoso,081331801407,Sukabumi,Cabang Selatan,Fajar Nugroho,BeAT,MH1BT1S10004095,Biru,Cash,,,,0,,Selesai,Referral,2025-05-04
+TRX-00202,2025-04-28,Gunawan Maulana,08124080281,Cianjur,Cabang Selatan,Fajar Nugroho,Vario 160,MH1V16S10004105,Merah,Kredit Leasing,Leasing Nusa,35,7050000,150000,Ditolak,Batal,Pameran,
+TRX-00203,2025-04-29,Bambang Purnomo,081270268925,Karawang,Cabang Utara,Citra Lestari,Revo,MH1RV1S10004115,Silver,Kredit Leasing,Leasing Sentosa,18,5200000,0,Disetujui,Selesai,Telemarketing,2025-05-08
+TRX-00204,2025-04-29,Fitri Nugroho,089610900720,Karawang,Cabang Utara,Dewi Anggraini,Revo,MH1RV1S10004149,Silver,Cash,,,,0,,Selesai,Walk-in,2025-05-10
+TRX-00205,2025-04-30,Nadia Kurniawan,08770811724,Depok,Cabang Pusat,Budi Santoso,BeAT,MH1BT1S10004172,Abu-abu,Cash,,,,900000,,Selesai,Walk-in,2025-05-11
+TRX-00206,2025-05-02,Bpk. Budi Siregar,089650870556,Sukabumi,Cabang Selatan,Fajar Nugroho,Vario 160,MH1V16S10004200,Abu-abu,Cash,,,,0,,Selesai,Referral,2025-05-11
+TRX-00207,2025-05-02,Budi Gunawan,08776924162,Indramayu,Cabang Timur,Gita Permata,Scoopy,MH1SC1S10004232,Putih,Cash,,,,1350000,,Selesai,Pameran,2025-05-14
+TRX-00208,2025-05-03,Dewi Hidayat,081238851334,Serang,Cabang Barat,Joko Susilo,Vario 160,MH1V16S10004234,Silver,Kredit Leasing,Leasing Sentosa,24,6390000,800000,Disetujui,Selesai,Walk-in,2025-05-14
+TRX-00209,2025-05-03,Ayu Kurniawan,087752824373,Sukabumi,Cabang Selatan,Fajar Nugroho,Vario 160,MH1V16S10004252,Abu-abu,Kredit Leasing,Leasing Mitra,24,4520000,0,Disetujui,Selesai,Referral,2025-05-17
+TRX-00210,2025-05-04,Anton Hidayat,08520954876,Tangerang,Cabang Barat,Joko Susilo,BeAT,MH1BT1S10004270,Silver,Kredit Leasing,Leasing Nusa,18,3280000,250000,Disetujui,Selesai,Walk-in,2025-05-05
+TRX-00211,2025-05-04,Nadia Halim,089557963791,Sukabumi,Cabang Selatan,Fajar Nugroho,Genio,MH1GN1S10004287,Putih,Kredit Leasing,Leasing Nusa,12,3360000,0,Disetujui,Selesai,Media sosial,2025-05-18
+TRX-00212,2025-05-05,Gunawan Pratama ,08780421595,Bekasi,Cabang Utara,Citra Lestari,ADV160,MH1AD1S10004308,Hitam,Cash,,,,200000,,Selesai,Walk-in,2025-05-14
+TRX-00213,2025-05-06,Lina Budi Firmansyah,08966215941,Bekasi,Cabang Utara,Citra Lestari,Genio,MH1GN1S10004323,Silver,Kredit Leasing,Leasing Nusa,30,5210000,950000,Disetujui,Selesai,Walk-in,2025-05-20
+TRX-00214,2025-05-06,Nur Nugroho,089602612391,Depok,Cabang Pusat,Andi Prasetyo,Revo,MH1RV1S10004350,Abu-abu,Cash,,,,0,,Selesai,Walk-in,2025-05-10
+TRX-00215,2025-05-07,Dewi Rahayu,085285092977,Karawang,Cabang Utara,Dewi Anggraini,PCX 160,MH1PC1S10004361,Abu-abu,Kredit Leasing,Leasing Sentosa,35,5500000,300000,Disetujui,Selesai,Telemarketing,2025-05-15
+TRX-00216,2025-05-07,Ratna Susanto,082263060662,Depok,Cabang Pusat,Budi Santoso,PCX 160,MH1PC1S10004379,Biru,Kredit Leasing,Leasing Mitra,18,6370000,0,Disetujui,Selesai,Telemarketing,2025-05-10
+TRX-00217,2025-05-07,Kartika Rahayu,08573811570,Tangerang,Cabang Barat,Joko Susilo,Stylo 160,MH1ST1S10004396,Silver,Kredit Leasing,Leasing Nusa,24,6640000,950000,Disetujui,Selesai,Referral,2025-05-14
+TRX-00218,2025-05-08,Yusuf Utami,08955436886,Depok,Cabang Pusat,Budi Santoso,Vario 125,MH1V12S10004413,Hitam,Cash,,,,0,,Selesai,Walk-in,2025-05-14
+TRX-00219,2025-05-09,Teguh Taufik Nugroho,08958493495,Serang,Cabang Barat,Joko Susilo,Scoopy,MH1SC1S10004447,Silver,Cash,,,,0,,Selesai,Telemarketing,2025-05-19
+TRX-00220,2025-05-10,Yusuf Putri Nasution,081121430024,Sukabumi,Cabang Selatan,Eko Wahyudi,PCX 160,MH1PC1S10004458,Hitam,Kredit Leasing,Leasing Mitra,30,5460000,0,Disetujui,Selesai,Media sosial,2025-05-23
+TRX-00221,2025-05-10,Dewi Melati Gunawan,08529448347,Serang,Cabang Barat,Indra Maulana,Vario 160,MH1V16S10004467,Hitam,Kredit Leasing,Leasing Mitra,35,7610000,0,Ditolak,Batal,Referral,
+TRX-00222,2025-05-13,Nadia Rahayu,085708068878,Bogor,Cabang Pusat,Budi Santoso,ADV160,MH1AD1S10004491,Hitam,Kredit Leasing,Leasing Mitra,24,6330000,0,Disetujui,Selesai,Referral,2025-05-22
+TRX-00223,2025-05-13,Sdr. Rina Pratama,08525923330,Cirebon,Cabang Timur,Hendra Kusuma,BeAT,MH1BT1S10004505 ,Merah,Cash,,,,200000,,Selesai,Walk-in,2025-05-18
+TRX-00224,2025-05-15,Fitri Purnomo,08789401483,Depok,Cabang Pusat,Budi Santoso,ADV160,MH1AD1S10004513,Putih,Kredit Leasing,Leasing Mitra,35,10630000,700000,Disetujui,Selesai,Pameran,2025-05-24
+TRX-00225,2025-05-16,Agus Tanjung,085726950147,Sukabumi,Cabang Selatan,Fajar Nugroho,Vario 125,MH1V12S10004547,Merah,Kredit Leasing,Leasing Mitra,35,5310000,600000,Disetujui,Selesai,Walk-in,2025-05-18
+TRX-00226,2025-05-17,Reza Dewi Tanjung,081228874570,Karawang,Cabang Utara,Citra Lestari,PCX 160,MH1PC1S10004549,Biru,Kredit Leasing,Leasing Mitra,24,10590000,1100000,Disetujui,Selesai,Referral,2025-05-22
+TRX-00227,2025-05-17,Sari Setiawan,087850194186,Indramayu,Cabang Timur,Gita Permata,BeAT,MH1BT1S10004585,Putih,Kredit Leasing,Leasing Sentosa,30,3410000,0,Ditolak,Batal,Referral,
+TRX-00228,2025-05-18,Nur Wibowo,08952655698,Sukabumi,Cabang Selatan,Fajar Nugroho,Vario 160,MH1V16S10004606,Biru,Cash,,,,14000000,,Selesai,Walk-in,2025-05-26
+TRX-00229,2025-05-18,Anton Gunawan,08956411084,Bogor,Cabang Pusat,Andi Prasetyo,Vario 160,MH1V16S10004637,Silver,Kredit Leasing,Leasing Sentosa,18,7470000,250000,Disetujui,Selesai,Telemarketing,2025-05-22
+TRX-00230,2025-05-20,Rudi Nasution,089615816571,Bogor,Cabang Pusat,Budi Santoso,Vario 160,MH1V16S10004652,Hitam,Kredit Leasing,Leasing Nusa,18,6650000,0,Disetujui,Selesai,Referral,2025-05-31
+TRX-00231,2025-05-21,Putri Rahayu,08119338018,Sukabumi,Cabang Selatan,Fajar Nugroho,Genio,MH1GN1S10004672,Hitam,Cash,,,,1500000,,Selesai,Walk-in,2025-05-25
+TRX-00232,2025-05-22,Nur Dewi Permana,081382673991,Cirebon,Cabang Timur,Gita Permata,Scoopy,MH1SC1S10004674,Abu-abu,Kredit Leasing,Leasing Sentosa,24,5300000,0,Ditolak,Batal,Walk-in,
+TRX-00233,2025-05-23,Lina Permana,08952036180,Cirebon,Cabang Timur,Gita Permata,BeAT,MH1BT1S10004694,Silver,Kredit Leasing,Leasing Sentosa,35,5070000,400000,Ditolak,Batal,Walk-in,
+TRX-00234,2025-05-25,Ratna Nasution,082246904442,Bogor,Cabang Pusat,Andi Prasetyo,CB150R,MH1CB1S10004719,Hitam,Kredit Leasing,Leasing Sentosa,35,7390000,350000,Disetujui,Selesai,Pameran,2025-06-06
+TRX-00235,2025-05-25,Ibu Rudi Susanto,08773724294,Cirebon,Cabang Timur,Gita Permata,BeAT,MH1BT1S10004728,Silver,Kredit Leasing,Leasing Mitra,35,5280000,0,Disetujui,Selesai,Media sosial,2025-06-07
+TRX-00236,2025-05-25,Bagus Utami,08958183984,Cirebon,Cabang Timur,Hendra Kusuma,Supra X 125,MH1SX1S10004744,Biru,Kredit Leasing,Leasing Sentosa,24,3960000,0,Ditolak,Batal,Walk-in,
+TRX-00237,2025-05-26,Agus Setiawan,082173164843,Sukabumi,Cabang Selatan,Fajar Nugroho,Vario 125,MH1V12S10004771,Hitam,Kredit Leasing,Leasing Mitra,18,3630000,1500000,Disetujui,Selesai,Media sosial,2025-06-08
+TRX-00238,2025-05-28,Aditya Halim,08227545451,Cirebon,Cabang Timur,Hendra Kusuma,Genio,MH1GN1S10004779,Putih,Kredit Leasing,Leasing Mitra,30,3240000,0,Disetujui,Selesai,Pameran,2025-05-29
+TRX-00239,2025-05-30,Yusuf Setiawan,08953263180,Indramayu,Cabang Timur,Gita Permata,BeAT,MH1BT1S10004802,Silver,Kredit Leasing,Leasing Mitra,18,2910000,1100000,Ditolak,Batal,Media sosial,
+TRX-00240,2025-05-30,Indah Pratama,085283533428,Bogor,Cabang Pusat,Andi Prasetyo,CB150R,MH1CB1S10004818,Biru,Cash,,,,0,,Selesai,Walk-in,2025-06-08
+TRX-00241,2025-05-31,Siti Yusuf Santoso,081367330738,Sukabumi,Cabang Selatan,Fajar Nugroho,BeAT,MH1BT1S10004837,Abu-abu,Kredit Leasing,Leasing Mitra,24,3230000,300000,Ditolak,Batal,Media sosial,
+TRX-00242,2025-05-31,Yoga Anton Maulana,08520472776,Cianjur,Cabang Selatan,Fajar Nugroho,Stylo 160,MH1ST1S10004840,Biru,Kredit Leasing,Leasing Nusa,12,5230000,750000,Disetujui,Batal,Walk-in,
+TRX-00243,2025-06-01,Ibu Wahyu Yusuf Gunawan,08522596917,Bogor,Cabang Pusat,Budi Santoso,CRF150L,MH1CR1S10004851,Silver,Kredit Leasing,Leasing Nusa,18,8080000,750000,Disetujui,Selesai,Media sosial,2025-06-10
+TRX-00244,2025-06-01,Nur Kurniawan,08572065514,Cirebon,Cabang Timur,Gita Permata,Revo,MH1RV1S10004858,Biru,Kredit Leasing,Leasing Nusa,35,2910000,150000,Disetujui,Selesai,Walk-in,2025-06-12
+TRX-00245,2025-06-02,Ahmad Saputra,08131830000,Bogor,Cabang Pusat,Budi Santoso,Vario 125,MH1V12S10004894,Silver,Cash,,,,1350000,,Selesai,Pameran,2025-06-07
+TRX-00246,2025-06-03,Bambang Santoso,081377306115,Depok,Cabang Pusat,Budi Santoso,Stylo 160,MH1ST1S10004928,Abu-abu,Kredit Leasing,Leasing Mitra,30,7940000,0,Disetujui,Selesai,Media sosial,2025-06-17
+TRX-00247,2025-06-03,Eko Saputra,08782240083,Karawang,Cabang Utara,Dewi Anggraini,Vario 125,MH1V12S10004967,Abu-abu,Kredit Leasing,Leasing Nusa,18,4810000,1250000,Disetujui,Selesai,Walk-in,2025-06-10
+TRX-00248,2025-06-04,Dedi Yusuf Tanjung ,082288061563,Depok,Cabang Pusat,Budi Santoso,Genio,MH1GN1S10004986,Putih,Kredit Leasing,Leasing Nusa,18,3650000,0,Disetujui,Selesai,Pameran,2025-06-11
+TRX-00249,2025-06-05,Bagus Purnomo,08775926151,Bekasi,Cabang Utara,Dewi Anggraini,CRF150L,MH1CR1S10004996,Putih,Cash,,,,0,,Selesai,Media sosial,2025-06-08
+TRX-00250,2025-06-05,Rina Indah Maulana,089678426298,Sukabumi,Cabang Selatan,Eko Wahyudi,Scoopy,MH1SC1S10005008,Biru,Kredit Leasing,Leasing Mitra,30,6450000,1250000,Disetujui,Selesai,Media sosial,2025-06-12
+TRX-00251,2025-06-05,Nur Susanto,08572664477,Karawang,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1S10005021,Abu-abu,Cash,,,,0,,Selesai,Referral,2025-06-10
+TRX-00252,2025-06-06,Ahmad Lestari,081200415215,Cirebon,Cabang Timur,Gita Permata,Vario 125,MH1V12S10005058,Biru,Kredit Leasing,Leasing Sentosa,35,5900000,650000,Disetujui,Selesai,Pameran,2025-06-19
+TRX-00253,2025-06-06,Putri Saputra,08132737266,Indramayu,Cabang Timur,Gita Permata,BeAT,MH1BT1S10005086,Abu-abu,Cash,,,,0,,Selesai,Telemarketing,2025-06-18
+TRX-00254,2025-06-06,Nur Anton Lestari ,08213239837,Depok,Cabang Pusat,Budi Santoso,BeAT,MH1BT1S10005103,Merah,Cash,,,,0,,Selesai,Walk-in,2025-06-14
+TRX-00255,2025-06-08,Sari Maulana,089569135912,Bogor,Cabang Pusat,Andi Prasetyo,ADV160,MH1AD1S10005136,Silver,Kredit Leasing,Leasing Nusa,12,10890000,150000,Disetujui,Selesai,Walk-in,2025-06-15
+TRX-00256,2025-06-08,Anton Siregar,08572620238,Bogor,Cabang Pusat,Andi Prasetyo,Revo,MH1RV1S10005172,Abu-abu,Kredit Leasing,Leasing Mitra,12,4010000,400000,Disetujui,Selesai,Pameran,2025-06-10
+TRX-00257,2025-06-08,Fajar Handayani ,08217470734,Karawang,Cabang Utara,Dewi Anggraini,Supra X 125,MH1SX1S10005201,Silver,Kredit Leasing,Leasing Nusa,12,5560000,950000,Disetujui,Selesai,Pameran,2025-06-09
+TRX-00258,2025-06-09,Irfan Ayu Permana,08124058470,Serang,Cabang Barat,Joko Susilo,CB150R,MH1CB1S10005224,Putih,Kredit Leasing,Leasing Nusa,30,8500000,950000,Disetujui,Selesai,Media sosial,2025-06-14
+TRX-00259,2025-06-12,Indah Pratama,082270242271,Tangerang,Cabang Barat,Indra Maulana,Stylo 160,MH1ST1S10005256,Hitam,Kredit Leasing,Leasing Mitra,35,4650000,700000,Disetujui,Selesai,Media sosial,2025-06-25
+TRX-00260,2025-06-14,Bambang Kurniawan,08130088878,Depok,Cabang Pusat,Andi Prasetyo,Scoopy,MH1SC1S10005265,Silver,Kredit Leasing,Leasing Mitra,30,5680000,0,Disetujui,Selesai,Media sosial,2025-06-22
+TRX-00261,2025-06-15,Melati Melati Gunawan,087838142570,Karawang,Cabang Utara,Dewi Anggraini,Supra X 125,MH1SX1S10005284,Merah,Cash,,,,0,,Selesai,Walk-in,2025-06-18
+TRX-00262,2025-06-15,Fajar Purnomo,085298816738,Karawang,Cabang Utara,Dewi Anggraini,Revo,MH1RV1S10005308,Hitam,Kredit Leasing,Leasing Mitra,35,3790000,0,Disetujui,Selesai,Media sosial,2025-06-21
+TRX-00263,2025-06-16,Bagus Kurniawan,08130115551,Cirebon,Cabang Timur,Gita Permata,Scoopy,MH1SC1S10005335,Silver,Kredit Leasing,Leasing Mitra,35,4980000,1000000,Disetujui,Selesai,Media sosial,2025-06-22
+TRX-00264,2025-06-17,Ahmad Pratama,08224105172,Cirebon,Cabang Timur,Hendra Kusuma,Vario 160,MH1V16S10005370,Merah,Kredit Leasing,Leasing Nusa,12,6100000,1350000,Disetujui,Selesai,Telemarketing,2025-06-30
+TRX-00265,2025-06-17,Rizky Hendra Hakim,082109182599,Indramayu,Cabang Timur,Hendra Kusuma,BeAT,MH1BT1S10005407,Abu-abu,Kredit Leasing,Leasing Mitra,18,3850000,850000,Disetujui,Selesai,Media sosial,2025-06-20
+TRX-00266,2025-06-18,Budi Rahayu,081283646855,Cirebon,Cabang Timur,Gita Permata,PCX 160,MH1PC1S10005447,Biru,Kredit Leasing,Leasing Mitra,30,7440000,950000,Disetujui,Selesai,Referral,2025-06-28
+TRX-00267,2025-06-18,Bagus Permana,089541076514,Bekasi,Cabang Utara,Citra Lestari,PCX 160,MH1PC1S10005450,Hitam,Kredit Leasing,Leasing Nusa,12,10270000,1100000,Disetujui,Selesai,Telemarketing,2025-06-19
+TRX-00268,2025-06-19,Wahyu Tanjung,08776004385,Cianjur,Cabang Selatan,Eko Wahyudi,PCX 160,MH1PC1S10005457,Putih,Kredit Leasing,Leasing Nusa,24,5430000,1400000,Disetujui,Selesai,Walk-in,2025-07-03
+TRX-00269,2025-06-20,Aditya Wibowo,08577471723,Serang,Cabang Barat,Joko Susilo,BeAT,MH1BT1S10005497,Abu-abu,Kredit Leasing,Leasing Mitra,24,5290000,350000,Disetujui,Selesai,Pameran,2025-06-29
+TRX-00270,2025-06-21,Agus Nasution,08226115650,Indramayu,Cabang Timur,Hendra Kusuma,Scoopy,MH1SC1S10005510,Silver,Kredit Leasing,Leasing Mitra,18,5510000,1450000,Disetujui,Selesai,Referral,2025-06-28
+TRX-00271,2025-06-22,Wahyu Wibowo,085289973899,Cirebon,Cabang Timur,Hendra Kusuma,Vario 125,MH1V12S10005525,Biru,Cash,,,,0,,Selesai,Walk-in,2025-06-24
+TRX-00272,2025-06-22,Taufik Firmansyah,082198111629,Bogor,Cabang Pusat,Andi Prasetyo,Genio,MH1GN1S10005527,Biru,Kredit Leasing,Leasing Sentosa,18,3240000,0,Disetujui,Batal,Media sosial,
+TRX-00273,2025-06-24,Ibu Dewi Ayu Pratama,08785162377,Bekasi,Cabang Utara,Dewi Anggraini,CB150R,MH1CB1S10005555,Biru,Kredit Leasing,Leasing Sentosa,30,6940000,0,Disetujui,Selesai,Referral,2025-07-07
+TRX-00274,2025-06-25,Melati Anton Maulana,08524878477,Bogor,Cabang Pusat,Budi Santoso,PCX 160,MH1PC1S10005559,Silver,Kredit Leasing,Leasing Sentosa,24,5950000,0,Disetujui,Selesai,Pameran,2025-07-08
+TRX-00275,2025-06-27,Putri Nasution,081316141657,Karawang,Cabang Utara,Citra Lestari,CB150R,MH1CB1S10005578,Abu-abu,Kredit Leasing,Leasing Mitra,12,8530000,0,Disetujui,Selesai,Referral,2025-07-11
+TRX-00276,2025-06-27,Putri Tanjung,08960832231,Cianjur,Cabang Selatan,Fajar Nugroho,BeAT,MH1BT1S10005584,Merah,Kredit Leasing,Leasing Mitra,12,5480000,1250000,Ditolak,Batal,Referral,
+TRX-00277,2025-06-28,Dian Fajar Kurniawan,089601326808,Sukabumi,Cabang Selatan,Eko Wahyudi,Vario 125,MH1V12S10005604,Putih,Cash,,,,0,,Batal,Telemarketing,
+TRX-00278,2025-06-28,Nur Maulana,08575464874,Karawang,Cabang Utara,Citra Lestari,Supra X 125,MH1SX1S10005606,Abu-abu,Kredit Leasing,Leasing Mitra,12,4660000,0,Disetujui,Selesai,Pameran,2025-07-01
+TRX-00279,2025-06-30,Teguh Halim,081266108421,Bogor,Cabang Pusat,Budi Santoso,BeAT,MH1BT1S10005627,Putih,Cash,,,,1100000,,Selesai,Media sosial,2025-07-06
+TRX-00280,2025-07-01,Anton Dewi Susanto,08217660092,Cianjur,Cabang Selatan,Fajar Nugroho,Genio,MH1GN1S10005649,Putih,Kredit Leasing,Leasing Mitra,24,3580000,450000,Disetujui,Selesai,Media sosial,2025-07-06
+TRX-00281,2025-07-02,Eko Siregar,087875293254,Tangerang,Cabang Barat,Indra Maulana,Scoopy,MH1SC1S10005675,Merah,Kredit Leasing,Leasing Sentosa,12,4610000,10000000,Disetujui,Selesai,Walk-in,2025-07-11
+TRX-00282,2025-07-02,Bambang Susanto,08134121035,Tangerang,Cabang Barat,Joko Susilo,BeAT,MH1BT1S10005682,Biru,Cash,,,,1500000,,Selesai,Referral,2025-07-06
+TRX-00283,2025-07-03,Indah Permana,08115634743,Serang,Cabang Barat,Indra Maulana,Supra X 125,MH1SX1S10005712 ,Abu-abu,Cash,,,,0,,Selesai,Media sosial,2025-07-04
+TRX-00284,2025-07-03,Budi Tanjung,082257773113,Depok,Cabang Pusat,Andi Prasetyo,Genio,mh1gn1s10005743,Putih,Cash,,,,900000,,Selesai,Telemarketing,2025-07-04
+TRX-00285,2025-07-04,Lina Hidayat,08114754345,Serang,Cabang Barat,Joko Susilo,PCX 160,MH1PC1S10005771,Hitam,Cash,,,,1150000,,Selesai,Pameran,2025-07-14
+TRX-00286,2025-07-04,Yoga Halim,08115653563,Serang,Cabang Barat,Indra Maulana,Revo,MH1RV1S10005781,Biru,Kredit Leasing,Leasing Nusa,18,3610000,1050000,Disetujui,Selesai,Telemarketing,2025-07-17
+TRX-00287,2025-07-05,Sri Citra Halim,081304053244,Depok,Cabang Pusat,Andi Prasetyo,Vario 160,MH1V16S10005816,Hitam,Cash,,,,400000,,Selesai,Walk-in,2025-07-12
+TRX-00288,2025-07-05,Bagus Rahayu,087774547705,Bekasi,Cabang Utara,Dewi Anggraini,Scoopy,MH1SC1S10005846,Merah,Cash,,,,650000,,Selesai,Walk-in,2025-07-14
+TRX-00289,2025-07-05,Sri Bagus Hakim,08226214099,Cianjur,Cabang Selatan,Eko Wahyudi,Vario 160,MH1V16S10005864 ,Hitam,Kredit Leasing,Leasing Mitra,35,7720000,300000,Disetujui,Selesai,Walk-in,2025-07-10
+TRX-00290,2025-07-05,Fajar Hidayat,08218608603,Depok,Cabang Pusat,Andi Prasetyo,ADV160,MH1AD1S10005898,Merah,Kredit Leasing,Leasing Nusa,12,7740000,500000,Disetujui,Selesai,Pameran,2025-07-09
+TRX-00291,2025-07-06,Teguh Gunawan,08523235146,Bogor,Cabang Pusat,Budi Santoso,Stylo 160,MH1ST1S10005933,Abu-abu,Kredit Leasing,Leasing Nusa,18,5460000,1450000,Disetujui,Selesai,Telemarketing,2025-07-20
+TRX-00292,2025-07-06,Yusuf Citra Susanto,08520372149,Indramayu,Cabang Timur,Hendra Kusuma,CB150R,MH1CB1S10005972,Putih,Kredit Leasing,Leasing Nusa,12,9510000,200000,Disetujui,Selesai,Media sosial,2025-07-14
+TRX-00293,2025-07-07,Sri Hakim,089696011328,Bogor,Cabang Pusat,Budi Santoso,Scoopy,MH1SC1S10005979,Merah,Kredit Leasing,Leasing Sentosa,30,4210000,650000,Disetujui,Selesai,Walk-in,2025-07-15
+TRX-00294,2025-07-08,Maya Rina Purnomo,08138029279,Karawang,Cabang Utara,Citra Lestari,Vario 125,MH1V12S10006010,Biru,Kredit Leasing,Leasing Nusa,18,3610000,0,Disetujui,Selesai,Media sosial,2025-07-22
+TRX-00295,2025-07-09,Agus Halim ,08112295368,Bekasi,Cabang Utara,Dewi Anggraini,Genio,MH1GN1S10006049,Abu-abu,Cash,,,,550000,,Selesai,Pameran,2025-07-13
+TRX-00296,2025-07-11,Irfan Siregar,081104418273,Depok,Cabang Pusat,Budi Santoso,Revo,MH1RV1S10006064,Hitam,Kredit Leasing,Leasing Sentosa,35,3750000,0,Disetujui,Selesai,Walk-in,2025-07-13
+TRX-00297,2025-07-11,Agus Pratama,08125229696,Bekasi,Cabang Utara,Dewi Anggraini,CB150R,MH1CB1S10006091,Putih,Kredit Leasing,Leasing Nusa,24,6500000,1350000,Disetujui,Selesai,Media sosial,2025-07-23
+TRX-00298,2025-07-11,Aditya Susanto,085767714016,Cianjur,Cabang Selatan,Fajar Nugroho,Scoopy,MH1SC1S10006095,Hitam,Kredit Leasing,Leasing Mitra,12,4600000,0,Disetujui,Selesai,Walk-in,2025-07-19
+TRX-00299,2025-07-12,Nur Wijaya,08132924610,Tangerang,Cabang Barat,Joko Susilo,Vario 125,mh1v12s10006129,Silver,Kredit Leasing,Leasing Sentosa,30,3530000,0,Disetujui,Selesai,Walk-in,2025-07-21
+TRX-00300,2025-07-12,Ibu Ratna Maulana,08119758946,Cianjur,Cabang Selatan,Fajar Nugroho,Supra X 125,MH1SX1S10006144,Hitam,Kredit Leasing,Leasing Sentosa,18,5350000,0,Disetujui,Selesai,Pameran,2025-07-25
+TRX-00301,2025-07-13,Ibu Yoga Saputra,08527282094,Serang,Cabang Barat,Indra Maulana,ADV160,MH1AD1S10006180,Hitam,Kredit Leasing,Leasing Sentosa,18,9200000,350000,Disetujui,Selesai,Referral,2025-07-17
+TRX-00302,2025-07-14,Bambang Joko Firmansyah,08215109871,Karawang,Cabang Utara,Citra Lestari,Vario 160,MH1V16S10006217,Abu-abu,Kredit Leasing,Leasing Sentosa,30,7250000,0,Disetujui,Selesai,Referral,2025-07-25
+TRX-00303,2025-07-14,Nur Halim,08118232653,Cianjur,Cabang Selatan,Fajar Nugroho,Genio,MH1GN1S10006237,Biru,Kredit Leasing,Leasing Sentosa,35,3790000,0,Ditolak,Batal,Media sosial,
+TRX-00304,2025-07-14,Bambang Hakim,08770231250,Bogor,Cabang Pusat,Budi Santoso,Vario 125,MH1V12S10006259,Silver,Kredit Leasing,Leasing Sentosa,35,3870000,1500000,Ditolak,Batal,Telemarketing,
+TRX-00305,2025-07-15,Melati Setiawan,087892279538,Karawang,Cabang Utara,Dewi Anggraini,Vario 125,MH1V12S10006297,Abu-abu,Kredit Leasing,Leasing Sentosa,30,5170000,300000,Ditolak,Batal,Walk-in,
+TRX-00306,2025-07-15,Dian Irfan Lestari,08529269473,Sukabumi,Cabang Selatan,Eko Wahyudi,Scoopy,MH1SC1S10006324,Biru,Cash,,,,0,,Selesai,Media sosial,2025-07-19
+TRX-00307,2025-07-15,Irfan Tanjung,081323811393,Bekasi,Cabang Utara,Dewi Anggraini,Vario 160,MH1V16S10006355,Biru,Kredit Leasing,Leasing Sentosa,18,5320000,0,Ditolak,Batal,Walk-in,
+TRX-00308,2025-07-16,Ratna Wijaya,081300932126,Tangerang,Cabang Barat,Joko Susilo,Scoopy,MH1SC1S10006358,Merah,Kredit Leasing,Leasing Sentosa,12,5420000,600000,Disetujui,Selesai,Pameran,2025-07-17
+TRX-00309,2025-07-16,Fajar Gunawan,081195298661,Indramayu,Cabang Timur,Hendra Kusuma,BeAT,MH1BT1S10006390,Biru,Cash,,,,750000,,Selesai,Media sosial,2025-07-29
+TRX-00310,2025-07-17,Yoga Utami,08770918750,Tangerang,Cabang Barat,Joko Susilo,Scoopy,MH1SC1S10006410,Putih,Kredit Leasing,Leasing Sentosa,35,3930000,0,Ditolak,Batal,Media sosial,
+TRX-00311,2025-07-18,Rudi Santoso,089501638807,Sukabumi,Cabang Selatan,Eko Wahyudi,ADV160,MH1AD1S10006420,Hitam,Kredit Leasing,Leasing Sentosa,18,7760000,750000,Disetujui,Selesai,Referral,2025-07-23
+TRX-00312,2025-07-18,Budi Handayani,081112863079,Cianjur,Cabang Selatan,Eko Wahyudi,Genio,MH1GN1S10006458,Hitam,Kredit Leasing,Leasing Sentosa,24,3980000,1300000,Disetujui,Selesai,Telemarketing,2025-08-01
+TRX-00313,2025-07-19,Ibu Sri Setiawan,087749523918,Bekasi,Cabang Utara,Dewi Anggraini,Genio,MH1GN1S10006471,Abu-abu,Kredit Leasing,Leasing Mitra,35,4730000,0,Disetujui,Selesai,Media sosial,2025-07-20
+TRX-00314,2025-07-20,Joko Handayani,089691814945,Sukabumi,Cabang Selatan,Fajar Nugroho,CRF150L,MH1CR1S10006503 ,Hitam,Kredit Leasing,Leasing Nusa,30,7450000,1000000,Disetujui,Selesai,Telemarketing,2025-07-25
+TRX-00315,2025-07-20,Rina Kurniawan,08522405785,Karawang,Cabang Utara,Citra Lestari,Supra X 125,MH1SX1S10006512,Hitam,Kredit Leasing,Leasing Sentosa,12,4150000,600000,Disetujui,Selesai,Walk-in,2025-07-30
+TRX-00316,2025-07-22,Putri Firmansyah,08789521169,Indramayu,Cabang Timur,Gita Permata,Scoopy,MH1SC1S10006546,Abu-abu,Kredit Leasing,Leasing Mitra,12,4590000,0,Disetujui,Selesai,Walk-in,2025-08-01
+TRX-00317,2025-07-22,Nadia Santoso,08137788152,Karawang,Cabang Utara,Dewi Anggraini,PCX 160,MH1PC1S10006586,Putih,Kredit Leasing,Leasing Nusa,35,8540000,800000,Disetujui,Selesai,Walk-in,2025-07-24
+TRX-00318,2025-07-22,Budi Wibowo,081216268983,Depok,Cabang Pusat,Andi Prasetyo,Stylo 160,MH1ST1S10006619,Silver,Kredit Leasing,Leasing Mitra,30,4940000,850000,Disetujui,Selesai,Telemarketing,2025-07-23
+TRX-00319,2025-07-23,Melati Maulana,081220982561,Depok,Cabang Pusat,Andi Prasetyo,Revo,mh1rv1s10006638,Putih,Kredit Leasing,Leasing Sentosa,12,2900000,1050000,Disetujui,Batal,Walk-in,
+TRX-00320,2025-07-23,Reza Wibowo,08120306721,Bogor,Cabang Pusat,Budi Santoso,BeAT,MH1BT1S10006673,Putih,Cash,,,,0,,Selesai,Telemarketing,2025-08-03
+TRX-00321,2025-07-24,Yusuf Rahayu,082191924046,Indramayu,Cabang Timur,Gita Permata,Scoopy,MH1SC1S10006699,Hitam,Cash,,,,1250000,,Selesai,Pameran,2025-08-02
+TRX-00322,2025-07-26,Ratna Saputra,085796163779,Cirebon,Cabang Timur,Hendra Kusuma,BeAT,mh1bt1s10006719,Merah,Cash,,,,1150000,,Selesai,Walk-in,2025-07-31
+TRX-00323,2025-07-27,Melati Hakim,08131931607,Indramayu,Cabang Timur,Gita Permata,CB150R,MH1CB1S10006743,Abu-abu,Kredit Leasing,Leasing Mitra,12,5990000,600000,Disetujui,Selesai,Media sosial,2025-08-05
+TRX-00324,2025-07-29,Sdr. Hendra Setiawan,082226773393,Depok,Cabang Pusat,Andi Prasetyo,Scoopy,MH1SC1S10006762,Silver,Kredit Leasing,Leasing Mitra,30,5740000,1350000,Disetujui,Selesai,Media sosial,2025-07-31
+TRX-00325,2025-07-29,Gunawan Siregar,08219006892,Bogor,Cabang Pusat,Andi Prasetyo,Vario 160,MH1V16S10006776,Hitam,Kredit Leasing,Leasing Mitra,24,5720000,1500000,Disetujui,Selesai,Pameran,2025-08-07
+TRX-00326,2025-07-30,Fitri Pratama,089608066623,Bogor,Cabang Pusat,Budi Santoso,PCX 160,MH1PC1S10006804,Putih,Kredit Leasing,Leasing Mitra,18,10160000,0,Disetujui,Selesai,Pameran,2025-08-06
+TRX-00327,2025-07-30,Yusuf Santoso,08786428057,Cirebon,Cabang Timur,Hendra Kusuma,Vario 160,MH1V16S10006820 ,Merah,Cash,,,,0,,Selesai,Referral,2025-07-31
+TRX-00328,2025-07-30,Gunawan Siregar,089600456362,Cianjur,Cabang Selatan,Fajar Nugroho,Scoopy,MH1SC1S10006830,Merah,Cash,,,,900000,,Selesai,Walk-in,2025-08-01
+TRX-00329,2025-07-31,Ibu Dewi Firmansyah,08218936749,Bogor,Cabang Pusat,Budi Santoso,Genio,MH1GN1S10006840,Silver,Kredit Leasing,Leasing Mitra,18,5730000,0,Disetujui,Selesai,Pameran,2025-08-13
+TRX-00330,2025-08-01,Sari Budi Wijaya ,08214992347,Bekasi,Cabang Utara,Dewi Anggraini,CB150R,MH1CB1S10006858,Merah,Kredit Leasing,Leasing Nusa,24,7350000,1300000,Disetujui,Selesai,Media sosial,2025-08-15
+TRX-00331,2025-08-02,Rudi Nugroho ,08573746670,Indramayu,Cabang Timur,Gita Permata,Vario 125,MH1V12S10006879,Putih,Kredit Leasing,Leasing Sentosa,24,5660000,1050000,Ditolak,Batal,Media sosial,
+TRX-00332,2025-08-02,Sdr. Ratna Maulana,087731042433,Karawang,Cabang Utara,Dewi Anggraini,Scoopy,MH1SC1S10006917,Merah,Kredit Leasing,Leasing Mitra,24,6350000,550000,Ditolak,Batal,Telemarketing,
+TRX-00333,2025-08-03,Sdr. Wahyu Permana,08130376026,Cirebon,Cabang Timur,Hendra Kusuma,Scoopy,MH1SC1S10006954,Silver,Kredit Leasing,Leasing Sentosa,12,6390000,0,Disetujui,Selesai,Referral,2025-08-10
+TRX-00334,2025-08-03,Melati Handayani,08779536039,Serang,Cabang Barat,Joko Susilo,PCX 160,MH1PC1S10006957,Merah,Cash,,,,850000,,Selesai,Walk-in,2025-08-15
+TRX-00335,2025-08-06,Yusuf Purnomo,087742761238,Bekasi,Cabang Utara,Citra Lestari,Vario 160,MH1V16S10006977,Merah,Kredit Leasing,Leasing Nusa,12,7800000,0,Disetujui,Selesai,Walk-in,2025-08-09
+TRX-00336,2025-08-07,Ayu Bambang Nugroho,08122640457,Sukabumi,Cabang Selatan,Fajar Nugroho,Scoopy,MH1SC1S10007008 ,Biru,Kredit Leasing,Leasing Nusa,30,6000000,750000,Disetujui,Selesai,Pameran,2025-08-19
+TRX-00337,2025-08-07,Indah Firmansyah,08784249876,Bogor,Cabang Pusat,Andi Prasetyo,Scoopy,MH1SC1S10007032,Putih,Cash,,,,0,,Selesai,Walk-in,2025-08-18
+TRX-00338,2025-08-08,HENDRA WIJAYA,082279496115,Bekasi,Cabang Utara,Dewi Anggraini,Stylo 160,MH1ST1S10007042,Hitam,Kredit Leasing,Leasing Sentosa,24,7670000,1450000,Disetujui,Selesai,Referral,2025-08-17
+TRX-00339,2025-08-09,Reza Hakim,089546904693,Bekasi,Cabang Utara,Dewi Anggraini,CB150R,MH1CB1S10007070,Biru,Kredit Leasing,Leasing Mitra,30,7340000,950000,Disetujui,Selesai,Walk-in,2025-08-12
+TRX-00340,2025-08-09,Rizky Nasution,08576135570,Serang,Cabang Barat,Joko Susilo,Vario 125,MH1V12S10007087,Silver,Kredit Leasing,Leasing Mitra,30,3650000,800000,Ditolak,Batal,Media sosial,
+TRX-00341,2025-08-10,Citra Pratama,082230100968,Bekasi,Cabang Utara,Citra Lestari,ADV160,MH1AD1S10007095,Silver,Cash,,,,250000,,Selesai,Telemarketing,2025-08-24
+TRX-00342,2025-08-11,Ahmad Nugroho,08771678691,Depok,Cabang Pusat,Andi Prasetyo,Vario 160,MH1V16S10007099,Abu-abu,Kredit Leasing,Leasing Sentosa,35,7260000,1450000,Disetujui,Selesai,Walk-in,2025-08-13
+TRX-00343,2025-08-11,Irfan Handayani,089542882328,Serang,Cabang Barat,Indra Maulana,BeAT,MH1BT1S10007135,Silver,Kredit Leasing,Leasing Nusa,35,3290000,1450000,Disetujui,Selesai,Pameran,2025-08-19
+TRX-00344,2025-08-11,Dedi Joko Susanto,08966856629,Cianjur,Cabang Selatan,Eko Wahyudi,Genio,MH1GN1S10007163,Hitam,Kredit Leasing,Leasing Mitra,30,4580000,0,Disetujui,Selesai,Walk-in,2025-08-19
+TRX-00345,2025-08-12,Ahmad Gunawan,08575654054,Bekasi,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1S10007199,Hitam,Kredit Leasing,Leasing Mitra,30,4620000,1000000,Disetujui,Selesai,Referral,2025-08-20
+TRX-00346,2025-08-13,Reza Maulana,082135568676,Bekasi,Cabang Utara,Citra Lestari,BeAT,MH1BT1S10007211,Putih,Kredit Leasing,Leasing Sentosa,35,2940000,0,Disetujui,Selesai,Referral,2025-08-18
+TRX-00347,2025-08-15,Bambang Siregar,087860403802,Karawang,Cabang Utara,Dewi Anggraini,PCX 160,MH1PC1S10007217,Silver,Kredit Leasing,Leasing Mitra,18,8800000,0,Ditolak,Batal,Telemarketing,
+TRX-00348,2025-08-19,Dewi Saputra,082233723396,Cirebon,Cabang Timur,Gita Permata,BeAT,MH1BT1S10007252,Merah,Kredit Leasing,Leasing Sentosa,35,2890000,500000,Disetujui,Selesai,Media sosial,2025-08-26
+TRX-00349,2025-08-20,Sari Maya Handayani,08967814680,Karawang,Cabang Utara,Dewi Anggraini,Vario 160,MH1V16S10007290,Hitam,Kredit Leasing,Leasing Nusa,35,7420000,0,Disetujui,Selesai,Media sosial,2025-09-02
+TRX-00350,2025-08-21,Sri Rudi Santoso,08211831692,Sukabumi,Cabang Selatan,Eko Wahyudi,Revo,MH1RV1S10007295,Hitam,Kredit Leasing,Leasing Mitra,12,5000000,650000,Disetujui,Selesai,Media sosial,2025-09-04
+TRX-00351,2025-08-21,Kartika Pratama,087845409849,Depok,Cabang Pusat,Budi Santoso,BeAT,MH1BT1S10007314,Silver,Cash,,,,0,,Selesai,Walk-in,2025-08-29
+TRX-00352,2025-08-22,Irfan Utami,08130322902,Tangerang,Cabang Barat,Joko Susilo,Revo,MH1RV1S10007332,Hitam,Kredit Leasing,Leasing Sentosa,18,5280000,1100000,Disetujui,Selesai,Walk-in,2025-08-25
+TRX-00353,2025-08-23,MELATI KURNIAWAN,087714739713,Bekasi,Cabang Utara,Dewi Anggraini,PCX 160,MH1PC1S10007354,Hitam,Cash,,,,800000,,Selesai,Media sosial,2025-09-06
+TRX-00354,2025-08-24,Agus Lestari,089516714349,Karawang,Cabang Utara,Citra Lestari,BeAT,MH1BT1S10007388,Biru,Kredit Leasing,Leasing Nusa,12,3220000,1050000,Disetujui,Selesai,Telemarketing,2025-09-07
+TRX-00355,2025-08-24,Sari Purnomo,08575452329,Cianjur,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1S10007419,Abu-abu,Cash,,,,1150000,,Selesai,Media sosial,2025-08-28
+TRX-00356,2025-08-24,Joko Hakim,089642040924,Cianjur,Cabang Selatan,Fajar Nugroho,CRF150L,MH1CR1S10007429,Biru,Kredit Leasing,Leasing Nusa,12,8300000,650000,Disetujui,Selesai,Media sosial,2025-09-07
+TRX-00357,2025-08-25,Dian Nugroho,08110356688,Bogor,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1S10007437,Putih,Kredit Leasing,Leasing Nusa,30,4230000,1250000,Disetujui,Selesai,Media sosial,2025-08-27
+TRX-00358,2025-08-26,Ahmad Wibowo,08775822597,Cirebon,Cabang Timur,Gita Permata,Scoopy,MH1SC1S10007454,Hitam,Kredit Leasing,Leasing Nusa,24,4500000,0,Disetujui,Selesai,Referral,2025-09-08
+TRX-00359,2025-08-26,Melati Hidayat,082193065519,Cianjur,Cabang Selatan,Fajar Nugroho,BeAT,MH1BT1S10007477,Putih,Kredit Leasing,Leasing Mitra,30,4100000,500000,Disetujui,Selesai,Walk-in,2025-08-31
+TRX-00360,2025-08-29,Siti Tanjung,085265299188,Bogor,Cabang Pusat,Budi Santoso,Scoopy,MH1SC1S10007488,Abu-abu,Kredit Leasing,Leasing Nusa,24,5460000,0,Disetujui,Selesai,Walk-in,2025-09-12
+TRX-00361,2025-08-30,Teguh Wijaya,087842579042,Cianjur,Cabang Selatan,Fajar Nugroho,Vario 160,MH1V16S10007510,Abu-abu,Cash,,,,0,,Selesai,Referral,2025-09-06
+TRX-00362,2025-08-30,Lina Tanjung,08136251052,Tangerang,Cabang Barat,Indra Maulana,Revo,MH1RV1S10007524,Putih,Cash,,,,500000,,Selesai,Walk-in,2025-09-02
+TRX-00363,2025-08-31,Dewi Handayani,08951006135,Bekasi,Cabang Utara,Citra Lestari,ADV160,MH1AD1S10007547,Silver,Cash,,,,700000,,Selesai,Media sosial,2025-09-08
+TRX-00364,2025-08-31,Melati Hidayat,085798122290,Bekasi,Cabang Utara,Citra Lestari,Genio,MH1GN1S10007582,Abu-abu,Kredit Leasing,Leasing Mitra,35,4670000,0,Disetujui,Selesai,Walk-in,2025-09-08
+TRX-00365,2025-09-01,Bagus Hakim,081374390908,Bekasi,Cabang Utara,Citra Lestari,Revo,MH1RV1S10007612,Merah,Cash,,,,0,,Selesai,Walk-in,2025-09-14
+TRX-00366,2025-09-02,Bambang Hakim ,08215197523,Bogor,Cabang Pusat,Andi Prasetyo,Vario 160,MH1V16S10007628,Hitam,Cash,,,,450000,,Selesai,Referral,2025-09-14
+TRX-00367,2025-09-04,Wahyu Utami,08527186603,Indramayu,Cabang Timur,Hendra Kusuma,Supra X 125,MH1SX1S10007639,Abu-abu,Kredit Leasing,Leasing Mitra,12,3380000,0,Disetujui,Selesai,Media sosial,2025-09-11
+TRX-00368,2025-09-06,Bpk. Nadia Lestari,081327202489,Sukabumi,Cabang Selatan,Eko Wahyudi,ADV160,MH1AD1S10007658,Biru,Kredit Leasing,Leasing Sentosa,24,8850000,14000000,Disetujui,Selesai,Media sosial,2025-09-08
+TRX-00369,2025-09-06,Indah Setiawan,085278148839,Bogor,Cabang Pusat,Budi Santoso,Vario 160,MH1V16S10007664,Silver,Cash,,,,450000,,Selesai,Referral,2025-09-13
+TRX-00370,2025-09-07,Yusuf Permana,082196934422,Sukabumi,Cabang Selatan,Fajar Nugroho,Vario 125,MH1V12S10007699,Hitam,Kredit Leasing,Leasing Nusa,18,4820000,0,Disetujui,Selesai,Referral,2025-09-19
+TRX-00371,2025-09-07,Dedi Kurniawan,08218366777,Cianjur,Cabang Selatan,Eko Wahyudi,Vario 160,MH1V16S10007711 ,Abu-abu,Cash,,,,0,,Selesai,Referral,2025-09-18
+TRX-00372,2025-09-08,Putri Handayani,08120952084,Indramayu,Cabang Timur,Hendra Kusuma,Scoopy,MH1SC1S10007712 ,Biru,Kredit Leasing,Leasing Sentosa,18,4190000,0,Disetujui,Selesai,Walk-in,2025-09-12
+TRX-00373,2025-09-08,Putri Hidayat,08113466838,Karawang,Cabang Utara,Citra Lestari,Vario 125,MH1V12S10007731,Abu-abu,Kredit Leasing,Leasing Nusa,30,5970000,350000,Ditolak,Batal,Walk-in,
+TRX-00374,2025-09-08,Indah Bambang Wibowo,08126966710,Cianjur,Cabang Selatan,Fajar Nugroho,BeAT,MH1BT1S10007750,Biru,Cash,,,,0,,Selesai,Media sosial,2025-09-19
+TRX-00375,2025-09-10,Ahmad Purnomo,08138904706,Indramayu,Cabang Timur,Gita Permata,PCX 160,MH1PC1S10007774,Hitam,Kredit Leasing,Leasing Nusa,18,9800000,850000,Disetujui,Selesai,Pameran,2025-09-16
+TRX-00376,2025-09-10,Sdr. Melati Siregar,082217258524,Depok,Cabang Pusat,Budi Santoso,ADV160,MH1AD1S10007787,Silver,Cash,,,,0,,Selesai,Referral,2025-09-22
+TRX-00377,2025-09-10,Maya Wibowo,08126768936,Bekasi,Cabang Utara,Dewi Anggraini,Revo,MH1RV1S10007815,Silver,Kredit Leasing,Leasing Sentosa,35,3890000,0,Disetujui,Selesai,Media sosial,2025-09-15
+TRX-00378,2025-09-11,Agus Saputra,085258864735,Bogor,Cabang Pusat,Andi Prasetyo,Stylo 160,MH1ST1S10007823,Biru,Cash,,,,350000,,Selesai,Walk-in,2025-09-24
+TRX-00379,2025-09-11,Hendra Rahayu,08224692150,Bekasi,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1S10007826,Biru,Kredit Leasing,Leasing Sentosa,35,3530000,1100000,Disetujui,Selesai,Walk-in,2025-09-20
+TRX-00380,2025-09-11,Maya Hidayat,08218288207,Tangerang,Cabang Barat,Joko Susilo,ADV160,MH1AD1S10007843,Putih,Kredit Leasing,Leasing Mitra,24,6940000,750000,Disetujui,Selesai,Walk-in,2025-09-16
+TRX-00381,2025-09-12,Hendra Firmansyah,085700372163,Indramayu,Cabang Timur,Gita Permata,PCX 160,MH1PC1S10007883,Merah,Kredit Leasing,Leasing Nusa,30,8700000,0,Disetujui,Selesai,Media sosial,2025-09-23
+TRX-00382,2025-09-12,Dian Santoso,085747523255,Cirebon,Cabang Timur,Gita Permata,Revo,MH1RV1S10007885,Abu-abu,Kredit Leasing,Leasing Sentosa,12,4050000,1400000,Disetujui,Selesai,Pameran,2025-09-21
+TRX-00383,2025-09-12,Joko Setiawan,082109790631,Indramayu,Cabang Timur,Gita Permata,Genio,MH1GN1S10007891,Putih,Kredit Leasing,Leasing Mitra,12,5260000,150000,Disetujui,Selesai,Walk-in,2025-09-20
+TRX-00384,2025-09-13,Sari Utami,081296976486,Sukabumi,Cabang Selatan,Fajar Nugroho,CB150R,MH1CB1S10007893,Silver,Cash,,,,0,,Selesai,Walk-in,2025-09-25
+TRX-00385,2025-09-13,Wahyu Wibowo,089593286295,Cianjur,Cabang Selatan,Fajar Nugroho,Scoopy,MH1SC1S10007910,Silver,Kredit Leasing,Leasing Nusa,12,4010000,550000,Disetujui,Selesai,Walk-in,2025-09-27
+TRX-00386,2025-09-13,Nur Siregar,085704282126,Cirebon,Cabang Timur,Gita Permata,Vario 125,MH1V12S10007937,Putih,Kredit Leasing,Leasing Mitra,12,3850000,0,Disetujui,Selesai,Media sosial,2025-09-27
+TRX-00387,2025-09-13,Irfan Tanjung,081170708741,Cianjur,Cabang Selatan,Eko Wahyudi,PCX 160,MH1PC1S10007952,Silver,Kredit Leasing,Leasing Sentosa,18,7620000,400000,Disetujui,Selesai,Walk-in,2025-09-14
+TRX-00388,2025-09-14,Ratna Nugroho,085229575171,Bogor,Cabang Pusat,Andi Prasetyo,Vario 160,mh1v16s10007961,Hitam,Kredit Leasing,Leasing Sentosa,12,4300000,150000,Disetujui,Selesai,Referral,2025-09-15
+TRX-00389,2025-09-14,Dewi Santoso,081135378161,Karawang,Cabang Utara,Citra Lestari,Supra X 125,MH1SX1S10007990,Biru,Cash,,,,700000,,Selesai,Walk-in,2025-09-27
+TRX-00390,2025-09-15,Bagus Lestari,082201683366,Depok,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1S10007992,Silver,Kredit Leasing,Leasing Sentosa,18,3390000,0,Disetujui,Selesai,Referral,2025-09-20
+TRX-00391,2025-09-15,Nadia Kurniawan ,08521721714,Tangerang,Cabang Barat,Indra Maulana,Genio,MH1GN1S10008019,Abu-abu,Kredit Leasing,Leasing Sentosa,30,4560000,0,Disetujui,Selesai,Walk-in,2025-09-17
+TRX-00392,2025-09-16,Sdr. Dewi Rina Nasution,089692446774,Depok,Cabang Pusat,Budi Santoso,PCX 160,MH1PC1S10008054,Merah,Kredit Leasing,Leasing Sentosa,35,9350000,1150000,Disetujui,Selesai,Referral,2025-09-28
+TRX-00393,2025-09-16,Indah Kurniawan,08210619128,Karawang,Cabang Utara,Citra Lestari,Vario 160,MH1V16S10008065,Abu-abu,Kredit Leasing,Leasing Sentosa,18,4270000,0,Disetujui,Selesai,Referral,2025-09-27
+TRX-00394,2025-09-19,Irfan Wibowo,08219324849,Cirebon,Cabang Timur,Hendra Kusuma,Scoopy,MH1SC1S10008105,Merah,Kredit Leasing,Leasing Sentosa,12,5320000,0,Disetujui,Selesai,Referral,2025-09-23
+TRX-00395,2025-09-19,Ayu Hidayat,08573284779,Karawang,Cabang Utara,Citra Lestari,Vario 160,MH1V16S10008118,Biru,Kredit Leasing,Leasing Nusa,18,6400000,200000,Ditolak,Batal,Media sosial,
+TRX-00396,2025-09-20,Rina Lestari,089681794937,Cianjur,Cabang Selatan,Eko Wahyudi,Vario 125,MH1V12S10008132,Merah,Kredit Leasing,Leasing Sentosa,24,5660000,500000,Disetujui,Selesai,Media sosial,2025-09-23
+TRX-00397,2025-09-21,Irfan Siregar,08525669993,Sukabumi,Cabang Selatan,Fajar Nugroho,BeAT,MH1BT1S10008171,Silver,Cash,,,,0,,Selesai,Telemarketing,2025-09-27
+TRX-00398,2025-09-21,Nur Citra Purnomo,08119133578,Bogor,Cabang Pusat,Budi Santoso,Vario 125,MH1V12S10008195,Abu-abu,Kredit Leasing,Leasing Mitra,12,4220000,900000,Disetujui,Selesai,Walk-in,2025-10-05
+TRX-00399,2025-09-21,Putri Lestari,08969508996,Bogor,Cabang Pusat,Andi Prasetyo,Stylo 160,MH1ST1S10008232,Putih,Cash,,,,0,,Selesai,Walk-in,2025-09-29
+TRX-00400,2025-09-22,Irfan Kurniawan,08132916336,Cirebon,Cabang Timur,Gita Permata,Stylo 160,MH1ST1S10008259,Biru,Kredit Leasing,Leasing Nusa,35,8550000,350000,Disetujui,Selesai,Pameran,2025-10-06
+TRX-00401,2025-09-22,Indah Rahayu,08958994191,Karawang,Cabang Utara,Citra Lestari,BeAT,MH1BT1S10008292,Merah,Cash,,,,450000,,Selesai,Pameran,2025-09-24
+TRX-00402,2025-09-22,Citra Wibowo,08111780445,Karawang,Cabang Utara,Dewi Anggraini,CRF150L,MH1CR1S10008316,Putih,Kredit Leasing,Leasing Sentosa,30,10110000,150000,Disetujui,Selesai,Walk-in,2025-09-23
+TRX-00403,2025-09-22,Rizky Saputra,089586927553,Serang,Cabang Barat,Joko Susilo,Scoopy,MH1SC1S10008354,Silver,Kredit Leasing,Leasing Mitra,18,5020000,0,Disetujui,Selesai,Media sosial,2025-09-28
+TRX-00404,2025-09-23,Fajar Nur Hakim,08210739860,Sukabumi,Cabang Selatan,Eko Wahyudi,Vario 125,MH1V12S10008385,Hitam,Cash,,,,1100000,,Selesai,Media sosial,2025-09-30
+TRX-00405,2025-09-24,Nur Susanto,08225737400,Karawang,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1S10008415,Merah,Kredit Leasing,Leasing Nusa,35,4380000,0,Ditolak,Batal,Media sosial,
+TRX-00406,2025-09-24,Bambang Lestari,081344901981,Depok,Cabang Pusat,Budi Santoso,Vario 125,MH1V12S10008453,Abu-abu,Kredit Leasing,Leasing Sentosa,18,4430000,550000,Disetujui,Selesai,Walk-in,2025-09-29
+TRX-00407,2025-09-24,Ahmad Pratama,08219112894,Karawang,Cabang Utara,Citra Lestari,Genio,MH1GN1S10008492,Merah,Kredit Leasing,Leasing Nusa,35,5220000,1050000,Ditolak,Batal,Referral,
+TRX-00408,2025-09-27,Kartika Setiawan,081237076928,Serang,Cabang Barat,Indra Maulana,PCX 160,MH1PC1S10008526,Silver,Kredit Leasing,Leasing Mitra,24,6370000,1100000,Disetujui,Selesai,Walk-in,2025-10-09
+TRX-00409,2025-09-27,Dian Kurniawan,081173780786,Cirebon,Cabang Timur,Hendra Kusuma,CRF150L,MH1CR1S10008556,Hitam,Kredit Leasing,Leasing Sentosa,24,10470000,0,Disetujui,Selesai,Media sosial,2025-10-08
+TRX-00410,2025-09-28,Citra Utami,08138781091,Cirebon,Cabang Timur,Gita Permata,Scoopy,MH1SC1S10008584,Abu-abu,Kredit Leasing,Leasing Sentosa,18,6390000,0,Ditolak,Batal,Walk-in,
+TRX-00411,2025-09-29,Irfan Susanto,08775095260,Sukabumi,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1S10008588,Biru,Kredit Leasing,Leasing Nusa,35,4430000,250000,Disetujui,Selesai,Referral,2025-10-02
+TRX-00412,2025-09-30,Bambang Aditya Pratama,08963939115,Depok,Cabang Pusat,Budi Santoso,CB150R,MH1CB1S10008589,Putih,Cash,,,,750000,,Selesai,Walk-in,2025-10-12
+TRX-00413,2025-10-03,Joko Bagus Lestari,08214961636,Bogor,Cabang Pusat,Budi Santoso,Vario 160,MH1V16S10008593,Silver,Cash,,,,500000,,Selesai,Pameran,2025-10-05
+TRX-00414,2025-10-04,Yusuf Wijaya,081320677508,Cianjur,Cabang Selatan,Eko Wahyudi,PCX 160,MH1PC1S10008617,Biru,Kredit Leasing,Leasing Nusa,30,10300000,0,Disetujui,Selesai,Walk-in,2025-10-08
+TRX-00415,2025-10-04,Bambang Permana,081371147450,Cirebon,Cabang Timur,Hendra Kusuma,PCX 160,MH1PC1S10008650,Silver,Kredit Leasing,Leasing Mitra,35,5600000,350000,Disetujui,Batal,Referral,
+TRX-00416,2025-10-06,Nadia Setiawan,08952209808,Sukabumi,Cabang Selatan,Eko Wahyudi,Vario 160,MH1V16S10008669,Putih,Kredit Leasing,Leasing Sentosa,24,4790000,800000,Disetujui,Selesai,Walk-in,2025-10-16
+TRX-00417,2025-10-06,Taufik Rahayu,081109674471,Sukabumi,Cabang Selatan,Eko Wahyudi,Vario 125,MH1V12S10008689,Abu-abu,Cash,,,,0,,Selesai,Media sosial,2025-10-12
+TRX-00418,2025-10-07,Siti Gunawan,081260554126,Depok,Cabang Pusat,Budi Santoso,CRF150L,MH1CR1S10008693,Hitam,Kredit Leasing,Leasing Sentosa,30,6750000,200000,Disetujui,Selesai,Referral,2025-10-19
+TRX-00419,2025-10-07,Irfan Purnomo,08135478354,Depok,Cabang Pusat,Budi Santoso,Genio,MH1GN1S10008695,Abu-abu,Kredit Leasing,Leasing Nusa,18,3570000,0,Disetujui,Selesai,Walk-in,2025-10-12
+TRX-00420,2025-10-07,Aditya Sri Pratama,08135620317,Indramayu,Cabang Timur,Gita Permata,Supra X 125,MH1SX1S10008709,Hitam,Cash,,,,1400000,,Selesai,Pameran,2025-10-21
+TRX-00421,2025-10-08,Budi Hakim,085786463679,Depok,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1S10008727,Merah,Kredit Leasing,Leasing Sentosa,35,4520000,100000,Disetujui,Selesai,Walk-in,2025-10-14
+TRX-00422,2025-10-09,Lina Hakim,087877460617,Sukabumi,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1S10008746,Putih,Cash,,,,0,,Selesai,Pameran,2025-10-15
+TRX-00423,2025-10-09,Agus Nugroho,08527004671,Tangerang,Cabang Barat,Joko Susilo,Scoopy,MH1SC1S10008775,Hitam,Kredit Leasing,Leasing Sentosa,12,4140000,0,Ditolak,Batal,Pameran,
+TRX-00424,2025-10-10,Indah Maulana,087878845002,Karawang,Cabang Utara,Citra Lestari,Revo,MH1RV1S10008801,Hitam,Kredit Leasing,Leasing Sentosa,12,3150000,650000,Disetujui,Selesai,Telemarketing,2025-10-11
+TRX-00425,2025-10-10,Irfan Lestari,081179079716,Depok,Cabang Pusat,Andi Prasetyo,ADV160,MH1AD1S10008819,Silver,Cash,,,,550000,,Selesai,Pameran,2025-10-23
+TRX-00426,2025-10-10,Melati Halim,089662240894,Bekasi,Cabang Utara,Citra Lestari,PCX 160,MH1PC1S10008841,Abu-abu,Kredit Leasing,Leasing Mitra,30,6950000,0,Disetujui,Selesai,Referral,2025-10-24
+TRX-00427,2025-10-11,Irfan Fitri Siregar,085271714631,Cianjur,Cabang Selatan,Fajar Nugroho,BeAT,MH1BT1S10008864,Abu-abu,Kredit Leasing,Leasing Nusa,35,5420000,700000,Disetujui,Selesai,Media sosial,2025-10-20
+TRX-00428,2025-10-11,Agus Kurniawan,08110648536,Depok,Cabang Pusat,Andi Prasetyo,PCX 160,MH1PC1S10008871,Hitam,Kredit Leasing,Leasing Mitra,35,6900000,700000,Disetujui,Selesai,Telemarketing,2025-10-14
+TRX-00429,2025-10-12,Indah Nugroho,08214937865,Indramayu,Cabang Timur,Gita Permata,Revo,MH1RV1S10008873,Hitam,Kredit Leasing,Leasing Nusa,24,2810000,0,Disetujui,Selesai,Media sosial,2025-10-14
+TRX-00430,2025-10-12,Rizky Maulana,08962908721,Karawang,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1S10008910,Merah,Kredit Leasing,Leasing Sentosa,12,3120000,450000,Disetujui,Selesai,Media sosial,2025-10-13
+TRX-00431,2025-10-12,Eko Nugroho,08957824173,Tangerang,Cabang Barat,Indra Maulana,ADV160,MH1AD1S10008917,Silver,Cash,,,,0,,Selesai,Walk-in,2025-10-24
+TRX-00432,2025-10-12,Aditya Melati Siregar,089615145500,Indramayu,Cabang Timur,Hendra Kusuma,Vario 125,MH1V12S10008946,Silver,Kredit Leasing,Leasing Mitra,24,4040000,0,Disetujui,Selesai,Referral,2025-10-16
+TRX-00433,2025-10-15,Lina Purnomo ,08780942831,Depok,Cabang Pusat,Budi Santoso,CRF150L,MH1CR1S10008972,Merah,Kredit Leasing,Leasing Mitra,35,8590000,650000,Disetujui,Selesai,Walk-in,2025-10-27
+TRX-00434,2025-10-15,Budi Joko Halim,087889724973,Cirebon,Cabang Timur,Hendra Kusuma,Vario 160,MH1V16S10008978,Biru,Kredit Leasing,Leasing Mitra,12,6240000,0,Disetujui,Selesai,Media sosial,2025-10-24
+TRX-00435,2025-10-15,Wahyu Setiawan,08126033879,Cianjur,Cabang Selatan,Fajar Nugroho,BeAT,MH1BT1S10009010,Merah,Cash,,,,900000,,Selesai,Walk-in,2025-10-21
+TRX-00436,2025-10-15,Dewi Kurniawan,081320408878,Karawang,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1S10009019,Silver,Kredit Leasing,Leasing Sentosa,24,3480000,300000,Disetujui,Batal,Telemarketing,
+TRX-00437,2025-10-16,Gunawan Fitri Siregar,087712776016,Karawang,Cabang Utara,Citra Lestari,Supra X 125,MH1SX1S10009057,Putih,Cash,,,,1000000,,Selesai,Referral,2025-10-29
+TRX-00438,2025-10-16,Eko Setiawan,081145312144,Bekasi,Cabang Utara,Citra Lestari,Scoopy,MH1SC1S10009082,Silver,Cash,,,,1300000,,Selesai,Pameran,2025-10-21
+TRX-00439,2025-10-17,Nadia Nugroho,08964213933,Bogor,Cabang Pusat,Andi Prasetyo,Supra X 125,MH1SX1S10009106,Putih,Kredit Leasing,Leasing Nusa,30,4870000,850000,Disetujui,Selesai,Pameran,2025-10-20
+TRX-00440,2025-10-17,Teguh Firmansyah,08123519833,Serang,Cabang Barat,Joko Susilo,Stylo 160,MH1ST1S10009135,Putih,Cash,,,,0,,Selesai,Media sosial,2025-10-23
+TRX-00441,2025-10-18,Taufik Nugroho,08957498332,Cirebon,Cabang Timur,Hendra Kusuma,Vario 160,MH1V16S10009137,Putih,Cash,,,,250000,,Selesai,Walk-in,2025-10-23
+TRX-00442,2025-10-19,Sri Pratama,082169416934,Depok,Cabang Pusat,Budi Santoso,Supra X 125,MH1SX1S10009138,Abu-abu,Cash,,,,0,,Selesai,Walk-in,2025-10-22
+TRX-00443,2025-10-19,Eko Lestari ,081372869744,Serang,Cabang Barat,Indra Maulana,BeAT,mh1bt1s10009155,Merah,Cash,,,,150000,,Selesai,Walk-in,2025-10-29
+TRX-00444,2025-10-21,Eko Siti Halim,08114559812,Tangerang,Cabang Barat,Joko Susilo,BeAT,MH1BT1S10009158,Hitam,Cash,,,,0,,Selesai,Telemarketing,2025-11-02
+TRX-00445,2025-10-21,Fitri Tanjung,082184512855,Indramayu,Cabang Timur,Gita Permata,Vario 125,MH1V12S10009161,Putih,Kredit Leasing,Leasing Nusa,35,5060000,0,Disetujui,Selesai,Media sosial,2025-10-25
+TRX-00446,2025-10-22,Rudi Lestari,08224236130,Cirebon,Cabang Timur,Gita Permata,PCX 160,MH1PC1S10009176,Putih,Kredit Leasing,Leasing Mitra,30,8940000,0,Disetujui,Selesai,Media sosial,2025-10-31
+TRX-00447,2025-10-22,Aditya Nasution,08522995577,Cianjur,Cabang Selatan,Eko Wahyudi,Stylo 160,MH1ST1S10009178,Silver,Kredit Leasing,Leasing Mitra,24,7770000,1500000,Disetujui,Selesai,Referral,2025-10-27
+TRX-00448,2025-10-23,Ratna Lestari,081258433498,Serang,Cabang Barat,Indra Maulana,CB150R,MH1CB1S10009201,Putih,Cash,,,,850000,,Selesai,Pameran,2025-10-30
+TRX-00449,2025-10-25,Indah Halim,08520524487,Sukabumi,Cabang Selatan,Fajar Nugroho,Scoopy,MH1SC1S10009236 ,Merah,Kredit Leasing,Leasing Sentosa,12,6130000,0,Disetujui,Selesai,Referral,2025-11-03
+TRX-00450,2025-10-26,Indah Setiawan,085296169380,Depok,Cabang Pusat,Andi Prasetyo,CB150R,MH1CB1S10009266,Hitam,Kredit Leasing,Leasing Nusa,12,8750000,450000,Disetujui,Selesai,Telemarketing,2025-10-31
+TRX-00451,2025-10-26,Yusuf Susanto,087887478310,Cianjur,Cabang Selatan,Fajar Nugroho,PCX 160,MH1PC1S10009299,Hitam,Cash,,,,0,,Selesai,Media sosial,2025-10-31
+TRX-00452,2025-10-26,Lina Kurniawan,089621252742,Sukabumi,Cabang Selatan,Fajar Nugroho,Vario 125,MH1V12S10009315,Putih,Kredit Leasing,Leasing Sentosa,30,4160000,0,Ditolak,Batal,Media sosial,
+TRX-00453,2025-10-26,Rina Anton Utami,087726662765,Cirebon,Cabang Timur,Hendra Kusuma,Vario 160,MH1V16S10009354,Biru,Cash,,,,1150000,,Selesai,Pameran,2025-11-03
+TRX-00454,2025-10-27,Ibu Siti Firmansyah,085762824959,Depok,Cabang Pusat,Andi Prasetyo,Stylo 160,MH1ST1S10009391,Biru,Kredit Leasing,Leasing Mitra,24,5950000,400000,Disetujui,Selesai,Media sosial,2025-11-06
+TRX-00455,2025-10-27,Nadia Saputra,089505853423,Sukabumi,Cabang Selatan,Fajar Nugroho,CB150R,mh1cb1s10009401,Hitam,Kredit Leasing,Leasing Mitra,35,7580000,0,Disetujui,Selesai,Walk-in,2025-11-07
+TRX-00456,2025-10-28,Aditya Firmansyah ,089673162748,Cianjur,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1S10009420,Biru,Kredit Leasing,Leasing Sentosa,35,4330000,1400000,Ditolak,Batal,Pameran,
+TRX-00457,2025-10-29,Eko Pratama ,08227872631,Bogor,Cabang Pusat,Andi Prasetyo,Vario 125,MH1V12S10009431,Silver,Kredit Leasing,Leasing Mitra,18,5240000,100000,Ditolak,Batal,Media sosial,
+TRX-00458,2025-10-29,Rina Melati Purnomo,082254132264,Depok,Cabang Pusat,Budi Santoso,BeAT,MH1BT1S10009450,Biru,Kredit Leasing,Leasing Nusa,12,3210000,500000,Disetujui,Selesai,Walk-in,2025-11-04
+TRX-00459,2025-10-31,Rudi Tanjung,089693619900,Cirebon,Cabang Timur,Hendra Kusuma,Vario 160,MH1V16S10009454,Merah,Cash,,,,1200000,,Selesai,Media sosial,2025-11-02
+TRX-00460,2025-10-31,Bagus Santoso,08787941270,Sukabumi,Cabang Selatan,Eko Wahyudi,PCX 160,MH1PC1S10009480,Biru,Kredit Leasing,Leasing Nusa,24,7770000,9000000,Disetujui,Selesai,Telemarketing,2025-11-03
+TRX-00461,2025-11-01,Teguh Halim,08125836921,Depok,Cabang Pusat,Budi Santoso,Revo,MH1RV1S10009503,Biru,Kredit Leasing,Leasing Mitra,12,2850000,150000,Disetujui,Selesai,Media sosial,2025-11-12
+TRX-00462,2025-11-01,Rina Purnomo,08112626445,Karawang,Cabang Utara,Dewi Anggraini,ADV160,MH1AD1S10009540,Biru,Kredit Leasing,Leasing Mitra,12,8600000,850000,Disetujui,Selesai,Media sosial,2025-11-12
+TRX-00463,2025-11-02,Reza Tanjung,082245823743,Bogor,Cabang Pusat,Andi Prasetyo,CB150R,MH1CB1S10009557,Hitam,Cash,,,,1050000,,Selesai,Media sosial,2025-11-07
+TRX-00464,2025-11-03,Dewi Permana,089514309830,Cirebon,Cabang Timur,Gita Permata,Genio,MH1GN1S10009595,Putih,Kredit Leasing,Leasing Mitra,30,3320000,550000,Ditolak,Batal,Telemarketing,
+TRX-00465,2025-11-04,AHMAD RAHAYU,081117353316,Bekasi,Cabang Utara,Citra Lestari,Genio,MH1GN1S10009613,Merah,Kredit Leasing,Leasing Nusa,30,3950000,300000,Disetujui,Selesai,Pameran,2025-11-09
+TRX-00466,2025-11-04,Sdr. Irfan Wibowo,08951019641,Depok,Cabang Pusat,Budi Santoso,BeAT,MH1BT1S10009624,Putih,Kredit Leasing,Leasing Nusa,30,5380000,300000,Disetujui,Selesai,Media sosial,2025-11-08
+TRX-00467,2025-11-05,Ayu Wijaya,081144782652,Karawang,Cabang Utara,Citra Lestari,Genio,MH1GN1S10009625,Putih,Cash,,,,500000,,Selesai,Media sosial,2025-11-11
+TRX-00468,2025-11-05,Nadia Wibowo,085244923362,Cianjur,Cabang Selatan,Eko Wahyudi,Vario 125,MH1V12S10009638,Merah,Kredit Leasing,Leasing Mitra,18,3500000,350000,Disetujui,Selesai,Referral,2025-11-09
+TRX-00469,2025-11-06,Melati Nugroho,081299937720,Serang,Cabang Barat,Joko Susilo,ADV160,MH1AD1S10009647,Merah,Kredit Leasing,Leasing Mitra,35,8570000,1500000,Disetujui,Selesai,Walk-in,2025-11-12
+TRX-00470,2025-11-07,Reza Ratna Handayani,08526417150,Bogor,Cabang Pusat,Budi Santoso,BeAT,MH1BT1S10009680,Silver,Kredit Leasing,Leasing Nusa,35,5440000,1000000,Disetujui,Selesai,Referral,2025-11-16
+TRX-00471,2025-11-08,Kartika Tanjung ,08953587560,Cianjur,Cabang Selatan,Eko Wahyudi,Scoopy,mh1sc1s10009712,Abu-abu,Kredit Leasing,Leasing Nusa,18,5930000,1250000,Disetujui,Selesai,Referral,2025-11-12
+TRX-00472,2025-11-08,Yoga Utami,081145987845,Karawang,Cabang Utara,Dewi Anggraini,Vario 125,MH1V12S10009721,Hitam,Kredit Leasing,Leasing Sentosa,35,6630000,0,Disetujui,Selesai,Media sosial,2025-11-03
+TRX-00473,2025-11-08,Dewi Purnomo,089531306983,Bogor,Cabang Pusat,Andi Prasetyo,PCX 160,MH1PC1S10009747,Biru,Cash,,,,300000,,Selesai,Referral,2025-11-13
+TRX-00474,2025-11-08,Sari Siregar,087830881310,Serang,Cabang Barat,Indra Maulana,Supra X 125,MH1SX1S10009749,Hitam,Kredit Leasing,Leasing Mitra,30,3180000,0,Ditolak,Batal,Telemarketing,
+TRX-00475,2025-11-08,Kartika Hakim,08529570375,Cianjur,Cabang Selatan,Eko Wahyudi,Genio,MH1GN1S10009759,Hitam,Kredit Leasing,Leasing Sentosa,35,3590000,1100000,Disetujui,Selesai,Media sosial,2025-11-19
+TRX-00476,2025-11-08,Rina Halim,085730949831,Serang,Cabang Barat,Indra Maulana,CRF150L,MH1CR1S10009769,Silver,Kredit Leasing,Leasing Sentosa,24,5410000,850000,Disetujui,Selesai,Walk-in,2025-11-22
+TRX-00477,2025-11-08,Taufik Gunawan,085771454564,Bogor,Cabang Pusat,Budi Santoso,Supra X 125,MH1SX1S10009807,Abu-abu,Kredit Leasing,Leasing Sentosa,12,3260000,700000,Disetujui,Selesai,Media sosial,2025-11-19
+TRX-00478,2025-11-10,Putri Utami,08123533008,Karawang,Cabang Utara,Citra Lestari,BeAT,MH1BT1S10009845,Putih,Kredit Leasing,Leasing Sentosa,30,5450000,0,Disetujui,Selesai,Media sosial,2025-11-12
+TRX-00479,2025-11-10,Yoga Dian Setiawan,085788867536,Depok,Cabang Pusat,Andi Prasetyo,Vario 160,MH1V16S10009880,Hitam,Kredit Leasing,Leasing Mitra,35,4190000,0,Disetujui,Selesai,Walk-in,2025-11-22
+TRX-00480,2025-11-10,Lina Firmansyah,081190556922,Bogor,Cabang Pusat,Andi Prasetyo,Vario 160,MH1V16S10009907,Putih,Cash,,,,400000,,Selesai,Media sosial,2025-11-24
+TRX-00481,2025-11-10,Citra Utami,08126439603,Sukabumi,Cabang Selatan,Fajar Nugroho,ADV160,MH1AD1S10009910,Abu-abu,Cash,,,,0,,Selesai,Walk-in,2025-11-19
+TRX-00482,2025-11-10,Wahyu Rahayu,08228771973,Depok,Cabang Pusat,Budi Santoso,Revo,MH1RV1S10009919,Hitam,Cash,,,,0,,Selesai,Media sosial,2025-11-22
+TRX-00483,2025-11-12,Dedi Firmansyah,089606889767,Bekasi,Cabang Utara,Citra Lestari,Vario 125,MH1V12S10009939,Putih,Cash,,,,950000,,Selesai,Walk-in,2025-11-18
+TRX-00484,2025-11-12,Fajar Dian Permana,08527857826,Depok,Cabang Pusat,Andi Prasetyo,ADV160,MH1AD1S10009957,Hitam,Cash,,,,0,,Selesai,Walk-in,2025-11-24
+TRX-00485,2025-11-12,Bambang Pratama,085229817333,Karawang,Cabang Utara,Citra Lestari,BeAT,MH1BT1S10009979,Putih,Kredit Leasing,Leasing Mitra,35,3570000,1400000,Ditolak,Batal,Walk-in,
+TRX-00486,2025-11-12,Rizky Firmansyah,08217397781,Cianjur,Cabang Selatan,Fajar Nugroho,CB150R,MH1CB1S10009981,Silver,Kredit Leasing,Leasing Nusa,18,6920000,0,Disetujui,Selesai,Media sosial,2025-11-16
+TRX-00487,2025-11-13,Wahyu Tanjung,08214326956,Cirebon,Cabang Timur,Gita Permata,PCX 160,MH1PC1S10010019,Abu-abu,Kredit Leasing,Leasing Nusa,35,10090000,0,Disetujui,Batal,Telemarketing,
+TRX-00488,2025-11-14,Fitri Hendra Handayani,08773380475,Bogor,Cabang Pusat,Andi Prasetyo,Vario 160,MH1V16S10010022,Biru,Kredit Leasing,Leasing Mitra,24,5990000,0,Disetujui,Selesai,Media sosial,2025-11-25
+TRX-00489,2025-11-14,Bpk. Rina Gunawan ,08579472390,Bekasi,Cabang Utara,Citra Lestari,CB150R,MH1CB1S10010032,Putih,Kredit Leasing,Leasing Sentosa,35,7490000,1300000,Disetujui,Selesai,Pameran,2025-11-21
+TRX-00490,2025-11-15,Nadia Pratama,082157517685,Indramayu,Cabang Timur,Hendra Kusuma,Genio,MH1GN1S10010071,Silver,Cash,,,,0,,Selesai,Referral,2025-11-28
+TRX-00491,2025-11-15,Ibu Agus Halim,085709223074,Depok,Cabang Pusat,Budi Santoso,Scoopy,MH1SC1S10010100,Biru,Kredit Leasing,Leasing Nusa,30,3560000,900000,Disetujui,Selesai,Walk-in,2025-11-26
+TRX-00492,2025-11-15,Rudi Anton Susanto,08529340546,Bekasi,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1S10010128,Putih,Kredit Leasing,Leasing Sentosa,18,5200000,750000,Disetujui,Selesai,Telemarketing,2025-11-27
+TRX-00493,2025-11-17,Nadia Rahayu,08784356342,Cianjur,Cabang Selatan,Eko Wahyudi,Vario 125,MH1V12S10010146,Hitam,Kredit Leasing,Leasing Sentosa,18,6850000,0,Disetujui,Selesai,Pameran,2025-11-18
+TRX-00494,2025-11-17,Joko Handayani,089510394308,Karawang,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1S10010174,Hitam,Kredit Leasing,Leasing Mitra,12,4570000,400000,Disetujui,Selesai,Pameran,2025-11-27
+TRX-00495,2025-11-18,Dian Siregar,089681233438,Indramayu,Cabang Timur,Gita Permata,Genio,MH1GN1S10010178,Biru,Kredit Leasing,Leasing Nusa,24,4220000,0,Disetujui,Selesai,Walk-in,2025-11-29
+TRX-00496,2025-11-19,Hendra Eko Susanto,081344747879,Tangerang,Cabang Barat,Indra Maulana,Vario 125,MH1V12S10010210 ,Biru,Cash,,,,0,,Selesai,Telemarketing,2025-11-21
+TRX-00497,2025-11-19,Wahyu Hidayat,08776657675,Bogor,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1S10010244,Silver,Kredit Leasing,Leasing Sentosa,30,3100000,0,Ditolak,Batal,Referral,
+TRX-00498,2025-11-19,Hendra Santoso,081177593735,Karawang,Cabang Utara,Dewi Anggraini,CB150R,MH1CB1S10010254,Merah,Kredit Leasing,Leasing Mitra,35,6240000,0,Disetujui,Selesai,Walk-in,2025-11-25
+TRX-00499,2025-11-22,Rina Rahayu,087822298048,Sukabumi,Cabang Selatan,Eko Wahyudi,CB150R,MH1CB1S10010269,Silver,Kredit Leasing,Leasing Mitra,12,6160000,1450000,Disetujui,Selesai,Walk-in,2025-11-29
+TRX-00500,2025-11-22,Lina Budi Siregar,08128525103,Tangerang,Cabang Barat,Joko Susilo,BeAT,MH1BT1S10010296,Silver,Cash,,,,1300000,,Selesai,Media sosial,2025-12-01
+TRX-00501,2025-11-23,Irfan Tanjung,089504462281,Depok,Cabang Pusat,Andi Prasetyo,BeAT,mh1bt1s10010322,Putih,Cash,,,,150000,,Selesai,Media sosial,2025-12-02
+TRX-00502,2025-11-24,Bpk. Yusuf Purnomo,08216379303,Sukabumi,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1S10010342,Hitam,Kredit Leasing,Leasing Nusa,24,4570000,300000,Disetujui,Selesai,Walk-in,2025-12-06
+TRX-00503,2025-11-24,Nadia Tanjung,087896607678,Serang,Cabang Barat,Indra Maulana,Scoopy,MH1SC1S10010361,Biru,Kredit Leasing,Leasing Mitra,24,4870000,750000,Disetujui,Selesai,Media sosial,2025-12-08
+TRX-00504,2025-11-24,Agus Wijaya,08116167586,Sukabumi,Cabang Selatan,Fajar Nugroho,Supra X 125,MH1SX1S10010362,Merah,Kredit Leasing,Leasing Sentosa,18,5010000,0,Disetujui,Selesai,Pameran,2025-11-29
+TRX-00505,2025-11-25,Citra Nadia Tanjung,087733199444,Sukabumi,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1S10010389,Merah,Kredit Leasing,Leasing Mitra,18,4910000,1400000,Ditolak,Batal,Pameran,
+TRX-00506,2025-11-26,Ayu Lestari,087832597995,Karawang,Cabang Utara,Citra Lestari,CB150R,MH1CB1S10010396,Putih,Kredit Leasing,Leasing Mitra,35,5310000,400000,Disetujui,Selesai,Referral,2025-12-08
+TRX-00507,2025-11-27,Bambang Joko Santoso,081215034577,Bekasi,Cabang Utara,Dewi Anggraini,PCX 160,MH1PC1S10010398,Putih,Cash,,,,0,,Selesai,Referral,2025-12-09
+TRX-00508,2025-11-27,Taufik Rudi Handayani,08529416917,Indramayu,Cabang Timur,Hendra Kusuma,Vario 125,mh1v12s10010404,Hitam,Kredit Leasing,Leasing Nusa,12,5370000,300000,Disetujui,Selesai,Telemarketing,2025-11-29
+TRX-00509,2025-11-27,Bambang Halim,08120224427,Karawang,Cabang Utara,Dewi Anggraini,CRF150L,MH1CR1S10010418,Putih,Cash,,,,800000,,Selesai,Walk-in,2025-12-10
+TRX-00510,2025-11-28,Indah Utami ,08576698644,Cirebon,Cabang Timur,Gita Permata,Vario 125,MH1V12S10010457,Hitam,Kredit Leasing,Leasing Nusa,35,3920000,1300000,Disetujui,Selesai,Pameran,2025-12-08
+TRX-00511,2025-11-29,Anton Utami,089667913584,Bogor,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1S10010478,Putih,Cash,,,,0,,Selesai,Telemarketing,2025-12-09
+TRX-00512,2025-11-29,Dedi Nugroho,08120559551,Bogor,Cabang Pusat,Andi Prasetyo,CRF150L,MH1CR1S10010504,Hitam,Kredit Leasing,Leasing Mitra,35,7440000,500000,Disetujui,Selesai,Referral,2025-12-02
+TRX-00513,2025-11-30,Eko Maulana,08113661475,Bekasi,Cabang Utara,Dewi Anggraini,Scoopy,MH1SC1S10010532,Hitam,Cash,,,,600000,,Selesai,Telemarketing,2025-12-02
+TRX-00514,2025-11-30,Gunawan Pratama,08572694653,Cirebon,Cabang Timur,Gita Permata,CB150R,mh1cb1s10010553,Biru,Kredit Leasing,Leasing Mitra,18,10080000,850000,Disetujui,Selesai,Media sosial,2025-12-10
+TRX-00515,2025-12-01,Reza Nasution,081235319095,Karawang,Cabang Utara,Citra Lestari,Stylo 160,MH1ST1S10010571,Merah,Kredit Leasing,Leasing Sentosa,35,6890000,150000,Disetujui,Batal,Pameran,
+TRX-00516,2025-12-01,Budi Hidayat,08123918773,Cianjur,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1S10010589,Hitam,Kredit Leasing,Leasing Mitra,35,3220000,1500000,Disetujui,Selesai,Referral,2025-12-12
+TRX-00517,2025-12-01,Aditya Wijaya,08525733940,Bogor,Cabang Pusat,Andi Prasetyo,Revo,MH1RV1S10010616,Hitam,Kredit Leasing,Leasing Nusa,30,2880000,0,Disetujui,Selesai,Pameran,2025-12-08
+TRX-00518,2025-12-02,Sdr. Sri Purnomo,081176688804,Cirebon,Cabang Timur,Hendra Kusuma,Scoopy,mh1sc1s10010617,Hitam,Kredit Leasing,Leasing Nusa,30,4130000,250000,Disetujui,Selesai,Referral,2025-12-09
+TRX-00519,2025-12-02,Sari Wijaya,08216656064,Bekasi,Cabang Utara,Citra Lestari,BeAT,MH1BT1S10010622,Silver,Kredit Leasing,Leasing Mitra,12,3350000,1000000,Disetujui,Selesai,Walk-in,2025-12-07
+TRX-00520,2025-12-02,Nadia Saputra,081332755141,Depok,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1S10010641,Hitam,Cash,,,,300000,,Selesai,Walk-in,2025-12-16
+TRX-00521,2025-12-02,FAJAR FIRMANSYAH,08213079687,Depok,Cabang Pusat,Andi Prasetyo,Vario 125,MH1V12S10010642,Hitam,Cash,,,,0,,Selesai,Walk-in,2025-12-04
+TRX-00522,2025-12-02,Maya Permana,085248596131,Depok,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1S10010666,Biru,Kredit Leasing,Leasing Nusa,18,3730000,900000,Disetujui,Selesai,Pameran,2025-12-06
+TRX-00523,2025-12-03,Sri Sri Hakim,089661483356,Serang,Cabang Barat,Joko Susilo,PCX 160,MH1PC1S10010702,Biru,Kredit Leasing,Leasing Sentosa,12,10620000,700000,Disetujui,Selesai,Walk-in,2025-12-04
+TRX-00524,2025-12-04,Ayu Gunawan,08782915606,Depok,Cabang Pusat,Budi Santoso,Supra X 125,MH1SX1S10010710,Silver,Kredit Leasing,Leasing Mitra,18,3100000,1000000,Disetujui,Selesai,Media sosial,2025-12-16
+TRX-00525,2025-12-06,Ratna Hakim,08954784609,Bekasi,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1S10010717,Putih,Kredit Leasing,Leasing Nusa,12,4850000,0,Disetujui,Selesai,Referral,2025-12-11
+TRX-00526,2025-12-06,Indah Siregar,08228654829,Sukabumi,Cabang Selatan,Eko Wahyudi,Supra X 125,MH1SX1S10010739,Merah,Kredit Leasing,Leasing Sentosa,35,3200000,1250000,Disetujui,Selesai,Walk-in,2025-12-19
+TRX-00527,2025-12-07,Ratna Hakim,087871024146,Tangerang,Cabang Barat,Joko Susilo,Vario 125,MH1V12S10010769,Biru,Kredit Leasing,Leasing Mitra,18,4970000,1100000,Disetujui,Selesai,Referral,2025-12-19
+TRX-00528,2025-12-08,Anton Halim,08125137980,Depok,Cabang Pusat,Budi Santoso,ADV160,MH1AD1S10010794,Silver,Kredit Leasing,Leasing Sentosa,35,7200000,10000000,Disetujui,Batal,Walk-in,
+TRX-00529,2025-12-10,Lina Lestari,08218287261,Cirebon,Cabang Timur,Hendra Kusuma,Scoopy,MH1SC1S10010833,Hitam,Kredit Leasing,Leasing Mitra,30,5230000,0,Disetujui,Selesai,Walk-in,2025-12-22
+TRX-00530,2025-12-10,Kartika Sri Santoso,085223434141,Karawang,Cabang Utara,Citra Lestari,ADV160,MH1AD1S10010839,Abu-abu,Cash,,,,0,,Selesai,Media sosial,2025-12-21
+TRX-00531,2025-12-11,Nur Nugroho,08122137392,Depok,Cabang Pusat,Andi Prasetyo,Scoopy,MH1SC1S10010852,Putih,Kredit Leasing,Leasing Nusa,18,5910000,850000,Disetujui,Selesai,Referral,2025-12-12
+TRX-00532,2025-12-11,Wahyu Fajar Wibowo,081112272576,Karawang,Cabang Utara,Dewi Anggraini,Vario 125,MH1V12S10010881,Biru,Cash,,,,450000,,Selesai,Telemarketing,2025-12-20
+TRX-00533,2025-12-12,Ahmad Siregar,08786775649,Sukabumi,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1S10010918,Abu-abu,Kredit Leasing,Leasing Nusa,18,3160000,0,Disetujui,Selesai,Walk-in,2025-12-21
+TRX-00534,2025-12-12,Joko Handayani,08961829664,Bogor,Cabang Pusat,Andi Prasetyo,Scoopy,MH1SC1S10010944,Putih,Cash,,,,0,,Selesai,Pameran,2025-12-14
+TRX-00535,2025-12-13,Eko Hidayat ,08957628125,Bogor,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1S10010956,Silver,Kredit Leasing,Leasing Sentosa,18,2940000,900000,Disetujui,Selesai,Walk-in,2025-12-16
+TRX-00536,2025-12-14,Joko Rahayu,08965911352,Bogor,Cabang Pusat,Budi Santoso,PCX 160,MH1PC1S10010970,Hitam,Cash,,,,0,,Selesai,Walk-in,2025-12-26
+TRX-00537,2025-12-14,Maya Halim,08778127718,Cirebon,Cabang Timur,Gita Permata,BeAT,MH1BT1S10011004 ,Silver,Cash,,,,0,,Selesai,Referral,2025-12-28
+TRX-00538,2025-12-14,Hendra Handayani,08138648281,Serang,Cabang Barat,Joko Susilo,BeAT,MH1BT1S10011006,Putih,Kredit Leasing,Leasing Mitra,35,3490000,0,Ditolak,Batal,Pameran,
+TRX-00539,2025-12-15,Fajar Hakim,085289923556,Depok,Cabang Pusat,Andi Prasetyo,CRF150L,MH1CR1S10011038,Hitam,Kredit Leasing,Leasing Mitra,24,10270000,400000,Disetujui,Selesai,Media sosial,2025-12-28
+TRX-00540,2025-12-15,Irfan Hakim,08789122489,Sukabumi,Cabang Selatan,Fajar Nugroho,Genio,MH1GN1S10011056,Biru,Kredit Leasing,Leasing Sentosa,24,5710000,300000,Disetujui,Selesai,Media sosial,2025-12-29
+TRX-00541,2025-12-15,Indah Gunawan,081147701026,Tangerang,Cabang Barat,Indra Maulana,BeAT,MH1BT1S10011069 ,Hitam,Kredit Leasing,Leasing Mitra,18,5010000,900000,Disetujui,Selesai,Walk-in,2025-12-21
+TRX-00542,2025-12-16,Yusuf Setiawan,089651926631,Karawang,Cabang Utara,Dewi Anggraini,Scoopy,MH1SC1S10011089,Putih,Kredit Leasing,Leasing Mitra,12,5270000,0,Disetujui,Selesai,Referral,2025-12-22
+TRX-00543,2025-12-19,Bambang Permana,082157281621,Bekasi,Cabang Utara,Dewi Anggraini,Stylo 160,MH1ST1S10011116,Silver,Cash,,,,350000,,Selesai,Referral,2025-12-27
+TRX-00544,2025-12-20,Nur Saputra,08775579096,Karawang,Cabang Utara,Citra Lestari,PCX 160,MH1PC1S10011133,Merah,Kredit Leasing,Leasing Nusa,35,5420000,350000,Disetujui,Selesai,Media sosial,2025-12-28
+TRX-00545,2025-12-20,Kartika Tanjung,08966263090,Indramayu,Cabang Timur,Gita Permata,ADV160,MH1AD1S10011165,Hitam,Kredit Leasing,Leasing Nusa,12,8720000,750000,Disetujui,Selesai,Media sosial,2025-12-25
+TRX-00546,2025-12-21,Dedi Susanto,089558376287,Cianjur,Cabang Selatan,Eko Wahyudi,Vario 125,MH1V12S10011202,Putih,Kredit Leasing,Leasing Sentosa,35,6210000,900000,Disetujui,Selesai,Referral,2025-12-31
+TRX-00547,2025-12-21,Anton Indah Rahayu,08969767270,Bogor,Cabang Pusat,Budi Santoso,Scoopy,MH1SC1S10011207,Biru,Cash,,,,900000,,Selesai,Pameran,2025-12-22
+TRX-00548,2025-12-23,Reza Maulana,089522375576,Sukabumi,Cabang Selatan,Fajar Nugroho,Vario 125,MH1V12S10011214,Hitam,Kredit Leasing,Leasing Sentosa,35,5380000,1000000,Ditolak,Batal,Walk-in,
+TRX-00549,2025-12-23,Putri Wijaya,08771477000,Sukabumi,Cabang Selatan,Fajar Nugroho,BeAT,MH1BT1S10011232,Abu-abu,Cash,,,,1050000,,Selesai,Walk-in,2026-01-01
+TRX-00550,2025-12-24,Agus Permana,08123997000,Depok,Cabang Pusat,Andi Prasetyo,PCX 160,MH1PC1S10011240,Merah,Kredit Leasing,Leasing Mitra,18,9130000,1000000,Disetujui,Selesai,Referral,2025-12-29
+TRX-00551,2025-12-25,Bpk. Dian Handayani,08783439910,Indramayu,Cabang Timur,Gita Permata,Vario 160,MH1V16S10011269,Silver,Kredit Leasing,Leasing Mitra,18,8140000,0,Disetujui,Selesai,Referral,2025-12-26
+TRX-00552,2025-12-26,Siti Halim,082115228083,Bogor,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1S10011281,Hitam,Cash,,,,0,,Selesai,Walk-in,2025-12-27
+TRX-00553,2025-12-26,Ratna Santoso,08110975440,Serang,Cabang Barat,Indra Maulana,Revo,MH1RV1S10011312 ,Hitam,Cash,,,,0,,Selesai,Walk-in,2026-01-06
+TRX-00554,2025-12-26,Putri Siregar,08210549765,Sukabumi,Cabang Selatan,Eko Wahyudi,Vario 125,MH1V12S10011317,Merah,Cash,,,,400000,,Selesai,Media sosial,2026-01-06
+TRX-00555,2025-12-27,Agus Kurniawan,08527555150,Indramayu,Cabang Timur,Gita Permata,PCX 160,MH1PC1S10011325,Silver,Kredit Leasing,Leasing Sentosa,30,7530000,1200000,Disetujui,Selesai,Pameran,2026-01-02
+TRX-00556,2025-12-27,Gunawan Purnomo,089655989255,Cianjur,Cabang Selatan,Fajar Nugroho,Revo,MH1RV1S10011336,Abu-abu,Kredit Leasing,Leasing Sentosa,35,4310000,350000,Disetujui,Selesai,Walk-in,2026-01-09
+TRX-00557,2025-12-28,Ayu Permana,08773258347,Cirebon,Cabang Timur,Gita Permata,Vario 125,MH1V12S10011343,Hitam,Kredit Leasing,Leasing Mitra,18,6690000,550000,Disetujui,Selesai,Telemarketing,2026-01-07
+TRX-00558,2025-12-29,Ahmad Siti Halim,085236885721,Cirebon,Cabang Timur,Gita Permata,Vario 160,MH1V16S10011373,Silver,Cash,,,,0,,Selesai,Pameran,2026-01-06
+TRX-00559,2025-12-29,Fitri Hakim,08961199081,Karawang,Cabang Utara,Citra Lestari,CRF150L,MH1CR1S10011382,Hitam,Cash,,,,850000,,Selesai,Pameran,2026-01-04
+TRX-00560,2025-12-30,Sari Lina Wijaya,087851998305,Tangerang,Cabang Barat,Joko Susilo,BeAT,MH1BT1S10011397,Putih,Cash,,,,1000000,,Selesai,Referral,2026-01-01
+TRX-00561,2025-12-30,Taufik Dewi Santoso,082198884708,Depok,Cabang Pusat,Budi Santoso,Supra X 125,MH1SX1S10011416,Putih,Kredit Leasing,Leasing Mitra,12,3270000,800000,Disetujui,Selesai,Walk-in,2026-01-06
+TRX-00562,2026-01-01,Dewi Santoso,08774177587,Karawang,Cabang Utara,Dewi Anggraini,Vario 160,MH1V16T10011446,Putih,Cash,,,,900000,,Selesai,Walk-in,2026-01-14
+TRX-00563,2026-01-02,TAUFIK WIBOWO,081188072782,Cirebon,Cabang Timur,Gita Permata,BeAT,MH1BT1T10011447,Hitam,Kredit Leasing,Leasing Nusa,30,3310000,1400000,Ditolak,Batal,Media sosial,
+TRX-00564,2026-01-03,Anton Budi Utami,08130693796,Serang,Cabang Barat,Joko Susilo,Revo,MH1RV1T10011470,Hitam,Kredit Leasing,Leasing Sentosa,18,4580000,0,Disetujui,Selesai,Pameran,2026-01-09
+TRX-00565,2026-01-03,Siti Handayani,08219374077,Bekasi,Cabang Utara,Citra Lestari,CRF150L,MH1CR1T10011481,Biru,Kredit Leasing,Leasing Nusa,24,7310000,1350000,Ditolak,Batal,Walk-in,
+TRX-00566,2026-01-03,Sari Handayani,08786986852,Depok,Cabang Pusat,Budi Santoso,BeAT,MH1BT1T10011486,Hitam,Kredit Leasing,Leasing Sentosa,24,5260000,1300000,Ditolak,Batal,Walk-in,
+TRX-00567,2026-01-04,Sri Siregar,08786486652,Bekasi,Cabang Utara,Dewi Anggraini,Vario 160,MH1V16T10011510,Silver,Kredit Leasing,Leasing Sentosa,30,4430000,150000,Disetujui,Selesai,Walk-in,2026-01-10
+TRX-00568,2026-01-04,Agus Siregar,081125076471,Cirebon,Cabang Timur,Hendra Kusuma,PCX 160,MH1PC1T10011534,Biru,Kredit Leasing,Leasing Sentosa,12,10510000,0,Disetujui,Selesai,Telemarketing,2026-01-16
+TRX-00569,2026-01-05,Joko Wibowo,087757246006,Bekasi,Cabang Utara,Citra Lestari,ADV160,mh1ad1t10011556,Silver,Kredit Leasing,Leasing Nusa,30,9530000,0,Disetujui,Selesai,Media sosial,2026-01-06
+TRX-00570,2026-01-05,Citra Rahayu,08778287758,Sukabumi,Cabang Selatan,Eko Wahyudi,Stylo 160,MH1ST1T10011559,Silver,Kredit Leasing,Leasing Sentosa,24,7470000,1350000,Disetujui,Selesai,Media sosial,2026-01-10
+TRX-00571,2026-01-05,Lina Ahmad Pratama,08216477097,Bogor,Cabang Pusat,Budi Santoso,Vario 160,MH1V16T10011598,Abu-abu,Cash,,,,0,,Selesai,Media sosial,2026-01-12
+TRX-00572,2026-01-06,Sari Pratama,085292002261,Sukabumi,Cabang Selatan,Fajar Nugroho,Scoopy,MH1SC1T10011600,Silver,Kredit Leasing,Leasing Sentosa,24,5920000,1450000,Disetujui,Selesai,Media sosial,2026-01-12
+TRX-00573,2026-01-09,Ibu Yoga Wibowo,08214025039,Indramayu,Cabang Timur,Gita Permata,ADV160,MH1AD1T10011630,Silver,Kredit Leasing,Leasing Mitra,30,10660000,0,Disetujui,Selesai,Referral,2026-01-20
+TRX-00574,2026-01-10,Rina Saputra,087702971693,Sukabumi,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1T10011659,Biru,Kredit Leasing,Leasing Sentosa,35,5480000,0,Disetujui,Selesai,Walk-in,2026-01-11
+TRX-00575,2026-01-11,Yusuf Hidayat,08578583638,Sukabumi,Cabang Selatan,Fajar Nugroho,Vario 160,MH1V16T10011673,Hitam,Kredit Leasing,Leasing Mitra,18,4630000,0,Disetujui,Selesai,Walk-in,2026-01-16
+TRX-00576,2026-01-11,Putri Utami,089633488125,Bogor,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1T10011676,Hitam,Kredit Leasing,Leasing Nusa,30,3690000,650000,Disetujui,Selesai,Walk-in,2026-01-15
+TRX-00577,2026-01-12,Sri Purnomo,085789988921,Bekasi,Cabang Utara,Dewi Anggraini,Genio,MH1GN1T10011683,Biru,Cash,,,,0,,Selesai,Referral,2026-01-17
+TRX-00578,2026-01-12,Putri Wibowo ,081233673865,Cianjur,Cabang Selatan,Eko Wahyudi,PCX 160,mh1pc1t10011699,Merah,Kredit Leasing,Leasing Nusa,12,9170000,500000,Disetujui,Batal,Media sosial,
+TRX-00579,2026-01-14,Sdr. Teguh Nasution ,08577481959,Indramayu,Cabang Timur,Gita Permata,Vario 160,MH1V16T10011722,Silver,Kredit Leasing,Leasing Mitra,30,5170000,1400000,Disetujui,Selesai,Walk-in,2026-01-15
+TRX-00580,2026-01-14,MAYA FIRMANSYAH,081358871184,Serang,Cabang Barat,Indra Maulana,BeAT,MH1BT1T10011749,Biru,Kredit Leasing,Leasing Nusa,24,5250000,700000,Disetujui,Selesai,Walk-in,2026-01-25
+TRX-00581,2026-01-14,Hendra Tanjung,081341683458,Depok,Cabang Pusat,Andi Prasetyo,Scoopy,MH1SC1T10011756,Hitam,Cash,,,,0,,Selesai,Pameran,2026-01-20
+TRX-00582,2026-01-15,Dian Setiawan,081365931359,Tangerang,Cabang Barat,Joko Susilo,Stylo 160,MH1ST1T10011787,Silver,Kredit Leasing,Leasing Sentosa,12,6100000,150000,Disetujui,Selesai,Walk-in,2026-01-25
+TRX-00583,2026-01-15,Lina Anton Setiawan,081320117889,Cianjur,Cabang Selatan,Fajar Nugroho,Stylo 160,MH1ST1T10011800,Hitam,Cash,,,,200000,,Selesai,Walk-in,2026-01-28
+TRX-00584,2026-01-16,Siti Halim,081219635228,Bekasi,Cabang Utara,Citra Lestari,PCX 160,MH1PC1T10011838,Putih,Kredit Leasing,Leasing Sentosa,18,9450000,150000,Disetujui,Selesai,Pameran,2026-01-20
+TRX-00585,2026-01-16,Budi Purnomo,08573874006,Bekasi,Cabang Utara,Citra Lestari,Scoopy,MH1SC1T10011868,Silver,Kredit Leasing,Leasing Sentosa,12,5200000,400000,Disetujui,Selesai,Walk-in,2026-01-19
+TRX-00586,2026-01-17,Rizky Nasution,087726923327,Bogor,Cabang Pusat,Budi Santoso,PCX 160,MH1PC1T10011895 ,Merah,Kredit Leasing,Leasing Sentosa,12,8300000,0,Disetujui,Selesai,Walk-in,2026-01-31
+TRX-00587,2026-01-18,Melati Joko Maulana,08221938016,Cirebon,Cabang Timur,Gita Permata,Scoopy,MH1SC1T10011934,Hitam,Kredit Leasing,Leasing Nusa,18,6660000,0,Disetujui,Selesai,Walk-in,2026-02-01
+TRX-00588,2026-01-19,Citra Gunawan,089613269046,Serang,Cabang Barat,Indra Maulana,Vario 125,MH1V12T10011955,Hitam,Kredit Leasing,Leasing Mitra,12,5600000,400000,Disetujui,Selesai,Pameran,2026-01-20
+TRX-00589,2026-01-20,Ratna Maulana,08128815347,Bekasi,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1T10011988,Biru,Kredit Leasing,Leasing Nusa,35,3810000,0,Disetujui,Selesai,Referral,2026-01-18
+TRX-00590,2026-01-21,Bpk. Rina Kurniawan,082134568765,Depok,Cabang Pusat,Budi Santoso,CB150R,MH1CB1T10012025,Biru,Cash,,,,700000,,Selesai,Walk-in,2026-02-01
+TRX-00591,2026-01-22,Anton Setiawan,085757257417,Cianjur,Cabang Selatan,Eko Wahyudi,Vario 160,MH1V16T10012028,Biru,Kredit Leasing,Leasing Nusa,35,6660000,300000,Disetujui,Selesai,Referral,2026-01-25
+TRX-00592,2026-01-22,Ratna Kurniawan,085227774268,Bekasi,Cabang Utara,Dewi Anggraini,Vario 125,MH1V12T10012044,Silver,Kredit Leasing,Leasing Mitra,12,6580000,0,Disetujui,Selesai,Referral,2026-01-25
+TRX-00593,2026-01-23,Wahyu Nasution,085797272218,Karawang,Cabang Utara,Citra Lestari,ADV160,MH1AD1T10012074,Hitam,Cash,,,,700000,,Selesai,Media sosial,2026-01-28
+TRX-00594,2026-01-24,Kartika Siregar,082122738116,Depok,Cabang Pusat,Budi Santoso,CB150R,MH1CB1T10012112,Putih,Kredit Leasing,Leasing Mitra,35,8300000,450000,Disetujui,Selesai,Media sosial,2026-01-25
+TRX-00595,2026-01-25,Fajar Santoso,089582204230,Bogor,Cabang Pusat,Andi Prasetyo,Revo,MH1RV1T10012117 ,Hitam,Kredit Leasing,Leasing Mitra,12,2960000,650000,Disetujui,Selesai,Walk-in,2026-02-01
+TRX-00596,2026-01-25,Ibu Teguh Tanjung,085288322110,Tangerang,Cabang Barat,Joko Susilo,CRF150L,MH1CR1T10012124,Hitam,Cash,,,,900000,,Selesai,Walk-in,2026-01-28
+TRX-00597,2026-01-26,Sri Tanjung,08577242402,Indramayu,Cabang Timur,Hendra Kusuma,Vario 160,MH1V16T10012155,Silver,Kredit Leasing,Leasing Nusa,30,6740000,650000,Ditolak,Batal,Telemarketing,
+TRX-00598,2026-01-27,Sdr. Melati Nasution,08228691533,Depok,Cabang Pusat,Budi Santoso,CB150R,MH1CB1T10012194,Abu-abu,Kredit Leasing,Leasing Nusa,35,6250000,1450000,Disetujui,Selesai,Referral,2026-02-08
+TRX-00599,2026-01-27,Aditya Nur Siregar,08131294687,Sukabumi,Cabang Selatan,Eko Wahyudi,Revo,MH1RV1T10012219,Biru,Cash,,,,0,,Selesai,Pameran,2026-01-31
+TRX-00600,2026-01-27,Anton Wijaya,08214879965,Tangerang,Cabang Barat,Joko Susilo,Vario 125,MH1V12T10012254,Biru,Kredit Leasing,Leasing Sentosa,24,4000000,400000,Disetujui,Selesai,Media sosial,2026-01-28
+TRX-00601,2026-01-27,Bambang Lestari,082283422114,Depok,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1T10012275,Biru,Kredit Leasing,Leasing Mitra,35,5270000,900000,Disetujui,Selesai,Walk-in,2026-02-01
+TRX-00602,2026-01-28,Joko Nasution,085701101942,Depok,Cabang Pusat,Budi Santoso,Vario 160,MH1V16T10012313,Hitam,Kredit Leasing,Leasing Nusa,30,6280000,750000,Disetujui,Selesai,Referral,2026-02-06
+TRX-00603,2026-01-29,NADIA SUSANTO,085228801032,Tangerang,Cabang Barat,Indra Maulana,Vario 125,MH1V12T10012321,Biru,Kredit Leasing,Leasing Nusa,18,5370000,1200000,Disetujui,Selesai,Referral,2026-02-11
+TRX-00604,2026-01-30,Dian Hakim,08216409274,Tangerang,Cabang Barat,Indra Maulana,CRF150L,MH1CR1T10012342,Abu-abu,Kredit Leasing,Leasing Nusa,12,9700000,500000,Disetujui,Selesai,Telemarketing,2026-02-02
+TRX-00605,2026-01-31,Bagus Indah Handayani,087784265743,Bekasi,Cabang Utara,Dewi Anggraini,Genio,MH1GN1T10012368,Hitam,Cash,,,,0,,Selesai,Walk-in,2026-02-03
+TRX-00606,2026-01-31,Nadia Permana ,08783226876,Cirebon,Cabang Timur,Hendra Kusuma,CB150R,MH1CB1T10012382,Hitam,Cash,,,,1250000,,Selesai,Walk-in,2026-02-05
+TRX-00607,2026-02-01,Maya Nasution,085298129094,Indramayu,Cabang Timur,Hendra Kusuma,Scoopy,MH1SC1T10012396,Hitam,Cash,,,,1100000,,Selesai,Media sosial,2026-02-12
+TRX-00608,2026-02-02,Siti Nasution,087848658682,Bogor,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1T10012399,Putih,Cash,,,,0,,Selesai,Referral,2026-02-05
+TRX-00609,2026-02-02,Nur Wahyu Kurniawan,089637850314,Indramayu,Cabang Timur,Hendra Kusuma,Vario 125,MH1V12T10012428,Putih,Kredit Leasing,Leasing Mitra,24,3600000,0,Ditolak,Batal,Telemarketing,
+TRX-00610,2026-02-03,Hendra Halim,085757351946,Sukabumi,Cabang Selatan,Fajar Nugroho,Scoopy,MH1SC1T10012461,Merah,Kredit Leasing,Leasing Mitra,12,6550000,250000,Disetujui,Selesai,Media sosial,2026-02-06
+TRX-00611,2026-02-04,Rudi Siregar,08578853915,Karawang,Cabang Utara,Citra Lestari,Supra X 125,MH1SX1T10012488,Abu-abu,Kredit Leasing,Leasing Sentosa,35,5960000,1350000,Disetujui,Selesai,Walk-in,2026-02-10
+TRX-00612,2026-02-05,Reza Pratama,08786120855,Sukabumi,Cabang Selatan,Fajar Nugroho,Supra X 125,MH1SX1T10012521,Putih,Kredit Leasing,Leasing Mitra,30,4380000,200000,Disetujui,Selesai,Walk-in,2026-02-08
+TRX-00613,2026-02-07,Fajar Permana,08227392932,Sukabumi,Cabang Selatan,Eko Wahyudi,CRF150L,MH1CR1T10012540,Merah,Kredit Leasing,Leasing Mitra,35,6570000,1350000,Disetujui,Selesai,Walk-in,2026-02-11
+TRX-00614,2026-02-07,Sdr. Yoga Susanto,087874303261,Cirebon,Cabang Timur,Hendra Kusuma,Supra X 125,MH1SX1T10012558,Merah,Kredit Leasing,Leasing Nusa,12,5820000,1350000,Disetujui,Selesai,Pameran,2026-02-10
+TRX-00615,2026-02-08,Bagus Firmansyah,08574568927,Tangerang,Cabang Barat,Indra Maulana,Genio,MH1GN1T10012571,Biru,Kredit Leasing,Leasing Mitra,30,4660000,0,Disetujui,Selesai,Pameran,2026-02-21
+TRX-00616,2026-02-09,Ibu Dian Wijaya,085203338554,Cianjur,Cabang Selatan,Eko Wahyudi,Scoopy,MH1SC1T10012587,Putih,Cash,,,,900000,,Selesai,Walk-in,2026-02-16
+TRX-00617,2026-02-11,Ibu Fajar Setiawan,081349756517,Bogor,Cabang Pusat,Andi Prasetyo,ADV160,MH1AD1T10012601,Putih,Cash,,,,15000000,,Selesai,Walk-in,2026-02-19
+TRX-00618,2026-02-13,Reza Pratama,08785007073,Bogor,Cabang Pusat,Budi Santoso,Scoopy,MH1SC1T10012610,Hitam,Kredit Leasing,Leasing Nusa,12,6690000,1100000,Disetujui,Selesai,Telemarketing,2026-02-14
+TRX-00619,2026-02-14,Fajar Gunawan,08130730880,Bogor,Cabang Pusat,Budi Santoso,Revo,MH1RV1T10012640,Abu-abu,Cash,,,,1200000,,Selesai,Media sosial,2026-02-26
+TRX-00620,2026-02-14,Sri Halim,081283207306,Depok,Cabang Pusat,Budi Santoso,Vario 160,MH1V16T10012642,Biru,Kredit Leasing,Leasing Sentosa,18,7360000,0,Disetujui,Selesai,Pameran,2026-02-17
+TRX-00621,2026-02-14,Sdr. Nadia Firmansyah,08962501142,Bogor,Cabang Pusat,Andi Prasetyo,Vario 160,MH1V16T10012670,Merah,Kredit Leasing,Leasing Sentosa,30,7390000,200000,Disetujui,Selesai,Telemarketing,2026-02-15
+TRX-00622,2026-02-15,Ibu Hendra Joko Rahayu,085273234579,Depok,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1T10012693,Silver,Kredit Leasing,Leasing Nusa,12,4090000,0,Disetujui,Selesai,Referral,2026-02-19
+TRX-00623,2026-02-15,Nur Siregar,08953092930,Cianjur,Cabang Selatan,Eko Wahyudi,Vario 160,MH1V16T10012724,Putih,Kredit Leasing,Leasing Mitra,30,8000000,650000,Disetujui,Selesai,Walk-in,2026-02-28
+TRX-00624,2026-02-15,Irfan Hendra Halim,08573115558,Sukabumi,Cabang Selatan,Fajar Nugroho,CB150R,MH1CB1T10012731,Abu-abu,Cash,,,,0,,Selesai,Media sosial,2026-02-23
+TRX-00625,2026-02-16,Joko Wijaya,089659648008,Bogor,Cabang Pusat,Budi Santoso,BeAT,MH1BT1T10012741,Merah,Kredit Leasing,Leasing Nusa,24,5390000,1400000,Disetujui,Selesai,Referral,2026-02-27
+TRX-00626,2026-02-17,Eko Gunawan,089604167446,Tangerang,Cabang Barat,Joko Susilo,Supra X 125,MH1SX1T10012763,Putih,Kredit Leasing,Leasing Nusa,24,5760000,1100000,Disetujui,Selesai,Telemarketing,2026-02-26
+TRX-00627,2026-02-18,Sri Gunawan Pratama,08774069563,Tangerang,Cabang Barat,Joko Susilo,Scoopy,MH1SC1T10012777,Merah,Kredit Leasing,Leasing Nusa,30,4850000,0,Disetujui,Selesai,Pameran,2026-02-27
+TRX-00628,2026-02-18,Bpk. Dedi Rahayu,081397130040,Sukabumi,Cabang Selatan,Eko Wahyudi,CRF150L,MH1CR1T10012805,Hitam,Kredit Leasing,Leasing Sentosa,30,7620000,0,Disetujui,Selesai,Media sosial,2026-02-21
+TRX-00629,2026-02-20,Gunawan Pratama,081267689419,Karawang,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1T10012838,Putih,Kredit Leasing,Leasing Mitra,24,3750000,0,Disetujui,Selesai,Telemarketing,2026-03-05
+TRX-00630,2026-02-21,Taufik Siregar,087739530992,Tangerang,Cabang Barat,Indra Maulana,Vario 125,MH1V12T10012852,Hitam,Cash,,,,300000,,Selesai,Pameran,2026-02-22
+TRX-00631,2026-02-22,Agus Rahayu ,08224126133,Cirebon,Cabang Timur,Gita Permata,Vario 160,MH1V16T10012881,Abu-abu,Kredit Leasing,Leasing Sentosa,24,6810000,1400000,Disetujui,Selesai,Referral,2026-02-24
+TRX-00632,2026-02-22,Ratna Setiawan,08770490830,Cirebon,Cabang Timur,Hendra Kusuma,Stylo 160,MH1ST1T10012915,Abu-abu,Kredit Leasing,Leasing Sentosa,35,7210000,1350000,Disetujui,Selesai,Pameran,2026-02-27
+TRX-00633,2026-02-23,Wahyu Pratama,08210575662,Karawang,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1T10012953,Merah,Kredit Leasing,Leasing Nusa,35,4540000,1150000,Disetujui,Selesai,Walk-in,2026-03-09
+TRX-00634,2026-02-24,Aditya Handayani,08952235887,Depok,Cabang Pusat,Budi Santoso,Vario 125,mh1v12t10012986,Putih,Kredit Leasing,Leasing Sentosa,24,5810000,900000,Disetujui,Selesai,Walk-in,2026-02-26
+TRX-00635,2026-02-25,Agus Purnomo,08139172053,Sukabumi,Cabang Selatan,Eko Wahyudi,Genio,MH1GN1T10012994,Biru,Kredit Leasing,Leasing Sentosa,24,3130000,1450000,Disetujui,Selesai,Telemarketing,2026-03-08
+TRX-00636,2026-02-25,Dian Agus Santoso,08953492381,Bogor,Cabang Pusat,Andi Prasetyo,Scoopy,MH1SC1T10013023,Biru,Cash,,,,1050000,,Selesai,Media sosial,2026-03-03
+TRX-00637,2026-02-26,Hendra Siregar,08950954133,Cirebon,Cabang Timur,Gita Permata,Supra X 125,MH1SX1T10013030,Hitam,Kredit Leasing,Leasing Nusa,12,3230000,200000,Disetujui,Selesai,Media sosial,2026-03-06
+TRX-00638,2026-02-26,Melati Yoga Permana,082193201116,Tangerang,Cabang Barat,Joko Susilo,BeAT,MH1BT1T10013051,Merah,Kredit Leasing,Leasing Sentosa,12,3530000,1450000,Disetujui,Selesai,Media sosial,2026-03-05
+TRX-00639,2026-02-27,Siti Lestari,08525600863,Indramayu,Cabang Timur,Hendra Kusuma,Scoopy,MH1SC1T10013090,Hitam,Kredit Leasing,Leasing Mitra,30,7020000,800000,Disetujui,Selesai,Media sosial,2026-03-12
+TRX-00640,2026-02-27,Yoga Rina Gunawan,08129702502,Sukabumi,Cabang Selatan,Eko Wahyudi,Vario 125,MH1V12T10013124,Hitam,Cash,,,,800000,,Selesai,Walk-in,2026-03-12
+TRX-00641,2026-02-28,Ayu Hendra Wibowo,081142846161,Cianjur,Cabang Selatan,Fajar Nugroho,BeAT,MH1BT1T10013137,Hitam,Kredit Leasing,Leasing Sentosa,24,4530000,1000000,Disetujui,Selesai,Pameran,2026-03-13
+TRX-00642,2026-03-01,Eko Yoga Rahayu,08773798191,Indramayu,Cabang Timur,Hendra Kusuma,Vario 125,MH1V12T10013138,Biru,Kredit Leasing,Leasing Sentosa,18,3770000,0,Ditolak,Batal,Media sosial,
+TRX-00643,2026-03-01,Bagus Setiawan,08112389864,Depok,Cabang Pusat,Budi Santoso,Revo,MH1RV1T10013143,Merah,Kredit Leasing,Leasing Mitra,30,4920000,0,Disetujui,Selesai,Walk-in,2026-03-12
+TRX-00644,2026-03-03,Sri Siregar,08229768347,Tangerang,Cabang Barat,Joko Susilo,PCX 160,MH1PC1T10013150,Merah,Cash,,,,750000,,Selesai,Referral,2026-03-12
+TRX-00645,2026-03-04,Joko Kurniawan,08528268876,Bekasi,Cabang Utara,Citra Lestari,Scoopy,MH1SC1T10013178,Merah,Kredit Leasing,Leasing Nusa,30,4520000,600000,Disetujui,Selesai,Walk-in,2026-03-18
+TRX-00646,2026-03-05,Budi Hakim,081265437057,Cirebon,Cabang Timur,Hendra Kusuma,CRF150L,MH1CR1T10013180,Silver,Kredit Leasing,Leasing Sentosa,30,7710000,700000,Disetujui,Selesai,Media sosial,2026-03-07
+TRX-00647,2026-03-05,Anton Gunawan,087776543463,Bogor,Cabang Pusat,Andi Prasetyo,ADV160,MH1AD1T10013201 ,Silver,Kredit Leasing,Leasing Mitra,18,8870000,0,Ditolak,Batal,Media sosial,
+TRX-00648,2026-03-06,Aditya Nasution,08121125163,Tangerang,Cabang Barat,Joko Susilo,ADV160,MH1AD1T10013237,Abu-abu,Kredit Leasing,Leasing Mitra,35,6920000,950000,Ditolak,Batal,Walk-in,
+TRX-00649,2026-03-06,Indah Rahayu,081154561438,Karawang,Cabang Utara,Citra Lestari,Revo,MH1RV1T10013256,Putih,Kredit Leasing,Leasing Mitra,35,4440000,950000,Disetujui,Selesai,Referral,2026-03-15
+TRX-00650,2026-03-06,Teguh Maulana,081214712837,Depok,Cabang Pusat,Andi Prasetyo,Vario 160,MH1V16T10013281,Hitam,Kredit Leasing,Leasing Sentosa,12,5910000,0,Disetujui,Selesai,Walk-in,2026-03-10
+TRX-00651,2026-03-07,Rina Permana,081134710906,Depok,Cabang Pusat,Budi Santoso,Vario 160,MH1V16T10013284,Biru,Cash,,,,750000,,Selesai,Walk-in,2026-03-17
+TRX-00652,2026-03-08,Citra Pratama ,08528959001,Depok,Cabang Pusat,Andi Prasetyo,Revo,MH1RV1T10013317,Putih,Cash,,,,1450000,,Selesai,Referral,2026-03-17
+TRX-00653,2026-03-08,Agus Setiawan,082288829043,Cianjur,Cabang Selatan,Fajar Nugroho,Scoopy,MH1SC1T10013348,Hitam,Kredit Leasing,Leasing Sentosa,18,5210000,1200000,Disetujui,Selesai,Media sosial,2026-03-11
+TRX-00654,2026-03-09,Bambang Nugroho,085246635180,Cianjur,Cabang Selatan,Fajar Nugroho,Scoopy,MH1SC1T10013386,Putih,Kredit Leasing,Leasing Mitra,12,4090000,0,Disetujui,Selesai,Walk-in,2026-03-16
+TRX-00655,2026-03-09,Kartika Hidayat,087807397222,Karawang,Cabang Utara,Dewi Anggraini,PCX 160,MH1PC1T10013405,Merah,Kredit Leasing,Leasing Nusa,24,6780000,400000,Disetujui,Selesai,Telemarketing,2026-03-16
+TRX-00656,2026-03-09,Budi Utami,087749140218,Indramayu,Cabang Timur,Gita Permata,PCX 160,MH1PC1T10013412,Silver,Kredit Leasing,Leasing Mitra,24,9950000,300000,Disetujui,Selesai,Walk-in,2026-03-20
+TRX-00657,2026-03-10,Rina Eko Utami,087732104218,Tangerang,Cabang Barat,Joko Susilo,Vario 125,MH1V12T10013415,Merah,Cash,,,,750000,,Selesai,Referral,2026-03-16
+TRX-00658,2026-03-11,Sari Nugroho,08211248612,Tangerang,Cabang Barat,Joko Susilo,BeAT,MH1BT1T10013432,Silver,Kredit Leasing,Leasing Sentosa,30,2850000,1000000,Ditolak,Batal,Referral,
+TRX-00659,2026-03-11,Citra Utami,08214199122,Depok,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1T10013453,Putih,Cash,,,,1000000,,Selesai,Referral,2026-03-21
+TRX-00660,2026-03-13,Rina Maulana,085220244821,Bekasi,Cabang Utara,Dewi Anggraini,Vario 160,MH1V16T10013475,Putih,Kredit Leasing,Leasing Sentosa,24,5610000,1250000,Disetujui,Selesai,Pameran,2026-03-09
+TRX-00661,2026-03-14,Nadia Fajar Purnomo,08575826117,Serang,Cabang Barat,Indra Maulana,Vario 125,MH1V12T10013511,Merah,Kredit Leasing,Leasing Sentosa,12,4370000,650000,Disetujui,Selesai,Telemarketing,2026-03-15
+TRX-00662,2026-03-15,Indah Rahayu,082118120083,Bogor,Cabang Pusat,Budi Santoso,CRF150L,MH1CR1T10013533,Merah,Kredit Leasing,Leasing Nusa,24,10200000,1100000,Disetujui,Selesai,Walk-in,2026-03-22
+TRX-00663,2026-03-16,PUTRI SANTOSO,08575761812,Bekasi,Cabang Utara,Citra Lestari,PCX 160,MH1PC1T10013560,Putih,Kredit Leasing,Leasing Nusa,18,7510000,1250000,Disetujui,Selesai,Media sosial,2026-03-26
+TRX-00664,2026-03-16,Taufik Kurniawan,08210679584,Indramayu,Cabang Timur,Hendra Kusuma,Vario 125,MH1V12T10013599 ,Putih,Cash,,,,550000,,Selesai,Walk-in,2026-03-18
+TRX-00665,2026-03-17,Irfan Kurniawan,085263011542,Tangerang,Cabang Barat,Joko Susilo,Supra X 125,MH1SX1T10013608,Silver,Cash,,,,750000,,Selesai,Pameran,2026-03-20
+TRX-00666,2026-03-17,Bambang Nasution,082207187931,Bogor,Cabang Pusat,Andi Prasetyo,Genio,MH1GN1T10013644,Silver,Kredit Leasing,Leasing Mitra,18,5350000,800000,Disetujui,Selesai,Media sosial,2026-03-28
+TRX-00667,2026-03-18,Agus Maulana,08113225291,Bogor,Cabang Pusat,Andi Prasetyo,ADV160,MH1AD1T10013656,Abu-abu,Cash,,,,0,,Selesai,Walk-in,2026-03-26
+TRX-00668,2026-03-18,Dewi Halim,08523985154,Indramayu,Cabang Timur,Hendra Kusuma,Vario 125,MH1V12T10013686,Hitam,Kredit Leasing,Leasing Nusa,18,4840000,0,Disetujui,Selesai,Walk-in,2026-03-29
+TRX-00669,2026-03-19,Rina Gunawan,08527137476,Karawang,Cabang Utara,Citra Lestari,BeAT,MH1BT1T10013715,Putih,Kredit Leasing,Leasing Mitra,30,2880000,1200000,Disetujui,Selesai,Walk-in,2026-03-20
+TRX-00670,2026-03-20,Rina Siregar,08785138253,Cirebon,Cabang Timur,Hendra Kusuma,BeAT,MH1BT1T10013753,Hitam,Cash,,,,500000,,Selesai,Referral,2026-04-01
+TRX-00671,2026-03-20,Maya Dian Halim,08779875917,Serang,Cabang Barat,Joko Susilo,Vario 160,MH1V16T10013781,Abu-abu,Kredit Leasing,Leasing Nusa,35,6150000,450000,Disetujui,Selesai,Pameran,2026-03-29
+TRX-00672,2026-03-21,Yoga Reza Pratama,08124518410,Depok,Cabang Pusat,Budi Santoso,Revo,MH1RV1T10013789,Merah,Kredit Leasing,Leasing Sentosa,35,4230000,0,Disetujui,Selesai,Walk-in,2026-03-22
+TRX-00673,2026-03-21,Sari Santoso,08958228239,Cianjur,Cabang Selatan,Eko Wahyudi,Vario 125,MH1V12T10013799,Abu-abu,Kredit Leasing,Leasing Nusa,35,3630000,0,Disetujui,Selesai,Media sosial,2026-03-31
+TRX-00674,2026-03-22,Dedi Nasution,085298437024,Karawang,Cabang Utara,Citra Lestari,PCX 160,MH1PC1T10013826,Abu-abu,Kredit Leasing,Leasing Sentosa,30,7420000,0,Disetujui,Selesai,Pameran,2026-04-05
+TRX-00675,2026-03-22,Agus Permana,08215197751,Depok,Cabang Pusat,Budi Santoso,Scoopy,MH1SC1T10013856,Biru,Kredit Leasing,Leasing Nusa,24,4790000,0,Disetujui,Selesai,Referral,2026-04-02
+TRX-00676,2026-03-22,Agus Firmansyah,087881289498,Bekasi,Cabang Utara,Dewi Anggraini,Stylo 160,MH1ST1T10013876,Abu-abu,Cash,,,,1150000,,Selesai,Pameran,2026-04-05
+TRX-00677,2026-03-22,Sri Utami,089696015133,Serang,Cabang Barat,Joko Susilo,Revo,mh1rv1t10013903,Abu-abu,Kredit Leasing,Leasing Sentosa,18,4510000,0,Disetujui,Selesai,Media sosial,2026-03-25
+TRX-00678,2026-03-23,Rudi Sri Kurniawan,082105377908,Sukabumi,Cabang Selatan,Fajar Nugroho,Vario 125,MH1V12T10013926,Hitam,Cash,,,,300000,,Selesai,Pameran,2026-03-25
+TRX-00679,2026-03-23,Lina Tanjung,081364961685,Depok,Cabang Pusat,Budi Santoso,PCX 160,mh1pc1t10013959,Merah,Kredit Leasing,Leasing Mitra,24,8340000,0,Disetujui,Selesai,Walk-in,2026-03-27
+TRX-00680,2026-03-25,Siti Lestari,08570833280,Karawang,Cabang Utara,Citra Lestari,BeAT,MH1BT1T10013972,Silver,Kredit Leasing,Leasing Mitra,35,4870000,1150000,Disetujui,Batal,Pameran,
+TRX-00681,2026-03-25,Sari Eko Setiawan,08579159383,Bekasi,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1T10014003,Abu-abu,Kredit Leasing,Leasing Sentosa,24,5300000,0,Disetujui,Selesai,Pameran,2026-03-27
+TRX-00682,2026-03-25,Ayu Wibowo,08573708782,Depok,Cabang Pusat,Andi Prasetyo,Vario 160,MH1V16T10014008 ,Abu-abu,Kredit Leasing,Leasing Nusa,24,6910000,0,Ditolak,Batal,Referral,
+TRX-00683,2026-03-26,Lina Hidayat,085780705623,Cianjur,Cabang Selatan,Fajar Nugroho,Vario 160,MH1V16T10014041,Biru,Kredit Leasing,Leasing Nusa,24,5530000,750000,Disetujui,Selesai,Media sosial,2026-03-28
+TRX-00684,2026-03-26,Taufik Pratama,085742588412,Bekasi,Cabang Utara,Dewi Anggraini,Supra X 125,MH1SX1T10014070,Hitam,Kredit Leasing,Leasing Nusa,18,5710000,750000,Disetujui,Selesai,Telemarketing,2026-04-03
+TRX-00685,2026-03-27,Ahmad Fajar Wibowo,08955999414,Sukabumi,Cabang Selatan,Fajar Nugroho,PCX 160,MH1PC1T10014094,Biru,Kredit Leasing,Leasing Mitra,30,9120000,0,Disetujui,Selesai,Telemarketing,2026-04-05
+TRX-00686,2026-03-29,Ayu Susanto,081197385152,Tangerang,Cabang Barat,Joko Susilo,ADV160,MH1AD1T10014095,Silver,Kredit Leasing,Leasing Sentosa,18,9690000,1100000,Disetujui,Selesai,Media sosial,2026-04-01
+TRX-00687,2026-03-29,Rudi Santoso,08965555177,Bogor,Cabang Pusat,Andi Prasetyo,PCX 160,MH1PC1T10014108,Biru,Kredit Leasing,Leasing Nusa,18,5330000,0,Disetujui,Selesai,Walk-in,2026-03-30
+TRX-00688,2026-03-29,Anton Permana,082145776950,Karawang,Cabang Utara,Dewi Anggraini,Stylo 160,MH1ST1T10014121,Abu-abu,Cash,,,,0,,Selesai,Media sosial,2026-04-09
+TRX-00689,2026-03-30,Bagus Citra Tanjung,08773776278,Cirebon,Cabang Timur,Hendra Kusuma,Genio,MH1GN1T10014153,Abu-abu,Kredit Leasing,Leasing Nusa,18,4240000,800000,Disetujui,Selesai,Referral,2026-04-08
+TRX-00690,2026-03-30,Irfan Hidayat,089651629992,Cianjur,Cabang Selatan,Eko Wahyudi,Scoopy,MH1SC1T10014190,Silver,Cash,,,,1450000,,Selesai,Walk-in,2026-03-31
+TRX-00691,2026-03-30,Ratna Maulana,08139709977,Cirebon,Cabang Timur,Gita Permata,BeAT,MH1BT1T10014209,Abu-abu,Cash,,,,0,,Selesai,Referral,2026-04-10
+TRX-00692,2026-03-31,Teguh Saputra,081392708374,Karawang,Cabang Utara,Dewi Anggraini,Genio,MH1GN1T10014228 ,Abu-abu,Cash,,,,600000,,Selesai,Referral,2026-04-04
+TRX-00693,2026-03-31,Fitri Firmansyah,08521407491,Karawang,Cabang Utara,Dewi Anggraini,ADV160,MH1AD1T10014251,Silver,Cash,,,,0,,Selesai,Media sosial,2026-04-04
+TRX-00694,2026-04-01,Teguh Nugroho,081354738883,Serang,Cabang Barat,Joko Susilo,CRF150L,MH1CR1T10014280,Putih,Cash,,,,500000,,Batal,Pameran,
+TRX-00695,2026-04-01,Ahmad Rizky Nasution ,08965597373,Indramayu,Cabang Timur,Gita Permata,Stylo 160,MH1ST1T10014281,Silver,Cash,,,,0,,Selesai,Referral,2026-04-11
+TRX-00696,2026-04-03,Joko Hakim,08772498006,Cirebon,Cabang Timur,Gita Permata,CRF150L,MH1CR1T10014309,Biru,Kredit Leasing,Leasing Mitra,24,6980000,1500000,Disetujui,Selesai,Telemarketing,2026-04-16
+TRX-00697,2026-04-04,Anton Gunawan,08122145964,Cianjur,Cabang Selatan,Eko Wahyudi,Scoopy,MH1SC1T10014342,Hitam,Cash,,,,0,,Selesai,Referral,2026-04-16
+TRX-00698,2026-04-04,Ratna Hakim,081254250250,Bekasi,Cabang Utara,Citra Lestari,Genio,MH1GN1T10014370,Abu-abu,Kredit Leasing,Leasing Mitra,18,3800000,450000,Disetujui,Selesai,Pameran,2026-04-08
+TRX-00699,2026-04-05,Sdr. Kartika Tanjung,089544572516,Serang,Cabang Barat,Indra Maulana,Vario 125,MH1V12T10014406,Silver,Cash,,,,0,,Selesai,Referral,2026-04-09
+TRX-00700,2026-04-06,Reza Susanto,089566784468,Bekasi,Cabang Utara,Citra Lestari,Vario 160,MH1V16T10014413,Abu-abu,Kredit Leasing,Leasing Sentosa,35,8030000,1300000,Disetujui,Selesai,Walk-in,2026-04-16
+TRX-00701,2026-04-07,Lina Susanto,08125113180,Depok,Cabang Pusat,Andi Prasetyo,CRF150L,MH1CR1T10014418,Biru,Kredit Leasing,Leasing Mitra,30,6900000,1300000,Disetujui,Selesai,Walk-in,2026-04-16
+TRX-00702,2026-04-08,Aditya Agus Pratama,08570936020,Bogor,Cabang Pusat,Budi Santoso,BeAT,MH1BT1T10014455,Merah,Kredit Leasing,Leasing Sentosa,24,3670000,0,Disetujui,Batal,Referral,
+TRX-00703,2026-04-08,Wahyu Rahayu,089553970029,Serang,Cabang Barat,Indra Maulana,Scoopy,MH1SC1T10014488,Biru,Cash,,,,0,,Selesai,Referral,2026-04-17
+TRX-00704,2026-04-09,Bambang Utami,081282280758,Cirebon,Cabang Timur,Gita Permata,Vario 160,MH1V16T10014489,Hitam,Kredit Leasing,Leasing Mitra,12,7320000,0,Disetujui,Selesai,Pameran,2026-04-21
+TRX-00705,2026-04-09,Sdr. Indah Setiawan,081328220981,Indramayu,Cabang Timur,Gita Permata,BeAT,MH1BT1T10014513,Putih,Cash,,,,1250000,,Selesai,Walk-in,2026-04-19
+TRX-00706,2026-04-09,Sari Permana,082155182864,Serang,Cabang Barat,Indra Maulana,BeAT,mh1bt1t10014535,Silver,Kredit Leasing,Leasing Sentosa,30,5660000,1500000,Disetujui,Selesai,Walk-in,2026-04-20
+TRX-00707,2026-04-09,Gunawan Lestari,08119023917,Indramayu,Cabang Timur,Gita Permata,PCX 160,MH1PC1T10014574,Putih,Cash,,,,0,,Selesai,Referral,2026-04-11
+TRX-00708,2026-04-09,Dian Nugroho,082141784833,Bekasi,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1T10014580,Putih,Cash,,,,0,,Selesai,Pameran,2026-04-05
+TRX-00709,2026-04-10,Joko Pratama,08962232526,Cianjur,Cabang Selatan,Eko Wahyudi,Stylo 160,MH1ST1T10014609,Biru,Cash,,,,1000000,,Selesai,Referral,2026-04-18
+TRX-00710,2026-04-10,Dewi Santoso,08954632358,Serang,Cabang Barat,Indra Maulana,BeAT,MH1BT1T10014643,Silver,Kredit Leasing,Leasing Nusa,12,4140000,1250000,Ditolak,Batal,Walk-in,
+TRX-00711,2026-04-11,Yusuf Tanjung,085234904928,Bogor,Cabang Pusat,Budi Santoso,Supra X 125,MH1SX1T10014650,Abu-abu,Kredit Leasing,Leasing Sentosa,12,5780000,600000,Disetujui,Selesai,Pameran,2026-04-15
+TRX-00712,2026-04-12,Aditya Purnomo,087816652552,Cirebon,Cabang Timur,Gita Permata,CRF150L,MH1CR1T10014689,Abu-abu,Kredit Leasing,Leasing Nusa,35,6260000,750000,Disetujui,Selesai,Pameran,2026-04-24
+TRX-00713,2026-04-12,Melati Kartika Saputra,08966062133,Karawang,Cabang Utara,Citra Lestari,Vario 125,MH1V12T10014691,Merah,Kredit Leasing,Leasing Mitra,24,6790000,0,Disetujui,Selesai,Walk-in,2026-04-20
+TRX-00714,2026-04-13,Aditya Sri Nugroho,08781913408,Serang,Cabang Barat,Joko Susilo,Vario 125,MH1V12T10014719,Abu-abu,Cash,,,,1500000,,Selesai,Media sosial,2026-04-22
+TRX-00715,2026-04-14,Reza Permana,08521951573,Bekasi,Cabang Utara,Dewi Anggraini,Vario 160,MH1V16T10014725,Putih,Cash,,,,350000,,Selesai,Referral,2026-04-27
+TRX-00716,2026-04-14,Agus Santoso,081314649698,Cirebon,Cabang Timur,Hendra Kusuma,PCX 160,MH1PC1T10014750,Silver,Cash,,,,500000,,Selesai,Walk-in,2026-04-28
+TRX-00717,2026-04-14,Sri Hendra Handayani,08966558081,Bogor,Cabang Pusat,Budi Santoso,BeAT,mh1bt1t10014764,Hitam,Kredit Leasing,Leasing Nusa,30,2950000,0,Disetujui,Selesai,Media sosial,2026-04-22
+TRX-00718,2026-04-16,Hendra Halim,082134479138,Cianjur,Cabang Selatan,Fajar Nugroho,Scoopy,MH1SC1T10014786,Merah,Kredit Leasing,Leasing Mitra,12,4580000,1100000,Disetujui,Selesai,Pameran,2026-04-28
+TRX-00719,2026-04-17,Rina Kurniawan,082215958799,Bogor,Cabang Pusat,Budi Santoso,BeAT,MH1BT1T10014810,Merah,Cash,,,,1150000,,Selesai,Media sosial,2026-04-29
+TRX-00720,2026-04-18,Yoga Yoga Siregar,089540510858,Karawang,Cabang Utara,Dewi Anggraini,Vario 125,MH1V12T10014812,Putih,Kredit Leasing,Leasing Nusa,18,4770000,1350000,Disetujui,Selesai,Media sosial,2026-05-01
+TRX-00721,2026-04-20,Sari Setiawan,08220660233,Tangerang,Cabang Barat,Joko Susilo,PCX 160,MH1PC1T10014842,Merah,Cash,,,,1450000,,Selesai,Telemarketing,2026-04-24
+TRX-00722,2026-04-20,Siti Purnomo ,085218730863,Cianjur,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1T10014848,Merah,Cash,,,,0,,Selesai,Media sosial,2026-05-02
+TRX-00723,2026-04-21,Ratna Pratama,08133845358,Bogor,Cabang Pusat,Andi Prasetyo,Stylo 160,MH1ST1T10014888,Abu-abu,Kredit Leasing,Leasing Mitra,35,6150000,1150000,Disetujui,Selesai,Walk-in,2026-04-23
+TRX-00724,2026-04-22,Ahmad Kurniawan,087751480665,Bogor,Cabang Pusat,Andi Prasetyo,CB150R,MH1CB1T10014926,Biru,Kredit Leasing,Leasing Sentosa,35,6520000,550000,Disetujui,Selesai,Referral,2026-05-05
+TRX-00725,2026-04-23,Dedi Fajar Firmansyah,08523820099,Karawang,Cabang Utara,Citra Lestari,Scoopy,MH1SC1T10014959,Putih,Kredit Leasing,Leasing Nusa,12,5550000,0,Disetujui,Selesai,Walk-in,2026-04-25
+TRX-00726,2026-04-26,Dewi Yoga Rahayu,085792924005,Depok,Cabang Pusat,Andi Prasetyo,Scoopy,MH1SC1T10014992,Merah,Kredit Leasing,Leasing Nusa,24,5000000,1150000,Disetujui,Selesai,Walk-in,2026-04-29
+TRX-00727,2026-04-26,Fitri Setiawan,08774098829,Sukabumi,Cabang Selatan,Fajar Nugroho,Vario 160,MH1V16T10015013,Silver,Kredit Leasing,Leasing Nusa,30,6930000,0,Disetujui,Selesai,Referral,2026-04-29
+TRX-00728,2026-05-02,Ayu Melati Pratama,081101064276,Tangerang,Cabang Barat,Indra Maulana,Scoopy,MH1SC1T10015020,Abu-abu,Kredit Leasing,Leasing Nusa,24,5010000,0,Disetujui,Selesai,Media sosial,2026-05-09
+TRX-00729,2026-05-02,Kartika Maulana,08570486710,Cianjur,Cabang Selatan,Fajar Nugroho,Vario 160,MH1V16T10015059,Merah,Cash,,,,450000,,Selesai,Referral,2026-05-16
+TRX-00730,2026-05-02,Ibu Agus Purnomo,08221674821,Cirebon,Cabang Timur,Gita Permata,Scoopy,MH1SC1T10015086,Silver,Kredit Leasing,Leasing Nusa,18,6210000,300000,Disetujui,Selesai,Walk-in,2026-05-04
+TRX-00731,2026-05-02,Eko Hakim,08771651402,Indramayu,Cabang Timur,Gita Permata,CB150R,MH1CB1T10015100,Biru,Cash,,,,1450000,,Selesai,Media sosial,2026-05-09
+TRX-00732,2026-05-03,Ratna Wijaya,08215116303,Serang,Cabang Barat,Joko Susilo,Scoopy,MH1SC1T10015129,Merah,Kredit Leasing,Leasing Sentosa,30,4230000,1500000,Disetujui,Selesai,Telemarketing,2026-05-15
+TRX-00733,2026-05-03,Bagus Wibowo,08137804134,Cirebon,Cabang Timur,Hendra Kusuma,BeAT,mh1bt1t10015158,Biru,Cash,,,,0,,Selesai,Pameran,2026-05-17
+TRX-00734,2026-05-05,Rina Rahayu,08522671625,Tangerang,Cabang Barat,Indra Maulana,Supra X 125,MH1SX1T10015192,Merah,Kredit Leasing,Leasing Mitra,35,3380000,0,Disetujui,Batal,Telemarketing,
+TRX-00735,2026-05-06,Rudi Saputra,082164320741,Cirebon,Cabang Timur,Gita Permata,CB150R,MH1CB1T10015200,Putih,Kredit Leasing,Leasing Nusa,35,6960000,100000,Disetujui,Selesai,Referral,2026-05-17
+TRX-00736,2026-05-06,Gunawan Kurniawan ,08776005893,Cianjur,Cabang Selatan,Fajar Nugroho,Scoopy,MH1SC1T10015227,Silver,Kredit Leasing,Leasing Mitra,18,4920000,0,Disetujui,Selesai,Media sosial,2026-05-18
+TRX-00737,2026-05-07,Bpk. Ratna Santoso,085731628012,Karawang,Cabang Utara,Citra Lestari,BeAT,MH1BT1T10015257,Biru,Kredit Leasing,Leasing Mitra,30,4760000,1200000,Ditolak,Batal,Media sosial,
+TRX-00738,2026-05-07,Ibu Taufik Saputra,08224681211,Depok,Cabang Pusat,Andi Prasetyo,PCX 160,MH1PC1T10015287,Putih,Kredit Leasing,Leasing Nusa,24,7590000,0,Ditolak,Batal,Pameran,
+TRX-00739,2026-05-09,Dedi Nasution,08966959026,Serang,Cabang Barat,Joko Susilo,Revo,MH1RV1T10015307 ,Biru,Kredit Leasing,Leasing Mitra,12,4570000,0,Disetujui,Batal,Walk-in,
+TRX-00740,2026-05-09,Rudi Santoso ,08128348073,Cirebon,Cabang Timur,Hendra Kusuma,BeAT,MH1BT1T10015321,Abu-abu,Cash,,,,0,,Selesai,Walk-in,2026-05-14
+TRX-00741,2026-05-09,Lina Permana,081137566880,Cianjur,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1T10015359,Silver,Kredit Leasing,Leasing Nusa,18,5030000,0,Disetujui,Selesai,Referral,2026-05-20
+TRX-00742,2026-05-09,Anton Nur Nugroho,089573675065,Sukabumi,Cabang Selatan,Eko Wahyudi,Vario 125,MH1V12T10015374,Hitam,Cash,,,,200000,,Selesai,Walk-in,2026-05-22
+TRX-00743,2026-05-10,Anton Maulana,085712345731,Indramayu,Cabang Timur,Hendra Kusuma,BeAT,MH1BT1T10015399,Putih,Kredit Leasing,Leasing Sentosa,18,5010000,500000,Disetujui,Selesai,Pameran,2026-05-14
+TRX-00744,2026-05-10,Rizky Firmansyah,08215340505,Karawang,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1T10015437,Putih,Cash,,,,1400000,,Selesai,Walk-in,2026-05-18
+TRX-00745,2026-05-10,Bagus Lestari,082131648949,Depok,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1T10015475,Biru,Cash,,,,150000,,Selesai,Walk-in,2026-05-22
+TRX-00746,2026-05-10,Reza Santoso,081312484592,Cianjur,Cabang Selatan,Eko Wahyudi,Vario 125,MH1V12T10015498,Silver,Kredit Leasing,Leasing Nusa,30,6460000,1050000,Disetujui,Selesai,Walk-in,2026-05-22
+TRX-00747,2026-05-11,Eko Hidayat,08217619836,Bogor,Cabang Pusat,Andi Prasetyo,Vario 125,MH1V12T10015501 ,Biru,Cash,,,,700000,,Selesai,Media sosial,2026-05-12
+TRX-00748,2026-05-12,Dedi Utami,081206152428,Depok,Cabang Pusat,Andi Prasetyo,Vario 125,MH1V12T10015531,Abu-abu,Kredit Leasing,Leasing Nusa,35,4800000,1200000,Disetujui,Selesai,Walk-in,2026-05-13
+TRX-00749,2026-05-12,Reza Utami,08114283303,Bekasi,Cabang Utara,Citra Lestari,ADV160,MH1AD1T10015557,Silver,Cash,,,,1000000,,Selesai,Media sosial,2026-05-13
+TRX-00750,2026-05-12,Nadia Hakim,08215615644,Sukabumi,Cabang Selatan,Eko Wahyudi,Vario 160,MH1V16T10015593,Silver,Kredit Leasing,Leasing Sentosa,30,6190000,0,Disetujui,Selesai,Walk-in,2026-05-19
+TRX-00751,2026-05-13,Siti Hidayat,08575844372,Depok,Cabang Pusat,Budi Santoso,Vario 125,MH1V12T10015609,Hitam,Kredit Leasing,Leasing Mitra,24,3950000,0,Disetujui,Selesai,Walk-in,2026-05-16
+TRX-00752,2026-05-13,Nadia Siregar,089558102265,Bekasi,Cabang Utara,Dewi Anggraini,Vario 125,MH1V12T10015630,Abu-abu,Kredit Leasing,Leasing Nusa,35,6480000,1400000,Disetujui,Selesai,Media sosial,2026-05-17
+TRX-00753,2026-05-13,Ibu Wahyu Hakim,082110637467,Bogor,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1T10015651,Hitam,Kredit Leasing,Leasing Mitra,18,4680000,0,Disetujui,Selesai,Referral,2026-05-15
+TRX-00754,2026-05-15,Dewi Bambang Permana,081333987228,Serang,Cabang Barat,Joko Susilo,PCX 160,MH1PC1T10015682,Silver,Cash,,,,300000,,Selesai,Media sosial,2026-05-25
+TRX-00755,2026-05-16,Ayu Maya Hakim ,08133344732,Indramayu,Cabang Timur,Hendra Kusuma,Scoopy,MH1SC1T10015695,Putih,Kredit Leasing,Leasing Sentosa,35,5320000,0,Disetujui,Selesai,Pameran,2026-05-20
+TRX-00756,2026-05-16,EKO RAHAYU,085740795729,Sukabumi,Cabang Selatan,Eko Wahyudi,Scoopy,MH1SC1T10015715,Abu-abu,Cash,,,,150000,,Selesai,Media sosial,2026-05-26
+TRX-00757,2026-05-17,Kartika Siregar,08524703717,Depok,Cabang Pusat,Budi Santoso,CRF150L,MH1CR1T10015741,Abu-abu,Cash,,,,750000,,Selesai,Media sosial,2026-05-28
+TRX-00758,2026-05-17,Bambang Nasution,081349615635,Serang,Cabang Barat,Indra Maulana,ADV160,MH1AD1T10015745 ,Biru,Cash,,,,700000,,Selesai,Referral,2026-05-31
+TRX-00759,2026-05-17,Gunawan Pratama,087841510996,Sukabumi,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1T10015780,Silver,Kredit Leasing,Leasing Mitra,12,3690000,0,Disetujui,Selesai,Telemarketing,2026-05-27
+TRX-00760,2026-05-17,Fajar Susanto,081139658081,Serang,Cabang Barat,Indra Maulana,Vario 160,MH1V16T10015796,Silver,Kredit Leasing,Leasing Nusa,30,6670000,400000,Disetujui,Selesai,Media sosial,2026-05-19
+TRX-00761,2026-05-17,Rizky Nadia Handayani,087795882237,Karawang,Cabang Utara,Citra Lestari,Vario 160,MH1V16T10015834,Putih,Cash,,,,1500000,,Selesai,Pameran,2026-05-31
+TRX-00762,2026-05-18,Anton Saputra,08524995554,Sukabumi,Cabang Selatan,Eko Wahyudi,Vario 160,MH1V16T10015861,Abu-abu,Cash,,,,600000,,Selesai,Walk-in,2026-05-22
+TRX-00763,2026-05-20,Ahmad Bagus Saputra,08213870564,Bogor,Cabang Pusat,Andi Prasetyo,ADV160,MH1AD1T10015886,Biru,Kredit Leasing,Leasing Sentosa,18,9530000,550000,Ditolak,Batal,Media sosial,
+TRX-00764,2026-05-22,Melati Wijaya,085212370142,Bekasi,Cabang Utara,Citra Lestari,BeAT,MH1BT1T10015917,Abu-abu,Cash,,,,0,,Selesai,Media sosial,2026-06-05
+TRX-00765,2026-05-22,Agus Wijaya,089584298789,Depok,Cabang Pusat,Budi Santoso,CB150R,MH1CB1T10015932,Biru,Kredit Leasing,Leasing Nusa,18,7790000,0,Disetujui,Selesai,Pameran,2026-05-26
+TRX-00766,2026-05-22,Sari Nur Siregar ,081365165614,Bogor,Cabang Pusat,Andi Prasetyo,BeAT,mh1bt1t10015954,Putih,Kredit Leasing,Leasing Sentosa,35,3850000,0,Ditolak,Batal,Referral,
+TRX-00767,2026-05-22,Dewi Susanto,085280694576,Sukabumi,Cabang Selatan,Fajar Nugroho,PCX 160,MH1PC1T10015967,Putih,Cash,,,,0,,Selesai,Media sosial,2026-06-03
+TRX-00768,2026-05-22,Yoga Joko Setiawan,081316863078,Cirebon,Cabang Timur,Gita Permata,ADV160,MH1AD1T10015991,Hitam,Kredit Leasing,Leasing Sentosa,12,7880000,0,Disetujui,Selesai,Pameran,2026-06-02
+TRX-00769,2026-05-23,Indah Hakim,08224972372,Bekasi,Cabang Utara,Citra Lestari,Revo,MH1RV1T10016027 ,Biru,Cash,,,,1150000,,Selesai,Media sosial,2026-05-31
+TRX-00770,2026-05-23,Lina Saputra,08228359502,Bogor,Cabang Pusat,Andi Prasetyo,Vario 125,MH1V12T10016028,Biru,Kredit Leasing,Leasing Sentosa,12,5970000,1200000,Disetujui,Selesai,Media sosial,2026-05-28
+TRX-00771,2026-05-24,Reza Hidayat,081312602626,Karawang,Cabang Utara,Citra Lestari,Scoopy,mh1sc1t10016054,Biru,Kredit Leasing,Leasing Mitra,35,6970000,750000,Disetujui,Selesai,Telemarketing,2026-05-28
+TRX-00772,2026-05-24,CITRA PRATAMA,087832607552,Bekasi,Cabang Utara,Citra Lestari,PCX 160,MH1PC1T10016058,Merah,Cash,,,,200000,,Selesai,Pameran,2026-05-30
+TRX-00773,2026-05-24,Budi Pratama,08788104990,Tangerang,Cabang Barat,Indra Maulana,Vario 125,MH1V12T10016086,Silver,Kredit Leasing,Leasing Sentosa,18,6600000,0,Disetujui,Selesai,Walk-in,2026-05-30
+TRX-00774,2026-05-25,Hendra Gunawan,08218834511,Bogor,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1T10016122,Merah,Kredit Leasing,Leasing Sentosa,24,4370000,1200000,Ditolak,Batal,Pameran,
+TRX-00775,2026-05-26,Sari Nadia Nugroho,08574142491,Bogor,Cabang Pusat,Budi Santoso,Vario 125,MH1V12T10016124,Hitam,Kredit Leasing,Leasing Sentosa,30,6360000,0,Disetujui,Selesai,Media sosial,2026-06-05
+TRX-00776,2026-05-26,Budi Nasution,081394172833,Cianjur,Cabang Selatan,Fajar Nugroho,Scoopy,MH1SC1T10016141,Biru,Kredit Leasing,Leasing Mitra,18,3660000,1150000,Disetujui,Selesai,Media sosial,2026-06-04
+TRX-00777,2026-05-26,Wahyu Ratna Handayani,08964348581,Sukabumi,Cabang Selatan,Eko Wahyudi,PCX 160,MH1PC1T10016171,Abu-abu,Kredit Leasing,Leasing Nusa,35,8720000,0,Disetujui,Selesai,Pameran,2026-06-01
+TRX-00778,2026-05-27,Aditya Nur Lestari,08524697705,Karawang,Cabang Utara,Dewi Anggraini,ADV160,MH1AD1T10016195,Biru,Kredit Leasing,Leasing Nusa,35,9330000,400000,Disetujui,Selesai,Media sosial,2026-06-09
+TRX-00779,2026-05-27,Dian Wijaya,08223972093,Depok,Cabang Pusat,Budi Santoso,Revo,MH1RV1T10016215,Biru,Kredit Leasing,Leasing Nusa,12,5280000,0,Disetujui,Selesai,Referral,2026-05-28
+TRX-00780,2026-05-27,Nur Setiawan,08229034866,Indramayu,Cabang Timur,Hendra Kusuma,Stylo 160,MH1ST1T10016232,Hitam,Kredit Leasing,Leasing Sentosa,35,5210000,0,Disetujui,Selesai,Walk-in,2026-06-07
+TRX-00781,2026-05-28,Budi Gunawan,08223309484,Sukabumi,Cabang Selatan,Eko Wahyudi,CRF150L,MH1CR1T10016257,Abu-abu,Kredit Leasing,Leasing Mitra,12,7620000,650000,Disetujui,Selesai,Pameran,2026-06-05
+TRX-00782,2026-05-29,Irfan Ayu Rahayu,089515908069,Cirebon,Cabang Timur,Hendra Kusuma,Stylo 160,MH1ST1T10016287,Merah,Cash,,,,0,,Selesai,Pameran,2026-06-06
+TRX-00783,2026-05-30,Budi Saputra,08211614720,Cirebon,Cabang Timur,Gita Permata,Genio,MH1GN1T10016311,Abu-abu,Cash,,,,0,,Selesai,Telemarketing,2026-06-02
+TRX-00784,2026-05-30,Maya Gunawan,089587689016,Depok,Cabang Pusat,Budi Santoso,Supra X 125,mh1sx1t10016350,Biru,Cash,,,,0,,Selesai,Media sosial,2026-06-13
+TRX-00785,2026-05-30,Irfan Wibowo,08112276098,Depok,Cabang Pusat,Budi Santoso,Scoopy,MH1SC1T10016377,Silver,Cash,,,,0,,Selesai,Pameran,2026-06-07
+TRX-00786,2026-05-30,Rizky Gunawan,08786907939,Karawang,Cabang Utara,Dewi Anggraini,ADV160,MH1AD1T10016417,Silver,Cash,,,,0,,Selesai,Walk-in,2026-05-31
+TRX-00787,2026-05-30,Yoga Hakim,08127402290,Karawang,Cabang Utara,Citra Lestari,Scoopy,MH1SC1T10016442,Silver,Kredit Leasing,Leasing Sentosa,12,4400000,0,Disetujui,Selesai,Walk-in,2026-06-03
+TRX-00788,2026-05-30,Wahyu Nasution,08111718555,Cirebon,Cabang Timur,Gita Permata,BeAT,MH1BT1T10016452,Hitam,Kredit Leasing,Leasing Sentosa,35,3300000,0,Disetujui,Selesai,Walk-in,2026-06-05
+TRX-00789,2026-06-01,Kartika Susanto,08116209472,Cirebon,Cabang Timur,Hendra Kusuma,Stylo 160,MH1ST1T10016468,Hitam,Kredit Leasing,Leasing Mitra,24,8250000,1500000,Disetujui,Selesai,Referral,2026-06-12
+TRX-00790,2026-06-01,Lina Tanjung,08963381126,Cirebon,Cabang Timur,Gita Permata,PCX 160,MH1PC1T10016499,Silver,Kredit Leasing,Leasing Sentosa,30,5350000,500000,Disetujui,Selesai,Pameran,2026-06-02
+TRX-00791,2026-06-01,Eko Purnomo,081285161924,Sukabumi,Cabang Selatan,Eko Wahyudi,Vario 125,MH1V12T10016506,Biru,Kredit Leasing,Leasing Mitra,18,6000000,850000,Disetujui,Selesai,Telemarketing,2026-06-14
+TRX-00792,2026-06-04,Irfan Hidayat,08964268912,Cirebon,Cabang Timur,Hendra Kusuma,Genio,MH1GN1T10016532,Hitam,Kredit Leasing,Leasing Sentosa,30,4740000,0,Disetujui,Selesai,Walk-in,2026-06-05
+TRX-00793,2026-06-04,Sari Siregar,082248291278,Bogor,Cabang Pusat,Budi Santoso,CRF150L,MH1CR1T10016543,Hitam,Kredit Leasing,Leasing Mitra,30,10270000,1200000,Disetujui,Selesai,Walk-in,2026-06-15
+TRX-00794,2026-06-05,Bagus Santoso,08529495119,Indramayu,Cabang Timur,Gita Permata,PCX 160,MH1PC1T10016566,Abu-abu,Kredit Leasing,Leasing Mitra,35,6670000,0,Disetujui,Batal,Referral,
+TRX-00795,2026-06-06,Putri Siregar,085716603979,Depok,Cabang Pusat,Budi Santoso,Vario 160,MH1V16T10016605,Silver,Kredit Leasing,Leasing Nusa,12,6830000,250000,Disetujui,Selesai,Walk-in,2026-06-14
+TRX-00796,2026-06-07,Ayu Rina Hakim,08577254662,Cianjur,Cabang Selatan,Eko Wahyudi,Vario 160,MH1V16T10016625,Hitam,Kredit Leasing,Leasing Nusa,24,4290000,850000,Disetujui,Selesai,Referral,2026-06-16
+TRX-00797,2026-06-07,Fitri Hakim,08521258978,Sukabumi,Cabang Selatan,Fajar Nugroho,BeAT,MH1BT1T10016636,Hitam,Cash,,,,300000,,Selesai,Walk-in,2026-06-21
+TRX-00798,2026-06-07,Siti Gunawan,089663827957,Cianjur,Cabang Selatan,Eko Wahyudi,Vario 125,MH1V12T10016648,Abu-abu,Cash,,,,200000,,Selesai,Referral,2026-06-18
+TRX-00799,2026-06-07,Ahmad Setiawan,08770426949,Sukabumi,Cabang Selatan,Fajar Nugroho,BeAT,MH1BT1T10016679,Silver,Kredit Leasing,Leasing Mitra,24,3590000,0,Disetujui,Selesai,Telemarketing,2026-06-11
+TRX-00800,2026-06-07,Fitri Kurniawan,08573480559,Depok,Cabang Pusat,Budi Santoso,Vario 125,MH1V12T10016680,Putih,Kredit Leasing,Leasing Mitra,12,6850000,0,Ditolak,Batal,Referral,
+TRX-00801,2026-06-11,Fajar Putri Santoso,08573731361,Sukabumi,Cabang Selatan,Eko Wahyudi,Scoopy,MH1SC1T10016706,Merah,Cash,,,,0,,Selesai,Pameran,2026-06-18
+TRX-00802,2026-06-11,Aditya Kurniawan,08787342277,Bekasi,Cabang Utara,Dewi Anggraini,Vario 160,MH1V16T10016722,Merah,Kredit Leasing,Leasing Sentosa,30,4740000,0,Ditolak,Batal,Walk-in,
+TRX-00803,2026-06-12,Hendra Dian Gunawan,082254815262,Tangerang,Cabang Barat,Joko Susilo,BeAT,MH1BT1T10016753,Hitam,Kredit Leasing,Leasing Mitra,35,3360000,100000,Disetujui,Selesai,Walk-in,2026-06-17
+TRX-00804,2026-06-13,Maya Santoso ,087784722404,Sukabumi,Cabang Selatan,Fajar Nugroho,ADV160,MH1AD1T10016763,Biru,Kredit Leasing,Leasing Nusa,30,8540000,0,Disetujui,Selesai,Telemarketing,2026-06-19
+TRX-00805,2026-06-13,Reza Hendra Pratama,08111353184,Indramayu,Cabang Timur,Hendra Kusuma,BeAT,MH1BT1T10016799,Silver,Cash,,,,800000,,Selesai,Walk-in,2026-06-15
+TRX-00806,2026-06-14,Eko Dedi Hidayat,089501204697,Karawang,Cabang Utara,Citra Lestari,Genio,MH1GN1T10016804,Merah,Kredit Leasing,Leasing Sentosa,12,3740000,0,Disetujui,Selesai,Telemarketing,2026-06-21
+TRX-00807,2026-06-14,Sari Hidayat,08222604638,Tangerang,Cabang Barat,Indra Maulana,Genio,MH1GN1T10016829,Abu-abu,Kredit Leasing,Leasing Mitra,24,3280000,0,Disetujui,Selesai,Telemarketing,2026-06-24
+TRX-00808,2026-06-15,Nur Purnomo ,08138793570,Bogor,Cabang Pusat,Andi Prasetyo,Scoopy,MH1SC1T10016867,Silver,Kredit Leasing,Leasing Sentosa,24,5900000,0,Disetujui,Selesai,Referral,2026-06-20
+TRX-00809,2026-06-15,Ibu Irfan Siregar,08772438473,Bogor,Cabang Pusat,Budi Santoso,Supra X 125,MH1SX1T10016900,Abu-abu,Kredit Leasing,Leasing Sentosa,24,4020000,1450000,Disetujui,Selesai,Walk-in,2026-06-16
+TRX-00810,2026-06-15,Kartika Wahyu Nasution,085225999652,Bogor,Cabang Pusat,Budi Santoso,PCX 160,MH1PC1T10016932,Silver,Cash,,,,450000,,Selesai,Walk-in,2026-06-22
+TRX-00811,2026-06-16,Yoga Permana ,08114980693,Cianjur,Cabang Selatan,Eko Wahyudi,Stylo 160,MH1ST1T10016949,Abu-abu,Kredit Leasing,Leasing Nusa,30,5290000,1000000,Disetujui,Selesai,Referral,2026-06-24
+TRX-00812,2026-06-17,Ahmad Halim,087856072081,Bekasi,Cabang Utara,Dewi Anggraini,Scoopy,MH1SC1T10016972,Abu-abu,Kredit Leasing,Leasing Mitra,12,4010000,0,Disetujui,Selesai,Walk-in,2026-06-30
+TRX-00813,2026-06-17,Irfan Utami,08212506302,Depok,Cabang Pusat,Andi Prasetyo,Revo,MH1RV1T10016988,Putih,Kredit Leasing,Leasing Sentosa,35,4060000,0,Disetujui,Selesai,Media sosial,2026-06-21
+TRX-00814,2026-06-18,Fitri Nur Handayani,081228735224,Bekasi,Cabang Utara,Citra Lestari,Vario 160,MH1V16T10017021,Abu-abu,Kredit Leasing,Leasing Nusa,24,7150000,0,Disetujui,Selesai,Referral,2026-06-25
+TRX-00815,2026-06-19,Wahyu Halim,08960856495,Sukabumi,Cabang Selatan,Fajar Nugroho,Scoopy,MH1SC1T10017039,Abu-abu,Cash,,,,950000,,Selesai,Walk-in,2026-06-29
+TRX-00816,2026-06-19,Taufik Setiawan,081226198642,Karawang,Cabang Utara,Citra Lestari,CB150R,MH1CB1T10017066 ,Merah,Cash,,,,1000000,,Selesai,Walk-in,2026-07-02
+TRX-00817,2026-06-20,Citra Susanto,08212970236,Bekasi,Cabang Utara,Citra Lestari,ADV160,MH1AD1T10017082,Biru,Kredit Leasing,Leasing Nusa,35,7260000,1250000,Disetujui,Selesai,Referral,2026-06-28
+TRX-00818,2026-06-22,Fitri Kurniawan,08128968228,Cirebon,Cabang Timur,Gita Permata,Supra X 125,MH1SX1T10017092,Merah,Cash,,,,0,,Selesai,Referral,2026-06-25
+TRX-00819,2026-06-23,Ayu Lestari,087724705574,Cirebon,Cabang Timur,Gita Permata,Vario 125,MH1V12T10017100 ,Biru,Kredit Leasing,Leasing Nusa,12,5280000,1400000,Disetujui,Selesai,Media sosial,2026-07-07
+TRX-00820,2026-06-24,Eko Saputra,08574291725,Depok,Cabang Pusat,Andi Prasetyo,Genio,MH1GN1T10017136,Abu-abu,Kredit Leasing,Leasing Nusa,12,3890000,950000,Disetujui,Selesai,Referral,2026-07-02
+TRX-00821,2026-06-25,Bagus Teguh Hidayat,08127588057,Karawang,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1T10017140,Abu-abu,Kredit Leasing,Leasing Mitra,30,4270000,0,Disetujui,Selesai,Media sosial,2026-07-07
+TRX-00822,2026-06-25,Fitri Maulana ,081229238728,Bogor,Cabang Pusat,Andi Prasetyo,Supra X 125,MH1SX1T10017165,Abu-abu,Cash,,,,0,,Selesai,Media sosial,2026-07-02
+TRX-00823,2026-06-26,Nur Permana,08117149949,Tangerang,Cabang Barat,Indra Maulana,BeAT,mh1bt1t10017199,Biru,Kredit Leasing,Leasing Sentosa,12,4960000,1000000,Disetujui,Selesai,Pameran,2026-07-08
+TRX-00824,2026-06-27,Agus Siti Saputra ,085775803819,Sukabumi,Cabang Selatan,Eko Wahyudi,Vario 160,MH1V16T10017223,Putih,Cash,,,,250000,,Selesai,Telemarketing,2026-07-08
+TRX-00825,2026-06-27,Putri Hidayat,085703339710,Serang,Cabang Barat,Indra Maulana,CB150R,MH1CB1T10017225,Hitam,Cash,,,,1150000,,Selesai,Walk-in,2026-07-10
+TRX-00826,2026-06-27,Melati Nugroho,087737088979,Cirebon,Cabang Timur,Gita Permata,Supra X 125,MH1SX1T10017264,Abu-abu,Kredit Leasing,Leasing Nusa,24,5970000,1350000,Disetujui,Selesai,Pameran,2026-07-11
+TRX-00827,2026-06-28,Teguh Utami,085252605846,Cianjur,Cabang Selatan,Fajar Nugroho,CRF150L,MH1CR1T10017284,Silver,Kredit Leasing,Leasing Sentosa,24,9260000,0,Disetujui,Selesai,Walk-in,2026-07-12
+TRX-00828,2026-06-28,Rina Maulana,089640006012,Karawang,Cabang Utara,Dewi Anggraini,Revo,MH1RV1T10017297,Hitam,Kredit Leasing,Leasing Nusa,30,3640000,600000,Disetujui,Selesai,Media sosial,2026-07-08
+TRX-00829,2026-06-30,Siti Utami,08121575152,Cirebon,Cabang Timur,Hendra Kusuma,Scoopy,mh1sc1t10017299,Putih,Kredit Leasing,Leasing Mitra,30,4020000,900000,Disetujui,Selesai,Referral,2026-07-01
+TRX-00830,2026-06-30,Dedi Handayani,08775239482,Tangerang,Cabang Barat,Indra Maulana,BeAT,MH1BT1T10017325,Abu-abu,Kredit Leasing,Leasing Nusa,30,5030000,0,Disetujui,Selesai,Media sosial,2026-07-08
+TRX-00831,2026-06-30,Bagus Gunawan,08964668601,Cianjur,Cabang Selatan,Eko Wahyudi,Vario 125,MH1V12T10017358,Silver,Kredit Leasing,Leasing Sentosa,30,3690000,1500000,Disetujui,Selesai,Referral,2026-07-10
+TRX-00832,2026-06-30,Sri Firmansyah,08117972139,Depok,Cabang Pusat,Budi Santoso,Stylo 160,MH1ST1T10017389,Abu-abu,Cash,,,,1100000,,Selesai,Referral,2026-07-05
+TRX-00833,2026-07-01,Yusuf Halim,08573735006,Indramayu,Cabang Timur,Hendra Kusuma,Vario 125,MH1V12T10017418,Putih,Kredit Leasing,Leasing Mitra,12,3590000,0,Disetujui,Selesai,Referral,2026-07-02
+TRX-00834,2026-07-02,Rina Hidayat,087803109590,Depok,Cabang Pusat,Andi Prasetyo,Vario 160,MH1V16T10017440,Hitam,Kredit Leasing,Leasing Mitra,18,7070000,150000,Disetujui,Selesai,Walk-in,2026-07-15
+TRX-00835,2026-07-02,Reza Nasution,089617307698,Cianjur,Cabang Selatan,Fajar Nugroho,Vario 160,MH1V16T10017442,Putih,Kredit Leasing,Leasing Sentosa,18,8130000,0,Disetujui,Selesai,Referral,2026-07-06
+TRX-00836,2026-07-04,Joko Rahayu,08777214076,Cianjur,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1T10017443,Abu-abu,Cash,,,,1300000,,Selesai,Media sosial,2026-07-09
+TRX-00837,2026-07-04,Hendra Rizky Saputra,08229664808,Bogor,Cabang Pusat,Budi Santoso,Scoopy,MH1SC1T10017444,Biru,Kredit Leasing,Leasing Nusa,12,6630000,0,Disetujui,Selesai,Walk-in,2026-07-12
+TRX-00838,2026-07-04,Lina Wibowo,087846208632,Depok,Cabang Pusat,Budi Santoso,Supra X 125,MH1SX1T10017475,Hitam,Cash,,,,1050000,,Selesai,Walk-in,2026-07-14
+TRX-00839,2026-07-04,Putri Handayani,087746036140,Cianjur,Cabang Selatan,Fajar Nugroho,CRF150L,MH1CR1T10017507,Abu-abu,Cash,,,,1050000,,Selesai,Media sosial,2026-07-11
+TRX-00840,2026-07-05,Ibu Sari Nugroho,081106990910,Bogor,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1T10017519,Silver,Kredit Leasing,Leasing Sentosa,35,4110000,0,Disetujui,Selesai,Pameran,2026-07-15
+TRX-00841,2026-07-05,Joko Utami,08954044496,Bogor,Cabang Pusat,Andi Prasetyo,ADV160,mh1ad1t10017539,Silver,Kredit Leasing,Leasing Mitra,12,6290000,1050000,Disetujui,Selesai,Walk-in,2026-07-09
+TRX-00842,2026-07-05,Ratna Saputra,08954754442,Cianjur,Cabang Selatan,Eko Wahyudi,Scoopy,MH1SC1T10017567,Putih,Kredit Leasing,Leasing Nusa,30,5740000,1000000,Disetujui,Selesai,Telemarketing,2026-07-12
+TRX-00843,2026-07-07,Maya Tanjung,087766302730,Cianjur,Cabang Selatan,Fajar Nugroho,BeAT,MH1BT1T10017592 ,Biru,Kredit Leasing,Leasing Sentosa,30,5310000,0,Disetujui,Selesai,Walk-in,2026-07-09
+TRX-00844,2026-07-07,Lina Yusuf Maulana,08130395438,Bogor,Cabang Pusat,Andi Prasetyo,Stylo 160,MH1ST1T10017623,Putih,Kredit Leasing,Leasing Sentosa,18,4620000,0,Ditolak,Batal,Walk-in,
+TRX-00845,2026-07-07,Aditya Maulana,08521006123,Cianjur,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1T10017629,Silver,Kredit Leasing,Leasing Mitra,18,2990000,400000,Disetujui,Selesai,Referral,2026-07-21
+TRX-00846,2026-07-10,Ratna Hidayat,089652090032,Cianjur,Cabang Selatan,Fajar Nugroho,Scoopy,MH1SC1T10017641,Abu-abu,Kredit Leasing,Leasing Sentosa,30,7040000,0,Disetujui,Selesai,Telemarketing,2026-07-16
+TRX-00847,2026-07-10,Maya Santoso,08960631005,Indramayu,Cabang Timur,Gita Permata,PCX 160,MH1PC1T10017645,Putih,Kredit Leasing,Leasing Mitra,12,10140000,500000,Disetujui,Selesai,Telemarketing,2026-07-19
+TRX-00848,2026-07-10,Hendra Saputra,08951974505,Depok,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1T10017653,Hitam,Kredit Leasing,Leasing Nusa,18,5090000,0,Disetujui,Selesai,Referral,2026-07-15
+TRX-00849,2026-07-11,Hendra Wijaya,08229410365,Bogor,Cabang Pusat,Budi Santoso,CB150R,MH1CB1T10017664,Abu-abu,Kredit Leasing,Leasing Nusa,35,6460000,0,Disetujui,Selesai,Walk-in,2026-07-12
+TRX-00850,2026-07-11,Wahyu Utami,089549574244,Bekasi,Cabang Utara,Dewi Anggraini,Revo,MH1RV1T10017695,Putih,Kredit Leasing,Leasing Nusa,24,4260000,1000000,Disetujui,Selesai,Walk-in,2026-07-25
+TRX-00851,2026-07-12,Sri Firmansyah,08136634647,Indramayu,Cabang Timur,Hendra Kusuma,BeAT,MH1BT1T10017722,Merah,Cash,,,,13000000,,Selesai,Pameran,2026-07-16
+TRX-00852,2026-07-13,Yoga Kurniawan,08111987834,Serang,Cabang Barat,Joko Susilo,ADV160,MH1AD1T10017750,Biru,Cash,,,,0,,Batal,Referral,
+TRX-00853,2026-07-13,Ibu Dedi Nasution,08110403474,Cirebon,Cabang Timur,Gita Permata,Genio,mh1gn1t10017789,Abu-abu,Cash,,,,1200000,,Selesai,Referral,2026-07-21
+TRX-00854,2026-07-14,RATNA HAKIM,081300646704,Bekasi,Cabang Utara,Citra Lestari,PCX 160,MH1PC1T10017811,Hitam,Kredit Leasing,Leasing Sentosa,24,6800000,450000,Disetujui,Selesai,Media sosial,2026-07-17
+TRX-00855,2026-07-14,Ibu Wahyu Hidayat,08959823968,Cianjur,Cabang Selatan,Fajar Nugroho,Scoopy,MH1SC1T10017815,Abu-abu,Kredit Leasing,Leasing Sentosa,35,4480000,400000,Disetujui,Selesai,Media sosial,2026-07-18
+TRX-00856,2026-07-14,Sari Bagus Lestari,089561463419,Serang,Cabang Barat,Joko Susilo,Supra X 125,MH1SX1T10017831,Putih,Kredit Leasing,Leasing Sentosa,30,5270000,0,Disetujui,Selesai,Pameran,2026-07-15
+TRX-00857,2026-07-15,Kartika Handayani,082140571160,Depok,Cabang Pusat,Andi Prasetyo,PCX 160,mh1pc1t10017845,Biru,Kredit Leasing,Leasing Sentosa,30,5440000,850000,Disetujui,Selesai,Walk-in,2026-07-19
+TRX-00858,2026-07-17,Dedi Lestari,085249196892,Bogor,Cabang Pusat,Budi Santoso,BeAT,MH1BT1T10017882,Abu-abu,Kredit Leasing,Leasing Sentosa,35,3670000,0,Disetujui,Selesai,Walk-in,2026-07-23
+TRX-00859,2026-07-18,Ayu Bambang Gunawan,08776988937,Depok,Cabang Pusat,Andi Prasetyo,Scoopy,MH1SC1T10017904,Biru,Cash,,,,0,,Selesai,Pameran,2026-07-28
+TRX-00860,2026-07-18,Anton Handayani,082189257844,Bekasi,Cabang Utara,Dewi Anggraini,ADV160,MH1AD1T10017907,Silver,Kredit Leasing,Leasing Sentosa,12,6170000,1450000,Ditolak,Batal,Referral,
+TRX-00861,2026-07-19,Ahmad Hakim ,08226127080,Cirebon,Cabang Timur,Gita Permata,Vario 125,MH1V12T10017922,Silver,Kredit Leasing,Leasing Nusa,30,4530000,400000,Disetujui,Selesai,Media sosial,2026-07-20
+TRX-00862,2026-07-20,Teguh Santoso ,08572278073,Sukabumi,Cabang Selatan,Fajar Nugroho,BeAT,MH1BT1T10017931,Silver,Cash,,,,0,,Selesai,Referral,2026-07-30
+TRX-00863,2026-07-20,Gunawan Nasution,085277295701,Indramayu,Cabang Timur,Hendra Kusuma,BeAT,MH1BT1T10017944,Putih,Kredit Leasing,Leasing Mitra,24,5270000,100000,Disetujui,Selesai,Walk-in,2026-08-02
+TRX-00864,2026-07-21,Sdr. Yusuf Halim,08574944504,Bogor,Cabang Pusat,Budi Santoso,Stylo 160,mh1st1t10017967,Abu-abu,Cash,,,,0,,Selesai,Referral,2026-07-26
+TRX-00865,2026-07-23,Bambang Siregar,087874249713,Depok,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1T10017989,Abu-abu,Kredit Leasing,Leasing Mitra,18,4360000,850000,Disetujui,Selesai,Walk-in,2026-08-02
+TRX-00866,2026-07-24,Yusuf Saputra ,085273679135,Indramayu,Cabang Timur,Hendra Kusuma,CB150R,MH1CB1T10018001,Merah,Kredit Leasing,Leasing Nusa,12,5640000,900000,Disetujui,Selesai,Referral,2026-08-02
+TRX-00867,2026-07-25,Gunawan Melati Setiawan,089654528458,Cianjur,Cabang Selatan,Fajar Nugroho,BeAT,MH1BT1T10018017,Silver,Kredit Leasing,Leasing Nusa,35,3670000,1050000,Ditolak,Batal,Pameran,
+TRX-00868,2026-07-26,Fajar Permana,08228601730,Sukabumi,Cabang Selatan,Eko Wahyudi,CRF150L,MH1CR1T10018040,Silver,Kredit Leasing,Leasing Mitra,35,8670000,0,Disetujui,Selesai,Referral,2026-08-05
+TRX-00869,2026-07-26,Nur Purnomo,08226958786,Tangerang,Cabang Barat,Indra Maulana,Scoopy,MH1SC1T10018055,Abu-abu,Kredit Leasing,Leasing Sentosa,18,4810000,0,Disetujui,Selesai,Media sosial,2026-07-28
+TRX-00870,2026-07-27,Taufik Gunawan,087856154608,Cianjur,Cabang Selatan,Eko Wahyudi,Vario 160,MH1V16T10018080,Hitam,Cash,,,,1250000,,Selesai,Media sosial,2026-08-05
+TRX-00871,2026-07-28,Bambang Pratama,089519492655,Depok,Cabang Pusat,Andi Prasetyo,CRF150L,MH1CR1T10018120,Putih,Kredit Leasing,Leasing Sentosa,24,7640000,300000,Disetujui,Selesai,Walk-in,2026-07-26
+TRX-00872,2026-07-28,Kartika Hakim,08523217486,Sukabumi,Cabang Selatan,Fajar Nugroho,Vario 125,MH1V12T10018143,Hitam,Cash,,,,1050000,,Selesai,Media sosial,2026-08-04
+TRX-00873,2026-07-29,Melati Lestari,08116122744,Tangerang,Cabang Barat,Joko Susilo,CRF150L,MH1CR1T10018157,Abu-abu,Kredit Leasing,Leasing Sentosa,18,6650000,0,Ditolak,Batal,Telemarketing,
+TRX-00874,2026-07-29,Yoga Utami,08122301425,Sukabumi,Cabang Selatan,Fajar Nugroho,PCX 160,MH1PC1T10018189,Abu-abu,Kredit Leasing,Leasing Sentosa,30,9720000,0,Disetujui,Selesai,Pameran,2026-08-12
+TRX-00875,2026-07-30,Eko Susanto,08119098139,Cirebon,Cabang Timur,Gita Permata,CRF150L,MH1CR1T10018206,Biru,Kredit Leasing,Leasing Sentosa,24,10520000,700000,Disetujui,Selesai,Media sosial,2026-08-06
+TRX-00876,2026-07-30,Agus Maulana,082233839322,Cianjur,Cabang Selatan,Fajar Nugroho,BeAT,MH1BT1T10018241,Biru,Kredit Leasing,Leasing Mitra,24,5350000,600000,Disetujui,Selesai,Pameran,2026-08-07
+TRX-00877,2026-07-31,Indah Rudi Permana,087850312118,Indramayu,Cabang Timur,Gita Permata,Vario 160,MH1V16T10018268,Putih,Kredit Leasing,Leasing Mitra,24,7660000,300000,Disetujui,Selesai,Referral,2026-08-13
+TRX-00878,2026-07-31,Lina Setiawan,08960034134,Cianjur,Cabang Selatan,Fajar Nugroho,Revo,MH1RV1T10018281,Putih,Kredit Leasing,Leasing Sentosa,12,4080000,1000000,Disetujui,Selesai,Walk-in,2026-08-02
+TRX-00879,2026-08-01,Bambang Susanto,08218138891,Tangerang,Cabang Barat,Joko Susilo,BeAT,MH1BT1T10018316,Merah,Kredit Leasing,Leasing Nusa,12,4740000,0,Disetujui,Selesai,Referral,2026-08-03
+TRX-00880,2026-08-01,Yusuf Gunawan,081245869910,Cianjur,Cabang Selatan,Eko Wahyudi,Scoopy,MH1SC1T10018332,Abu-abu,Kredit Leasing,Leasing Nusa,30,6350000,650000,Disetujui,Selesai,Referral,2026-08-15
+TRX-00881,2026-08-01,Hendra Dian Halim,08775350890,Depok,Cabang Pusat,Andi Prasetyo,CB150R,MH1CB1T10018366,Abu-abu,Cash,,,,0,,Selesai,Media sosial,2026-08-06
+TRX-00882,2026-08-01,Citra Hakim,08138779775,Serang,Cabang Barat,Indra Maulana,Stylo 160,MH1ST1T10018401,Hitam,Kredit Leasing,Leasing Mitra,30,5250000,300000,Disetujui,Selesai,Walk-in,2026-08-02
+TRX-00883,2026-08-01,Budi Gunawan,081138541822,Karawang,Cabang Utara,Citra Lestari,CB150R,MH1CB1T10018432,Silver,Kredit Leasing,Leasing Nusa,30,7170000,100000,Disetujui,Selesai,Media sosial,2026-08-15
+TRX-00884,2026-08-02,Budi Susanto,081217498955,Indramayu,Cabang Timur,Gita Permata,Vario 160,MH1V16T10018443,Silver,Cash,,,,700000,,Selesai,Referral,2026-08-07
+TRX-00885,2026-08-04,Nur Fajar Wibowo,08215916218,Karawang,Cabang Utara,Citra Lestari,Supra X 125,MH1SX1T10018480,Merah,Kredit Leasing,Leasing Mitra,24,4070000,750000,Disetujui,Selesai,Walk-in,2026-08-14
+TRX-00886,2026-08-05,Lina Handayani,08129587488,Cianjur,Cabang Selatan,Eko Wahyudi,Supra X 125,MH1SX1T10018518,Silver,Kredit Leasing,Leasing Mitra,18,5740000,0,Disetujui,Selesai,Telemarketing,2026-08-14
+TRX-00887,2026-08-07,Rina Wijaya,081350832443,Bogor,Cabang Pusat,Andi Prasetyo,PCX 160,MH1PC1T10018521,Hitam,Kredit Leasing,Leasing Sentosa,24,8840000,0,Disetujui,Selesai,Walk-in,2026-08-13
+TRX-00888,2026-08-08,Bpk. Bambang Kurniawan,089611924524,Bekasi,Cabang Utara,Dewi Anggraini,ADV160,MH1AD1T10018544,Abu-abu,Kredit Leasing,Leasing Sentosa,12,10690000,1150000,Disetujui,Selesai,Media sosial,2026-08-22
+TRX-00889,2026-08-09,Kartika Irfan Susanto,087826649284,Bekasi,Cabang Utara,Dewi Anggraini,Supra X 125,MH1SX1T10018566,Putih,Cash,,,,0,,Selesai,Pameran,2026-08-17
+TRX-00890,2026-08-10,Nur Nasution ,085287374490,Karawang,Cabang Utara,Citra Lestari,Vario 160,MH1V16T10018603 ,Silver,Kredit Leasing,Leasing Sentosa,30,6610000,500000,Disetujui,Selesai,Pameran,2026-08-14
+TRX-00891,2026-08-10,Fitri Halim,082206063595,Bekasi,Cabang Utara,Citra Lestari,Vario 160,MH1V16T10018614,Silver,Kredit Leasing,Leasing Mitra,18,5280000,250000,Disetujui,Selesai,Media sosial,2026-08-23
+TRX-00892,2026-08-11,Reza Kurniawan,085706321938,Indramayu,Cabang Timur,Gita Permata,Vario 160,MH1V16T10018638,Silver,Kredit Leasing,Leasing Sentosa,35,7190000,0,Disetujui,Selesai,Referral,2026-08-14
+TRX-00893,2026-08-12,Budi Setiawan,08133443595,Cirebon,Cabang Timur,Hendra Kusuma,BeAT,MH1BT1T10018675,Putih,Kredit Leasing,Leasing Mitra,24,5330000,1150000,Disetujui,Selesai,Media sosial,2026-08-21
+TRX-00894,2026-08-12,Agus Utami,087745555491,Tangerang,Cabang Barat,Joko Susilo,ADV160,MH1AD1T10018679,Hitam,Cash,,,,400000,,Selesai,Media sosial,2026-08-24
+TRX-00895,2026-08-16,Citra Wibowo,08772017634,Depok,Cabang Pusat,Andi Prasetyo,CB150R,MH1CB1T10018717,Putih,Cash,,,,1350000,,Selesai,Walk-in,2026-08-28
+TRX-00896,2026-08-16,Agus Ayu Firmansyah,085718129925,Karawang,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1T10018734,Merah,Cash,,,,0,,Selesai,Telemarketing,2026-08-27
+TRX-00897,2026-08-19,Ayu Ratna Kurniawan,08527095480,Depok,Cabang Pusat,Budi Santoso,CB150R,MH1CB1T10018737,Biru,Kredit Leasing,Leasing Nusa,24,6430000,450000,Disetujui,Selesai,Walk-in,2026-09-01
+TRX-00898,2026-08-19,Indah Setiawan,08786245822,Bogor,Cabang Pusat,Andi Prasetyo,Vario 160,MH1V16T10018746,Abu-abu,Kredit Leasing,Leasing Sentosa,18,5660000,750000,Disetujui,Selesai,Referral,2026-08-24
+TRX-00899,2026-08-20,Bagus Rahayu,08950479741,Bekasi,Cabang Utara,Dewi Anggraini,Vario 160,MH1V16T10018775,Biru,Cash,,,,1300000,,Selesai,Walk-in,2026-08-22
+TRX-00900,2026-08-21,Siti Putri Purnomo,089567481837,Cirebon,Cabang Timur,Gita Permata,Scoopy,MH1SC1T10018802,Silver,Kredit Leasing,Leasing Sentosa,35,4460000,0,Disetujui,Selesai,Walk-in,2026-08-25
+TRX-00901,2026-08-21,Sri Nadia Handayani,08127474917,Karawang,Cabang Utara,Citra Lestari,Stylo 160,MH1ST1T10018807,Merah,Kredit Leasing,Leasing Mitra,30,7610000,800000,Disetujui,Selesai,Telemarketing,2026-09-02
+TRX-00902,2026-08-22,Nur Santoso,08525550847,Cianjur,Cabang Selatan,Fajar Nugroho,CB150R,MH1CB1T10018839,Merah,Kredit Leasing,Leasing Sentosa,35,5960000,11000000,Ditolak,Batal,Referral,
+TRX-00903,2026-08-23,Joko Bagus Nugroho,087814493406,Depok,Cabang Pusat,Budi Santoso,BeAT,MH1BT1T10018857,Hitam,Kredit Leasing,Leasing Nusa,18,3300000,150000,Disetujui,Selesai,Walk-in,2026-08-28
+TRX-00904,2026-08-23,Putri Wibowo,081164898189,Depok,Cabang Pusat,Budi Santoso,CB150R,MH1CB1T10018862,Biru,Cash,,,,0,,Selesai,Telemarketing,2026-09-05
+TRX-00905,2026-08-24,Agus Rina Nasution,08576545030,Karawang,Cabang Utara,Citra Lestari,BeAT,mh1bt1t10018869,Biru,Kredit Leasing,Leasing Mitra,12,3060000,950000,Ditolak,Batal,Referral,
+TRX-00906,2026-08-24,Bagus Siregar,081101983877,Cianjur,Cabang Selatan,Eko Wahyudi,CB150R,MH1CB1T10018883,Putih,Cash,,,,1150000,,Selesai,Walk-in,2026-09-04
+TRX-00907,2026-08-24,Sri Saputra,087855939324,Indramayu,Cabang Timur,Gita Permata,Revo,MH1RV1T10018922,Biru,Kredit Leasing,Leasing Mitra,30,5250000,0,Disetujui,Selesai,Walk-in,2026-09-07
+TRX-00908,2026-08-25,Sari Hidayat,08523560867,Serang,Cabang Barat,Indra Maulana,CB150R,MH1CB1T10018931,Merah,Kredit Leasing,Leasing Nusa,30,9270000,1200000,Disetujui,Selesai,Referral,2026-09-05
+TRX-00909,2026-08-25,Eko Kurniawan,08133360293,Tangerang,Cabang Barat,Joko Susilo,PCX 160,MH1PC1T10018947,Biru,Kredit Leasing,Leasing Sentosa,24,9010000,0,Ditolak,Batal,Walk-in,
+TRX-00910,2026-08-26,Ahmad Yoga Lestari,087850305920,Indramayu,Cabang Timur,Hendra Kusuma,CB150R,MH1CB1T10018948,Putih,Kredit Leasing,Leasing Nusa,35,6240000,850000,Disetujui,Selesai,Walk-in,2026-09-01
+TRX-00911,2026-08-26,Gunawan Nugroho,08572973738,Bekasi,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1T10018967,Biru,Kredit Leasing,Leasing Nusa,35,4840000,0,Ditolak,Batal,Referral,
+TRX-00912,2026-08-26,Yusuf Purnomo,082274379368,Depok,Cabang Pusat,Budi Santoso,PCX 160,MH1PC1T10018981,Biru,Cash,,,,500000,,Selesai,Pameran,2026-09-07
+TRX-00913,2026-08-26,Siti Susanto,08115196872,Cianjur,Cabang Selatan,Fajar Nugroho,Vario 125,MH1V12T10019000,Hitam,Cash,,,,600000,,Selesai,Referral,2026-09-03
+TRX-00914,2026-08-26,Reza Purnomo,08570579630,Cirebon,Cabang Timur,Gita Permata,Vario 160,MH1V16T10019010,Biru,Cash,,,,1350000,,Selesai,Media sosial,2026-08-27
+TRX-00915,2026-08-27,Reza Tanjung,08217210687,Bekasi,Cabang Utara,Dewi Anggraini,Vario 160,MH1V16T10019044,Merah,Kredit Leasing,Leasing Mitra,35,4690000,0,Disetujui,Selesai,Walk-in,2026-08-29
+TRX-00916,2026-08-29,PUTRI CITRA NUGROHO,08954962514,Bekasi,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1T10019075,Abu-abu,Kredit Leasing,Leasing Sentosa,35,4960000,100000,Ditolak,Batal,Telemarketing,
+TRX-00917,2026-08-29,Yusuf Yoga Santoso,081351686329,Indramayu,Cabang Timur,Hendra Kusuma,Revo,MH1RV1T10019093,Biru,Cash,,,,1000000,,Batal,Media sosial,
+TRX-00918,2026-08-29,Joko Putri Firmansyah,085273885120,Depok,Cabang Pusat,Andi Prasetyo,CRF150L,mh1cr1t10019127,Hitam,Kredit Leasing,Leasing Mitra,24,9430000,0,Disetujui,Selesai,Walk-in,2026-08-31
+TRX-00919,2026-08-31,Fajar Siregar,08578477082,Bekasi,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1T10019148,Merah,Cash,,,,100000,,Selesai,Telemarketing,2026-09-11
+TRX-00920,2026-08-31,Budi Saputra,087776780080,Bogor,Cabang Pusat,Andi Prasetyo,BeAT,MH1BT1T10019170,Hitam,Cash,,,,1500000,,Selesai,Pameran,2026-09-06
+TRX-00921,2026-09-01,Irfan Gunawan,087805285330,Sukabumi,Cabang Selatan,Fajar Nugroho,Stylo 160,MH1ST1T10019176,Silver,Cash,,,,1350000,,Selesai,Walk-in,2026-09-11
+TRX-00922,2026-09-02,Aditya Gunawan,08773159309,Indramayu,Cabang Timur,Gita Permata,CB150R,MH1CB1T10019206,Silver,Cash,,,,0,,Selesai,Media sosial,2026-09-06
+TRX-00923,2026-09-02,Rizky Nasution,085731327071,Karawang,Cabang Utara,Dewi Anggraini,BeAT,MH1BT1T10019235,Silver,Kredit Leasing,Leasing Sentosa,18,3290000,600000,Disetujui,Selesai,Telemarketing,2026-09-10
+TRX-00924,2026-09-03,Rizky Firmansyah,08963937131,Karawang,Cabang Utara,Citra Lestari,CRF150L,MH1CR1T10019242,Putih,Kredit Leasing,Leasing Nusa,18,9330000,0,Disetujui,Selesai,Walk-in,2026-09-07
+TRX-00925,2026-09-04,Dian Indah Pratama,085739687994,Cirebon,Cabang Timur,Hendra Kusuma,BeAT,MH1BT1T10019254,Putih,Kredit Leasing,Leasing Mitra,24,5530000,250000,Disetujui,Selesai,Pameran,2026-09-18
+TRX-00926,2026-09-05,Bambang Santoso,089500674117,Indramayu,Cabang Timur,Hendra Kusuma,CRF150L,MH1CR1T10019291 ,Biru,Cash,,,,550000,,Selesai,Referral,2026-09-06
+TRX-00927,2026-09-05,Sari Nasution,08135684730,Sukabumi,Cabang Selatan,Fajar Nugroho,BeAT,MH1BT1T10019327 ,Biru,Cash,,,,450000,,Selesai,Pameran,2026-09-17
+TRX-00928,2026-09-06,Maya Kurniawan,081363258015,Cirebon,Cabang Timur,Gita Permata,BeAT,MH1BT1T10019349,Biru,Cash,,,,900000,,Selesai,Media sosial,2026-09-20
+TRX-00929,2026-09-06,Gunawan Saputra,08122205676,Tangerang,Cabang Barat,Joko Susilo,ADV160,MH1AD1T10019382,Putih,Kredit Leasing,Leasing Nusa,35,10800000,1150000,Disetujui,Selesai,Referral,2026-09-15
+TRX-00930,2026-09-06,Melati Gunawan,08139479538,Sukabumi,Cabang Selatan,Fajar Nugroho,Scoopy,MH1SC1T10019394,Putih,Kredit Leasing,Leasing Nusa,30,6220000,0,Disetujui,Selesai,Pameran,2026-09-20
+TRX-00931,2026-09-06,Budi Handayani,082282909252,Depok,Cabang Pusat,Andi Prasetyo,PCX 160,MH1PC1T10019431,Silver,Kredit Leasing,Leasing Sentosa,18,9400000,0,Disetujui,Selesai,Walk-in,2026-09-17
+TRX-00932,2026-09-09,Dedi Purnomo,082277905415,Cianjur,Cabang Selatan,Fajar Nugroho,Vario 125,mh1v12t10019440,Biru,Kredit Leasing,Leasing Sentosa,30,4250000,1350000,Disetujui,Selesai,Walk-in,2026-09-11
+TRX-00933,2026-09-09,Gunawan Rahayu,08113078876,Cirebon,Cabang Timur,Hendra Kusuma,BeAT,MH1BT1T10019465,Merah,Kredit Leasing,Leasing Mitra,24,4290000,0,Disetujui,Selesai,Walk-in,2026-09-13
+TRX-00934,2026-09-09,Ahmad Purnomo,08951047161,Bekasi,Cabang Utara,Citra Lestari,Vario 160,MH1V16T10019492,Silver,Kredit Leasing,Leasing Nusa,30,7710000,1050000,Disetujui,Batal,Referral,
+TRX-00935,2026-09-11,Yusuf Nasution,085222344998,Depok,Cabang Pusat,Budi Santoso,Scoopy,MH1SC1T10019514,Hitam,Kredit Leasing,Leasing Nusa,35,5420000,1050000,Disetujui,Selesai,Walk-in,2026-09-13
+TRX-00936,2026-09-11,Nur Halim,087796235641,Bekasi,Cabang Utara,Citra Lestari,CB150R,MH1CB1T10019518,Biru,Kredit Leasing,Leasing Mitra,18,7300000,0,Disetujui,Selesai,Walk-in,2026-09-12
+TRX-00937,2026-09-12,Hendra Gunawan,082179282047,Bekasi,Cabang Utara,Citra Lestari,Stylo 160,MH1ST1T10019546,Abu-abu,Kredit Leasing,Leasing Nusa,24,6440000,0,Disetujui,Selesai,Walk-in,2026-09-25
+TRX-00938,2026-09-12,Aditya Tanjung,081270352317,Cianjur,Cabang Selatan,Fajar Nugroho,Vario 160,MH1V16T10019552,Abu-abu,Cash,,,,1000000,,Selesai,Referral,2026-09-22
+TRX-00939,2026-09-12,Gunawan Kurniawan,08126861431,Bogor,Cabang Pusat,Budi Santoso,Vario 125,MH1V12T10019553,Biru,Kredit Leasing,Leasing Sentosa,30,6630000,1000000,Ditolak,Batal,Pameran,
+TRX-00940,2026-09-12,Putri Tanjung,08217182823,Depok,Cabang Pusat,Budi Santoso,Supra X 125,MH1SX1T10019566,Silver,Kredit Leasing,Leasing Nusa,24,3610000,400000,Disetujui,Selesai,Pameran,2026-09-16
+TRX-00941,2026-09-13,Sri Handayani,081117820909,Indramayu,Cabang Timur,Hendra Kusuma,Scoopy,MH1SC1T10019571,Merah,Kredit Leasing,Leasing Nusa,12,6410000,0,Disetujui,Selesai,Pameran,2026-09-22
+TRX-00942,2026-09-14,Gunawan Tanjung,081168924887,Karawang,Cabang Utara,Dewi Anggraini,Vario 125,MH1V12T10019594,Hitam,Cash,,,,0,,Selesai,Pameran,2026-09-22
+TRX-00943,2026-09-15,Bagus Handayani,08116920667,Indramayu,Cabang Timur,Hendra Kusuma,Vario 160,MH1V16T10019595,Merah,Cash,,,,1250000,,Selesai,Media sosial,2026-09-29
+TRX-00944,2026-09-15,Budi Reza Kurniawan,081315506312,Depok,Cabang Pusat,Budi Santoso,CB150R,MH1CB1T10019618,Abu-abu,Cash,,,,900000,,Selesai,Pameran,2026-09-28
+TRX-00945,2026-09-15,Indah Gunawan,087745674419,Serang,Cabang Barat,Indra Maulana,Vario 125,MH1V12T10019638,Silver,Cash,,,,850000,,Selesai,Media sosial,2026-09-24
+TRX-00946,2026-09-16,Budi Pratama,082289491325,Bogor,Cabang Pusat,Budi Santoso,PCX 160,MH1PC1T10019671,Merah,Kredit Leasing,Leasing Nusa,30,8840000,1200000,Disetujui,Selesai,Referral,2026-09-20
+TRX-00947,2026-09-16,Eko Lestari,08953455558,Depok,Cabang Pusat,Budi Santoso,BeAT,MH1BT1T10019705,Merah,Kredit Leasing,Leasing Mitra,24,4880000,0,Disetujui,Selesai,Media sosial,2026-09-13
+TRX-00948,2026-09-16,Citra Nasution,087831736949,Cianjur,Cabang Selatan,Eko Wahyudi,BeAT,MH1BT1T10019739,Hitam,Cash,,,,0,,Selesai,Walk-in,2026-09-24
+TRX-00949,2026-09-16,Fajar Hidayat,08579129383,Indramayu,Cabang Timur,Gita Permata,Vario 160,MH1V16T10019778,Biru,Kredit Leasing,Leasing Sentosa,35,4770000,0,Disetujui,Selesai,Media sosial,2026-09-22
+TRX-00950,2026-09-16,Yusuf Susanto,087751576954,Bogor,Cabang Pusat,Budi Santoso,BeAT,MH1BT1T10019784,Hitam,Kredit Leasing,Leasing Mitra,12,4120000,1350000,Disetujui,Batal,Referral,
+TRX-00951,2026-09-17,Rizky Wibowo,085292997401,Bogor,Cabang Pusat,Andi Prasetyo,PCX 160,MH1PC1T10019799,Hitam,Cash,,,,1150000,,Selesai,Pameran,2026-09-29
+TRX-00952,2026-09-17,Eko Gunawan Gunawan,089668249770,Cirebon,Cabang Timur,Gita Permata,BeAT,MH1BT1T10019807,Hitam,Kredit Leasing,Leasing Nusa,30,4180000,750000,Disetujui,Selesai,Walk-in,2026-09-25
+TRX-00953,2026-09-17,Sri Rahayu,08216986997,Cianjur,Cabang Selatan,Fajar Nugroho,CRF150L,MH1CR1T10019822,Putih,Kredit Leasing,Leasing Mitra,12,9400000,0,Disetujui,Selesai,Walk-in,2026-09-19
+TRX-00954,2026-09-18,Reza Joko Wijaya,08134474462,Cianjur,Cabang Selatan,Eko Wahyudi,PCX 160,MH1PC1T10019852,Hitam,Kredit Leasing,Leasing Sentosa,12,6140000,0,Disetujui,Selesai,Walk-in,2026-10-01
+TRX-00955,2026-09-19,Dedi Siregar,08216666139,Sukabumi,Cabang Selatan,Eko Wahyudi,Vario 160,MH1V16T10019890,Abu-abu,Kredit Leasing,Leasing Nusa,30,5930000,650000,Disetujui,Selesai,Media sosial,2026-09-21
+TRX-00956,2026-09-19,Dedi Handayani,089619182980,Bekasi,Cabang Utara,Citra Lestari,Vario 160,MH1V16T10019897,Silver,Kredit Leasing,Leasing Mitra,35,6020000,0,Disetujui,Selesai,Referral,2026-09-20
+TRX-00957,2026-09-21,Kartika Utami,089621115052,Bekasi,Cabang Utara,Citra Lestari,Scoopy,MH1SC1T10019906,Merah,Cash,,,,0,,Selesai,Media sosial,2026-10-03
+TRX-00958,2026-09-21,Citra Lestari,089545458106,Sukabumi,Cabang Selatan,Fajar Nugroho,Vario 160,MH1V16T10019940,Abu-abu,Cash,,,,550000,,Selesai,Telemarketing,2026-09-23
+TRX-00959,2026-09-21,Sri Kurniawan,082231391142,Indramayu,Cabang Timur,Gita Permata,Scoopy,MH1SC1T10019959,Silver,Kredit Leasing,Leasing Mitra,18,6430000,0,Ditolak,Batal,Walk-in,
+TRX-00960,2026-09-21,Bambang Handayani,082250982987,Cirebon,Cabang Timur,Gita Permata,Vario 125,MH1V12T10019994,Merah,Kredit Leasing,Leasing Mitra,24,4390000,0,Disetujui,Selesai,Walk-in,2026-10-03
+TRX-00961,2026-09-22,Hendra Purnomo,08132978294,Tangerang,Cabang Barat,Joko Susilo,ADV160,MH1AD1T10020014,Abu-abu,Kredit Leasing,Leasing Mitra,30,10460000,1500000,Ditolak,Batal,Walk-in,
+TRX-00962,2026-09-22,Kartika Siregar,085297349068,Indramayu,Cabang Timur,Gita Permata,Revo,MH1RV1T10020022,Merah,Kredit Leasing,Leasing Mitra,12,4700000,0,Disetujui,Selesai,Pameran,2026-09-26
+TRX-00963,2026-09-23,Dian Rizky Hidayat,08219221459,Bogor,Cabang Pusat,Andi Prasetyo,Revo,MH1RV1T10020041,Hitam,Kredit Leasing,Leasing Sentosa,30,2790000,1500000,Disetujui,Selesai,Walk-in,2026-09-27
+TRX-00964,2026-09-23,Kartika Hidayat,081215273836,Depok,Cabang Pusat,Andi Prasetyo,Vario 160,MH1V16T10020058,Merah,Cash,,,,950000,,Selesai,Telemarketing,2026-09-28
+TRX-00965,2026-09-26,Nur Susanto,08579471687,Depok,Cabang Pusat,Andi Prasetyo,ADV160,MH1AD1T10020088,Merah,Kredit Leasing,Leasing Mitra,18,8680000,400000,Disetujui,Selesai,Walk-in,2026-10-07
+TRX-00966,2026-09-26,Yusuf Halim,08772701281,Sukabumi,Cabang Selatan,Fajar Nugroho,BeAT,MH1BT1T10020095,Merah,Cash,,,,600000,,Selesai,Pameran,2026-10-01
+TRX-00967,2026-09-26,Taufik Susanto,082255237785,Karawang,Cabang Utara,Citra Lestari,CB150R,MH1CB1T10020110,Abu-abu,Kredit Leasing,Leasing Mitra,24,9000000,0,Ditolak,Batal,Pameran,
+TRX-00968,2026-09-26,Hendra Hakim,089556151291,Bekasi,Cabang Utara,Citra Lestari,Scoopy,MH1SC1T10020133,Biru,Kredit Leasing,Leasing Sentosa,12,4690000,700000,Disetujui,Batal,Walk-in,
+TRX-00969,2026-09-26,Sari Purnomo,08783209800,Depok,Cabang Pusat,Andi Prasetyo,Stylo 160,MH1ST1T10020154,Merah,Cash,,,,0,,Selesai,Media sosial,2026-10-01
+TRX-00970,2026-09-27,Budi Wijaya,081133548507,Bogor,Cabang Pusat,Andi Prasetyo,Supra X 125,MH1SX1T10020189,Merah,Kredit Leasing,Leasing Mitra,35,4500000,0,Disetujui,Selesai,Media sosial,2026-10-02
+TRX-00971,2026-09-27,Gunawan Dewi Wibowo,089600694589,Indramayu,Cabang Timur,Gita Permata,CRF150L,MH1CR1T10020193,Merah,Kredit Leasing,Leasing Nusa,30,6850000,0,Disetujui,Selesai,Pameran,2026-10-03
+TRX-00972,2026-09-29,Hendra Sri Utami,08113344952,Bogor,Cabang Pusat,Andi Prasetyo,CRF150L,MH1CR1T10020228,Merah,Cash,,,,200000,,Selesai,Referral,2026-10-06
+TRX-00973,2026-09-30,MELATI WIBOWO,08575500408,Depok,Cabang Pusat,Budi Santoso,Vario 125,MH1V12T10020238,Merah,Cash,,,,0,,Selesai,Walk-in,2026-10-12
+TRX-00974,2026-10-01,Sari Siregar,081384754003,Sukabumi,Cabang Selatan,Fajar Nugroho,PCX 160,MH1PC1T10020254,Putih,Kredit Leasing,Leasing Mitra,12,7250000,1450000,Disetujui,Selesai,Walk-in,2026-10-05
+TRX-00975,2026-10-02,Wahyu Pratama,08576780615,Depok,Cabang Pusat,Andi Prasetyo,Vario 125,MH1V12T10020255,Putih,Kredit Leasing,Leasing Sentosa,35,4700000,1200000,Disetujui,Selesai,Referral,2026-10-12
+TRX-00976,2026-10-02,Ratna Maulana,087815521438,Bogor,Cabang Pusat,Andi Prasetyo,PCX 160,MH1PC1T10020288,Silver,Cash,,,,700000,,Selesai,Walk-in,2026-10-07
+TRX-00977,2026-10-02,Maya Susanto ,08227564121,Indramayu,Cabang Timur,Hendra Kusuma,BeAT,MH1BT1T10020290,Silver,Kredit Leasing,Leasing Mitra,18,2870000,0,Disetujui,Selesai,Walk-in,2026-10-03
+TRX-00978,2026-10-03,Rudi Nugroho,08577844083,Bogor,Cabang Pusat,Andi Prasetyo,Genio,MH1GN1T10020324,Merah,Kredit Leasing,Leasing Sentosa,12,6010000,1350000,Dalam Proses,Dalam Proses,Telemarketing,
+TRX-00979,2026-10-03,Putri Nasution,081214495073,Serang,Cabang Barat,Joko Susilo,Supra X 125,MH1SX1T10020331,Silver,Kredit Leasing,Leasing Mitra,12,5560000,0,Dalam Proses,Dalam Proses,Media sosial,
+TRX-00980,2026-10-06,Bpk. Rina Handayani,082173449671,Indramayu,Cabang Timur,Gita Permata,Genio,MH1GN1T10020341,Silver,Kredit Leasing,Leasing Mitra,35,6070000,1000000,Dalam Proses,Dalam Proses,Referral,
+TRX-00981,2026-10-07,Ayu Gunawan,081182492544,Karawang,Cabang Utara,Citra Lestari,PCX 160,MH1PC1T10020352,Abu-abu,Kredit Leasing,Leasing Mitra,18,9160000,250000,Dalam Proses,Dalam Proses,Walk-in,
+TRX-00982,2026-10-08,Wahyu Anton Lestari,08773474815,Bogor,Cabang Pusat,Budi Santoso,Stylo 160,MH1ST1T10020369,Silver,Kredit Leasing,Leasing Sentosa,24,7740000,0,Dalam Proses,Dalam Proses,Walk-in,
+TRX-00983,2026-10-08,Fajar Nugroho,08121394924,Serang,Cabang Barat,Indra Maulana,BeAT,MH1BT1T10020390,Hitam,Kredit Leasing,Leasing Nusa,30,4170000,600000,Disetujui,Selesai,Referral,2026-10-17
+TRX-00984,2026-10-09,Dewi Lestari,08789456952,Sukabumi,Cabang Selatan,Eko Wahyudi,CB150R,MH1CB1T10020405,Biru,Cash,,,,350000,,Selesai,Walk-in,2026-10-19
+TRX-00985,2026-10-09,Dewi Teguh Rahayu,08965481207,Depok,Cabang Pusat,Budi Santoso,Vario 125,MH1V12T10020438,Putih,Kredit Leasing,Leasing Sentosa,24,6720000,750000,Disetujui,Selesai,Walk-in,2026-10-20
+TRX-00986,2026-10-10,Yoga Rahayu,08138066217,Tangerang,Cabang Barat,Joko Susilo,Genio,MH1GN1T10020470,Abu-abu,Cash,,,,1500000,,Batal,Walk-in,
+TRX-00987,2026-10-10,Indah Maulana,081267425448,Sukabumi,Cabang Selatan,Fajar Nugroho,BeAT,MH1BT1T10020508,Biru,Kredit Leasing,Leasing Sentosa,30,4240000,650000,Disetujui,Dalam Proses,Walk-in,
+TRX-00988,2026-10-11,Nadia Hidayat,087727277906,Sukabumi,Cabang Selatan,Eko Wahyudi,Revo,mh1rv1t10020536,Silver,Kredit Leasing,Leasing Mitra,35,3350000,150000,Dalam Proses,Dalam Proses,Walk-in,
+TRX-00989,2026-10-12,Aditya Nasution,082207494818,Bogor,Cabang Pusat,Andi Prasetyo,ADV160,MH1AD1T10020555,Abu-abu,Kredit Leasing,Leasing Nusa,18,7170000,0,Disetujui,Selesai,Media sosial,2026-10-19
+TRX-00990,2026-10-13,Citra Hakim,08969258367,Bogor,Cabang Pusat,Budi Santoso,Revo,MH1RV1T10020558,Putih,Kredit Leasing,Leasing Nusa,30,5320000,0,Dalam Proses,Dalam Proses,Referral,
+TRX-00991,2026-10-14,Sdr. Bagus Wahyu Hidayat,089671447277,Bogor,Cabang Pusat,Andi Prasetyo,Scoopy,MH1SC1T10020587,Merah,Kredit Leasing,Leasing Sentosa,12,5550000,1200000,Dalam Proses,Dalam Proses,Media sosial,
+TRX-00992,2026-10-15,Indah Susanto,085700288358,Karawang,Cabang Utara,Dewi Anggraini,CB150R,MH1CB1T10020606,Abu-abu,Kredit Leasing,Leasing Mitra,18,5930000,1450000,Dalam Proses,Dalam Proses,Walk-in,
+TRX-00993,2026-10-16,Yoga Purnomo,08214551807,Indramayu,Cabang Timur,Hendra Kusuma,CRF150L,MH1CR1T10020631,Merah,Cash,,,,100000,,Dalam Proses,Walk-in,
+TRX-00994,2026-10-17,Eko Halim,08137720493,Serang,Cabang Barat,Joko Susilo,Revo,MH1RV1T10020644,Merah,Cash,,,,1050000,,Dalam Proses,Telemarketing,
+TRX-00995,2026-10-17,Maya Pratama,087886523638,Depok,Cabang Pusat,Andi Prasetyo,Genio,MH1GN1T10020675,Hitam,Cash,,,,0,,Dalam Proses,Walk-in,
+TRX-00996,2026-10-17,Melati Dewi Purnomo,08122356942,Karawang,Cabang Utara,Dewi Anggraini,Scoopy,MH1SC1T10020700,Merah,Kredit Leasing,Leasing Nusa,30,4400000,0,Disetujui,Dalam Proses,Pameran,
+TRX-00997,2026-10-17,Budi Handayani,081336373590,Indramayu,Cabang Timur,Hendra Kusuma,Supra X 125,MH1SX1T10020738,Silver,Kredit Leasing,Leasing Nusa,24,4650000,0,Dalam Proses,Dalam Proses,Pameran,
+TRX-00998,2026-10-17,Dian Rizky Hidayat,08964477238,Depok,Cabang Pusat,Andi Prasetyo,Vario 125,MH1V12T10020767,Biru,Cash,,,,1100000,,Dalam Proses,Referral,
+TRX-00999,2026-10-17,Rina Wibowo,082148225401,Cirebon,Cabang Timur,Hendra Kusuma,Genio,MH1GN1T10020774,Abu-abu,Cash,,,,500000,,Dalam Proses,Media sosial,
+TRX-01000,2026-10-20,Nadia Hidayat,087836862514,Depok,Cabang Pusat,Andi Prasetyo,Genio,MH1GN1T10020778,Abu-abu,Kredit Leasing,Leasing Mitra,30,5740000,650000,Dalam Proses,Dalam Proses,Media sosial,

@@ -1,0 +1,1001 @@
+ID_Pelanggan,Nama_Pelanggan,No_HP,Kota,No_Polisi,Model_Mobil,Tanggal_Beli,Tipe_Pembayaran,Salesperson,Tanggal_Servis_Terakhir,KM_Terakhir,Jenis_Servis_Terakhir,Total_Biaya_Servis,Jumlah_Kunjungan_Servis,Status_Follow_Up,Rating_Kepuasan
+CUST0001,Yusuf Simanjuntak,081322022697,Bekasi,B 6337 ZKR,WR-V,2022-01-03,Kredit Leasing,Citra Lestari,2024-07-17,34632,Servis Berkala,903000,7,Tidak Diangkat,
+CUST0002,Budi Purnomo,089635286675,Bekasi,B 8629 DHT,Brio,2022-01-07,Kredit Leasing,Budi Santoso,2026-10-02,75716,Servis Berkala,793000,12,Sudah Dihubungi,4
+CUST0003,Bambang Firmansyah,089645607874,Bekasi,B 8893 XE,Brio,2022-01-08,Cash,Fajar Nugroho,2025-11-24,53884,Servis Berkala,498000,10,Belum Dihubungi,
+CUST0004,Dedi Saputra,+62 812-9169-7978,Bekasi,B 6881 JRB,HR-V,2022-01-13,Kredit Leasing,Eko Wahyudi,2024-01-21,33077,Body Repair,8164000,5,Sudah Dihubungi,5
+CUST0005,DIAN GUNAWAN PERMANA,08217319796,Bekasi,B 5177 ZU,Brio,2022-01-13,Kredit Leasing,Budi Santoso,2025-08-22,50124,Servis Berkala,876000,9,Janji Servis,2
+CUST0006,Budi Susanto,0811-3042-845,Jakarta,B 8625 GW,Mobilio,2022-01-13,Cash,Andi Prasetyo,2025-04-29,55840,General Repair,4207000,9,Belum Dihubungi,
+CUST0007,Kartika Wijaya,08228288983,Semarang,H 2895 NAZ,Civic,2022-01-21,Cash,Andi Prasetyo,2025-03-17,37287,Ganti Oli,272000,8,Belum Dihubungi,
+CUST0008,Dewi Nugroho,8957252781,Bekasi,B 4969 AJ,Brio,2022-01-22,Cash,Citra Lestari,2023-08-10,23983,Servis Berkala,369000,4,Sudah Dihubungi,3
+CUST0009,Ratna Dedi Nasution,087811209842,Bekasi,B 9393 BSA,Brio,2022-01-24,Kredit Leasing,Dewi Anggraini,2025-03-12,38577,Ganti Oli,331000,8,Belum Dihubungi,
+CUST0010,Wahyu Aditya Rahayu,082235213629,Tangerang,B 1082 PCW,BR-V,2022-01-26,Kredit Leasing,Gita Permata,2025-07-14,50363,General Repair,2177000,9,Sudah Dihubungi,4
+CUST0011,Nadia Siregar,085263884985,Surabaya,L 9818 SHY,Brio,2022-01-26,Kredit Leasing,Andi Prasetyo,2026-08-21,71671,Ganti Oli,563000,12,Sudah Dihubungi,5
+CUST0012,Sri Purnomo,08781136179,Tangerang,B 8033 RXW,CR-V,2022-01-26,Kredit Leasing,Gita Permata,2026-08-12,51148,Servis Berkala,1183000,9,Sudah Dihubungi,4
+CUST0013,REZA NASUTION,087859211532,Depok,B 6088 CB,Mobilio,2022-01-27,Kredit Leasing,Gita Permata,,,,,0,Sudah Dihubungi,5
+CUST0014,Gunawan Maulana,08126261488,Tangerang,B 3145 AL,City Hatchback,2022-01-31,Kredit Leasing,Hendra Kusuma,,,,,0,Belum Dihubungi,
+CUST0015,Gunawan Kurniawan ,087840894874,Jakarta,B 6038 UKC,Brio,2022-01-31,Cash,Budi Santoso,2024-01-11,26638,Ganti Oli,559000,5,Belum Dihubungi,
+CUST0016,Wahyu Bagus Firmansyah,085795965056,Semarang,H 6062 HXF,City Hatchback,2022-01-31,Kredit Leasing,Fajar Nugroho,2026-07-31,48329,Ganti Oli,561000,8,Sudah Dihubungi,4
+CUST0017,Wahyu Santoso,08784216311,Bekasi,B 1379 NNB,HR-V,2022-02-03,Kredit Leasing,Gita Permata,2023-06-18,28082,Servis Berkala,1042000,4,Belum Dihubungi,
+CUST0038,Ratna Tanjung,082279672521,Semarang,H 4560 WU,Brio,2022-03-04,Cash,Gita Permata,2025-07-28,43230,Servis Berkala,731000,9,Janji Servis,5
+CUST0018,Eko Sihombing,085772041263,Jakarta,B 8222 UW,Mobilio,2022-02-05,Kredit Leasing,Hendra Kusuma,2025-01-02,39861,Ganti Oli,274000,7,Sudah Dihubungi,
+CUST0019,Rudi Hidayat,08132384164,Jakarta,B 5835 XE,Mobilio,2022-02-08,Kredit Leasing,Budi Santoso,2025-08-22,48296,Ganti Oli,528000,9,Sudah Dihubungi,5
+CUST0020,Lina Susanto,08124146175,Surabaya,L 8761 XP,WR-V,2022-02-09,Kredit Leasing,Andi Prasetyo,2024-04-19,38461,General Repair,2043000,6,Sudah Dihubungi,5
+CUST0553,Budi Kurniawan,08526107954,Bekasi,B 5006 XA,City Hatchback,2024-10-18,Cash,Eko Wahyudi,2026-09-02,29391,General Repair,2183000,5,Janji Servis,5
+CUST0021,Indah Simanjuntak,087760553848,Jakarta,B 2113 UCE,Brio,2022-02-13,Kredit Leasing,Andi Prasetyo,2024-05-29,35456,Servis Berkala,1042000,6,Belum Dihubungi,
+CUST0022,Sri Maulana,08771087526,Jakarta,B 1340 LSR,Brio,2022-02-13,Kredit Leasing,Hendra Kusuma,2026-02-27,48405,Servis Berkala,1010000,10,Sudah Dihubungi,
+CUST0023,Indah Simanjuntak,082121723349,Jakarta,B 8058 KLK,Brio,2022-02-16,Kredit Leasing,Fajar Nugroho,2025-08-19,42712,Ganti Oli,419000,7,Belum Dihubungi,
+CUST0024,Rudi Yusuf Sihombing,08524940429,Depok,B 2503 GX,BR-V,2022-02-16,Cash,Budi Santoso,2026-08-06,38177,Servis Berkala,482000,8,Sudah Dihubungi,5
+CUST0025,Lina Purnomo,08117039273,Surabaya,L 2218 GG,Brio,2022-02-19,Kredit Leasing,Budi Santoso,2025-07-01,47903,Ganti Oli,574000,8,Sudah Dihubungi,2
+CUST0026,Citra Wijaya,082116715529,Depok,B 9250 LNU,City Hatchback,2022-02-19,Cash,Gita Permata,2024-11-27,33457,Servis Berkala,561000,7,Sudah Dihubungi,3
+CUST0027,Citra Indah Utami,08968615812,Bekasi,B 2533 UW,BR-V,2022-02-20,Kredit Leasing,Fajar Nugroho,2025-07-23,54815,Servis Berkala,412000,9,Janji Servis,
+CUST0028,Aditya Rahayu,081226436628,Surabaya,L 7596 VHN,Mobilio,2022-02-22,Kredit Leasing,Dewi Anggraini,2023-04-15,20346,Ganti Oli,350000,3,Sudah Dihubungi,3
+CUST0029,Sari Melati Tanjung,087804151780,Jakarta,B 3197 DDU,Brio,2022-02-23,Kredit Leasing,Dewi Anggraini,2025-11-05,53066,General Repair,1783000,10,Belum Dihubungi,
+CUST0030,Siti Joko Wibowo,08577002238,Tangerang,B 6971 TER,WR-V,2022-02-24,Cash,Citra Lestari,2025-04-07,52417,Servis Berkala,461000,8,Sudah Dihubungi,5
+CUST0031,Bagus Wibowo,08215165850,Depok,B 9039 UXW,Brio,2022-02-24,Kredit Leasing,Fajar Nugroho,2026-02-23,64873,Servis Berkala,1010000,10,Sudah Dihubungi,5
+CUST0032,Irfan Maulana ,08124190823,Jakarta,B 5156 CB,Brio,2022-02-27,Kredit Leasing,Andi Prasetyo,2025-09-11,10988,Servis Berkala,894000,2,Janji Servis,4
+CUST0033,Fajar Pratama,08964276412,Tangerang,B 3163 XD,Brio,2022-03-01,Kredit Leasing,Gita Permata,2026-09-01,58844,General Repair,3144000,11,Janji Servis,4
+CUST0034,Dedi Sihombing,08213879268,Tangerang,B 1647 WYL,Brio,2022-03-02,Kredit Leasing,Andi Prasetyo,2025-07-22,20426,Servis Berkala,695000,4,Belum Dihubungi,
+CUST0035,Rudi Melati Halim,08216607568,Tangerang,B 5171 KPV,Brio,2022-03-02,Kredit Leasing,Citra Lestari,,,,,0,Belum Dihubungi,
+CUST0036,Ratna Utami,+62 877-9539-7110,Bekasi,B 9184 BY,Brio,2022-03-02,Kredit Leasing,Citra Lestari,,,,,0,Belum Dihubungi,
+CUST0037,Sari Tanjung,8579844278,Bogor,F 1482 UV,Brio,2022-03-03,Kredit Leasing,Hendra Kusuma,,,,,0,Sudah Dihubungi,
+CUST0038,Ratna Tanjung,082279672521,Semarang,H 4560 WU,Brio,2022-03-04,Cash,Gita Permata,2025-07-28,43230,Servis Berkala,731000,9,Janji Servis,5
+CUST0039,Bagus Tanjung,089529207425,Jakarta,B 3084 TMY,Brio,2022-03-11,Cash,Hendra Kusuma,2024-09-02,38878,Servis Berkala,378000,7,Janji Servis,5
+CUST0040,Dian Purnomo,0852-4810-133,Jakarta,B 7622 GD,City Hatchback,2022-03-12,Kredit Leasing,Gita Permata,2025-09-21,47086,Ganti Oli,273000,9,Sudah Dihubungi,5
+CUST0041,Taufik Lestari,085244615157,Jakarta,B 4247 MXR,CR-V,2022-03-13,Cash,Gita Permata,,,,,0,Janji Servis,3
+CUST0042,Teguh  Nasution,08223733697,Jakarta,B 3814 GWA,WR-V,2022-03-19,Cash,Citra Lestari,2026-01-26,60342,Servis Berkala,968000,10,Sudah Dihubungi,
+CUST0043,Gunawan Wibowo,081161357506,Depok,B 5401 GXM,Mobilio,2022-03-20,Kredit Leasing,Andi Prasetyo,2025-10-17,43069,Servis Berkala,883000,8,Janji Servis,4
+CUST0044,Agus Ratna Nasution,08124418613,Bogor,F 6030 FL,Civic,2022-03-20,Kredit Leasing,Eko Wahyudi,2023-12-27,31669,Servis Berkala,763000,5,Belum Dihubungi,
+CUST0045,Wahyu Maya Siregar,085712202848,Tangerang,B 4730 ZE,WR-V,2022-03-20,Cash,Fajar Nugroho,2024-09-22,38769,Servis Berkala,857000,7,Sudah Dihubungi,5
+CUST0046,Rina Santoso,085248367088,Bogor,F 8632 NWJ,BR-V,2022-03-21,Kredit Leasing,Gita Permata,2024-05-31,6502,Servis Berkala,771000,1,Belum Dihubungi,
+CUST0047,Ayu Pratama,+62 877-2903-575,Jakarta,B 5981 BLM,City Hatchback,2022-03-21,Kredit Leasing,Eko Wahyudi,,,,,0,Sudah Dihubungi,5
+CUST0048,Reza Dedi Firmansyah,08125937873,Surabaya,L 6534 JPA,Civic,2022-03-29,Cash,Citra Lestari,2026-07-28,71230,Servis Berkala,476000,11,Janji Servis,4
+CUST0049,Lina Tanjung,085728243143,Depok,B 2239 ZEF,Brio,2022-04-04,Cash,Fajar Nugroho,2025-08-30,55752,Servis Berkala,1163000,9,Sudah Dihubungi,2
+CUST0050,Sari Ayu Halim,085711626958,Bekasi,B 5750 VGU,Brio,2022-04-04,Cash,Fajar Nugroho,2026-07-13,48157,General Repair,3241000,10,Belum Dihubungi,
+CUST0051,Melati Kurniawan,08960007146,Jakarta,B 6912 NU,Mobilio,2022-04-04,Kredit Leasing,Gita Permata,,,,,0,Sudah Dihubungi,
+CUST0052,Taufik Firmansyah,08956192275,Bandung,D 4367 MNF,City Hatchback,2022-04-05,Kredit Leasing,Gita Permata,2024-12-22,35616,Servis Berkala,623000,7,Sudah Dihubungi,4
+CUST0053,Rina Nugroho,+62 877-0375-268,Depok,B 5404 SBZ,WR-V,2022-04-11,Cash,Fajar Nugroho,2026-07-14,67182,Servis Berkala,545000,11,Tidak Diangkat,
+CUST0054,dedi utami,08789086277,Bandung,D 2860 UW,BR-V,2022-04-13,Kredit Leasing,Fajar Nugroho,2025-05-31,45079,Ganti Oli,482000,8,Sudah Dihubungi,4
+CUST0055,Yoga Lestari,08526058188,Bekasi,B 4710 RUG,Brio,2022-04-18,Kredit Leasing,Budi Santoso,2026-03-19,49185,Servis Berkala,807000,9,Tidak Diangkat,
+CUST0056,Nadia Halim,082168917760,Jakarta,B 3582 ZL,Brio,2022-04-23,Kredit Leasing,Budi Santoso,2025-10-31,50977,Servis Berkala,624000,9,Janji Servis,5
+CUST0057,Agus Susanto,08214461811,Surabaya,L 7854 ALN,City Hatchback,2022-04-27,Kredit Leasing,Hendra Kusuma,2025-01-15,43388,Servis Berkala,1035000,7,Belum Dihubungi,
+CUST0058,Teguh Lina Maulana,08776751272,Jakarta,B 6089 SX,Mobilio,2022-04-28,Kredit Leasing,Dewi Anggraini,2026-09-19,67705,Servis Berkala,1028000,11,Sudah Dihubungi,5
+CUST0059,Dian Gunawan,08771648919,Jakarta,B 6079 CKA,Civic,2022-04-30,Kredit Leasing,Citra Lestari,2024-12-04,39589,Servis Berkala,736000,7,Belum Dihubungi,
+CUST0060,Yusuf Santoso,087880782695,Bogor,F 8713 GJD,Mobilio,2022-05-01,Cash,Andi Prasetyo,,,,,0,Belum Dihubungi,
+CUST0061,Citra Siregar,087704997916,Bekasi,B 5129 ADD,WR-V,2022-05-02,Kredit Leasing,Gita Permata,2025-04-18,43906,Servis Berkala,810000,8,Janji Servis,5
+CUST0062,Indah Simanjuntak,08225197604,Bekasi,B 2880 VAN,BR-V,2022-05-05,Kredit Leasing,Fajar Nugroho,2024-05-21,26500,Servis Berkala,518000,5,Janji Servis,1
+CUST0063,Rizky Tanjung,0895-7574-8878,Bandung,D 7642 PV,Mobilio,2022-05-06,Cash,Budi Santoso,2026-02-15,42827,Servis Berkala,710000,8,Sudah Dihubungi,
+CUST0064,Eko  Gunawan Wijaya,0878-2045-3316,Jakarta,B 1517 BJ,Brio,2022-05-11,Cash,Hendra Kusuma,,,,,0,Janji Servis,4
+CUST0065,Irfan Bambang Susanto,08114657612,Tangerang,B 1260 ZX,Brio,2022-05-13,Cash,Andi Prasetyo,2025-01-06,35475,Servis Berkala,688000,7,Janji Servis,5
+CUST0066,Maya Hidayat,8962716339,Jakarta,B 2635 GZ,Mobilio,2022-05-13,Cash,Citra Lestari,,,,,0,Sudah Dihubungi,
+CUST0067,Rina Dewi Kurniawan,89519530955,Bandung,D 4037 GZX,Brio,2022-05-14,Cash,Fajar Nugroho,2026-10-07,71915,General Repair,3522000,11,Belum Dihubungi,
+CUST0068,Hendra Saputra,08229839439,Bandung,D 7729 SNH,Brio,2022-05-15,Cash,Gita Permata,2025-09-19,51724,Ganti Oli,569000,9,Sudah Dihubungi,5
+CUST0069,Melati Gunawan Hakim ,85720034684,Jakarta,B 5308 NPP,Brio,2022-05-24,Cash,Eko Wahyudi,2025-12-01,57698,Servis Berkala,1115000,9,Sudah Dihubungi,5
+CUST0070,Putri Halim,08115379101,Depok,B 6960 GL,BR-V,2022-05-25,Kredit Leasing,Dewi Anggraini,2024-06-04,33248,Servis Berkala,362000,5,Tidak Diangkat,
+CUST0071,Lina  Rudi Kurniawan,08112644081,Bandung,D 5644 GD,HR-V,2022-06-01,Cash,Dewi Anggraini,,,,,0,Belum Dihubungi,
+CUST0072,Aditya Susanto,082243210772,Surabaya,L 7436 EW,WR-V,2022-06-02,Cash,Gita Permata,2025-11-10,53453,Servis Berkala,451000,9,Belum Dihubungi,
+CUST0073,Dian Wibowo,081296410340,Surabaya,L 1753 AU,Brio,2022-06-08,Cash,Eko Wahyudi,2025-10-31,46805,Servis Berkala,367000,8,Sudah Dihubungi,4
+CUST0074,Gunawan Irfan Nasution ,085765052651,Bandung,D 8065 FJ,Brio,2022-06-11,Cash,Eko Wahyudi,2026-03-03,47820,Servis Berkala,1012000,9,Tidak Diangkat,
+CUST0075,Dewi Maya Hakim,089610424918,Bogor,F 6845 MH,Brio,2022-06-13,Kredit Leasing,Gita Permata,2025-01-16,47751,Servis Berkala,1045000,7,Sudah Dihubungi,4
+CUST0076,Dedi Wibowo,087752162144,Semarang,H 3243 YPP,BR-V,2022-06-13,Kredit Leasing,Citra Lestari,2026-06-24,28515,Servis Berkala,361000,6,Tidak Diangkat,
+CUST0077,Gunawan Rizky Simanjuntak,081389664950,Semarang,H 6202 HFR,Brio,2022-06-17,Cash,Fajar Nugroho,2026-06-30,51772,Servis Berkala,772000,10,Belum Dihubungi,
+CUST0078,Eko Teguh Sihombing,085248526818,Bekasi,B 5065 VKK,HR-V,2022-06-21,Cash,Andi Prasetyo,,,,,0,Sudah Dihubungi,5
+CUST0079,Fitri Maya Gunawan,+62 813-0924-108,Bogor,F 2425 AH,Brio,2022-06-22,Cash,Andi Prasetyo,,,,,0,Sudah Dihubungi,5
+CUST0080,Dewi Halim,08121174055,Depok,B 9703 AYB,WR-V,2022-06-24,Kredit Leasing,Hendra Kusuma,2025-07-13,40443,Servis Berkala,582000,8,Janji Servis,4
+CUST0081,Nadia Tanjung ,081284168596,Jakarta,B 1643 KMP,Brio,2022-06-24,Cash,Citra Lestari,2025-04-14,37946,Servis Berkala,1174000,7,Belum Dihubungi,
+CUST0082,Budi Rudi Lestari,08782963476,Bogor,F 9010 CAJ,Mobilio,2022-06-24,Kredit Leasing,Gita Permata,2025-09-02,50080,Servis Berkala,552000,8,Sudah Dihubungi,4
+CUST0083,nadia lestari,08123271927,Bogor,F 2896 XYK,Brio,2022-06-27,Cash,Eko Wahyudi,2025-06-29,40219,General Repair,4852000,8,Sudah Dihubungi,4
+CUST0084,Wahyu Gunawan,08139113170,Surabaya,L 9510 VRN,BR-V,2022-07-01,Kredit Leasing,Gita Permata,2026-02-25,46878,Body Repair,5562000,7,Sudah Dihubungi,5
+CUST0085,Aditya Sri Handayani,08214054187,Depok,B 8947 PS,WR-V,2022-07-05,Kredit Leasing,Fajar Nugroho,,,,,0,Janji Servis,5
+CUST0086,Siti Kurniawan,081379081736,Bandung,D 7904 BB,Brio,2022-07-05,Cash,Hendra Kusuma,2023-11-20,25306,Servis Berkala,1142000,4,Sudah Dihubungi,3
+CUST0087,Ayu Saputra,082225312014,Surabaya,L 6594 FSK,HR-V,2022-07-07,Kredit Leasing,Citra Lestari,2025-08-25,52251,Servis Berkala,780000,8,Sudah Dihubungi,4
+CUST0088,Gunawan Yusuf Susanto,087898073046,Jakarta,B 5863 HKE,HR-V,2022-07-07,Cash,Citra Lestari,2026-05-20,66814,Servis Berkala,434000,10,Sudah Dihubungi,3
+CUST0089,Dian Bagus Wijaya,08122076536,Tangerang,B 1206 HGP,CR-V,2022-07-10,Kredit Leasing,Eko Wahyudi,2025-05-28,50454,Servis Berkala,794000,8,Sudah Dihubungi,5
+CUST0090,Dewi Purnomo,0812-0602-1331,Tangerang,B 2477 WGV,Brio,2022-07-12,Kredit Leasing,Eko Wahyudi,2025-09-23,48684,General Repair,3449000,8,Belum Dihubungi,
+CUST0091,Wahyu Siregar,08775006201,Bandung,D 8940 NL,BR-V,2022-07-14,Kredit Leasing,Andi Prasetyo,2026-03-30,51097,Servis Berkala,739000,9,Sudah Dihubungi,
+CUST0092,Gunawan Hidayat,081161342077,Jakarta,B 6648 BY,Civic,2022-07-15,Cash,Dewi Anggraini,2025-04-05,39606,Ganti Oli,527000,7,Tidak Diangkat,
+CUST0093,Sari Gunawan,087835446443,Tangerang,B 3126 ZLX,BR-V,2022-07-16,Kredit Leasing,Gita Permata,2025-03-08,34763,Ganti Oli,362000,7,Sudah Dihubungi,3
+CUST0094,Nur Sihombing,08214618669,Jakarta,B 1847 PXW,CR-V,2022-07-17,Kredit Leasing,Fajar Nugroho,2026-04-23,51019,Body Repair,2897000,10,Belum Dihubungi,
+CUST0095,Dian Halim,08572102298,Jakarta,B 7771 HP,BR-V,2022-07-19,Kredit Leasing,Gita Permata,2024-10-03,36800,Ganti Oli,595000,6,Tidak Diangkat,
+CUST0096,Nadia Purnomo,08571847684,Tangerang,B 1389 ND,Mobilio,2022-07-19,Kredit Leasing,Eko Wahyudi,2026-08-05,42719,Servis Berkala,866000,8,Sudah Dihubungi,4
+CUST0097,Bagus Reza Purnomo,085220733745,Bandung,D 2070 ZK,HR-V,2022-07-19,Cash,Hendra Kusuma,2025-01-04,33123,General Repair,5664000,6,Sudah Dihubungi,4
+CUST0098,Indah  Wijaya,08216620229,Semarang,H 3572 NNH,City Hatchback,2022-07-22,Kredit Leasing,Eko Wahyudi,2024-05-02,26426,Ganti Oli,524000,5,Janji Servis,4
+CUST0099,Citra Joko Siregar,08117158468,Bekasi,B 2317 GNB,Brio,2022-07-23,Kredit Leasing,Andi Prasetyo,2025-06-14,37468,Ganti Oli,487000,7,Sudah Dihubungi,5
+CUST0100,Sri Wijaya,08213624932,Bogor,F 2114 DCA,HR-V,2022-07-28,Kredit Leasing,Andi Prasetyo,2026-09-28,55202,Servis Berkala,429000,9,Belum Dihubungi,
+CUST0101,ratna susanto,082107834241,Bandung,D 6776 KXX,Brio,2022-07-29,Kredit Leasing,Fajar Nugroho,2026-10-18,64872,Servis Berkala,438000,11,Sudah Dihubungi,4
+CUST0102,Yusuf Kurniawan,082207411397,Bandung,D 7031 GJL,BR-V,2022-08-01,Cash,Eko Wahyudi,,,,,0,Sudah Dihubungi,5
+CUST0103,Eko Santoso,08778396488,Depok,B 1216 MB,Brio,2022-08-01,Kredit Leasing,Fajar Nugroho,2025-09-05,52264,Ganti Oli,382000,8,Sudah Dihubungi,4
+CUST0104,Joko Simanjuntak,08227751519,Bandung,D 3990 XGX,BR-V,2022-08-05,Kredit Leasing,Citra Lestari,2025-01-06,29101,Servis Berkala,1100000,5,Belum Dihubungi,
+CUST0105,Lina Handayani,08965534312,Bekasi,B 9632 SVY,Brio,2022-08-08,Kredit Leasing,Gita Permata,2026-09-22,49532,General Repair,4922000,8,Belum Dihubungi,
+CUST0106,Sri Siregar,087887012502,Jakarta,B 3150 PM,HR-V,2022-08-08,Kredit Leasing,Hendra Kusuma,2024-09-15,36319,Servis Berkala,1149000,6,Sudah Dihubungi,3
+CUST0107,BAGUS PUTRI WIBOWO,08951911279,Bekasi,B 9793 GTJ,CR-V,2022-08-08,Cash,Andi Prasetyo,,,,,0,Sudah Dihubungi,4
+CUST0108,FITRI NUGROHO,08110232570,Jakarta,B 1657 WCN,Mobilio,2022-08-08,Cash,Gita Permata,2025-10-31,41883,General Repair,4507000,8,Tidak Diangkat,
+CUST0109,Anton Santoso,+62 852-6568-8547,Jakarta,B 8781 MX,CR-V,2022-08-08,Cash,Citra Lestari,2026-06-12,64186,Servis Berkala,627000,10,Sudah Dihubungi,
+CUST0110,Ratna Purnomo ,+62 822-6674-537,Bekasi,B 5120 NZ,Brio,2022-08-10,Kredit Leasing,Hendra Kusuma,2026-07-03,47467,Body Repair,5127000,10,Sudah Dihubungi,3
+CUST0111,Irfan Kurniawan,08520427720,Jakarta,B 8948 ML,Mobilio,2022-08-12,Kredit Leasing,Hendra Kusuma,2025-12-05,50201,Servis Berkala,883000,9,Belum Dihubungi,
+CUST0112,Nur Maya Sihombing,08968280886,Semarang,H 4196 CSH,Mobilio,2022-08-15,Kredit Leasing,Dewi Anggraini,2025-09-22,39857,Body Repair,1842000,8,Janji Servis,4
+CUST0113,Hendra Taufik Hidayat,08956176411,Surabaya,L 6133 TF,HR-V,2022-08-17,Kredit Leasing,Eko Wahyudi,2026-06-17,55692,Servis Berkala,1044000,10,Sudah Dihubungi,5
+CUST0114,Lina Permana,087777288420,Bandung,D 2592 VJ,Brio,2022-08-21,Cash,Gita Permata,2025-03-18,47957,General Repair,1875000,7,Sudah Dihubungi,5
+CUST0115,Citra Lestari,085221208083,Depok,B 2757 CB,Mobilio,2022-08-29,Kredit Leasing,Gita Permata,,,,,0,Tidak Diangkat,
+CUST0116,teguh nugroho,08953899876,Bandung,D 8816 LG,City Hatchback,2022-08-29,Cash,Budi Santoso,2025-09-15,52054,Ganti Oli,391000,8,Sudah Dihubungi,4
+CUST0117,Siti Utami ,085257085295,Bandung,D 7415 NLU,Brio,2022-08-31,Cash,Andi Prasetyo,,,,,0,Belum Dihubungi,
+CUST0118,Bambang Saputra,085703940608,Bandung,D 6450 YL,Brio,2022-09-01,Kredit Leasing,Dewi Anggraini,2025-01-06,33909,Servis Berkala,616000,6,Belum Dihubungi,
+CUST0119,Wahyu Pratama,085793503516,Bekasi,B 4730 HU,Brio,2022-09-02,Cash,Budi Santoso,2025-02-22,43075,Servis Berkala,707000,7,Janji Servis,5
+CUST0120,Gunawan Sihombing,+62 895-0549-3033,Semarang,H 6213 NCH,Mobilio,2022-09-03,Kredit Leasing,Fajar Nugroho,2026-01-16,53734,Servis Berkala,688000,9,Sudah Dihubungi,4
+CUST0121,Putri Kurniawan,085764494915,Surabaya,L 3889 TKR,City Hatchback,2022-09-04,Kredit Leasing,Hendra Kusuma,2026-07-03,52963,Servis Berkala,389000,10,Janji Servis,
+CUST0122,Fajar Wibowo,081244715323,Bogor,F 4525 WLN,HR-V,2022-09-05,Kredit Leasing,Eko Wahyudi,2026-07-07,52636,Servis Berkala,1176000,9,Sudah Dihubungi,5
+CUST0123,Rudi Handayani,08577214965,Tangerang,B 9229 SRF,City Hatchback,2022-09-07,Kredit Leasing,Hendra Kusuma,2026-04-30,51528,Servis Berkala,396000,9,Tidak Diangkat,
+CUST0124,Rudi Hakim,089602119749,Semarang,H 2869 UP,HR-V,2022-09-07,Cash,Andi Prasetyo,2026-03-07,41735,Servis Berkala,697000,9,Janji Servis,5
+CUST0125,Siti Wibowo,08521308999,Tangerang,B 5700 HBE,City Hatchback,2022-09-07,Kredit Leasing,Gita Permata,2026-03-21,43571,General Repair,3592000,9,Tidak Diangkat,
+CUST0126,Fitri Fitri Susanto,08955409502,Jakarta,B 7993 JK,WR-V,2022-09-08,Kredit Leasing,Budi Santoso,2026-06-18,30634,Servis Berkala,436000,6,Janji Servis,5
+CUST0127,Indah Tanjung,08212567104,Depok,B 1676 HLK,HR-V,2022-09-09,Kredit Leasing,Fajar Nugroho,2025-01-09,28576,Servis Berkala,677000,6,Sudah Dihubungi,5
+CUST0128,Fitri Setiawan,08227144134,Bekasi,B 8604 YMN,Brio,2022-09-10,Cash,Eko Wahyudi,2024-09-18,25527,Servis Berkala,357000,5,Sudah Dihubungi,2
+CUST0129,Yusuf Wahyu Susanto,08955736570,Semarang,H 4478 MRY,Brio,2022-09-11,Cash,Fajar Nugroho,2025-05-26,42806,Body Repair,5197000,7,Tidak Diangkat,
+CUST0130,Rizky Simanjuntak,087817004974,Bekasi,B 2773 LJ,Brio,2022-09-11,Cash,Budi Santoso,2026-01-03,35449,Servis Berkala,476000,7,Belum Dihubungi,
+CUST0131,bagus wibowo,085269436589,Surabaya,L 1717 NV,Brio,2022-09-12,Kredit Leasing,Citra Lestari,2025-12-09,36663,Ganti Oli,600000,6,Janji Servis,5
+CUST0132,Hendra Rahayu,085207044814,Jakarta,B 4293 PW,Civic,2022-09-16,Kredit Leasing,Hendra Kusuma,2025-06-29,39847,Servis Berkala,951000,7,Tidak Diangkat,
+CUST0133,Aditya Santoso,08225105979,Depok,B 3902 YJ,HR-V,2022-09-17,Cash,Gita Permata,2026-10-03,59971,Ganti Oli,560000,10,Janji Servis,
+CUST0134,Dewi Simanjuntak,089634624018,Jakarta,B 8631 FFR,City Hatchback,2022-09-18,Kredit Leasing,Eko Wahyudi,2024-04-12,26215,General Repair,4945000,4,Tidak Diangkat,
+CUST0135,Fajar Pratama,+62 878-8540-485,Jakarta,B 2781 LRV,City Hatchback,2022-09-19,Kredit Leasing,Fajar Nugroho,2025-11-20,53188,Servis Berkala,471000,8,Belum Dihubungi,
+CUST0136,Eko Rahayu,089528771772,Bogor,F 1329 AA,WR-V,2022-09-19,Kredit Leasing,Andi Prasetyo,2025-11-20,37359,Servis Berkala,695000,8,Belum Dihubungi,
+CUST0137,Eko Sri Susanto,082101392539,Jakarta,B 4750 CS,Brio,2022-09-21,Cash,Eko Wahyudi,,,,,0,Belum Dihubungi,
+CUST0138,Aditya Firmansyah,85237514958,Bogor,F 7333 CML,BR-V,2022-09-24,Kredit Leasing,Andi Prasetyo,2026-06-12,45833,Servis Berkala,882000,10,Tidak Diangkat,
+CUST0139,Kartika Utami,+62 878-7346-252,Bekasi,B 7351 JN,HR-V,2022-09-24,Kredit Leasing,Dewi Anggraini,2025-01-11,21392,Servis Berkala,593000,4,Janji Servis,3
+CUST0183,taufik kurniawan,08577683312,Surabaya,L 5484 BXD,Civic,2022-12-23,Kredit Leasing,Hendra Kusuma,2025-10-18,38438,Servis Berkala,640000,7,Sudah Dihubungi,
+CUST0140,Dewi Susanto,081193367310,Jakarta,B 1642 TX,WR-V,2022-09-27,Kredit Leasing,Fajar Nugroho,2025-01-15,39020,Servis Berkala,762000,6,Sudah Dihubungi,2
+CUST0141,Fajar Maulana,08967462096,Bandung,D 1909 UN,Mobilio,2022-09-28,Kredit Leasing,Fajar Nugroho,2026-08-25,46445,Servis Berkala,421000,10,Sudah Dihubungi,1
+CUST0142,Siti Utami,08577955320,Semarang,H 5262 FSX,HR-V,2022-10-01,Kredit Leasing,Andi Prasetyo,2026-10-01,17472,Servis Berkala,840000,3,Sudah Dihubungi,5
+CUST0143,siti gunawan,085241663809,Depok,B 8345 HAR,Mobilio,2022-10-02,Kredit Leasing,Citra Lestari,,,,,0,Sudah Dihubungi,4
+CUST0144,melati dian saputra,081246237467,Surabaya,L 3585 JJ,Civic,2022-10-02,Cash,Gita Permata,2026-09-15,48977,Body Repair,6669000,10,Belum Dihubungi,
+CUST0145,Taufik Aditya Rahayu,08957048741,Bandung,D 8895 XW,Brio,2022-10-04,Kredit Leasing,Citra Lestari,2026-04-03,56678,General Repair,3003000,9,Tidak Diangkat,
+CUST0146,SITI PURNOMO,082299038525,Bekasi,B 8988 VK,WR-V,2022-10-06,Kredit Leasing,Citra Lestari,2024-12-16,34670,Servis Berkala,732000,6,Sudah Dihubungi,
+CUST0147,Bagus Kurniawan,08526208304,Bandung,D 3437 KN,Brio,2022-10-07,Kredit Leasing,Andi Prasetyo,2025-04-12,46166,Servis Berkala,653000,7,Tidak Diangkat,
+CUST0148,Joko Nugroho ,089670197931,Bekasi,B 6375 LXC,Mobilio,2022-10-12,Cash,Gita Permata,2025-03-24,38910,Servis Berkala,350000,6,Belum Dihubungi,
+CUST0149,Sari Handayani,08136189064,Jakarta,B 6223 DHK,City Hatchback,2022-10-12,Cash,Fajar Nugroho,,,,,0,Janji Servis,4
+CUST0150,Dedi  Yoga Nasution,085258749231,Bandung,D 6163 UD,Brio,2022-10-13,Cash,Gita Permata,2025-12-28,21452,Servis Berkala,1012000,4,Janji Servis,
+CUST0151,Eko Gunawan,082163493887,Bandung,D 3694 DJT,City Hatchback,2022-10-18,Kredit Leasing,Hendra Kusuma,2026-01-27,38779,Servis Berkala,725000,8,Sudah Dihubungi,4
+CUST0152,Taufik Siti Setiawan,08127476929,Jakarta,B 1896 TSJ,Mobilio,2022-10-20,Cash,Dewi Anggraini,2024-11-02,27438,Servis Berkala,1121000,5,Tidak Diangkat,
+CUST0153,Ahmad Gunawan,08217118714,Surabaya,L 6936 GBH,Brio,2022-10-21,Kredit Leasing,Hendra Kusuma,2026-06-16,57178,Body Repair,3926000,9,Belum Dihubungi,
+CUST0154,Ayu Irfan Utami,08139028061,Depok,B 6233 EE,City Hatchback,2022-10-23,Kredit Leasing,Hendra Kusuma,2024-10-28,27161,Servis Berkala,975000,5,Tidak Diangkat,
+CUST0155,Putri Hakim,081193337906,Jakarta,B 7989 MR,Brio,2022-10-26,Cash,Budi Santoso,2025-12-09,39278,Ganti Oli,497000,8,Janji Servis,
+CUST0156,Yoga Santoso,08520998647,Tangerang,B 7958 MXT,HR-V,2022-10-27,Cash,Gita Permata,2025-03-18,36451,Servis Berkala,937000,6,Belum Dihubungi,
+CUST0157,Agus Fitri Maulana,089558845457,Jakarta,B 8358 LD,WR-V,2022-10-29,Cash,Fajar Nugroho,2024-09-17,30578,General Repair,2876000,5,Sudah Dihubungi,4
+CUST0158,Rudi Halim,08964439521,Surabaya,L 8294 GM,HR-V,2022-11-01,Kredit Leasing,Fajar Nugroho,2024-09-16,24574,Servis Berkala,370000,5,Janji Servis,4
+CUST0159,Indah  Setiawan,085776850388,Surabaya,L 7029 EZ,Brio,2022-11-03,Kredit Leasing,Citra Lestari,,,,,0,Tidak Diangkat,
+CUST0160,Citra Maulana,08956079119,Semarang,H 3044 EK,Brio,2022-11-05,Kredit Leasing,Gita Permata,2025-06-15,28903,Servis Berkala,1157000,6,Belum Dihubungi,
+CUST0161,wahyu maulana,08214622525,Depok,B 7706 MV,BR-V,2022-11-07,Kredit Leasing,Citra Lestari,2025-12-01,38535,Servis Berkala,1064000,8,Sudah Dihubungi,3
+CUST0162,Reza Permana,087814158114,Jakarta,B 8673 XJ,City Hatchback,2022-11-13,Kredit Leasing,Gita Permata,2025-11-28,45533,Servis Berkala,1124000,8,Sudah Dihubungi,5
+CUST0163,Nur Melati Simanjuntak,087803451347,Bogor,F 2021 UCD,Brio,2022-11-14,Kredit Leasing,Citra Lestari,2025-06-17,45484,Ganti Oli,286000,7,Sudah Dihubungi,4
+CUST0164,ratna nugroho,082231259787,Jakarta,B 1091 BG,Civic,2022-11-14,Kredit Leasing,Budi Santoso,,,,,0,Tidak Diangkat,
+CUST0165,Fajar Maulana,08220645711,Jakarta,B 2664 JAS,Brio,2022-11-15,Kredit Leasing,Budi Santoso,2026-02-19,42506,General Repair,1796000,8,Sudah Dihubungi,5
+CUST0166,Dian Simanjuntak,089612329653,Surabaya,L 8397 DS,CR-V,2022-11-15,Kredit Leasing,Citra Lestari,2026-03-03,48125,Servis Berkala,804000,8,Sudah Dihubungi,5
+CUST0167,Nadia Rahayu,08780595174,Bogor,F 4079 NE,Mobilio,2022-11-18,Cash,Andi Prasetyo,2024-04-07,27768,Servis Berkala,894000,4,Sudah Dihubungi,4
+CUST0168,Dedi Nugroho,08214943090,Bekasi,B 7748 GBU,Brio,2022-11-20,Kredit Leasing,Eko Wahyudi,,,,,0,Belum Dihubungi,
+CUST0169,Kartika Sihombing,087781584545,Depok,B 2518 NW,Mobilio,2022-11-22,Kredit Leasing,Hendra Kusuma,2026-06-25,43535,Servis Berkala,989000,9,Tidak Diangkat,
+CUST0170,Sri Ratna Susanto,081125215620,Bekasi,B 3975 TY,Brio,2022-11-23,Cash,Andi Prasetyo,2026-02-03,39587,Servis Berkala,784000,8,Belum Dihubungi,
+CUST0171,Dedi Wibowo,08120616262,Bekasi,B 9213 VEK,WR-V,2022-11-26,Cash,Eko Wahyudi,,,,,0,Janji Servis,
+CUST0172,Joko Tanjung,082105508726,Semarang,H 3692 YTJ,Mobilio,2022-11-27,Kredit Leasing,Citra Lestari,,,,,0,Sudah Dihubungi,4
+CUST0173,Citra Hendra Maulana,089597798216,Jakarta,B 7473 YN,Mobilio,2022-11-29,Kredit Leasing,Citra Lestari,2025-10-11,41231,Servis Berkala,443000,7,Janji Servis,
+CUST0174,Bagus Rizky Setiawan,08133166848,Bekasi,B 1956 ZL,Mobilio,2022-12-01,Kredit Leasing,Andi Prasetyo,2024-01-15,18430,Ganti Oli,467000,3,Janji Servis,4
+CUST0175,Siti Saputra,08216148840,Jakarta,B 3146 KHM,Mobilio,2022-12-01,Cash,Eko Wahyudi,2026-06-15,42699,Servis Berkala,677000,9,Sudah Dihubungi,5
+CUST0176,YUSUF SIMANJUNTAK,089536725786,Bekasi,B 4091 ZJL,Brio,2022-12-04,Cash,Eko Wahyudi,2025-01-10,37526,Servis Berkala,651000,6,Tidak Diangkat,
+CUST0177,Ahmad Simanjuntak,082251712046,Bekasi,B 9425 CCL,Brio,2022-12-13,Cash,Eko Wahyudi,2026-07-28,57722,Ganti Oli,380000,9,Belum Dihubungi,
+CUST0178,Teguh Utami,089538402490,Bekasi,B 5880 UFE,WR-V,2022-12-18,Cash,Fajar Nugroho,2026-09-09,35230,Servis Berkala,692000,7,Belum Dihubungi,
+CUST0179,Hendra Hakim,089513493272,Jakarta,B 7399 VXV,Brio,2022-12-18,Kredit Leasing,Budi Santoso,2025-09-28,36623,Ganti Oli,434000,7,Belum Dihubungi,
+CUST0180,Bambang Teguh Kurniawan,0896-2798-0309,Depok,B 8612 UC,Brio,2022-12-18,Cash,Andi Prasetyo,2026-08-17,52180,Body Repair,4276000,9,Belum Dihubungi,
+CUST0181,GUNAWAN WIBOWO,08126944977,Depok,B 6694 CZ,WR-V,2022-12-19,Kredit Leasing,Andi Prasetyo,2026-08-07,52267,General Repair,2864000,9,Belum Dihubungi,
+CUST0182,Dian Budi Nasution,087701410333,Bekasi,B 2876 DE,HR-V,2022-12-22,Kredit Leasing,Andi Prasetyo,2026-04-17,47501,Servis Berkala,712000,8,Belum Dihubungi,
+CUST0183,taufik kurniawan,08577683312,Surabaya,L 5484 BXD,Civic,2022-12-23,Kredit Leasing,Hendra Kusuma,2025-10-18,38438,Servis Berkala,640000,7,Sudah Dihubungi,
+CUST0184,Yusuf Maya Rahayu,08966557847,Bekasi,B 7309 ZWJ,HR-V,2022-12-24,Cash,Eko Wahyudi,2026-02-01,42780,Servis Berkala,520000,8,Sudah Dihubungi,5
+CUST0185,Agus Hidayat,0812-6134-461,Tangerang,B 7551 WBS,Brio,2022-12-26,Kredit Leasing,Eko Wahyudi,2025-01-24,37745,General Repair,1926000,6,Sudah Dihubungi,
+CUST0186,Reza Kartika Firmansyah,081143869784,Bandung,D 3772 SJ,City Hatchback,2022-12-26,Kredit Leasing,Hendra Kusuma,2025-09-28,45280,Servis Berkala,907000,7,Belum Dihubungi,
+CUST0187,Reza Siregar,08781870386,Bandung,D 7875 HWS,BR-V,2022-12-30,Cash,Budi Santoso,2024-12-06,34439,General Repair,3363000,5,Belum Dihubungi,
+CUST0188,Reza Pratama,+62 896-8202-029,Surabaya,L 9246 ZG,WR-V,2022-12-31,Kredit Leasing,Hendra Kusuma,2024-12-14,31739,Servis Berkala,1171000,5,Sudah Dihubungi,5
+CUST0189,Lina Sri Permana,08113592770,Bekasi,B 9238 SD,Brio,2023-01-05,Cash,Hendra Kusuma,2025-08-23,29595,General Repair,4515000,5,Sudah Dihubungi,4
+CUST0190,Nadia Lestari ,081258611815,Bekasi,B 7295 YZ,WR-V,2023-01-05,Kredit Leasing,Andi Prasetyo,2025-06-01,38741,Servis Berkala,715000,6,Belum Dihubungi,
+CUST0191,Eko Hakim ,+62 857-3714-3790,Bekasi,B 5910 XJD,CR-V,2023-01-09,Kredit Leasing,Gita Permata,2026-05-23,52895,General Repair,5828000,9,Sudah Dihubungi,4
+CUST0192,Melati Saputra,0821-1357-0989,Surabaya,L 3827 ASW,Mobilio,2023-01-11,Cash,Dewi Anggraini,,,,,0,Belum Dihubungi,
+CUST0193,Irfan Setiawan,08963844194,Bekasi,B 2080 LV,Mobilio,2023-01-12,Kredit Leasing,Budi Santoso,2026-09-01,49488,General Repair,4491000,9,Sudah Dihubungi,3
+CUST0194,Fitri Purnomo,8125738536,Bekasi,B 3433 LNB,Brio,2023-01-13,Kredit Leasing,Hendra Kusuma,2026-01-30,43556,Servis Berkala,1035000,8,Tidak Diangkat,
+CUST0195,Melati Gunawan,0896-7326-011,Bekasi,B 9051 YL,HR-V,2023-01-17,Kredit Leasing,Eko Wahyudi,2025-04-02,39116,Ganti Oli,266000,6,Janji Servis,5
+CUST0196,Rina Melati Susanto,0813-5163-7456,Bogor,F 6571 AAR,WR-V,2023-01-17,Cash,Hendra Kusuma,2026-06-12,57080,Servis Berkala,727000,9,Belum Dihubungi,
+CUST0197,gunawan saputra,08119815160,Bogor,F 3106 EUT,Brio,2023-01-18,Cash,Gita Permata,2024-04-25,26059,Servis Berkala,1032000,4,Belum Dihubungi,
+CUST0198,Dian Rizky Tanjung,08129879977,Depok,B 3909 GBH,WR-V,2023-01-21,Kredit Leasing,Dewi Anggraini,2025-05-15,31327,Servis Berkala,790000,6,Belum Dihubungi,
+CUST0199,Maya Fajar Simanjuntak,081364143492,Jakarta,B 8173 CTR,Brio,2023-01-22,Kredit Leasing,Hendra Kusuma,2026-05-22,33570,Body Repair,4902000,7,Sudah Dihubungi,
+CUST0200,Bagus Rahayu,087796617686,Jakarta,B 3034 UZY,WR-V,2023-01-22,Kredit Leasing,Andi Prasetyo,,,,,0,Sudah Dihubungi,5
+CUST0201,Yusuf Nasution,+62 812-6658-782,Jakarta,B 8773 CMN,HR-V,2023-01-24,Kredit Leasing,Andi Prasetyo,2026-09-17,46239,Servis Berkala,729000,9,Sudah Dihubungi,5
+CUST0202,Dian Lina Utami ,085720219589,Bogor,F 8422 LL,BR-V,2023-01-24,Kredit Leasing,Fajar Nugroho,2025-06-15,30833,Body Repair,2676000,6,Belum Dihubungi,
+CUST0203,Yoga Halim,08951139112,Jakarta,B 5183 LKP,City Hatchback,2023-01-26,Kredit Leasing,Dewi Anggraini,2025-05-14,28282,Body Repair,7743000,6,Sudah Dihubungi,5
+CUST0204,Maya Firmansyah,081147601233,Semarang,H 7086 ZK,Brio,2023-02-05,Cash,Citra Lestari,2025-08-11,41829,Ganti Oli,450000,7,Janji Servis,5
+CUST0205,Kartika Nugroho,08964291702,Semarang,H 2078 VTR,City Hatchback,2023-02-07,Cash,Gita Permata,2026-02-09,50695,Servis Berkala,562000,8,Janji Servis,5
+CUST0206,Rina Kurniawan,08217449912,Bogor,F 7924 FL,HR-V,2023-02-09,Kredit Leasing,Fajar Nugroho,2026-04-29,51529,Servis Berkala,569000,8,Belum Dihubungi,
+CUST0207,sri permana,08217466804,Tangerang,B 1601 VR,Brio,2023-02-09,Kredit Leasing,Andi Prasetyo,2026-04-22,42571,Servis Berkala,1159000,8,Sudah Dihubungi,5
+CUST0208,Teguh Maulana,085231716218,Tangerang,B 4206 LZE,Brio,2023-02-11,Cash,Fajar Nugroho,2025-11-21,40716,Servis Berkala,860000,7,Tidak Diangkat,
+CUST0209,ayu siregar,0812-0996-5502,Tangerang,B 9593 ENC,BR-V,2023-02-14,Kredit Leasing,Fajar Nugroho,2025-01-05,12353,Servis Berkala,1034000,2,Janji Servis,3
+CUST0210,Rudi Wijaya,087866554749,Semarang,H 2038 GFT,Brio,2023-02-14,Kredit Leasing,Dewi Anggraini,,,,,0,Belum Dihubungi,
+CUST0211,Reza Firmansyah,089677086652,Tangerang,B 8245 RH,Brio,2023-02-16,Kredit Leasing,Citra Lestari,2026-01-05,44433,Ganti Oli,562000,8,Sudah Dihubungi,3
+CUST0212,Yoga Pratama,0821-5914-7700,Bogor,F 2162 VPB,Brio,2023-02-18,Kredit Leasing,Andi Prasetyo,,,,,0,Belum Dihubungi,
+CUST0213,Nur Lina Wijaya,0877-6125-653,Jakarta,B 7147 JS,Civic,2023-02-21,Cash,Gita Permata,2026-06-14,32747,Body Repair,5398000,6,Sudah Dihubungi,5
+CUST0214,Ayu Kurniawan,08953481880,Depok,B 9006 CG,HR-V,2023-03-01,Kredit Leasing,Hendra Kusuma,,,,,0,Janji Servis,
+CUST0215,Aditya Purnomo,087793104728,Surabaya,L 6539 VH,BR-V,2023-03-02,Cash,Eko Wahyudi,2025-03-01,31496,Ganti Oli,401000,5,Sudah Dihubungi,3
+CUST0216,Fitri Rudi Handayani,0811-8549-4169,Bogor,F 5811 VJD,Mobilio,2023-03-07,Cash,Citra Lestari,,,,,0,Belum Dihubungi,
+CUST0217,Indah Nugroho,08224931352,Bogor,F 5859 SRZ,WR-V,2023-03-08,Cash,Gita Permata,2026-05-23,53640,General Repair,5902000,8,Sudah Dihubungi,5
+CUST0218,Agus Santoso,08961183775,Jakarta,B 9798 KMH,HR-V,2023-03-08,Kredit Leasing,Fajar Nugroho,2025-02-01,26041,Ganti Oli,540000,5,Belum Dihubungi,
+CUST0219,Ayu Gunawan,+62 896-5773-872,Bogor,F 5954 FRL,Brio,2023-03-09,Cash,Gita Permata,2025-08-02,29920,Servis Berkala,778000,6,Belum Dihubungi,
+CUST0220,Lina Siregar,08220134775,Depok,B 7386 GVK,Civic,2023-03-11,Cash,Andi Prasetyo,2026-05-02,42306,Servis Berkala,852000,8,Janji Servis,5
+CUST0221,Citra Siregar,08579540077,Bekasi,B 6464 XY,HR-V,2023-03-14,Kredit Leasing,Hendra Kusuma,,,,,0,Sudah Dihubungi,4
+CUST0222,Eko Pratama,089544527790,Bandung,D 6922 VH,Brio,2023-03-17,Cash,Citra Lestari,2025-11-25,37473,General Repair,5096000,6,Sudah Dihubungi,
+CUST0223,Melati Wijaya,082279158728,Bogor,F 4517 ZC,WR-V,2023-03-18,Cash,Hendra Kusuma,2026-05-24,31100,Ganti Oli,380000,5,Sudah Dihubungi,5
+CUST0224,Bambang Rahayu,08225445672,Bekasi,B 6512 SXD,WR-V,2023-03-18,Kredit Leasing,Gita Permata,2026-09-13,48780,Body Repair,1776000,9,Janji Servis,5
+CUST0225,Irfan Nasution,0821-0937-4964,Surabaya,L 1941 KU,Brio,2023-03-20,Kredit Leasing,Dewi Anggraini,2024-07-16,24485,Servis Berkala,1142000,4,Belum Dihubungi,
+CUST0971,Siti Nugroho,089699424616,Semarang,H 8883 KK,City Hatchback,2026-09-12,Kredit Leasing,Fajar Nugroho,,,,,0,Tidak Diangkat,
+CUST0226,sari nugroho,0877-1093-4768,Surabaya,L 7976 GZJ,CR-V,2023-03-21,Kredit Leasing,Hendra Kusuma,2025-07-29,38698,Servis Berkala,1143000,6,Tidak Diangkat,
+CUST0227,Hendra Santoso ,08214016429,Bandung,D 5076 EH,Civic,2023-03-22,Kredit Leasing,Citra Lestari,2026-07-25,54882,Servis Berkala,603000,9,Sudah Dihubungi,5
+CUST0228,nadia lestari,081104632190,Bekasi,B 9127 YMJ,Brio,2023-03-23,Cash,Hendra Kusuma,2026-07-22,42304,Servis Berkala,562000,9,Janji Servis,5
+CUST0229,Wahyu Lestari,081224187464,Bandung,D 9551 UK,CR-V,2023-03-26,Kredit Leasing,Budi Santoso,2025-05-08,33113,Servis Berkala,751000,6,Tidak Diangkat,
+CUST0230,Aditya Sri Siregar ,0811-6927-8900,Bandung,D 6512 NKW,Brio,2023-03-26,Cash,Citra Lestari,2026-02-26,41738,Ganti Oli,312000,8,Sudah Dihubungi,5
+CUST0231,Wahyu Rahayu,08129846179,Bandung,D 3871 FT,BR-V,2023-03-28,Cash,Eko Wahyudi,2026-03-27,39004,General Repair,1920000,8,Janji Servis,2
+CUST0232,Sri Aditya Handayani,08966832690,Bekasi,B 4989 REB,Brio,2023-03-28,Kredit Leasing,Citra Lestari,2026-05-30,43608,Servis Berkala,552000,8,Belum Dihubungi,
+CUST0233,Hendra Susanto,087738936357,Tangerang,B 2953 FMJ,Brio,2023-03-29,Kredit Leasing,Dewi Anggraini,2026-01-14,29106,General Repair,4893000,6,Tidak Diangkat,
+CUST0234,Dian Handayani,08525154494,Depok,B 4808 NG,Brio,2023-03-29,Kredit Leasing,Fajar Nugroho,2025-07-24,32517,General Repair,4211000,6,Janji Servis,4
+CUST0235,Nur Joko Permana,08526233742,Jakarta,B 9447 EWR,HR-V,2023-04-02,Kredit Leasing,Fajar Nugroho,2025-12-21,46833,General Repair,2025000,7,Sudah Dihubungi,5
+CUST0236,Ayu Kurniawan,08134330797,Depok,B 9784 VL,CR-V,2023-04-04,Kredit Leasing,Dewi Anggraini,2026-06-30,33659,Servis Berkala,1105000,7,Sudah Dihubungi,4
+CUST0237,Maya Setiawan ,082165246221,Semarang,H 2768 ZZU,Mobilio,2023-04-05,Kredit Leasing,Dewi Anggraini,2025-07-22,17947,Servis Berkala,1197000,3,Sudah Dihubungi,5
+CUST0238,Ahmad Taufik Simanjuntak,082168005550,Surabaya,L 4107 EZ,Brio,2023-04-07,Cash,Gita Permata,,,,,0,Sudah Dihubungi,5
+CUST0239,Joko Putri Simanjuntak,08525511015,Depok,B 6043 CP,Mobilio,2023-04-10,Kredit Leasing,Eko Wahyudi,2025-08-15,39267,Servis Berkala,595000,6,Janji Servis,5
+CUST0240,Joko Pratama,08114019030,Bogor,F 4773 BBT,Civic,2023-04-15,Kredit Leasing,Fajar Nugroho,2024-06-27,17916,Servis Berkala,952000,3,Tidak Diangkat,
+CUST0241,Budi Wibowo,08571308482,Bekasi,B 4089 FTK,WR-V,2023-04-16,Kredit Leasing,Eko Wahyudi,,,,,0,Belum Dihubungi,
+CUST0242,Fitri Lestari,08114238589,Tangerang,B 1411 EC,CR-V,2023-04-21,Kredit Leasing,Budi Santoso,2024-12-23,25073,Ganti Oli,582000,5,Tidak Diangkat,
+CUST0243,Lina Hakim,87794305154,Bandung,D 5237 TCJ,Civic,2023-04-21,Kredit Leasing,Dewi Anggraini,2026-02-03,33352,Servis Berkala,987000,7,Belum Dihubungi,
+CUST0244,PUTRI MELATI GUNAWAN,081308719515,Jakarta,B 8918 GVD,Brio,2023-04-24,Kredit Leasing,Fajar Nugroho,2025-06-17,37269,Ganti Oli,399000,6,Janji Servis,4
+CUST0245,Irfan Firmansyah,0821-7798-623,Jakarta,B 8559 ZXR,Brio,2023-04-25,Kredit Leasing,Citra Lestari,2024-11-11,22450,Ganti Oli,512000,4,Janji Servis,5
+CUST0246,Rina Budi Handayani,087824020751,Jakarta,B 5482 NKZ,HR-V,2023-04-27,Kredit Leasing,Andi Prasetyo,,,,,0,Tidak Diangkat,
+CUST0247,Bambang Santoso,085726663128,Jakarta,B 6919 LNU,BR-V,2023-04-29,Cash,Budi Santoso,2025-10-20,39199,Servis Berkala,812000,7,Janji Servis,3
+CUST0248,Nur Hidayat ,08112845392,Semarang,H 1679 TJ,CR-V,2023-05-08,Cash,Hendra Kusuma,2024-10-03,22340,Servis Berkala,965000,4,Sudah Dihubungi,
+CUST0249,Reza Wijaya,08965883308,Jakarta,B 3866 MD,Mobilio,2023-05-09,Kredit Leasing,Citra Lestari,2025-12-31,36561,Servis Berkala,1038000,7,Tidak Diangkat,
+CUST0250,Irfan Sihombing,+62 852-9163-432,Jakarta,B 1487 AMN,HR-V,2023-05-11,Kredit Leasing,Citra Lestari,,,,,0,Sudah Dihubungi,4
+CUST0251,Teguh Hakim,08222842027,Tangerang,B 1114 NKS,WR-V,2023-05-15,Kredit Leasing,Dewi Anggraini,2026-07-07,25985,Ganti Oli,513000,4,Tidak Diangkat,
+CUST0252,Maya Hidayat,087808584480,Semarang,H 4032 WX,HR-V,2023-05-23,Kredit Leasing,Andi Prasetyo,,,,,0,Tidak Diangkat,
+CUST0253,SITI FIRMANSYAH,08968784624,Tangerang,B 5967 ZP,WR-V,2023-05-25,Kredit Leasing,Citra Lestari,2025-06-08,34583,Servis Berkala,756000,5,Belum Dihubungi,
+CUST0254,Bambang Halim,08576742491,Jakarta,B 5789 WN,HR-V,2023-05-26,Kredit Leasing,Budi Santoso,2026-09-30,44898,Ganti Oli,523000,8,Tidak Diangkat,
+CUST0255,Rizky Nasution,08137923816,Surabaya,L 2789 TU,Mobilio,2023-05-30,Kredit Leasing,Hendra Kusuma,2026-04-27,50911,Ganti Oli,580000,8,Sudah Dihubungi,5
+CUST0256,Lina Hidayat,081363775978,Semarang,H 8319 CNE,CR-V,2023-06-01,Kredit Leasing,Fajar Nugroho,2025-09-12,31402,General Repair,2704000,6,Sudah Dihubungi,4
+CUST0257,Dian Simanjuntak,08216414555,Bandung,D 9742 JKB,WR-V,2023-06-02,Kredit Leasing,Fajar Nugroho,,,,,0,Janji Servis,
+CUST0258,Dewi Taufik Tanjung,+62 812-7304-672,Bandung,D 9190 GNB,Brio,2023-06-02,Kredit Leasing,Citra Lestari,2025-11-16,28058,Body Repair,6346000,6,Sudah Dihubungi,1
+CUST0259,Reza Santoso,08573933498,Jakarta,B 2162 MP,BR-V,2023-06-03,Cash,Citra Lestari,2025-10-01,38643,Servis Berkala,383000,6,Sudah Dihubungi,4
+CUST0260,Bagus Putri Santoso ,089668344869,Bandung,D 6520 HYU,Mobilio,2023-06-06,Cash,Fajar Nugroho,2025-08-18,37605,Servis Berkala,568000,6,Sudah Dihubungi,4
+CUST0261,Rizky Sri Kurniawan,0822-5422-162,Bandung,D 2833 ZNE,Brio,2023-06-09,Cash,Hendra Kusuma,2026-04-22,39296,General Repair,5567000,7,Janji Servis,3
+CUST0262,Dewi Firmansyah,08781934339,Jakarta,B 3944 UTX,WR-V,2023-06-09,Cash,Dewi Anggraini,2026-10-10,30127,Ganti Oli,589000,5,Belum Dihubungi,
+CUST0263,Budi Rahayu,08574954008,Bekasi,B 9099 UU,HR-V,2023-06-11,Kredit Leasing,Hendra Kusuma,,,,,0,Janji Servis,4
+CUST0264,Dedi Kartika Saputra,08780160996,Surabaya,L 8717 HF,HR-V,2023-06-13,Cash,Andi Prasetyo,2025-01-18,22416,General Repair,848000,4,Belum Dihubungi,
+CUST0265,Nur Hidayat ,08574275707,Bandung,D 7889 RC,HR-V,2023-06-14,Kredit Leasing,Hendra Kusuma,2026-01-23,39439,Ganti Oli,310000,7,Tidak Diangkat,
+CUST0266,Hendra Dedi Simanjuntak,+62 852-8511-5614,Semarang,H 2882 PNJ,WR-V,2023-06-16,Cash,Budi Santoso,2024-11-20,21584,Servis Berkala,561000,4,Sudah Dihubungi,1
+CUST0267,Gunawan Nugroho,08967359487,Surabaya,L 4960 FVX,Civic,2023-06-17,Kredit Leasing,Citra Lestari,2024-06-18,18191,Servis Berkala,680000,3,Janji Servis,5
+CUST0268,Maya Sihombing,08779373697,Tangerang,B 7386 JGC,WR-V,2023-06-19,Kredit Leasing,Citra Lestari,,,,,0,Sudah Dihubungi,
+CUST0269,Ayu Permana ,089586833881,Bekasi,B 9923 RZ,Brio,2023-06-21,Kredit Leasing,Fajar Nugroho,2025-03-04,32587,General Repair,1296000,5,Janji Servis,4
+CUST0270,Gunawan Siregar,08525944952,Tangerang,B 7542 RR,CR-V,2023-06-22,Cash,Eko Wahyudi,2026-04-30,46124,Servis Berkala,1072000,7,Belum Dihubungi,
+CUST0271,BAMBANG MAULANA,08216266003,Surabaya,L 8312 UUY,Brio,2023-06-24,Cash,Eko Wahyudi,2026-01-27,37421,General Repair,4789000,7,Janji Servis,1
+CUST0272,Yoga Pratama,08211992226,Bogor,F 6946 DFP,Mobilio,2023-06-26,Kredit Leasing,Dewi Anggraini,2026-04-26,36017,Servis Berkala,966000,6,Belum Dihubungi,
+CUST0273,Aditya Saputra,08953881937,Semarang,H 4881 UHA,HR-V,2023-06-26,Kredit Leasing,Fajar Nugroho,2026-10-05,35852,Servis Berkala,486000,7,Belum Dihubungi,
+CUST0274,Eko Putri Purnomo,08227285001,Semarang,H 8096 MT,Mobilio,2023-06-27,Kredit Leasing,Budi Santoso,2026-02-26,30671,Servis Berkala,548000,5,Belum Dihubungi,
+CUST0275,Budi Gunawan,08785665560,Bandung,D 8019 YLY,Mobilio,2023-06-27,Kredit Leasing,Gita Permata,2026-03-05,22317,General Repair,5873000,4,Belum Dihubungi,
+CUST0276,Eko Halim,087800774336,Jakarta,B 8376 YTY,WR-V,2023-06-29,Kredit Leasing,Gita Permata,2025-10-19,40049,Body Repair,5480000,6,Sudah Dihubungi,5
+CUST0277,Citra Saputra,087892966779,Jakarta,B 3239 MSV,CR-V,2023-06-30,Kredit Leasing,Andi Prasetyo,2026-04-05,46777,Ganti Oli,404000,7,Tidak Diangkat,
+CUST0278,Siti Dedi Nugroho,08520136262,Bekasi,B 8050 TGG,WR-V,2023-06-30,Kredit Leasing,Andi Prasetyo,2025-10-01,34801,Ganti Oli,413000,6,Sudah Dihubungi,5
+CUST0279,Bagus Santoso,0877-8479-733,Jakarta,B 8875 XKC,Brio,2023-07-02,Cash,Citra Lestari,2025-10-06,27323,Servis Berkala,542000,6,Belum Dihubungi,
+CUST0280,Yoga Susanto,08214985596,Jakarta,B 3926 YTP,WR-V,2023-07-02,Kredit Leasing,Eko Wahyudi,,,,,0,Belum Dihubungi,
+CUST0281,Putri Lestari,085790146369,Tangerang,B 3227 VW,Brio,2023-07-03,Cash,Gita Permata,2026-08-21,46639,Servis Berkala,724000,8,Sudah Dihubungi,4
+CUST0282,Aditya Melati Tanjung,+62 895-3216-369,Tangerang,B 9424 LJ,Brio,2023-07-05,Kredit Leasing,Fajar Nugroho,2026-02-06,25518,Ganti Oli,470000,4,Sudah Dihubungi,3
+CUST0283,bagus fajar maulana,08228183691,Bekasi,B 5749 SJH,Brio,2023-07-05,Kredit Leasing,Andi Prasetyo,2026-03-19,28850,Servis Berkala,929000,5,Sudah Dihubungi,
+CUST0284,Dewi Sihombing,082248587752,Bogor,F 7118 TC,HR-V,2023-07-06,Kredit Leasing,Hendra Kusuma,2026-03-09,27382,General Repair,2475000,5,Sudah Dihubungi,3
+CUST0285,Maya Indah Saputra,082227946888,Tangerang,B 6233 JR,Brio,2023-07-06,Kredit Leasing,Andi Prasetyo,2025-10-29,29536,Servis Berkala,1161000,6,Janji Servis,5
+CUST0286,Fitri Rahayu,082214802211,Semarang,H 2657 FK,HR-V,2023-07-06,Kredit Leasing,Budi Santoso,2025-03-02,30366,Servis Berkala,994000,5,Belum Dihubungi,
+CUST0287,Sri Sihombing,087720861863,Semarang,H 5184 TS,Brio,2023-07-07,Cash,Fajar Nugroho,2026-09-03,38501,Servis Berkala,365000,8,Sudah Dihubungi,5
+CUST0288,Bambang Nasution,081397082017,Surabaya,L 1106 NMN,Brio,2023-07-07,Kredit Leasing,Budi Santoso,2025-07-13,29794,General Repair,4412000,5,Sudah Dihubungi,5
+CUST0289,Joko Kurniawan,08227363399,Tangerang,B 3502 JXC,WR-V,2023-07-11,Kredit Leasing,Citra Lestari,,,,,0,Tidak Diangkat,
+CUST0290,Ahmad Purnomo,0895-4709-446,Depok,B 1769 ZF,HR-V,2023-07-15,Kredit Leasing,Hendra Kusuma,2026-04-02,36246,Ganti Oli,479000,7,Belum Dihubungi,
+CUST0291,Lina Hakim,081252563539,Bogor,F 6895 GKR,Brio,2023-07-17,Kredit Leasing,Gita Permata,2025-09-13,37576,Servis Berkala,728000,6,Belum Dihubungi,
+CUST0292,Fitri Wibowo,08577415535,Depok,B 8716 FKH,HR-V,2023-07-17,Kredit Leasing,Gita Permata,2025-10-21,27076,Servis Berkala,794000,5,Belum Dihubungi,
+CUST0293,Dian Rina Simanjuntak,081244301361,Surabaya,L 6028 RMW,BR-V,2023-07-21,Kredit Leasing,Citra Lestari,2025-01-09,25541,Servis Berkala,658000,4,Sudah Dihubungi,3
+CUST0294,JOKO NASUTION,081305695391,Surabaya,L 2981 BHL,City Hatchback,2023-07-23,Cash,Eko Wahyudi,2026-04-17,36330,Servis Berkala,1070000,7,Janji Servis,5
+CUST0295,Ahmad Nugroho,08966516236,Bandung,D 6004 MG,Brio,2023-07-23,Kredit Leasing,Andi Prasetyo,2025-11-06,28851,Servis Berkala,764000,6,Janji Servis,3
+CUST0296,Wahyu Nugroho,8123868313,Jakarta,B 5159 EM,BR-V,2023-07-24,Kredit Leasing,Hendra Kusuma,2025-03-21,27870,Servis Berkala,1039000,5,Sudah Dihubungi,
+CUST0297,Yusuf Tanjung,089606741674,Depok,B 6869 AR,Brio,2023-07-31,Kredit Leasing,Eko Wahyudi,2025-08-29,40230,Servis Berkala,908000,6,Sudah Dihubungi,2
+CUST0298,Yoga Susanto,085755264155,Surabaya,L 9448 VR,CR-V,2023-08-02,Kredit Leasing,Citra Lestari,2026-05-26,33103,General Repair,3975000,6,Sudah Dihubungi,5
+CUST0299,Bambang Rahayu,0878-5894-326,Bandung,D 9429 NS,Brio,2023-08-10,Kredit Leasing,Dewi Anggraini,2025-06-27,26821,Servis Berkala,998000,5,Janji Servis,5
+CUST0300,Agus Tanjung,0822-3333-577,Jakarta,B 4666 VK,Brio,2023-08-14,Cash,Citra Lestari,2025-05-28,24908,General Repair,5853000,5,Janji Servis,
+CUST0301,Bambang Setiawan,089631478410,Jakarta,B 9334 GX,BR-V,2023-08-15,Cash,Dewi Anggraini,2026-06-02,42808,Servis Berkala,391000,7,Belum Dihubungi,
+CUST0302,Bagus Ahmad Rahayu,089657365926,Jakarta,B 4190 JSU,BR-V,2023-08-15,Cash,Eko Wahyudi,2025-05-26,25709,General Repair,3397000,5,Belum Dihubungi,
+CUST0303,Bambang Utami,08123119612,Bogor,F 1944 TYV,BR-V,2023-08-19,Kredit Leasing,Gita Permata,2025-07-02,23040,Ganti Oli,325000,5,Sudah Dihubungi,4
+CUST0304,Dewi Firmansyah,08574000178,Tangerang,B 7108 GS,Brio,2023-08-20,Kredit Leasing,Gita Permata,2025-09-17,29717,General Repair,3094000,6,Sudah Dihubungi,5
+CUST0305,Budi Nugroho,08229794842,Surabaya,L 5358 AKY,Brio,2023-08-21,Kredit Leasing,Andi Prasetyo,2026-05-13,36519,Ganti Oli,445000,6,Tidak Diangkat,
+CUST0306,Ratna Santoso,08779778039,Tangerang,B 1254 ZYV,City Hatchback,2023-08-22,Kredit Leasing,Fajar Nugroho,2025-05-09,27047,Body Repair,4121000,5,Janji Servis,5
+CUST0307,Sri Lina Santoso,0852-8853-5291,Jakarta,B 4726 MGM,Brio,2023-08-23,Cash,Fajar Nugroho,2025-10-22,30511,Servis Berkala,412000,6,Sudah Dihubungi,2
+CUST0308,Putri Rizky Setiawan,085720327355,Tangerang,B 8431 PK,City Hatchback,2023-08-24,Kredit Leasing,Fajar Nugroho,2025-06-28,27607,Body Repair,2855000,5,Sudah Dihubungi,3
+CUST0309,Indah Setiawan,087774111145,Bogor,F 3092 YL,Brio,2023-08-25,Kredit Leasing,Dewi Anggraini,2025-04-27,33533,Ganti Oli,417000,5,Belum Dihubungi,
+CUST0310,Ahmad Nasution,+62 821-7184-394,Bogor,F 7338 RZR,HR-V,2023-08-27,Kredit Leasing,Andi Prasetyo,2026-06-24,45103,Body Repair,4284000,7,Sudah Dihubungi,4
+CUST0311,Putri Hidayat,087716747934,Surabaya,L 3287 JA,Brio,2023-08-28,Cash,Eko Wahyudi,2026-09-21,38613,General Repair,3958000,6,Tidak Diangkat,
+CUST0312,Bambang Fitri Hakim,08782143503,Tangerang,B 1501 ZK,Brio,2023-08-29,Kredit Leasing,Gita Permata,2025-03-25,25449,General Repair,4577000,4,Sudah Dihubungi,4
+CUST0313,Bagus Rahayu,081126365960,Surabaya,L 8253 HJE,Mobilio,2023-08-30,Kredit Leasing,Fajar Nugroho,2026-10-13,30933,General Repair,4880000,6,Sudah Dihubungi,
+CUST0314,Bagus Simanjuntak,0857-9159-118,Jakarta,B 6383 YC,CR-V,2023-09-03,Cash,Citra Lestari,2025-08-14,28017,Ganti Oli,292000,5,Belum Dihubungi,
+CUST0315,Fajar Hidayat,085245352979,Tangerang,B 4163 EN,BR-V,2023-09-06,Kredit Leasing,Gita Permata,2026-04-10,38093,Servis Berkala,451000,7,Tidak Diangkat,
+CUST0316,Putri Pratama,085733768832,Semarang,H 5822 RTE,WR-V,2023-09-07,Kredit Leasing,Andi Prasetyo,2026-04-27,15872,Ganti Oli,339000,3,Tidak Diangkat,
+CUST0317,Bagus Firmansyah,81145807496,Bandung,D 4945 ENZ,Brio,2023-09-12,Kredit Leasing,Fajar Nugroho,2026-08-18,45865,Servis Berkala,883000,8,Sudah Dihubungi,5
+CUST0318,Lina Susanto,08776543475,Jakarta,B 9835 WSA,City Hatchback,2023-09-13,Kredit Leasing,Budi Santoso,2025-10-09,32822,General Repair,1967000,6,Sudah Dihubungi,3
+CUST0319,Nur Yoga Gunawan,087742169114,Tangerang,B 8378 LX,Mobilio,2023-09-14,Kredit Leasing,Citra Lestari,2026-07-30,49853,Servis Berkala,563000,8,Janji Servis,4
+CUST0320,Fitri Irfan Sihombing,08787506628,Tangerang,B 1074 MJ,Brio,2023-09-16,Cash,Andi Prasetyo,2026-06-02,35144,Servis Berkala,537000,6,Belum Dihubungi,
+CUST0321,Yoga Kartika Kurniawan,08776248161,Jakarta,B 6187 KT,HR-V,2023-09-17,Kredit Leasing,Citra Lestari,2025-11-26,36897,Ganti Oli,251000,6,Belum Dihubungi,
+CUST0322,Gunawan Ratna Santoso,085713626911,Surabaya,L 9748 NV,HR-V,2023-09-19,Kredit Leasing,Andi Prasetyo,2026-09-20,42172,Servis Berkala,390000,8,Belum Dihubungi,
+CUST0323,Teguh Maya Permana,085255205148,Bekasi,B 7802 NB,Brio,2023-09-21,Kredit Leasing,Fajar Nugroho,,,,,0,Janji Servis,3
+CUST0324,Bambang Susanto,08214064878,Bogor,F 2875 CTN,CR-V,2023-09-23,Kredit Leasing,Fajar Nugroho,2025-12-24,13192,Ganti Oli,362000,2,Sudah Dihubungi,4
+CUST0325,Citra Wibowo,08227816632,Bogor,F 2968 FJ,HR-V,2023-09-25,Cash,Hendra Kusuma,2025-05-11,21645,Body Repair,6896000,4,Janji Servis,4
+CUST0326,Eko Nugroho,08220311981,Surabaya,L 4801 YYY,Civic,2023-09-27,Cash,Andi Prasetyo,2026-07-29,42518,General Repair,5624000,7,Sudah Dihubungi,5
+CUST0327,Ratna Pratama,087897640442,Surabaya,L 3825 JUP,Mobilio,2023-09-28,Kredit Leasing,Dewi Anggraini,,,,,0,Sudah Dihubungi,4
+CUST0328,Melati Fajar Nugroho,085733393739,Bogor,F 9820 ZX,BR-V,2023-09-29,Cash,Fajar Nugroho,2026-09-04,51944,General Repair,2853000,8,Sudah Dihubungi,5
+CUST0329,joko saputra,08579242167,Jakarta,B 3317 CK,Civic,2023-09-30,Kredit Leasing,Hendra Kusuma,2026-04-21,31347,Servis Berkala,938000,6,Janji Servis,4
+CUST0330,Teguh Citra Lestari,089572656847,Tangerang,B 9477 VZ,Brio,2023-10-04,Kredit Leasing,Citra Lestari,2026-10-02,51179,Ganti Oli,375000,8,Belum Dihubungi,
+CUST0331,Kartika Ratna Hakim,085762205897,Tangerang,B 2449 KKG,Mobilio,2023-10-04,Kredit Leasing,Citra Lestari,2025-04-10,28422,Ganti Oli,571000,4,Janji Servis,4
+CUST0332,Fitri Purnomo,085274823855,Bekasi,B 3441 BC,Civic,2023-10-06,Cash,Eko Wahyudi,2025-11-06,37233,General Repair,2375000,6,Janji Servis,5
+CUST0333,Taufik Gunawan,081233933996,Jakarta,B 4728 AA,Mobilio,2023-10-07,Kredit Leasing,Andi Prasetyo,2025-10-15,30279,Servis Berkala,1074000,5,Sudah Dihubungi,5
+CUST0334,Wahyu Kurniawan,08115776795,Bekasi,B 2317 ZK,HR-V,2023-10-07,Cash,Andi Prasetyo,2024-11-23,17838,Servis Berkala,1010000,3,Sudah Dihubungi,3
+CUST0335,Dewi Saputra,08129163566,Surabaya,L 6581 ES,Brio,2023-10-08,Kredit Leasing,Budi Santoso,2026-01-18,29122,Servis Berkala,1079000,6,Tidak Diangkat,
+CUST0336,Kartika Melati Hakim,082288088275,Surabaya,L 1734 EWU,Brio,2023-10-09,Kredit Leasing,Dewi Anggraini,,,,,0,Tidak Diangkat,
+CUST0337,Kartika Lestari,082209724710,Semarang,H 2465 XW,WR-V,2023-10-09,Cash,Eko Wahyudi,2026-06-12,39829,Servis Berkala,1192000,7,Tidak Diangkat,
+CUST0338,Dewi Bagus Nasution,8222225524,Bogor,F 2843 SRL,HR-V,2023-10-09,Kredit Leasing,Fajar Nugroho,2026-01-12,29157,Ganti Oli,562000,6,Tidak Diangkat,
+CUST0339,Ahmad Permana,08953316110,Depok,B 5666 LRB,WR-V,2023-10-10,Kredit Leasing,Hendra Kusuma,2025-07-30,24799,Ganti Oli,598000,5,Sudah Dihubungi,4
+CUST0340,Hendra Hendra Saputra,08955669610,Jakarta,B 6240 UM,City Hatchback,2023-10-12,Kredit Leasing,Andi Prasetyo,2025-05-11,19915,Servis Berkala,373000,4,Sudah Dihubungi,5
+CUST0341,Bambang Putri Hidayat,08524876709,Depok,B 9227 XDS,Brio,2023-10-13,Kredit Leasing,Fajar Nugroho,2026-08-07,39815,Servis Berkala,1089000,7,Sudah Dihubungi,3
+CUST0342,Indah Susanto,082240030767,Bekasi,B 1320 FK,WR-V,2023-10-15,Kredit Leasing,Citra Lestari,2025-01-16,21188,Body Repair,2171000,4,Janji Servis,5
+CUST0343,Ahmad Simanjuntak,08126157223,Tangerang,B 2175 BP,HR-V,2023-10-15,Cash,Gita Permata,2025-01-30,27077,Servis Berkala,851000,4,Belum Dihubungi,
+CUST0344,Lina Kurniawan,08784902346,Bandung,D 8758 TE,Brio,2023-10-16,Kredit Leasing,Hendra Kusuma,2024-12-07,20646,Servis Berkala,838000,3,Belum Dihubungi,
+CUST0345,Dewi Lestari,+62 896-6689-561,Bekasi,B 7571 WHC,Brio,2023-10-18,Cash,Fajar Nugroho,,,,,0,Sudah Dihubungi,5
+CUST0346,Rudi Nadia Lestari,08578245046,Tangerang,B 1056 EG,Mobilio,2023-10-19,Cash,Eko Wahyudi,2025-05-26,20258,Servis Berkala,711000,4,Tidak Diangkat,
+CUST0347,Joko Ahmad Nasution,081220507196,Jakarta,B 5868 LNH,Mobilio,2023-10-20,Kredit Leasing,Dewi Anggraini,2025-04-26,21866,Ganti Oli,516000,4,Belum Dihubungi,
+CUST0348,Agus Permana,085734692759,Bogor,F 7216 LD,CR-V,2023-10-25,Kredit Leasing,Hendra Kusuma,2026-10-12,38801,Body Repair,4569000,7,Sudah Dihubungi,5
+CUST0349,Rudi Wibowo,08574762531,Tangerang,B 4351 AJ,BR-V,2023-10-30,Cash,Budi Santoso,2025-03-16,25748,Servis Berkala,673000,4,Belum Dihubungi,
+CUST0350,Aditya Sihombing,08137648953,Jakarta,B 2274 JUR,Brio,2023-10-30,Kredit Leasing,Hendra Kusuma,2025-04-18,27425,Body Repair,6017000,4,Tidak Diangkat,
+CUST0351,Anton Kurniawan,+62 877-5554-0392,Bekasi,B 2801 KPC,Brio,2023-11-01,Kredit Leasing,Andi Prasetyo,2025-09-13,32861,Servis Berkala,863000,5,Janji Servis,5
+CUST0352,Dian Kurniawan ,082288648466,Depok,B 6272 CR,BR-V,2023-11-01,Kredit Leasing,Fajar Nugroho,,,,,0,Tidak Diangkat,
+CUST0353,Wahyu Indah Wijaya,08136094235,Semarang,H 3308 TK,Civic,2023-11-02,Kredit Leasing,Budi Santoso,2026-09-18,47663,Servis Berkala,1040000,8,Belum Dihubungi,
+CUST0354,Yusuf Susanto,08784342470,Depok,B 6300 BN,CR-V,2023-11-02,Kredit Leasing,Citra Lestari,2025-09-09,12165,Servis Berkala,379000,2,Sudah Dihubungi,
+CUST0355,Fajar Susanto,085216182985,Surabaya,L 3102 DXM,Brio,2023-11-03,Cash,Citra Lestari,2026-07-13,34565,Servis Berkala,615000,7,Tidak Diangkat,
+CUST0356,Dian Setiawan,087708474686,Tangerang,B 8573 FFH,BR-V,2023-11-05,Cash,Dewi Anggraini,2025-10-13,27477,Servis Berkala,645000,5,Belum Dihubungi,
+CUST0357,Nur Sihombing,089556524662,Jakarta,B 2705 KVW,Brio,2023-11-07,Cash,Hendra Kusuma,2025-10-25,26736,Servis Berkala,519000,5,Janji Servis,5
+CUST0358,Rizky Santoso,089624451461,Surabaya,L 6566 SCH,BR-V,2023-11-08,Cash,Gita Permata,2025-12-28,25184,Servis Berkala,491000,5,Sudah Dihubungi,4
+CUST0359,Melati Utami,08571633884,Depok,B 3974 MZ,Brio,2023-11-09,Cash,Fajar Nugroho,2026-01-29,34478,General Repair,5032000,6,Tidak Diangkat,
+CUST0360,Kartika Lestari,08783096856,Jakarta,B 2241 ABN,Brio,2023-11-10,Kredit Leasing,Hendra Kusuma,2026-06-27,39992,Ganti Oli,477000,7,Belum Dihubungi,
+CUST0361,Wahyu Permana,08132329787,Bekasi,B 9491 MTC,Mobilio,2023-11-10,Kredit Leasing,Hendra Kusuma,2026-05-20,34715,Body Repair,5833000,7,Sudah Dihubungi,5
+CUST0362,Reza Sihombing,08773911775,Jakarta,B 7675 BG,Civic,2023-11-10,Kredit Leasing,Budi Santoso,2025-09-15,30128,Ganti Oli,355000,5,Belum Dihubungi,
+CUST0363,Nur Simanjuntak,+62 822-1282-6670,Jakarta,B 4184 JXD,HR-V,2023-11-13,Kredit Leasing,Budi Santoso,2026-08-29,42737,Servis Berkala,424000,7,Belum Dihubungi,
+CUST0364,Eko Citra Maulana,08521936390,Jakarta,B 8450 EHL,Brio,2023-11-13,Kredit Leasing,Dewi Anggraini,2025-12-02,40136,Ganti Oli,312000,6,Janji Servis,5
+CUST0365,Melati Budi Nasution,+62 813-8917-623,Depok,B 2083 KVB,Brio,2023-11-17,Kredit Leasing,Citra Lestari,2025-06-16,28331,General Repair,5387000,4,Belum Dihubungi,
+CUST0366,Anton Tanjung,081146250845,Bekasi,B 8345 KGK,Brio,2023-11-18,Kredit Leasing,Dewi Anggraini,,,,,0,Janji Servis,3
+CUST0367,Hendra Nugroho,089657299822,Bandung,D 4510 FE,WR-V,2023-11-22,Cash,Dewi Anggraini,2026-06-16,42891,Servis Berkala,623000,7,Sudah Dihubungi,3
+CUST0368,Anton Tanjung,+62 812-6012-4473,Jakarta,B 7793 GV,WR-V,2023-11-23,Cash,Gita Permata,2026-02-09,32797,General Repair,5596000,6,Tidak Diangkat,
+CUST0369,Sari Hakim,08578177083,Bekasi,B 5546 YG,BR-V,2023-11-27,Kredit Leasing,Eko Wahyudi,2025-04-29,25627,Body Repair,2255000,4,Sudah Dihubungi,4
+CUST0370,Maya Tanjung,08782964018,Semarang,H 7323 PNY,Brio,2023-11-29,Cash,Fajar Nugroho,2026-01-31,27657,Servis Berkala,711000,5,Belum Dihubungi,
+CUST0371,Rina Setiawan,08785284364,Bekasi,B 4299 GSV,BR-V,2023-12-01,Kredit Leasing,Hendra Kusuma,,,,,0,Sudah Dihubungi,4
+CUST0372,Nur Rudi Kurniawan,08579162246,Depok,B 8178 DHE,Mobilio,2023-12-01,Kredit Leasing,Andi Prasetyo,2026-03-08,29738,Servis Berkala,1124000,6,Belum Dihubungi,
+CUST0373,Siti Yoga Siregar,08523138490,Bandung,D 1245 PBC,Mobilio,2023-12-02,Cash,Andi Prasetyo,2025-12-21,28630,Body Repair,6634000,6,Sudah Dihubungi,4
+CUST0314,Bagus Simanjuntak,0857-9159-118,Jakarta,B 6383 YC,CR-V,2023-09-03,Cash,Citra Lestari,2025-08-14,28017,Ganti Oli,292000,5,Belum Dihubungi,
+CUST0374,Taufik Hidayat,089691013134,Semarang,H 6310 RN,Mobilio,2023-12-05,Kredit Leasing,Citra Lestari,2026-01-17,13740,Servis Berkala,808000,2,Sudah Dihubungi,5
+CUST0375,Indah  Gunawan,0852-3755-566,Bandung,D 5099 LPY,Brio,2023-12-07,Kredit Leasing,Dewi Anggraini,2025-11-16,27186,Ganti Oli,371000,5,Janji Servis,
+CUST0376,Yusuf Saputra,081279550292,Surabaya,L 7261 BJ,WR-V,2023-12-07,Cash,Andi Prasetyo,2025-08-18,26927,Servis Berkala,586000,5,Sudah Dihubungi,5
+CUST0377,Dian Kartika Simanjuntak,087854074375,Jakarta,B 7877 KWC,HR-V,2023-12-08,Kredit Leasing,Citra Lestari,2026-05-25,35548,General Repair,4986000,6,Janji Servis,5
+CUST0378,Wahyu Siti Permana ,08957906520,Bekasi,B 4893 SZ,City Hatchback,2023-12-10,Cash,Citra Lestari,2026-02-08,30625,Servis Berkala,973000,6,Sudah Dihubungi,3
+CUST0379,Hendra Handayani,081165735035,Bogor,F 7014 AST,WR-V,2023-12-14,Kredit Leasing,Hendra Kusuma,,,,,0,Tidak Diangkat,
+CUST0380,Gunawan Fajar Saputra,08959654745,Bandung,D 9944 EZ,City Hatchback,2023-12-15,Cash,Eko Wahyudi,2026-08-08,40613,Servis Berkala,508000,7,Sudah Dihubungi,3
+CUST0381,Wahyu  Tanjung,+62 896-3682-651,Jakarta,B 8868 WY,BR-V,2023-12-16,Cash,Budi Santoso,2025-09-25,25188,Servis Berkala,1074000,5,Belum Dihubungi,
+CUST0382,bagus budi sihombing,087729661829,Semarang,H 6318 FYW,HR-V,2023-12-16,Kredit Leasing,Andi Prasetyo,2025-04-01,26861,Servis Berkala,1119000,4,Belum Dihubungi,
+CUST0383,Melati Nasution,089681511028,Jakarta,B 3594 UKH,Civic,2023-12-17,Kredit Leasing,Budi Santoso,2026-04-16,29099,Ganti Oli,451000,6,Belum Dihubungi,
+CUST0384,Budi Wijaya,08954465781,Jakarta,B 5027 DXS,Civic,2023-12-21,Cash,Fajar Nugroho,2024-11-05,21215,General Repair,5353000,3,Sudah Dihubungi,
+CUST0385,Fajar Yusuf Sihombing ,08121563808,Bandung,D 8191 VF,Civic,2023-12-21,Cash,Andi Prasetyo,2025-12-18,24999,Servis Berkala,440000,5,Belum Dihubungi,
+CUST0386,Teguh Wibowo,08213959695,Bekasi,B 2030 BFT,Mobilio,2023-12-24,Kredit Leasing,Dewi Anggraini,2025-04-08,18532,Servis Berkala,1010000,3,Sudah Dihubungi,5
+CUST0387,Indah Wibowo,085256959764,Bandung,D 6242 EZP,HR-V,2023-12-24,Cash,Budi Santoso,,,,,0,Sudah Dihubungi,2
+CUST0388,Rizky Wijaya,08135862008,Depok,B 7219 WS,WR-V,2023-12-25,Cash,Andi Prasetyo,2025-11-21,31507,Servis Berkala,1191000,5,Sudah Dihubungi,4
+CUST0389,Kartika Ratna Handayani,081314010650,Jakarta,B 8718 ZM,CR-V,2023-12-27,Cash,Hendra Kusuma,2026-09-06,19565,Servis Berkala,486000,4,Sudah Dihubungi,5
+CUST0390,Citra Hendra Halim,087744114135,Semarang,H 5010 NT,Mobilio,2023-12-29,Kredit Leasing,Hendra Kusuma,2026-04-15,32337,Ganti Oli,267000,6,Tidak Diangkat,
+CUST0391,Bagus Santoso,089506120104,Depok,B 1209 SFW,WR-V,2023-12-29,Kredit Leasing,Hendra Kusuma,,,,,0,Sudah Dihubungi,5
+CUST0392,Dewi Setiawan,085262713043,Jakarta,B 2159 ZU,CR-V,2024-01-01,Kredit Leasing,Budi Santoso,2026-02-07,39561,Servis Berkala,743000,6,Belum Dihubungi,
+CUST0393,Siti Sihombing,+62 895-2325-193,Surabaya,L 5284 AM,CR-V,2024-01-02,Cash,Budi Santoso,2025-06-20,24915,Servis Berkala,482000,4,Tidak Diangkat,
+CUST0394,Bagus Irfan Handayani,085285346012,Jakarta,B 6642 CAB,BR-V,2024-01-02,Kredit Leasing,Budi Santoso,2025-07-16,22246,Ganti Oli,447000,4,Tidak Diangkat,
+CUST0395,Bambang Pratama ,081103225885,Jakarta,B 1951 SGY,Civic,2024-01-02,Kredit Leasing,Fajar Nugroho,2026-01-06,31104,Servis Berkala,903000,5,Janji Servis,5
+CUST0396,Irfan Permana,081232588824,Bogor,F 7878 WR,WR-V,2024-01-03,Cash,Andi Prasetyo,2025-11-17,25118,Servis Berkala,481000,5,Tidak Diangkat,
+CUST0397,Wahyu Hakim,08778480113,Jakarta,B 9714 BWN,Brio,2024-01-04,Kredit Leasing,Gita Permata,2026-04-10,35476,Ganti Oli,324000,6,Sudah Dihubungi,3
+CUST0398,Bambang Siregar,082269031130,Semarang,H 8488 MY,Mobilio,2024-01-04,Cash,Citra Lestari,2026-08-24,35423,Servis Berkala,907000,7,Belum Dihubungi,
+CUST0399,Taufik Susanto,08573405010,Bogor,F 4092 WP,Mobilio,2024-01-07,Cash,Budi Santoso,2026-03-24,35226,Servis Berkala,575000,6,Janji Servis,5
+CUST0400,Sari Sari Susanto,087880972012,Bekasi,B 5799 RT,Brio,2024-01-08,Kredit Leasing,Citra Lestari,,,,,0,Belum Dihubungi,
+CUST0401,Budi Gunawan,08134344390,Semarang,H 5534 ZZ,Brio,2024-01-10,Kredit Leasing,Hendra Kusuma,2026-01-24,31393,General Repair,5087000,5,Belum Dihubungi,
+CUST0402,Putri Susanto,082207032714,Bekasi,B 6546 YJ,Brio,2024-01-10,Kredit Leasing,Gita Permata,2026-06-10,27972,Ganti Oli,340000,5,Sudah Dihubungi,5
+CUST0403,Ayu Maulana,081262238397,Jakarta,B 1735 ZMU,WR-V,2024-01-10,Cash,Budi Santoso,2026-01-22,26590,Servis Berkala,574000,5,Belum Dihubungi,
+CUST0404,Hendra Anton Purnomo,089606488466,Semarang,H 4205 EGR,Brio,2024-01-17,Kredit Leasing,Fajar Nugroho,2026-08-06,15954,Body Repair,2102000,3,Janji Servis,5
+CUST0405,Rizky Hidayat,8525795228,Surabaya,L 8513 JH,Brio,2024-01-22,Kredit Leasing,Hendra Kusuma,2025-01-07,18933,Servis Berkala,1169000,3,Sudah Dihubungi,
+CUST0406,Gunawan Kurniawan,8780508866,Semarang,H 5800 AVL,Brio,2024-01-25,Kredit Leasing,Citra Lestari,2025-10-18,27149,Body Repair,4384000,5,Sudah Dihubungi,4
+CUST0407,ahmad lestari,+62 813-3045-3141,Jakarta,B 4464 RJ,Brio,2024-01-26,Kredit Leasing,Budi Santoso,2025-03-07,17442,Servis Berkala,1001000,3,Janji Servis,5
+CUST0408,Dedi Siregar,08953393854,Tangerang,B 7058 PKF,CR-V,2024-01-28,Cash,Andi Prasetyo,2025-04-01,17972,Servis Berkala,733000,3,Belum Dihubungi,
+CUST0409,Sri Nasution ,08778632263,Jakarta,B 4492 BEX,Civic,2024-01-29,Kredit Leasing,Gita Permata,2026-06-25,31432,Servis Berkala,1158000,5,Belum Dihubungi,
+CUST0410,Joko Siregar,08573027786,Bandung,D 9189 DYY,HR-V,2024-01-31,Cash,Andi Prasetyo,,,,,0,Sudah Dihubungi,4
+CUST0411,Ahmad Hakim,0878-7560-1053,Depok,B 8649 GZH,Brio,2024-02-05,Cash,Citra Lestari,2026-01-13,28385,General Repair,1105000,5,Belum Dihubungi,
+CUST0412,Fitri Sihombing ,0878-4195-813,Jakarta,B 4179 HT,Brio,2024-02-08,Kredit Leasing,Budi Santoso,2026-05-13,28723,Servis Berkala,1125000,5,Belum Dihubungi,
+CUST0413,Taufik Susanto,085235940346,Jakarta,B 1356 ANP,WR-V,2024-02-09,Cash,Fajar Nugroho,2025-09-08,24125,Servis Berkala,833000,4,Sudah Dihubungi,4
+CUST0414,Fajar Rudi Purnomo,08962989468,Bogor,F 5267 XF,WR-V,2024-02-09,Kredit Leasing,Citra Lestari,,,,,0,Tidak Diangkat,
+CUST0415,Dewi Utami,087811302065,Semarang,H 5251 BLH,Brio,2024-02-12,Cash,Citra Lestari,2025-07-18,24538,General Repair,5722000,4,Belum Dihubungi,
+CUST0416,Dian Siregar,089520105384,Semarang,H 1050 MBE,City Hatchback,2024-02-12,Kredit Leasing,Budi Santoso,2025-11-14,31709,Ganti Oli,315000,5,Tidak Diangkat,
+CUST0417,Sri Citra Handayani,08950568048,Surabaya,L 7883 PZ,Brio,2024-02-14,Cash,Andi Prasetyo,2026-07-20,39349,Ganti Oli,534000,6,Sudah Dihubungi,3
+CUST0418,Putri Handayani,089514694394,Bekasi,B 4753 RNX,Mobilio,2024-02-21,Kredit Leasing,Gita Permata,2026-01-28,25942,General Repair,2252000,5,Sudah Dihubungi,5
+CUST0419,Agus Kurniawan,085249887392,Semarang,H 9966 VCR,WR-V,2024-02-22,Cash,Citra Lestari,2026-01-11,26614,Ganti Oli,294000,5,Sudah Dihubungi,5
+CUST0420,Indah Nugroho,085760988867,Jakarta,B 9784 KWS,Mobilio,2024-02-23,Kredit Leasing,Budi Santoso,2026-07-31,38832,Ganti Oli,330000,6,Sudah Dihubungi,5
+CUST0421,Gunawan Hakim,08129189169,Bandung,D 5381 TAE,Brio,2024-02-26,Kredit Leasing,Eko Wahyudi,,,,,0,Tidak Diangkat,
+CUST0422,Eko Ahmad Purnomo,089694807744,Tangerang,B 6054 EC,Brio,2024-02-26,Kredit Leasing,Eko Wahyudi,2025-01-18,17536,Ganti Oli,549000,3,Belum Dihubungi,
+CUST0423,Kartika Kurniawan,085715175837,Semarang,H 7154 ZZ,HR-V,2024-02-28,Cash,Fajar Nugroho,2026-01-09,21735,Servis Berkala,1147000,4,Sudah Dihubungi,1
+CUST0424,Dedi Lestari,+62 877-0086-552,Bogor,F 7990 JU,Mobilio,2024-03-08,Cash,Hendra Kusuma,2026-09-21,23883,General Repair,2688000,5,Sudah Dihubungi,4
+CUST0425,Yusuf Firmansyah,082183198037,Bandung,D 7243 RA,City Hatchback,2024-03-09,Cash,Gita Permata,2026-05-22,30706,Servis Berkala,687000,6,Tidak Diangkat,
+CUST0426,Indah Kurniawan,08772112307,Bandung,D 1917 HSG,BR-V,2024-03-10,Cash,Budi Santoso,2025-05-07,17892,Body Repair,4851000,3,Sudah Dihubungi,5
+CUST0427,Ratna Wijaya,087897238499,Jakarta,B 1070 BNE,WR-V,2024-03-10,Cash,Andi Prasetyo,2026-07-30,35803,General Repair,1573000,6,Belum Dihubungi,
+CUST0104,Joko Simanjuntak,08227751519,Bandung,D 3990 XGX,BR-V,2022-08-05,Kredit Leasing,Citra Lestari,2025-01-06,29101,Servis Berkala,1100000,5,Belum Dihubungi,
+CUST0428,Kartika Nur Tanjung,08774238727,Tangerang,B 7171 YFJ,Civic,2024-03-11,Cash,Dewi Anggraini,2025-07-08,22875,Servis Berkala,860000,4,Sudah Dihubungi,2
+CUST0429,Hendra Taufik Wibowo,08525674490,Depok,B 3853 DPR,Civic,2024-03-12,Kredit Leasing,Eko Wahyudi,2026-07-03,13769,Servis Berkala,1183000,2,Sudah Dihubungi,
+CUST0738,Melati Simanjuntak,089671047376,Bandung,D 4976 ZB,Brio,2025-08-03,Cash,Hendra Kusuma,2025-11-08,4936,Servis Berkala,462000,1,Janji Servis,4
+CUST0430,Wahyu Handayani,08132543720,Jakarta,B 9325 UN,Brio,2024-03-18,Kredit Leasing,Eko Wahyudi,2024-10-31,12309,Servis Berkala,1176000,2,Sudah Dihubungi,5
+CUST0431,Fitri Purnomo,89602560232,Tangerang,B 4880 ZAD,WR-V,2024-03-25,Kredit Leasing,Dewi Anggraini,2026-08-10,21888,General Repair,3064000,4,Belum Dihubungi,
+CUST0432,Wahyu Wibowo,085251915193,Jakarta,B 9535 NP,WR-V,2024-03-26,Kredit Leasing,Hendra Kusuma,2025-11-01,26211,Ganti Oli,586000,4,Sudah Dihubungi,5
+CUST0433,Agus Wahyu Santoso,08777234294,Bandung,D 4881 DA,Brio,2024-03-28,Kredit Leasing,Dewi Anggraini,2026-07-31,18657,Servis Berkala,711000,3,Sudah Dihubungi,4
+CUST0434,Irfan Maulana,081230230898,Tangerang,B 4950 JRN,City Hatchback,2024-03-29,Kredit Leasing,Dewi Anggraini,2026-04-05,24290,Servis Berkala,399000,5,Belum Dihubungi,
+CUST0435,Dian Santoso,08135414470,Bekasi,B 7139 TM,BR-V,2024-03-30,Cash,Gita Permata,2025-01-06,12386,Servis Berkala,493000,2,Belum Dihubungi,
+CUST0436,Rudi Rizky Utami,085785001671,Jakarta,B 6956 MVU,WR-V,2024-03-30,Cash,Budi Santoso,2026-05-29,30291,Servis Berkala,1070000,6,Sudah Dihubungi,4
+CUST0437,Indah Permana,081255382510,Tangerang,B 8627 RBG,Brio,2024-03-31,Kredit Leasing,Dewi Anggraini,2026-06-02,36179,Servis Berkala,442000,6,Sudah Dihubungi,5
+CUST0438,Citra Ratna Lestari,08576076600,Surabaya,L 2818 VSF,WR-V,2024-03-31,Kredit Leasing,Budi Santoso,2026-01-29,21580,Servis Berkala,1199000,4,Tidak Diangkat,
+CUST0439,Indah Hakim,087835451036,Surabaya,L 5453 MCH,Mobilio,2024-04-01,Kredit Leasing,Gita Permata,2026-06-09,39875,General Repair,4119000,6,Belum Dihubungi,
+CUST0440,Hendra  Utami,089538889413,Semarang,H 4007 NP,HR-V,2024-04-03,Kredit Leasing,Hendra Kusuma,2026-08-09,30359,Ganti Oli,403000,6,Belum Dihubungi,
+CUST0441,Reza Purnomo,08125435890,Jakarta,B 3791 DE,BR-V,2024-04-05,Cash,Dewi Anggraini,2026-03-30,27146,General Repair,5548000,5,Sudah Dihubungi,4
+CUST0442,bambang wijaya,08221559997,Semarang,H 9125 XYW,Brio,2024-04-05,Kredit Leasing,Dewi Anggraini,2026-06-13,27631,Ganti Oli,423000,6,Janji Servis,
+CUST0443,Fajar Wibowo,085785638668,Bandung,D 5286 YUT,BR-V,2024-04-07,Kredit Leasing,Hendra Kusuma,2025-11-27,26909,General Repair,3973000,4,Sudah Dihubungi,
+CUST0444,Nur Firmansyah,+62 896-6602-3388,Bandung,D 6756 UEW,HR-V,2024-04-09,Kredit Leasing,Eko Wahyudi,2026-08-31,23749,Servis Berkala,926000,5,Sudah Dihubungi,
+CUST0445,Dian Yoga Simanjuntak,08783887873,Surabaya,L 5284 NK,CR-V,2024-04-17,Cash,Fajar Nugroho,2026-05-03,30322,Servis Berkala,679000,5,Belum Dihubungi,
+CUST0446,Teguh Rudi Sihombing,08129499563,Bandung,D 5676 FSD,Mobilio,2024-04-18,Kredit Leasing,Andi Prasetyo,2025-10-22,25349,Ganti Oli,373000,4,Janji Servis,
+CUST0447,Dian Tanjung,08779876848,Jakarta,B 7894 DAA,WR-V,2024-04-20,Cash,Fajar Nugroho,2026-04-16,27940,Body Repair,2749000,5,Tidak Diangkat,
+CUST0448,Joko Firmansyah,08960513824,Jakarta,B 4128 MEW,HR-V,2024-04-21,Kredit Leasing,Fajar Nugroho,2026-03-25,29784,Servis Berkala,584000,5,Sudah Dihubungi,5
+CUST0787,Yusuf Saputra,08118589833,Surabaya,L 9181 YH,HR-V,2025-10-12,Kredit Leasing,Eko Wahyudi,2026-09-26,17269,Ganti Oli,405000,3,Sudah Dihubungi,4
+CUST0449,Nur Nugroho,081322766485,Bandung,D 7801 ZAM,City Hatchback,2024-04-22,Kredit Leasing,Gita Permata,2026-06-27,30630,General Repair,3832000,6,Sudah Dihubungi,
+CUST0450,Maya Wijaya,087776248472,Surabaya,L 2459 CS,City Hatchback,2024-04-23,Cash,Andi Prasetyo,2025-10-27,26059,General Repair,2701000,4,Belum Dihubungi,
+CUST0451,Yoga Yoga Saputra,0812-1046-1305,Tangerang,B 3348 GMK,Brio,2024-04-24,Kredit Leasing,Andi Prasetyo,2026-09-21,35357,Servis Berkala,717000,6,Belum Dihubungi,
+CUST0452,Dian Irfan Wibowo,+62 895-9410-713,Bekasi,B 3587 UR,WR-V,2024-04-25,Kredit Leasing,Hendra Kusuma,2026-05-17,26541,Ganti Oli,528000,5,Belum Dihubungi,
+CUST0453,Dedi Maulana,08777272997,Depok,B 4551 UEX,CR-V,2024-04-25,Cash,Eko Wahyudi,2026-05-26,27529,Servis Berkala,1064000,5,Janji Servis,4
+CUST0454,Yoga Ratna Tanjung,08120346162,Bekasi,B 4410 HYY,CR-V,2024-04-30,Kredit Leasing,Dewi Anggraini,2026-01-17,26230,Ganti Oli,470000,5,Janji Servis,5
+CUST0455,Rina Wibowo,087877735511,Tangerang,B 6810 GL,Brio,2024-04-30,Kredit Leasing,Gita Permata,2026-04-23,27288,Ganti Oli,341000,5,Janji Servis,
+CUST0456,Hendra Hidayat,082211310903,Jakarta,B 3584 XJF,Brio,2024-05-01,Kredit Leasing,Citra Lestari,2025-10-09,26673,Servis Berkala,1087000,4,Sudah Dihubungi,4
+CUST0457,Dian Nugroho,087854940006,Surabaya,L 6763 WNN,Mobilio,2024-05-02,Kredit Leasing,Gita Permata,2026-03-17,28770,Ganti Oli,528000,5,Sudah Dihubungi,
+CUST0458,Dewi Ayu Hidayat,08570066244,Bogor,F 3062 PC,HR-V,2024-05-03,Cash,Eko Wahyudi,2025-12-21,23018,General Repair,5489000,4,Belum Dihubungi,
+CUST0459,Bambang Hendra Lestari,08963138196,Bandung,D 6101 RB,HR-V,2024-05-05,Cash,Citra Lestari,2025-12-02,24420,Ganti Oli,433000,4,Belum Dihubungi,
+CUST0460,Fajar Indah Nugroho,082249347569,Jakarta,B 8941 ZH,Civic,2024-05-06,Kredit Leasing,Budi Santoso,2025-12-28,33245,Servis Berkala,1150000,5,Janji Servis,1
+CUST0461,Citra Ahmad Halim,089574585084,Surabaya,L 1741 BE,HR-V,2024-05-07,Cash,Dewi Anggraini,2026-08-19,33052,Ganti Oli,423000,6,Sudah Dihubungi,5
+CUST0462,lina halim,082227228320,Surabaya,L 4704 RX,WR-V,2024-05-07,Kredit Leasing,Andi Prasetyo,2026-03-11,32038,Servis Berkala,769000,5,Sudah Dihubungi,3
+CUST0463,Dedi Permana,085270092085,Jakarta,B 2170 YC,City Hatchback,2024-05-11,Kredit Leasing,Gita Permata,2026-04-09,27684,General Repair,3082000,5,Belum Dihubungi,
+CUST0464,Fitri Handayani,081383235410,Bogor,F 9616 BXM,Brio,2024-05-12,Kredit Leasing,Hendra Kusuma,2026-01-06,31503,Servis Berkala,1174000,5,Sudah Dihubungi,3
+CUST0465,Indah Nur Wijaya,08121283218,Jakarta,B 9618 DJ,Brio,2024-05-13,Cash,Budi Santoso,2026-04-17,28637,Servis Berkala,366000,5,Belum Dihubungi,
+CUST0466,Rudi Firmansyah,081271918529,Bogor,F 6575 EE,HR-V,2024-05-14,Kredit Leasing,Eko Wahyudi,2026-08-22,32633,Body Repair,8051000,6,Tidak Diangkat,
+CUST0467,Taufik  Permana,087829127282,Jakarta,B 2675 NU,WR-V,2024-05-16,Kredit Leasing,Andi Prasetyo,2026-05-13,28016,General Repair,4969000,5,Janji Servis,4
+CUST0468,Ratna Wibowo,08137961694,Semarang,H 1819 XMR,Mobilio,2024-05-17,Kredit Leasing,Citra Lestari,2025-06-11,17420,Ganti Oli,454000,3,Belum Dihubungi,
+CUST0469,Rina Rahayu,087848908163,Jakarta,B 8313 XKM,BR-V,2024-05-21,Kredit Leasing,Hendra Kusuma,2026-04-14,25989,Servis Berkala,602000,5,Belum Dihubungi,
+CUST0470,Ayu Pratama,08952411313,Tangerang,B 3913 MG,Brio,2024-05-21,Kredit Leasing,Eko Wahyudi,2025-11-18,25949,Servis Berkala,958000,4,Sudah Dihubungi,3
+CUST0471,Maya Halim,08221903955,Bogor,F 2941 KTH,CR-V,2024-05-23,Kredit Leasing,Gita Permata,,,,,0,Janji Servis,4
+CUST0472,Siti Anton Rahayu,08522970969,Tangerang,B 6254 DCV,HR-V,2024-05-23,Kredit Leasing,Dewi Anggraini,2026-07-31,39872,General Repair,5775000,6,Belum Dihubungi,
+CUST0473,Rina Maulana,+62 878-1101-6422,Jakarta,B 4208 ZL,BR-V,2024-05-23,Kredit Leasing,Budi Santoso,2025-12-05,26141,Servis Berkala,1158000,4,Sudah Dihubungi,5
+CUST0474,Indah Kurniawan,081182283269,Jakarta,B 7418 RTS,Brio,2024-05-24,Kredit Leasing,Fajar Nugroho,2025-03-04,13327,Servis Berkala,521000,2,Sudah Dihubungi,4
+CUST0475,Taufik Maulana,087700580987,Surabaya,L 7776 FC,WR-V,2024-05-30,Kredit Leasing,Andi Prasetyo,2026-07-06,33937,Servis Berkala,480000,6,Sudah Dihubungi,5
+CUST0476,agus lestari,089675481117,Bekasi,B 9871 ADA,HR-V,2024-05-31,Kredit Leasing,Gita Permata,2025-12-30,19709,Servis Berkala,1087000,4,Sudah Dihubungi,4
+CUST0477,Nadia Teguh Halim,087796522028,Bekasi,B 7254 EU,CR-V,2024-06-04,Cash,Budi Santoso,2026-05-03,32651,Servis Berkala,1088000,5,Belum Dihubungi,
+CUST0478,Dewi Susanto,08958623661,Bekasi,B 4538 MU,Brio,2024-06-06,Kredit Leasing,Eko Wahyudi,2025-09-09,16181,General Repair,4668000,3,Sudah Dihubungi,4
+CUST0479,Bagus Santoso,089625218318,Jakarta,B 5407 BR,WR-V,2024-06-07,Kredit Leasing,Andi Prasetyo,2026-09-14,33565,General Repair,1951000,6,Janji Servis,5
+CUST0480,Ratna Sihombing,08122785186,Tangerang,B 7329 KGP,Brio,2024-06-09,Kredit Leasing,Budi Santoso,2026-09-01,11743,Servis Berkala,874000,2,Tidak Diangkat,
+CUST0481,Agus Nugroho,085715133232,Jakarta,B 9887 KCE,Brio,2024-06-10,Kredit Leasing,Gita Permata,2025-01-04,13464,Ganti Oli,275000,2,Belum Dihubungi,
+CUST0482,Fitri Wibowo,082141242628,Bogor,F 5256 BYD,Brio,2024-06-14,Cash,Andi Prasetyo,2025-04-06,10870,General Repair,2901000,2,Sudah Dihubungi,3
+CUST0483,Sri Saputra ,087861428525,Jakarta,B 2478 XZ,WR-V,2024-06-15,Kredit Leasing,Eko Wahyudi,2026-05-03,33602,Ganti Oli,301000,5,Sudah Dihubungi,3
+CUST0484,Agus Dewi Santoso,0877-8180-208,Surabaya,L 3943 SJC,WR-V,2024-06-18,Kredit Leasing,Andi Prasetyo,2025-02-25,12913,General Repair,5322000,2,Belum Dihubungi,
+CUST0485,Melati Siregar,081110054979,Bekasi,B 7649 BP,WR-V,2024-06-24,Cash,Budi Santoso,2026-10-08,26495,General Repair,4429000,4,Belum Dihubungi,
+CUST0486,Ahmad Firmansyah,+62 877-5974-949,Surabaya,L 4607 SN,BR-V,2024-06-25,Kredit Leasing,Hendra Kusuma,2025-12-20,26011,Ganti Oli,438000,4,Janji Servis,5
+CUST0487,Gunawan Hendra Utami,082116332927,Surabaya,L 4608 WK,WR-V,2024-07-01,Cash,Dewi Anggraini,,,,,0,Belum Dihubungi,
+CUST0488,Nur Reza Sihombing,082102518982,Semarang,H 2227 WJX,Brio,2024-07-01,Kredit Leasing,Dewi Anggraini,2025-07-11,16291,Body Repair,7802000,3,Belum Dihubungi,
+CUST0489,Yusuf Nasution,087855515860,Surabaya,L 8659 VT,Brio,2024-07-11,Kredit Leasing,Citra Lestari,2026-07-23,27537,Servis Berkala,504000,5,Belum Dihubungi,
+CUST0490,Nadia Firmansyah,081392294244,Jakarta,B 8491 CV,WR-V,2024-07-11,Kredit Leasing,Dewi Anggraini,,,,,0,Janji Servis,5
+CUST0491,Yoga Gunawan ,08781011408,Tangerang,B 5130 WER,HR-V,2024-07-12,Kredit Leasing,Citra Lestari,2026-04-29,31219,Servis Berkala,1135000,5,Belum Dihubungi,
+CUST0492,Citra Yoga Halim,089557936816,Surabaya,L 1846 JFJ,BR-V,2024-07-15,Cash,Hendra Kusuma,2026-07-04,11296,Ganti Oli,290000,2,Sudah Dihubungi,4
+CUST0493,Teguh Saputra,08130827868,Bandung,D 2695 MF,Brio,2024-07-16,Kredit Leasing,Budi Santoso,2026-08-22,22565,Ganti Oli,546000,4,Sudah Dihubungi,
+CUST0494,Putri Irfan Kurniawan,081336905033,Surabaya,L 1459 CD,Mobilio,2024-07-18,Cash,Hendra Kusuma,2026-10-13,15448,General Repair,1268000,3,Sudah Dihubungi,3
+CUST0495,Taufik Hidayat,081188115325,Bandung,D 8707 CWL,HR-V,2024-07-21,Cash,Citra Lestari,2025-12-12,19640,Servis Berkala,520000,4,Janji Servis,5
+CUST0496,rina yoga sihombing,08115979034,Bekasi,B 7802 GJ,CR-V,2024-07-24,Kredit Leasing,Budi Santoso,2026-04-01,24941,Ganti Oli,572000,4,Sudah Dihubungi,4
+CUST0497,Teguh Lina Purnomo,08213971570,Tangerang,B 6081 LSY,BR-V,2024-07-24,Kredit Leasing,Dewi Anggraini,,,,,0,Belum Dihubungi,
+CUST0498,Taufik Yoga Simanjuntak,+62 813-2069-132,Jakarta,B 7081 TR,Brio,2024-07-26,Cash,Citra Lestari,2026-06-07,27806,Servis Berkala,803000,5,Belum Dihubungi,
+CUST0499,Sri Maulana,081126951720,Jakarta,B 9290 TYV,Brio,2024-07-27,Cash,Dewi Anggraini,2026-07-26,23103,Servis Berkala,946000,4,Janji Servis,4
+CUST0500,Rudi Pratama,087871310901,Semarang,H 7780 CWF,WR-V,2024-07-27,Kredit Leasing,Budi Santoso,2026-02-04,21985,General Repair,5708000,4,Sudah Dihubungi,4
+CUST0501,Maya Purnomo,081116672900,Depok,B 8693 AZX,Brio,2024-07-28,Cash,Budi Santoso,2025-12-19,20139,Ganti Oli,453000,4,Belum Dihubungi,
+CUST0502,Gunawan Sihombing,085250466038,Jakarta,B 3661 TX,HR-V,2024-07-28,Cash,Budi Santoso,2026-08-13,27378,Ganti Oli,326000,5,Belum Dihubungi,
+CUST0503,Nadia Gunawan,081155220262,Surabaya,L 8272 JK,HR-V,2024-07-29,Kredit Leasing,Hendra Kusuma,2026-05-04,17820,Servis Berkala,466000,3,Tidak Diangkat,
+CUST0504,Teguh Siregar,082230508790,Bekasi,B 1950 XS,CR-V,2024-07-29,Kredit Leasing,Gita Permata,2025-11-21,25409,Servis Berkala,784000,4,Sudah Dihubungi,4
+CUST0505,Fajar Dedi Utami,08110013195,Bekasi,B 6062 NW,Brio,2024-07-30,Kredit Leasing,Budi Santoso,2025-12-15,24520,Ganti Oli,375000,4,Sudah Dihubungi,1
+CUST0506,Irfan Utami,082124871756,Bogor,F 3447 WK,BR-V,2024-07-31,Cash,Gita Permata,2026-06-19,24952,Ganti Oli,557000,4,Belum Dihubungi,
+CUST0507,Lina Nasution ,08116141633,Jakarta,B 7552 UN,Brio,2024-08-04,Cash,Citra Lestari,,,,,0,Janji Servis,4
+CUST0508,Reza Purnomo ,08788662325,Surabaya,L 9535 SJ,Brio,2024-08-07,Cash,Dewi Anggraini,,,,,0,Belum Dihubungi,
+CUST0509,FAJAR GUNAWAN,081259448397,Bogor,F 7340 TVH,Brio,2024-08-08,Kredit Leasing,Gita Permata,2026-06-17,25848,Ganti Oli,442000,5,Tidak Diangkat,
+CUST0510,Hendra Kurniawan,087850440950,Surabaya,L 3984 MMH,Mobilio,2024-08-09,Cash,Andi Prasetyo,2025-11-10,21158,Servis Berkala,893000,4,Sudah Dihubungi,3
+CUST0511,Taufik Hidayat,08965522090,Semarang,H 3093 UY,Mobilio,2024-08-09,Kredit Leasing,Dewi Anggraini,2025-12-15,19328,Ganti Oli,335000,3,Sudah Dihubungi,5
+CUST0512,Yoga Ahmad Hidayat,89511090903,Surabaya,L 8804 AZ,CR-V,2024-08-10,Kredit Leasing,Eko Wahyudi,2026-07-22,29088,General Repair,4298000,5,Tidak Diangkat,
+CUST0513,Anton Santoso,08964770942,Bandung,D 1632 RE,Brio,2024-08-14,Kredit Leasing,Budi Santoso,2025-11-14,21725,Servis Berkala,824000,4,Sudah Dihubungi,4
+CUST0514,Putri Firmansyah,082154835740,Surabaya,L 9066 VD,Brio,2024-08-15,Cash,Eko Wahyudi,2026-09-30,33219,Servis Berkala,1106000,6,Sudah Dihubungi,4
+CUST0515,Ayu Sihombing,087876151125,Surabaya,L 9422 KZN,Brio,2024-08-15,Kredit Leasing,Fajar Nugroho,2026-08-14,19625,General Repair,3847000,4,Sudah Dihubungi,5
+CUST0516,Teguh Wibowo,08573630810,Semarang,H 9696 GKE,City Hatchback,2024-08-17,Kredit Leasing,Budi Santoso,2025-09-04,16832,Servis Berkala,425000,3,Belum Dihubungi,
+CUST0517,Sari Pratama,+62 896-3989-728,Tangerang,B 4821 CM,Mobilio,2024-08-21,Kredit Leasing,Dewi Anggraini,2025-11-29,26622,Servis Berkala,1040000,4,Belum Dihubungi,
+CUST0518,Dian Nur Santoso,+62 822-0298-8713,Jakarta,B 8300 SE,WR-V,2024-08-22,Kredit Leasing,Fajar Nugroho,,,,,0,Belum Dihubungi,
+CUST0519,Siti Setiawan,08114341330,Jakarta,B 2007 FEZ,Brio,2024-08-23,Cash,Budi Santoso,2026-08-25,24870,Servis Berkala,804000,5,Tidak Diangkat,
+CUST0520,Eko Teguh Siregar,87816286973,Jakarta,B 7724 WUE,WR-V,2024-08-24,Kredit Leasing,Fajar Nugroho,,,,,0,Tidak Diangkat,
+CUST0521,Yoga Citra Pratama,82202413024,Tangerang,B 5151 ECJ,Brio,2024-08-28,Kredit Leasing,Hendra Kusuma,2026-02-11,28233,Servis Berkala,858000,4,Janji Servis,5
+CUST0522,Aditya Budi Firmansyah,0878-6056-2437,Jakarta,B 5932 AM,HR-V,2024-08-30,Kredit Leasing,Budi Santoso,2026-06-07,20601,Servis Berkala,1031000,3,Sudah Dihubungi,3
+CUST0523,GUNAWAN LINA PURNOMO,0812-2365-9166,Jakarta,B 8972 EC,Brio,2024-08-31,Kredit Leasing,Hendra Kusuma,2026-02-09,22611,General Repair,1032000,4,Sudah Dihubungi,4
+CUST0524,Hendra Budi Rahayu,0878-5891-6575,Jakarta,B 3674 LGU,WR-V,2024-09-03,Kredit Leasing,Dewi Anggraini,2026-06-16,23176,Servis Berkala,1116000,5,Sudah Dihubungi,3
+CUST0525,Yusuf Firmansyah,085296167483,Bandung,D 3868 XLE,WR-V,2024-09-03,Kredit Leasing,Citra Lestari,2026-04-15,21382,Ganti Oli,524000,4,Sudah Dihubungi,5
+CUST0526,Maya Sihombing,081352097242,Depok,B 1404 KCK,Mobilio,2024-09-09,Cash,Gita Permata,2026-09-07,19909,Ganti Oli,281000,3,Belum Dihubungi,
+CUST0527,Wahyu Kurniawan,085795903631,Semarang,H 1842 NA,Brio,2024-09-09,Kredit Leasing,Hendra Kusuma,2026-04-11,11382,Servis Berkala,848000,2,Tidak Diangkat,
+CUST0528,Sri Tanjung,089660741935,Depok,B 9742 SR,BR-V,2024-09-10,Kredit Leasing,Budi Santoso,2025-10-24,15592,Ganti Oli,567000,3,Sudah Dihubungi,4
+CUST0529,Rudi Dewi Wibowo,081306870262,Bandung,D 9262 PXD,Brio,2024-09-10,Kredit Leasing,Citra Lestari,2026-07-08,28083,Servis Berkala,359000,5,Belum Dihubungi,
+CUST0530,Irfan Handayani,8520623407,Surabaya,L 6524 AHK,Brio,2024-09-11,Cash,Fajar Nugroho,2026-09-13,28235,Servis Berkala,1139000,5,Belum Dihubungi,
+CUST0531,Melati Maulana,08117347912,Jakarta,B 6762 DEC,HR-V,2024-09-12,Kredit Leasing,Andi Prasetyo,2026-02-27,20239,Servis Berkala,624000,3,Tidak Diangkat,
+CUST0532,Dewi Nasution ,8950439230,Surabaya,L 6698 XB,City Hatchback,2024-09-13,Cash,Fajar Nugroho,2025-09-13,15877,General Repair,3029000,3,Janji Servis,4
+CUST0533,citra nugroho,08229611404,Bandung,D 4941 UH,HR-V,2024-09-16,Kredit Leasing,Dewi Anggraini,,,,,0,Sudah Dihubungi,5
+CUST0534,Nur Hakim,087889963342,Bekasi,B 7105 AV,WR-V,2024-09-16,Kredit Leasing,Hendra Kusuma,2025-11-14,7530,General Repair,1184000,1,Janji Servis,4
+CUST0535,Putri Ahmad Simanjuntak,08138813362,Tangerang,B 5119 MPP,City Hatchback,2024-09-17,Kredit Leasing,Dewi Anggraini,2026-03-19,19395,Servis Berkala,411000,4,Sudah Dihubungi,1
+CUST0536,kartika purnomo,08786908363,Bogor,F 4902 TV,Brio,2024-09-18,Cash,Fajar Nugroho,2026-08-06,16517,General Repair,2913000,3,Belum Dihubungi,
+CUST0537,Rizky Santoso,081335296627,Bogor,F 5687 RS,HR-V,2024-09-19,Cash,Hendra Kusuma,2026-02-20,22492,Ganti Oli,462000,4,Tidak Diangkat,
+CUST0538,Rina Citra Nugroho,08216236608,Depok,B 8399 CDT,WR-V,2024-09-21,Kredit Leasing,Andi Prasetyo,2026-04-08,20208,Servis Berkala,1051000,4,Belum Dihubungi,
+CUST0539,Aditya Nasution,085286412077,Bekasi,B 9326 VGU,BR-V,2024-09-21,Kredit Leasing,Fajar Nugroho,2026-05-24,31323,Servis Berkala,1075000,5,Belum Dihubungi,
+CUST0540,Ratna Tanjung,08223364187,Jakarta,B 3612 JHD,Brio,2024-09-23,Kredit Leasing,Citra Lestari,2025-10-30,14408,General Repair,1223000,3,Sudah Dihubungi,4
+CUST0541,Joko Anton Susanto,089516448673,Bogor,F 8477 SKJ,HR-V,2024-09-29,Cash,Gita Permata,2026-08-20,20831,Ganti Oli,396000,4,Tidak Diangkat,
+CUST0542,Fajar Hidayat,0822-9209-900,Jakarta,B 6132 RA,Brio,2024-09-30,Kredit Leasing,Dewi Anggraini,2025-11-25,20523,General Repair,5304000,3,Belum Dihubungi,
+CUST0543,Dewi Rahayu,08573488966,Semarang,H 7510 XK,WR-V,2024-10-01,Kredit Leasing,Gita Permata,2026-03-06,22819,Ganti Oli,322000,4,Janji Servis,3
+CUST0544,Hendra Hidayat,0896-2907-958,Bandung,D 9665 AC,City Hatchback,2024-10-02,Kredit Leasing,Budi Santoso,2026-08-11,22918,Servis Berkala,450000,4,Sudah Dihubungi,3
+CUST0545,Wahyu Kurniawan,085265949225,Jakarta,B 9438 DWB,Brio,2024-10-03,Kredit Leasing,Hendra Kusuma,2026-09-05,27247,Servis Berkala,491000,4,Sudah Dihubungi,5
+CUST0546,Dewi Purnomo,081187503052,Bogor,F 9506 LYN,City Hatchback,2024-10-04,Kredit Leasing,Andi Prasetyo,2026-06-06,27911,Servis Berkala,1135000,5,Tidak Diangkat,
+CUST0547,Siti Firmansyah,082130051047,Bekasi,B 3006 JGZ,HR-V,2024-10-04,Kredit Leasing,Eko Wahyudi,2026-06-21,32211,General Repair,4107000,5,Sudah Dihubungi,5
+CUST0548,Ahmad Handayani ,0852-6314-503,Bogor,F 2721 HT,BR-V,2024-10-06,Cash,Budi Santoso,2026-08-27,27094,Servis Berkala,488000,5,Belum Dihubungi,
+CUST0549,Yoga Simanjuntak,08135947233,Surabaya,L 3607 RN,WR-V,2024-10-09,Cash,Budi Santoso,,,,,0,Belum Dihubungi,
+CUST0550,Teguh Hendra Nasution,+62 813-0320-855,Bandung,D 3354 CZ,HR-V,2024-10-12,Kredit Leasing,Hendra Kusuma,2026-04-07,20181,Servis Berkala,800000,4,Sudah Dihubungi,5
+CUST0551,Bambang Siregar,087807182579,Jakarta,B 9886 KND,WR-V,2024-10-12,Kredit Leasing,Fajar Nugroho,2026-02-06,22155,Servis Berkala,465000,4,Sudah Dihubungi,5
+CUST0552,Eko  Nasution,081397220817,Surabaya,L 6716 CU,CR-V,2024-10-17,Cash,Gita Permata,2026-06-12,24976,Servis Berkala,375000,5,Janji Servis,
+CUST0553,Budi Kurniawan,08526107954,Bekasi,B 5006 XA,City Hatchback,2024-10-18,Cash,Eko Wahyudi,2026-09-02,29391,General Repair,2183000,5,Janji Servis,5
+CUST0554,Hendra Yoga Purnomo ,08217024060,Tangerang,B 5797 UMJ,Brio,2024-10-18,Kredit Leasing,Citra Lestari,2026-05-07,22868,General Repair,5856000,4,Janji Servis,5
+CUST0555,Ayu Setiawan,+62 895-6053-441,Jakarta,B 3113 VFN,CR-V,2024-10-19,Cash,Fajar Nugroho,2025-09-10,17173,Servis Berkala,412000,3,Sudah Dihubungi,
+CUST0556,Kartika Santoso,08225309641,Jakarta,B 4317 RB,City Hatchback,2024-10-19,Kredit Leasing,Citra Lestari,2025-12-16,19136,Ganti Oli,591000,3,Belum Dihubungi,
+CUST0557,Taufik Siregar ,0812-4704-527,Depok,B 4682 YK,Civic,2024-10-20,Kredit Leasing,Budi Santoso,2025-11-11,17938,Servis Berkala,818000,3,Sudah Dihubungi,
+CUST0558,Rina Siti Wibowo,+62 813-9245-690,Bekasi,B 1084 LU,BR-V,2024-10-25,Kredit Leasing,Fajar Nugroho,2026-09-18,27289,Servis Berkala,891000,5,Janji Servis,3
+CUST0559,Dian Nur Purnomo ,081379146561,Surabaya,L 5509 SD,Brio,2024-10-26,Kredit Leasing,Dewi Anggraini,2026-08-24,33294,Servis Berkala,910000,5,Sudah Dihubungi,5
+CUST0560,Citra Fajar Handayani,08528361068,Jakarta,B 9187 GMW,BR-V,2024-10-28,Cash,Andi Prasetyo,2025-11-20,16409,General Repair,2900000,3,Sudah Dihubungi,5
+CUST0561,Sari Nugroho,08211855877,Jakarta,B 9743 JW,Civic,2024-11-01,Kredit Leasing,Gita Permata,2026-10-15,22898,Servis Berkala,1188000,4,Janji Servis,5
+CUST0562,Dedi Wijaya,085201177416,Depok,B 1712 AXJ,HR-V,2024-11-04,Kredit Leasing,Gita Permata,2025-12-20,19374,Servis Berkala,1105000,3,Sudah Dihubungi,5
+CUST0563,Yusuf Putri Purnomo,082111100643,Bogor,F 3883 HL,CR-V,2024-11-05,Cash,Eko Wahyudi,2025-05-15,11018,General Repair,3541000,2,Belum Dihubungi,
+CUST0564,Ratna Nasution,08954884187,Tangerang,B 2296 TER,Brio,2024-11-05,Kredit Leasing,Andi Prasetyo,2026-01-16,16901,General Repair,3287000,3,Sudah Dihubungi,4
+CUST0565,Rudi Siti Hidayat,082286720939,Bekasi,B 4182 EFE,Brio,2024-11-07,Cash,Budi Santoso,2025-10-10,18534,Servis Berkala,1114000,3,Sudah Dihubungi,5
+CUST0566,Sari Wijaya,08216087684,Bogor,F 4504 NSJ,WR-V,2024-11-08,Cash,Citra Lestari,,,,,0,Sudah Dihubungi,5
+CUST0567,Aditya Siregar,08575243614,Bandung,D 4261 AS,Civic,2024-11-09,Cash,Andi Prasetyo,2026-08-13,26562,Servis Berkala,456000,5,Belum Dihubungi,
+CUST0568,Melati Handayani,082244682042,Jakarta,B 3535 VSL,Mobilio,2024-11-09,Kredit Leasing,Budi Santoso,2026-05-11,24795,Servis Berkala,1019000,4,Sudah Dihubungi,5
+CUST0569,Taufik Yoga Susanto ,089659900640,Jakarta,B 2637 DNR,Brio,2024-11-10,Kredit Leasing,Gita Permata,2026-01-23,15142,General Repair,1728000,3,Sudah Dihubungi,5
+CUST0570,Ayu Purnomo,081245801033,Bogor,F 4609 DZ,Civic,2024-11-11,Cash,Dewi Anggraini,2026-01-19,15530,Body Repair,6321000,3,Janji Servis,5
+CUST0571,Yoga Sri Tanjung,081368377113,Bekasi,B 1422 KJ,BR-V,2024-11-13,Kredit Leasing,Citra Lestari,2025-12-12,18503,Servis Berkala,601000,3,Belum Dihubungi,
+CUST0572,Bambang Lestari,08210116067,Bekasi,B 8038 TJ,City Hatchback,2024-11-15,Cash,Fajar Nugroho,2026-05-12,21277,Servis Berkala,835000,4,Sudah Dihubungi,
+CUST0573,Hendra Joko Handayani,081359691736,Jakarta,B 9219 YY,Brio,2024-11-16,Kredit Leasing,Citra Lestari,2026-06-30,24825,General Repair,2126000,4,Janji Servis,
+CUST0574,Irfan Kurniawan,08118864382,Bekasi,B 8768 DMB,Mobilio,2024-11-17,Kredit Leasing,Eko Wahyudi,2026-06-28,21999,Servis Berkala,960000,4,Sudah Dihubungi,5
+CUST0575,Lina Bambang Nugroho,085248989669,Jakarta,B 2011 ZH,HR-V,2024-11-18,Kredit Leasing,Citra Lestari,2025-03-23,6617,Servis Berkala,456000,1,Janji Servis,
+CUST0576,Indah Purnomo,08111281980,Tangerang,B 2484 TZZ,Brio,2024-11-19,Cash,Budi Santoso,2026-08-10,18993,Servis Berkala,829000,3,Belum Dihubungi,
+CUST0577,Reza Wibowo ,08786750586,Depok,B 8156 DMD,Brio,2024-11-19,Cash,Budi Santoso,2026-08-06,29890,General Repair,982000,5,Sudah Dihubungi,5
+CUST0578,Gunawan Halim,08213153040,Surabaya,L 3842 NZX,HR-V,2024-11-20,Kredit Leasing,Budi Santoso,2026-07-25,22173,Ganti Oli,530000,4,Belum Dihubungi,
+CUST0579,Yoga Sihombing,082136316737,Bekasi,B 1473 ZYU,Civic,2024-11-20,Kredit Leasing,Budi Santoso,2025-12-30,14883,Servis Berkala,439000,3,Belum Dihubungi,
+CUST0580,Ratna Halim,081272896154,Depok,B 2541 LVU,CR-V,2024-11-22,Kredit Leasing,Budi Santoso,2025-11-04,16183,Servis Berkala,919000,3,Sudah Dihubungi,5
+CUST0581,Reza Irfan Sihombing,085222404909,Semarang,H 4511 YS,Brio,2024-11-22,Kredit Leasing,Gita Permata,2026-05-19,20772,Ganti Oli,545000,4,Belum Dihubungi,
+CUST0582,Ahmad Nugroho ,08785569708,Surabaya,L 1574 GH,Brio,2024-11-23,Kredit Leasing,Hendra Kusuma,2026-03-04,26044,General Repair,1081000,4,Belum Dihubungi,
+CUST0583,Indah Susanto,082103830544,Bandung,D 2090 VU,HR-V,2024-11-25,Kredit Leasing,Andi Prasetyo,2026-05-28,25088,General Repair,2426000,4,Janji Servis,4
+CUST0584,Anton Tanjung,+62 813-7705-0877,Depok,B 6466 JL,WR-V,2024-11-25,Kredit Leasing,Dewi Anggraini,2026-05-12,21660,Ganti Oli,437000,3,Belum Dihubungi,
+CUST0585,Rizky Nasution,089577813939,Jakarta,B 6906 XK,City Hatchback,2024-11-26,Cash,Andi Prasetyo,2025-09-19,12804,Servis Berkala,1086000,2,Sudah Dihubungi,
+CUST0586,Gunawan Halim,08213039416,Jakarta,B 8476 KUC,Brio,2024-11-26,Kredit Leasing,Dewi Anggraini,2026-09-13,24219,Servis Berkala,702000,4,Belum Dihubungi,
+CUST0587,Yoga Handayani,08579050939,Semarang,H 2558 GY,BR-V,2024-11-28,Cash,Dewi Anggraini,2026-03-23,22292,Ganti Oli,534000,4,Belum Dihubungi,
+CUST0588,Joko Nasution,08229371265,Surabaya,L 1284 HTS,HR-V,2024-11-30,Kredit Leasing,Gita Permata,2025-08-19,11598,General Repair,4118000,2,Janji Servis,5
+CUST0589,Irfan Susanto,08123883527,Jakarta,B 6085 XE,WR-V,2024-12-01,Kredit Leasing,Gita Permata,,,,,0,Sudah Dihubungi,3
+CUST0590,Rudi Setiawan,08129758369,Tangerang,B 4026 ZV,Brio,2024-12-02,Kredit Leasing,Eko Wahyudi,2026-09-20,29997,Servis Berkala,551000,5,Sudah Dihubungi,5
+CUST0591,Yusuf Firmansyah,+62 877-5723-4988,Jakarta,B 6307 FR,Brio,2024-12-03,Cash,Budi Santoso,2026-09-30,30756,General Repair,2635000,5,Tidak Diangkat,
+CUST0592,Siti Simanjuntak,081298948466,Bekasi,B 6897 ZV,City Hatchback,2024-12-03,Cash,Andi Prasetyo,2026-05-08,21709,Servis Berkala,604000,4,Sudah Dihubungi,5
+CUST0593,Yusuf Wijaya ,082234700109,Surabaya,L 7402 HWM,Mobilio,2024-12-04,Kredit Leasing,Citra Lestari,2026-05-02,23361,Servis Berkala,697000,4,Belum Dihubungi,
+CUST0594,Kartika Tanjung,0852-4235-0783,Semarang,H 3721 XZ,Brio,2024-12-06,Kredit Leasing,Hendra Kusuma,2026-01-20,17229,Body Repair,3845000,3,Sudah Dihubungi,
+CUST0595,joko sihombing,+62 895-3451-6847,Tangerang,B 3746 RXW,City Hatchback,2024-12-07,Kredit Leasing,Gita Permata,2026-08-24,32629,Servis Berkala,367000,5,Belum Dihubungi,
+CUST0596,Indah Purnomo,+62 821-9216-789,Tangerang,B 6941 GJD,HR-V,2024-12-08,Kredit Leasing,Andi Prasetyo,2026-03-30,19163,General Repair,4596000,4,Sudah Dihubungi,3
+CUST0597,Bambang Nadia Hidayat,081346652275,Surabaya,L 3602 ZTX,HR-V,2024-12-08,Kredit Leasing,Hendra Kusuma,2026-05-10,21801,Ganti Oli,420000,4,Sudah Dihubungi,
+CUST0598,Indah Tanjung,0877-3854-726,Depok,B 6151 PSM,CR-V,2024-12-09,Cash,Fajar Nugroho,2026-05-21,21793,Ganti Oli,428000,4,Belum Dihubungi,
+CUST0599,Lina Yoga Sihombing,085716860942,Depok,B 3709 YZ,HR-V,2024-12-09,Cash,Fajar Nugroho,2026-01-11,20231,Servis Berkala,478000,3,Janji Servis,5
+CUST0600,Fitri  Handayani,087890326983,Jakarta,B 4453 SKH,Brio,2024-12-12,Kredit Leasing,Dewi Anggraini,2026-10-04,29711,Ganti Oli,486000,5,Sudah Dihubungi,5
+CUST0601,Fajar Purnomo,085283102149,Jakarta,B 5371 MH,Brio,2024-12-12,Cash,Dewi Anggraini,2025-08-26,13755,Servis Berkala,908000,2,Belum Dihubungi,
+CUST0602,WAHYU TANJUNG,089522636215,Tangerang,B 2747 AV,Mobilio,2024-12-16,Kredit Leasing,Budi Santoso,2026-10-06,22735,Servis Berkala,665000,4,Janji Servis,4
+CUST0603,BUDI MAULANA,08954274563,Bogor,F 6248 LC,Brio,2024-12-17,Kredit Leasing,Citra Lestari,2025-06-25,12118,Servis Berkala,411000,2,Sudah Dihubungi,5
+CUST0604,Nur Aditya Purnomo,085207321236,Jakarta,B 5216 APB,CR-V,2024-12-19,Kredit Leasing,Andi Prasetyo,2026-07-29,25834,General Repair,1845000,4,Janji Servis,5
+CUST0605,Reza Siti Sihombing,0852-6418-8590,Surabaya,L 2090 NH,Mobilio,2024-12-23,Kredit Leasing,Budi Santoso,2026-07-22,14787,Servis Berkala,996000,3,Tidak Diangkat,
+CUST0606,Yoga Utami,087889605314,Depok,B 1413 PWT,Mobilio,2024-12-27,Cash,Citra Lestari,2026-10-15,30842,Servis Berkala,1073000,5,Belum Dihubungi,
+CUST0607,Ahmad Bambang Setiawan,089667886148,Bekasi,B 1609 JW,Mobilio,2024-12-28,Cash,Gita Permata,2025-10-30,16735,Ganti Oli,371000,3,Belum Dihubungi,
+CUST0608,agus setiawan,08528322429,Tangerang,B 5012 RPC,Brio,2024-12-29,Cash,Gita Permata,2026-05-27,19584,Servis Berkala,732000,4,Janji Servis,
+CUST0609,Anton Setiawan,081278513094,Jakarta,B 4642 EFN,CR-V,2024-12-30,Kredit Leasing,Fajar Nugroho,,,,,0,Sudah Dihubungi,5
+CUST0610,Yoga Permana,085217731148,Bandung,D 6625 ZNJ,Mobilio,2025-01-07,Cash,Budi Santoso,,,,,0,Sudah Dihubungi,4
+CUST0611,Bambang Dian Lestari,8575008048,Surabaya,L 3709 KG,Brio,2025-01-08,Kredit Leasing,Eko Wahyudi,2026-09-03,16178,Body Repair,7737000,3,Sudah Dihubungi,5
+CUST0612,Dewi Nasution,081207338743,Jakarta,B 1123 FVG,HR-V,2025-01-09,Kredit Leasing,Gita Permata,2025-07-18,10889,General Repair,2586000,2,Belum Dihubungi,
+CUST0613,Hendra Sari Simanjuntak,082295237712,Surabaya,L 1025 MU,BR-V,2025-01-10,Cash,Fajar Nugroho,2026-08-06,20072,Ganti Oli,409000,4,Belum Dihubungi,
+CUST0614,Hendra Maulana,081280681500,Surabaya,L 8089 BEL,City Hatchback,2025-01-10,Kredit Leasing,Gita Permata,2026-09-20,31725,General Repair,4841000,5,Sudah Dihubungi,
+CUST0615,Eko Susanto,08223522120,Bekasi,B 8249 MPK,BR-V,2025-01-11,Kredit Leasing,Dewi Anggraini,2026-08-17,20026,General Repair,1913000,4,Sudah Dihubungi,5
+CUST0616,Rudi Sari Hidayat,085779320257,Jakarta,B 8459 EE,HR-V,2025-01-15,Kredit Leasing,Hendra Kusuma,2026-06-06,19569,Ganti Oli,333000,4,Belum Dihubungi,
+CUST0617,Fajar Utami,087754618649,Depok,B 1270 LRD,Brio,2025-01-15,Kredit Leasing,Budi Santoso,2025-11-18,14115,Servis Berkala,710000,2,Janji Servis,4
+CUST0618,Dian Firmansyah,081189025692,Surabaya,L 9263 RY,City Hatchback,2025-01-15,Kredit Leasing,Budi Santoso,2026-08-18,19917,Servis Berkala,445000,4,Janji Servis,5
+CUST0619,Dewi Sri Firmansyah,08576540853,Bogor,F 6243 UP,Brio,2025-01-17,Kredit Leasing,Gita Permata,2026-04-08,11364,Servis Berkala,544000,2,Tidak Diangkat,
+CUST0620,Hendra Agus Susanto,089688925617,Jakarta,B 4622 DVE,BR-V,2025-01-18,Kredit Leasing,Dewi Anggraini,2026-06-06,25190,Servis Berkala,986000,4,Tidak Diangkat,
+CUST0621,Ratna Utami,08119470320,Jakarta,B 4683 MZG,BR-V,2025-01-22,Kredit Leasing,Andi Prasetyo,2026-02-27,17151,Ganti Oli,421000,3,Belum Dihubungi,
+CUST0622,Nur Rahayu,08221137401,Bekasi,B 2212 CCV,Mobilio,2025-01-23,Cash,Hendra Kusuma,2026-02-02,16284,Ganti Oli,436000,3,Tidak Diangkat,
+CUST0623,Rudi Anton Halim,+62 852-9667-912,Jakarta,B 4813 MW,BR-V,2025-01-23,Kredit Leasing,Fajar Nugroho,2026-09-04,22462,Servis Berkala,513000,4,Tidak Diangkat,
+CUST0624,Eko Wijaya,08966263989,Bekasi,B 7657 LG,BR-V,2025-01-24,Kredit Leasing,Citra Lestari,2026-09-26,18767,General Repair,2772000,3,Belum Dihubungi,
+CUST0625,Melati Siti Hakim,08772411372,Depok,B 2360 KV,BR-V,2025-01-24,Kredit Leasing,Hendra Kusuma,2026-07-26,26876,General Repair,1759000,4,Sudah Dihubungi,4
+CUST0626,Kartika Firmansyah,082134670536,Jakarta,B 4208 MV,Brio,2025-01-26,Cash,Budi Santoso,2026-03-19,14686,Servis Berkala,400000,3,Tidak Diangkat,
+CUST0627,Rina Eko Utami,081241796569,Bekasi,B 5831 MBW,Brio,2025-01-26,Cash,Dewi Anggraini,2026-05-05,21728,Servis Berkala,1192000,4,Janji Servis,5
+CUST0628,Siti Hakim,089588483989,Bandung,D 3967 XGZ,Brio,2025-01-26,Cash,Eko Wahyudi,2026-08-26,23017,General Repair,4323000,4,Belum Dihubungi,
+CUST0629,YOGA HAKIM,087796826874,Jakarta,B 1997 FJ,Brio,2025-01-26,Kredit Leasing,Citra Lestari,2026-01-30,15600,Servis Berkala,787000,3,Sudah Dihubungi,4
+CUST0630,Rudi Halim,082173908412,Bandung,D 5328 FP,Mobilio,2025-01-27,Cash,Citra Lestari,2026-01-11,15905,Servis Berkala,1188000,3,Sudah Dihubungi,5
+CUST0631,Indah Maya Hidayat,089598031494,Bekasi,B 8866 BU,HR-V,2025-01-28,Kredit Leasing,Citra Lestari,2026-09-23,32119,Body Repair,8755000,5,Belum Dihubungi,
+CUST0632,Maya Rahayu,+62 877-9455-5365,Depok,B 6775 TDY,Brio,2025-01-28,Cash,Citra Lestari,,,,,0,Belum Dihubungi,
+CUST0633,Lina Handayani,082252184241,Bogor,F 4184 JSK,Mobilio,2025-01-29,Kredit Leasing,Gita Permata,2025-10-02,12491,Servis Berkala,939000,2,Sudah Dihubungi,4
+CUST0634,Reza Saputra,08120497317,Jakarta,B 6475 YAV,Brio,2025-01-30,Kredit Leasing,Budi Santoso,2026-04-01,18225,Ganti Oli,385000,3,Sudah Dihubungi,5
+CUST0635,Maya Saputra ,081131212688,Bogor,F 3793 CT,WR-V,2025-02-01,Cash,Hendra Kusuma,2025-11-10,11852,General Repair,1884000,2,Janji Servis,4
+CUST0636,Wahyu  Kartika Permana,8225129251,Bekasi,B 1882 LL,Brio,2025-02-02,Kredit Leasing,Andi Prasetyo,2026-04-27,16881,Servis Berkala,479000,3,Sudah Dihubungi,4
+CUST0637,Wahyu Sihombing,085773941481,Bogor,F 4729 XAT,WR-V,2025-02-08,Cash,Hendra Kusuma,2026-02-19,17531,Body Repair,7302000,3,Janji Servis,5
+CUST0638,SARI HAKIM,081244990053,Jakarta,B 9164 JH,CR-V,2025-02-11,Kredit Leasing,Hendra Kusuma,2026-08-06,16321,Ganti Oli,509000,3,Sudah Dihubungi,4
+CUST0639,Agus Wibowo,8954027415,Jakarta,B 6716 VMU,Brio,2025-02-12,Kredit Leasing,Budi Santoso,2026-06-08,22936,Ganti Oli,569000,4,Janji Servis,5
+CUST0640,Agus Utami,085245877161,Semarang,H 9914 PSJ,HR-V,2025-02-13,Kredit Leasing,Andi Prasetyo,,,,,0,Janji Servis,4
+CUST0641,Yoga Nugroho ,08779434980,Bekasi,B 2963 SAP,WR-V,2025-02-14,Kredit Leasing,Andi Prasetyo,2026-09-05,26422,Ganti Oli,572000,4,Belum Dihubungi,
+CUST0642,Maya Hidayat,08127016252,Bandung,D 7479 URB,CR-V,2025-02-14,Kredit Leasing,Fajar Nugroho,2026-02-24,15651,Servis Berkala,942000,3,Janji Servis,4
+CUST0643,Anton Fitri Nugroho,085773022713,Depok,B 8843 FZR,Brio,2025-02-14,Kredit Leasing,Gita Permata,2026-09-26,27843,Ganti Oli,534000,4,Sudah Dihubungi,5
+CUST0644,Rina Bagus Wibowo,08965082134,Bogor,F 6643 TA,HR-V,2025-02-15,Cash,Eko Wahyudi,,,,,0,Belum Dihubungi,
+CUST0645,Sri Maulana,089680815900,Jakarta,B 4147 LEB,HR-V,2025-02-17,Kredit Leasing,Fajar Nugroho,2026-10-05,26758,General Repair,5233000,4,Sudah Dihubungi,4
+CUST0646,Melati Nadia Halim,+62 822-0424-2782,Bandung,D 4395 RN,HR-V,2025-02-18,Kredit Leasing,Andi Prasetyo,2025-10-27,12475,Ganti Oli,503000,2,Janji Servis,5
+CUST0647,Citra Permana,87779860091,Tangerang,B 5142 HC,HR-V,2025-02-20,Cash,Budi Santoso,2026-01-28,18433,Servis Berkala,964000,3,Janji Servis,
+CUST0648,Rina Maulana,0852-9738-6698,Bandung,D 8049 SBY,Brio,2025-02-21,Kredit Leasing,Eko Wahyudi,2026-06-23,20016,General Repair,4984000,3,Belum Dihubungi,
+CUST0649,Hendra Gunawan,081202300566,Surabaya,L 4748 UGW,City Hatchback,2025-02-22,Kredit Leasing,Budi Santoso,2026-08-24,6787,Servis Berkala,849000,1,Sudah Dihubungi,3
+CUST0650,Fitri Purnomo,081323051159,Surabaya,L 2008 SX,Mobilio,2025-02-24,Kredit Leasing,Gita Permata,,,,,0,Belum Dihubungi,
+CUST0651,Yusuf Lestari,089564396875,Bogor,F 8977 WPK,Brio,2025-02-25,Kredit Leasing,Dewi Anggraini,2026-07-19,11211,General Repair,4867000,2,Tidak Diangkat,
+CUST0652,RATNA RAHAYU,082183249646,Bekasi,B 7512 CCL,WR-V,2025-02-25,Kredit Leasing,Andi Prasetyo,2026-01-18,13711,Servis Berkala,936000,2,Janji Servis,5
+CUST0653,fajar wibowo,089644378432,Bogor,F 7343 AS,Brio,2025-02-26,Kredit Leasing,Citra Lestari,2026-07-28,18261,Servis Berkala,513000,3,Janji Servis,5
+CUST0654,Rizky Halim,089577876277,Depok,B 8327 YR,BR-V,2025-02-26,Kredit Leasing,Fajar Nugroho,2025-11-24,11139,General Repair,5150000,2,Sudah Dihubungi,
+CUST0655,Siti Pratama,085234737319,Bekasi,B 5815 PVX,WR-V,2025-02-26,Kredit Leasing,Budi Santoso,2026-05-14,13730,General Repair,3398000,2,Janji Servis,4
+CUST0656,Sri Handayani,081344244985,Tangerang,B 2037 SXU,HR-V,2025-02-27,Kredit Leasing,Hendra Kusuma,2026-08-10,20562,Body Repair,4370000,3,Tidak Diangkat,
+CUST0657,Lina Purnomo,087738693729,Jakarta,B 9115 PZX,WR-V,2025-02-28,Kredit Leasing,Gita Permata,2026-07-17,23958,Servis Berkala,421000,4,Belum Dihubungi,
+CUST0658,Indah Fajar Rahayu,087756783672,Bandung,D 1021 RKN,Brio,2025-03-03,Kredit Leasing,Andi Prasetyo,2026-02-19,18530,Servis Berkala,735000,3,Belum Dihubungi,
+CUST0659,Agus Sari Nasution,081155035259,Jakarta,B 7410 PA,Civic,2025-03-08,Kredit Leasing,Budi Santoso,2025-08-20,12324,Servis Berkala,1007000,2,Sudah Dihubungi,
+CUST0660,Hendra Lestari,085259990503,Bandung,D 4912 VAW,HR-V,2025-03-10,Kredit Leasing,Eko Wahyudi,2026-02-18,21252,Ganti Oli,333000,3,Belum Dihubungi,
+CUST0661,Eko Handayani,8114946595,Tangerang,B 7172 SPA,Brio,2025-03-11,Kredit Leasing,Eko Wahyudi,2026-03-06,13013,Servis Berkala,853000,2,Belum Dihubungi,
+CUST0662,Citra Susanto,+62 822-8042-714,Bogor,F 8786 TSA,HR-V,2025-03-15,Kredit Leasing,Citra Lestari,2026-10-18,22482,Servis Berkala,956000,4,Tidak Diangkat,
+CUST0663,Joko Firmansyah,085737737747,Bogor,F 6631 DAP,Civic,2025-03-18,Kredit Leasing,Fajar Nugroho,2025-08-08,6162,General Repair,2329000,1,Belum Dihubungi,
+CUST0664,Anton Nugroho,089699981016,Jakarta,B 8989 ZB,WR-V,2025-03-20,Cash,Gita Permata,2025-11-18,11685,Servis Berkala,385000,2,Sudah Dihubungi,4
+CUST0665,Anton Simanjuntak ,08573529339,Bekasi,B 8223 WGL,Brio,2025-03-20,Kredit Leasing,Eko Wahyudi,,,,,0,Belum Dihubungi,
+CUST0666,Anton Nadia Sihombing,089632102176,Jakarta,B 1086 HAV,BR-V,2025-03-20,Kredit Leasing,Dewi Anggraini,,,,,0,Sudah Dihubungi,4
+CUST0667,Putri Wijaya,0852-5622-9323,Jakarta,B 2484 GXS,Brio,2025-03-24,Kredit Leasing,Gita Permata,2025-12-01,13867,Ganti Oli,431000,2,Sudah Dihubungi,2
+CUST0668,Kartika Siregar,082250165567,Bekasi,B 7006 DZ,HR-V,2025-03-24,Kredit Leasing,Hendra Kusuma,,,,,0,Janji Servis,3
+CUST0669,Indah Gunawan,085773460647,Jakarta,B 8601 JR,Brio,2025-03-26,Kredit Leasing,Hendra Kusuma,,,,,0,Sudah Dihubungi,5
+CUST0670,Indah Hidayat,081356414762,Surabaya,L 4659 WUG,HR-V,2025-03-28,Kredit Leasing,Budi Santoso,2026-01-30,16486,Ganti Oli,309000,3,Belum Dihubungi,
+CUST0671,Siti Wibowo,08131844422,Jakarta,B 2094 XB,BR-V,2025-03-30,Kredit Leasing,Fajar Nugroho,2026-06-06,15059,Ganti Oli,528000,3,Belum Dihubungi,
+CUST0672,Bambang Hakim,0852-3235-4813,Semarang,H 3425 FH,HR-V,2025-04-01,Kredit Leasing,Dewi Anggraini,2026-05-27,14271,Ganti Oli,365000,3,Sudah Dihubungi,4
+CUST0673,Bagus Halim ,89600011565,Bandung,D 1986 SNS,Brio,2025-04-02,Kredit Leasing,Fajar Nugroho,2026-09-04,16828,Servis Berkala,1174000,3,Sudah Dihubungi,5
+CUST0674,Hendra Maulana,085715409733,Jakarta,B 2422 EJW,WR-V,2025-04-06,Kredit Leasing,Gita Permata,2026-06-30,27791,Servis Berkala,923000,4,Tidak Diangkat,
+CUST0675,Kartika Reza Santoso ,08133827944,Bekasi,B 5260 WEJ,Brio,2025-04-06,Cash,Andi Prasetyo,2026-09-06,25282,General Repair,5349000,4,Sudah Dihubungi,3
+CUST0676,Eko Eko Lestari,089619396357,Bandung,D 8618 HXH,City Hatchback,2025-04-08,Kredit Leasing,Hendra Kusuma,2026-09-04,14670,Body Repair,5236000,3,Belum Dihubungi,
+CUST0677,Lina Kurniawan,089650213205,Jakarta,B 4467 ELL,HR-V,2025-04-09,Kredit Leasing,Hendra Kusuma,2026-06-12,16647,Servis Berkala,697000,3,Janji Servis,4
+CUST0678,Hendra Hidayat,8130722304,Bandung,D 7166 UZB,Brio,2025-04-11,Kredit Leasing,Fajar Nugroho,2026-07-20,27246,Ganti Oli,471000,4,Sudah Dihubungi,5
+CUST0679,Gunawan Simanjuntak,087859883151,Bogor,F 7528 SE,Brio,2025-04-15,Kredit Leasing,Budi Santoso,2026-06-03,17191,Body Repair,6787000,3,Janji Servis,4
+CUST0680,Melati Utami,081202328140,Depok,B 1615 KP,Mobilio,2025-04-16,Kredit Leasing,Budi Santoso,2026-01-13,11849,Body Repair,7023000,2,Belum Dihubungi,
+CUST0681,Aditya Maulana ,089641017165,Depok,B 1025 HS,Mobilio,2025-04-16,Kredit Leasing,Fajar Nugroho,2025-08-09,6824,Servis Berkala,1089000,1,Janji Servis,4
+CUST0682,Budi Santoso,08126820749,Jakarta,B 6759 UA,Brio,2025-04-17,Kredit Leasing,Fajar Nugroho,,,,,0,Sudah Dihubungi,4
+CUST0683,Kartika Santoso,08575338901,Tangerang,B 7582 BFP,WR-V,2025-04-18,Cash,Andi Prasetyo,2026-03-23,15752,Ganti Oli,595000,3,Janji Servis,4
+CUST0684,TEGUH GUNAWAN,08957504551,Bandung,D 2607 YPB,HR-V,2025-04-21,Kredit Leasing,Budi Santoso,2026-08-18,22046,Servis Berkala,1185000,4,Sudah Dihubungi,4
+CUST0685,Agus Nugroho,+62 857-9412-3374,Tangerang,B 5075 DF,Brio,2025-04-21,Cash,Gita Permata,2026-06-16,18533,Servis Berkala,1118000,3,Belum Dihubungi,
+CUST0686,Bagus Kurniawan,08115994684,Depok,B 2767 DVR,WR-V,2025-04-23,Kredit Leasing,Citra Lestari,2026-01-22,12558,Ganti Oli,389000,2,Tidak Diangkat,
+CUST0687,sari saputra,87767615941,Surabaya,L 2831 NAK,BR-V,2025-04-25,Kredit Leasing,Budi Santoso,2026-04-22,11422,Servis Berkala,831000,2,Sudah Dihubungi,3
+CUST0688,Sri Dian Nasution,0896-7277-971,Semarang,H 8871 RWA,Brio,2025-04-27,Kredit Leasing,Andi Prasetyo,2026-02-08,13998,Servis Berkala,986000,2,Belum Dihubungi,
+CUST0689,Rudi Halim,08128163610,Jakarta,B 3374 BKM,Civic,2025-04-30,Kredit Leasing,Dewi Anggraini,2026-10-02,27631,Ganti Oli,402000,4,Janji Servis,5
+CUST0690,Agus Hidayat ,08958729089,Depok,B 4873 MGF,HR-V,2025-05-02,Kredit Leasing,Citra Lestari,2026-03-16,20392,Ganti Oli,500000,3,Sudah Dihubungi,4
+CUST0691,Ayu Tanjung,+62 821-7582-5126,Surabaya,L 6749 WLF,WR-V,2025-05-03,Cash,Hendra Kusuma,2026-08-02,21086,Ganti Oli,279000,3,Janji Servis,4
+CUST0692,Nur Maulana,089541334406,Bogor,F 1172 JFL,Brio,2025-05-07,Kredit Leasing,Dewi Anggraini,2026-05-22,10761,Servis Berkala,931000,2,Belum Dihubungi,
+CUST0693,Joko Pratama,89669102495,Depok,B 3097 WUM,City Hatchback,2025-05-09,Kredit Leasing,Citra Lestari,2026-10-18,12546,Servis Berkala,939000,2,Sudah Dihubungi,3
+CUST0694,Bagus Santoso,089596928731,Bekasi,B 4291 EPN,Brio,2025-05-10,Kredit Leasing,Eko Wahyudi,2026-10-14,15037,Ganti Oli,569000,3,Tidak Diangkat,
+CUST0695,Reza Saputra,081181094320,Bekasi,B 6954 XJD,BR-V,2025-05-11,Kredit Leasing,Fajar Nugroho,2026-09-28,21449,Servis Berkala,1011000,4,Janji Servis,5
+CUST0696,Gunawan Simanjuntak,082287963160,Tangerang,B 7519 FWF,WR-V,2025-05-12,Kredit Leasing,Gita Permata,2026-05-25,15090,Servis Berkala,402000,3,Janji Servis,5
+CUST0697,Agus Melati Santoso,081317738793,Depok,B 8403 SY,City Hatchback,2025-05-14,Kredit Leasing,Eko Wahyudi,2026-08-15,22963,Servis Berkala,778000,4,Tidak Diangkat,
+CUST0698,Irfan  Hidayat,08222470082,Bandung,D 8538 JK,HR-V,2025-05-16,Kredit Leasing,Budi Santoso,2026-02-22,11260,Servis Berkala,467000,2,Belum Dihubungi,
+CUST0699,Ayu Hidayat,081204918561,Jakarta,B 1811 WA,City Hatchback,2025-05-17,Kredit Leasing,Andi Prasetyo,2026-10-11,13749,Servis Berkala,539000,2,Janji Servis,
+CUST0700,Rina Hakim,08133438685,Jakarta,B 4838 LU,City Hatchback,2025-05-27,Kredit Leasing,Hendra Kusuma,2026-08-26,6510,General Repair,2462000,1,Belum Dihubungi,
+CUST0701,yoga budi susanto,08229881589,Semarang,H 4480 APC,Brio,2025-05-28,Kredit Leasing,Andi Prasetyo,2026-10-09,22893,Body Repair,4559000,4,Tidak Diangkat,
+CUST0702,Maya Hidayat,8787778982,Bekasi,B 3323 WX,WR-V,2025-05-29,Cash,Budi Santoso,2026-02-11,9461,Servis Berkala,564000,2,Tidak Diangkat,
+CUST0703,Lina Handayani,085771792636,Jakarta,B 2723 VUY,City Hatchback,2025-05-30,Kredit Leasing,Citra Lestari,2026-02-14,12901,Servis Berkala,788000,2,Sudah Dihubungi,3
+CUST0704,Reza Dedi Tanjung,0878-1247-3026,Depok,B 6990 MPL,HR-V,2025-05-31,Kredit Leasing,Gita Permata,2026-06-09,19638,Servis Berkala,1123000,3,Sudah Dihubungi,5
+CUST0705,Yusuf Sihombing,08220689841,Tangerang,B 8983 JHG,City Hatchback,2025-06-03,Cash,Dewi Anggraini,2025-12-08,14910,Body Repair,7144000,2,Belum Dihubungi,
+CUST0706,Aditya Handayani,089537156185,Surabaya,L 1861 JDS,CR-V,2025-06-05,Cash,Fajar Nugroho,2026-06-25,11502,Ganti Oli,260000,2,Janji Servis,5
+CUST0707,Joko Rudi Pratama,08218270121,Bekasi,B 4432 TP,WR-V,2025-06-05,Cash,Fajar Nugroho,2026-03-03,12921,Servis Berkala,1062000,2,Sudah Dihubungi,5
+CUST0708,Yoga Gunawan,089699081537,Bogor,F 7344 KZW,Mobilio,2025-06-08,Kredit Leasing,Hendra Kusuma,2026-01-28,11382,Servis Berkala,556000,2,Sudah Dihubungi,4
+CUST0709,Siti Susanto,085240869905,Surabaya,L 5259 KAC,City Hatchback,2025-06-13,Cash,Citra Lestari,2026-05-17,12490,General Repair,1050000,2,Janji Servis,5
+CUST0710,Putri Lina Pratama,082274273964,Jakarta,B 9490 KHB,Brio,2025-06-15,Kredit Leasing,Eko Wahyudi,2026-10-08,21173,Servis Berkala,786000,3,Sudah Dihubungi,4
+CUST0711,RINA SARI SETIAWAN,08127695884,Bandung,D 2856 NBS,Brio,2025-06-18,Kredit Leasing,Gita Permata,2026-09-06,15845,General Repair,3931000,3,Sudah Dihubungi,5
+CUST0712,Ahmad Lestari,08525378113,Bekasi,B 1416 GY,Brio,2025-06-19,Kredit Leasing,Andi Prasetyo,,,,,0,Janji Servis,5
+CUST0713,Rizky Anton Pratama,089603503981,Bandung,D 2011 MAY,HR-V,2025-06-22,Cash,Dewi Anggraini,2026-01-22,11456,Ganti Oli,363000,2,Sudah Dihubungi,5
+CUST0714,Dewi Maulana,08774387664,Jakarta,B 6660 PPE,CR-V,2025-06-23,Kredit Leasing,Andi Prasetyo,2026-04-21,20267,Servis Berkala,798000,3,Sudah Dihubungi,4
+CUST0715,Nadia Bagus Siregar ,085749833762,Depok,B 2622 GWL,HR-V,2025-06-27,Cash,Citra Lestari,2026-03-03,13850,Servis Berkala,1160000,2,Sudah Dihubungi,5
+CUST0716,Aditya Maya Nasution,081330029092,Surabaya,L 2498 VB,BR-V,2025-06-27,Cash,Fajar Nugroho,2026-09-05,12948,Body Repair,1745000,2,Belum Dihubungi,
+CUST0717,Dewi Maya Santoso,089683694931,Bogor,F 9848 JR,Brio,2025-06-28,Cash,Andi Prasetyo,2026-07-02,20200,Servis Berkala,1158000,3,Janji Servis,4
+CUST0718,Joko Wahyu Susanto,089510106674,Bekasi,B 2081 NG,BR-V,2025-06-30,Kredit Leasing,Citra Lestari,2026-05-04,16383,Servis Berkala,446000,3,Sudah Dihubungi,5
+CUST0719,Joko Tanjung,0811-9427-638,Bogor,F 1458 BNM,BR-V,2025-07-01,Cash,Gita Permata,2026-08-10,15455,Servis Berkala,1184000,3,Tidak Diangkat,
+CUST0720,Melati  Saputra,089579620337,Semarang,H 2171 ZF,WR-V,2025-07-02,Kredit Leasing,Budi Santoso,,,,,0,Belum Dihubungi,
+CUST0721,Dewi Maulana,08964770091,Bogor,F 3845 WBV,HR-V,2025-07-07,Cash,Fajar Nugroho,2026-02-17,11049,Servis Berkala,496000,2,Sudah Dihubungi,5
+CUST0722,Ahmad Nugroho,087819959329,Bogor,F 1465 RLU,WR-V,2025-07-09,Kredit Leasing,Hendra Kusuma,2025-11-23,8093,Ganti Oli,386000,1,Belum Dihubungi,
+CUST0723,Siti Handayani,0812-1906-2838,Surabaya,L 1506 CNH,Brio,2025-07-09,Kredit Leasing,Citra Lestari,2026-07-17,10948,Ganti Oli,294000,2,Janji Servis,4
+CUST0724,Agus Hakim,085214256076,Bekasi,B 5225 WRV,HR-V,2025-07-09,Kredit Leasing,Citra Lestari,2026-01-03,13449,Servis Berkala,399000,2,Sudah Dihubungi,1
+CUST0725,Sri Saputra,085722877386,Depok,B 8537 TA,CR-V,2025-07-11,Kredit Leasing,Gita Permata,2026-05-13,21189,Servis Berkala,982000,3,Belum Dihubungi,
+CUST0726,Dedi Ayu Tanjung,08214264548,Jakarta,B 9188 MF,Brio,2025-07-12,Cash,Hendra Kusuma,2026-07-03,16950,Ganti Oli,342000,3,Janji Servis,
+CUST0727,dian firmansyah,087803290732,Surabaya,L 4466 FR,Brio,2025-07-15,Kredit Leasing,Dewi Anggraini,2026-07-05,14630,General Repair,5350000,3,Belum Dihubungi,
+CUST0728,Dian Wijaya,08954863673,Bekasi,B 1046 ZF,Civic,2025-07-16,Cash,Fajar Nugroho,,,,,0,Janji Servis,4
+CUST0832,Agus Santoso,08220592684,Tangerang,B 4552 UJ,Mobilio,2026-01-05,Kredit Leasing,Dewi Anggraini,2026-09-24,13535,Servis Berkala,852000,2,Sudah Dihubungi,5
+CUST0729,Dian Siregar,0857-2967-317,Jakarta,B 3365 ZJ,City Hatchback,2025-07-16,Cash,Citra Lestari,2026-07-19,12802,General Repair,3783000,2,Janji Servis,5
+CUST0730,Indah Pratama,087756191541,Jakarta,B 6467 FKA,Brio,2025-07-17,Cash,Citra Lestari,2026-10-03,5684,Servis Berkala,1194000,1,Sudah Dihubungi,2
+CUST0731,Kartika Rahayu,085740237422,Bandung,D 5684 KNF,Brio,2025-07-22,Cash,Dewi Anggraini,,,,,0,Belum Dihubungi,
+CUST0732,Taufik Wijaya,08224749797,Bekasi,B 9598 HR,BR-V,2025-07-22,Kredit Leasing,Andi Prasetyo,2026-02-18,5647,Servis Berkala,813000,1,Sudah Dihubungi,5
+CUST0733,FAJAR FIRMANSYAH,081272085874,Surabaya,L 4852 KL,Brio,2025-07-22,Kredit Leasing,Andi Prasetyo,2026-04-09,13498,Servis Berkala,581000,2,Tidak Diangkat,
+CUST0734,teguh gunawan,087899824267,Tangerang,B 5169 TM,BR-V,2025-07-27,Kredit Leasing,Citra Lestari,2026-07-27,19646,General Repair,1898000,3,Belum Dihubungi,
+CUST0735,dian simanjuntak,08134456987,Jakarta,B 6406 JFZ,WR-V,2025-07-29,Cash,Andi Prasetyo,2026-05-29,15552,Servis Berkala,484000,3,Sudah Dihubungi,5
+CUST0736,Sri Nugroho,08225753687,Bogor,F 8052 LL,BR-V,2025-07-30,Kredit Leasing,Gita Permata,2026-05-18,11348,Servis Berkala,934000,2,Sudah Dihubungi,1
+CUST0737,Sri Firmansyah,085297291688,Bekasi,B 6233 UB,City Hatchback,2025-08-01,Cash,Dewi Anggraini,2026-05-19,11871,Ganti Oli,421000,2,Sudah Dihubungi,5
+CUST0738,Melati Simanjuntak,089671047376,Bandung,D 4976 ZB,Brio,2025-08-03,Cash,Hendra Kusuma,2025-11-08,4936,Servis Berkala,462000,1,Janji Servis,4
+CUST0739,eko sihombing,08772242865,Jakarta,B 3884 RHJ,Mobilio,2025-08-07,Cash,Citra Lestari,,,,,0,Sudah Dihubungi,4
+CUST0740,Kartika Dewi Pratama,08124475956,Bandung,D 5919 EC,Mobilio,2025-08-12,Cash,Hendra Kusuma,2026-01-20,13637,Servis Berkala,1150000,2,Belum Dihubungi,
+CUST0741,Rizky Maulana,0877-0261-7565,Bekasi,B 8919 EB,BR-V,2025-08-13,Kredit Leasing,Budi Santoso,2026-07-30,14228,Servis Berkala,1029000,2,Tidak Diangkat,
+CUST0742,SITI RAHAYU,08781155491,Depok,B 3433 FT,CR-V,2025-08-14,Cash,Citra Lestari,2026-05-09,12606,Servis Berkala,828000,2,Janji Servis,3
+CUST0743,Yusuf Lestari,089541661429,Jakarta,B 4137 YVE,Mobilio,2025-08-14,Kredit Leasing,Budi Santoso,2026-05-16,14483,Ganti Oli,259000,2,Sudah Dihubungi,4
+CUST0744,Indah Hakim,089571509944,Depok,B 2315 WG,CR-V,2025-08-15,Kredit Leasing,Andi Prasetyo,,,,,0,Janji Servis,4
+CUST0745,Ahmad Wijaya,+62 852-8709-4162,Jakarta,B 5387 FG,Brio,2025-08-16,Kredit Leasing,Citra Lestari,2026-01-23,14786,Servis Berkala,697000,2,Sudah Dihubungi,5
+CUST0746,Aditya Permana,08114094704,Depok,B 2138 VH,HR-V,2025-08-17,Cash,Budi Santoso,2026-09-28,18301,Servis Berkala,466000,3,Sudah Dihubungi,4
+CUST0747,Maya Gunawan,08120357885,Jakarta,B 1859 LAX,HR-V,2025-08-17,Cash,Fajar Nugroho,2026-06-27,14333,Body Repair,4906000,3,Sudah Dihubungi,4
+CUST0748,Bagus Indah Hakim,08227899691,Bogor,F 1554 JE,City Hatchback,2025-08-17,Kredit Leasing,Citra Lestari,2026-08-31,12507,Servis Berkala,854000,2,Belum Dihubungi,
+CUST0749,Eko Nasution,08573050832,Jakarta,B 4304 MU,Civic,2025-08-18,Cash,Gita Permata,2026-01-03,6519,Servis Berkala,776000,1,Belum Dihubungi,
+CUST0750,Fitri Lestari,081208216079,Tangerang,B 8438 VNC,Mobilio,2025-08-19,Cash,Citra Lestari,2026-08-29,16592,Servis Berkala,430000,3,Belum Dihubungi,
+CUST0751,Dewi Maya Sihombing,8774263284,Bandung,D 8407 KKY,Brio,2025-08-20,Kredit Leasing,Fajar Nugroho,2026-09-25,19733,Servis Berkala,992000,3,Tidak Diangkat,
+CUST0752,BAGUS HALIM,08779099121,Bekasi,B 8527 UUC,HR-V,2025-08-20,Kredit Leasing,Eko Wahyudi,,,,,0,Belum Dihubungi,
+CUST0753,Gunawan Siti Pratama,08222041387,Jakarta,B 5210 UTD,Brio,2025-08-21,Kredit Leasing,Andi Prasetyo,2026-10-13,16927,Servis Berkala,860000,3,Belum Dihubungi,
+CUST0754,Irfan Utami,08964136757,Bekasi,B 2419 ENG,HR-V,2025-08-21,Kredit Leasing,Budi Santoso,2026-08-09,7598,Servis Berkala,749000,1,Sudah Dihubungi,4
+CUST0755,Nadia Maulana,08130614499,Bandung,D 4508 MKD,Brio,2025-08-21,Kredit Leasing,Gita Permata,2026-09-13,14137,Ganti Oli,582000,2,Janji Servis,5
+CUST0756,teguh pratama,081168828799,Depok,B 4852 ARU,Brio,2025-08-22,Kredit Leasing,Gita Permata,2026-04-15,10397,General Repair,3895000,2,Belum Dihubungi,
+CUST0757,Yoga Nasution,081331339971,Depok,B 1709 DYW,Mobilio,2025-08-22,Cash,Fajar Nugroho,2026-10-17,18623,Servis Berkala,793000,3,Sudah Dihubungi,5
+CUST0758,Fitri Siregar,08520268312,Tangerang,B 6561 HF,HR-V,2025-08-23,Cash,Andi Prasetyo,2026-10-10,19453,Servis Berkala,597000,3,Sudah Dihubungi,4
+CUST0759,Fajar Nugroho,08789392278,Surabaya,L 5403 UW,Civic,2025-08-26,Kredit Leasing,Hendra Kusuma,2025-12-22,7134,Servis Berkala,382000,1,Janji Servis,
+CUST0760,Indah Rahayu,081158103356,Bekasi,B 3243 GPG,Civic,2025-09-04,Kredit Leasing,Citra Lestari,2026-09-14,16642,Ganti Oli,279000,3,Sudah Dihubungi,5
+CUST0761,Citra Kurniawan,081375233539,Jakarta,B 2489 KM,Civic,2025-09-06,Kredit Leasing,Fajar Nugroho,2026-09-24,16126,Servis Berkala,591000,3,Tidak Diangkat,
+CUST0762,TEGUH GUNAWAN,082297378622,Surabaya,L 1121 XD,Mobilio,2025-09-07,Kredit Leasing,Eko Wahyudi,2026-05-20,12286,Body Repair,8347000,2,Janji Servis,5
+CUST0763,Budi Wijaya,08958432296,Bekasi,B 4308 MJU,Civic,2025-09-09,Cash,Fajar Nugroho,2026-07-16,13835,General Repair,1651000,2,Janji Servis,2
+CUST0764,Bagus Halim,085715805707,Bandung,D 4913 SY,Brio,2025-09-09,Kredit Leasing,Andi Prasetyo,2026-10-11,16299,Ganti Oli,537000,3,Sudah Dihubungi,
+CUST0765,Dewi Purnomo ,08110637258,Depok,B 4976 NB,BR-V,2025-09-11,Kredit Leasing,Dewi Anggraini,2026-04-20,13778,Ganti Oli,311000,2,Sudah Dihubungi,4
+CUST0766,Melati Rahayu,08228916636,Surabaya,L 7167 SET,WR-V,2025-09-11,Kredit Leasing,Citra Lestari,2026-09-13,17492,Servis Berkala,815000,3,Janji Servis,5
+CUST0767,Sari Nasution,081178355251,Jakarta,B 1378 ZBX,City Hatchback,2025-09-16,Cash,Eko Wahyudi,2026-07-29,6821,Servis Berkala,752000,1,Belum Dihubungi,
+CUST0768,Yusuf Maulana,8117197207,Jakarta,B 7306 EL,Brio,2025-09-17,Kredit Leasing,Dewi Anggraini,2026-08-07,13561,Ganti Oli,472000,2,Tidak Diangkat,
+CUST0769,Fitri Sihombing,082250540102,Jakarta,B 3159 KLM,WR-V,2025-09-18,Cash,Andi Prasetyo,2026-07-01,12094,Servis Berkala,988000,2,Janji Servis,5
+CUST0073,Dian Wibowo,081296410340,Surabaya,L 1753 AU,Brio,2022-06-08,Cash,Eko Wahyudi,2025-10-31,46805,Servis Berkala,367000,8,Sudah Dihubungi,4
+CUST0770,Sri Saputra,081276528024,Bekasi,B 4546 RC,City Hatchback,2025-09-18,Kredit Leasing,Budi Santoso,2026-09-15,13555,Servis Berkala,358000,2,Sudah Dihubungi,5
+CUST0771,AGUS UTAMI,089637507362,Jakarta,B 1149 DLH,Mobilio,2025-09-18,Cash,Hendra Kusuma,,,,,0,Sudah Dihubungi,1
+CUST0772,Reza Sihombing,082189685977,Bekasi,B 9005 KSK,WR-V,2025-09-19,Kredit Leasing,Hendra Kusuma,2026-09-10,12049,Servis Berkala,928000,2,Belum Dihubungi,
+CUST0773,Nur Siregar,08127274317,Bogor,F 7220 HY,Mobilio,2025-09-19,Kredit Leasing,Dewi Anggraini,2026-06-13,11922,Ganti Oli,399000,2,Janji Servis,5
+CUST0774,yusuf firmansyah,081389994860,Semarang,H 7415 TPP,Mobilio,2025-09-20,Kredit Leasing,Gita Permata,2026-08-19,13001,General Repair,2208000,2,Sudah Dihubungi,
+CUST0775,Taufik Bagus Purnomo,087854170093,Jakarta,B 8312 GB,Brio,2025-09-20,Cash,Fajar Nugroho,2026-07-04,10958,Servis Berkala,514000,2,Tidak Diangkat,
+CUST0776,Nadia Wibowo,085793645672,Jakarta,B 3651 KGE,BR-V,2025-09-21,Cash,Eko Wahyudi,2026-07-22,11218,Servis Berkala,678000,2,Sudah Dihubungi,4
+CUST0777,Ayu Santoso,087850325658,Depok,B 4240 EJA,Brio,2025-09-23,Kredit Leasing,Budi Santoso,2026-02-16,5079,Servis Berkala,676000,1,Tidak Diangkat,
+CUST0778,Yoga Purnomo,082269227455,Jakarta,B 5785 RMD,CR-V,2025-09-25,Kredit Leasing,Budi Santoso,,,,,0,Belum Dihubungi,
+CUST0779,Agus Halim,085211360939,Bogor,F 2529 BB,Mobilio,2025-10-01,Kredit Leasing,Eko Wahyudi,2026-04-17,12374,Servis Berkala,1111000,2,Belum Dihubungi,
+CUST0780,Sari Pratama,08789364256,Surabaya,L 6447 GT,Brio,2025-10-01,Kredit Leasing,Budi Santoso,2026-07-26,8038,Ganti Oli,256000,1,Belum Dihubungi,
+CUST0781,Siti Gunawan Wijaya,8526862857,Tangerang,B 2317 ME,Mobilio,2025-10-03,Kredit Leasing,Dewi Anggraini,2026-08-06,13039,Ganti Oli,377000,2,Janji Servis,5
+CUST0782,Melati Sri Kurniawan ,0895-5140-7513,Jakarta,B 2344 MA,HR-V,2025-10-03,Kredit Leasing,Gita Permata,2026-10-09,18591,Ganti Oli,541000,3,Belum Dihubungi,
+CUST0783,Citra Santoso,08772715032,Jakarta,B 8244 XXS,Brio,2025-10-05,Cash,Gita Permata,2026-09-28,14328,Body Repair,6936000,2,Sudah Dihubungi,4
+CUST0784,Ayu Kurniawan,08950084642,Tangerang,B 7926 PW,Mobilio,2025-10-06,Kredit Leasing,Dewi Anggraini,2026-07-20,13372,Servis Berkala,1017000,2,Sudah Dihubungi,5
+CUST0785,Bagus Hidayat,087729589309,Bandung,D 2006 EV,WR-V,2025-10-06,Cash,Gita Permata,2026-09-07,10421,Servis Berkala,1015000,2,Belum Dihubungi,
+CUST0786,Anton Wahyu Permana,+62 813-3964-879,Jakarta,B 4485 DMG,Brio,2025-10-07,Kredit Leasing,Dewi Anggraini,2026-06-15,10675,Ganti Oli,414000,2,Belum Dihubungi,
+CUST0787,Yusuf Saputra,08118589833,Surabaya,L 9181 YH,HR-V,2025-10-12,Kredit Leasing,Eko Wahyudi,2026-09-26,17269,Ganti Oli,405000,3,Sudah Dihubungi,4
+CUST0788,Dewi Wijaya,081366144352,Jakarta,B 2075 EP,Brio,2025-10-13,Kredit Leasing,Budi Santoso,2026-04-17,11201,Servis Berkala,1164000,2,Janji Servis,4
+CUST0789,Rizky Gunawan,08113763139,Jakarta,B 7621 CV,HR-V,2025-10-14,Kredit Leasing,Eko Wahyudi,2026-08-13,18535,Ganti Oli,353000,3,Belum Dihubungi,
+CUST0790,Reza Utami,08218857762,Depok,B 2944 FR,Brio,2025-10-14,Cash,Fajar Nugroho,2026-05-26,12000,Servis Berkala,770000,2,Belum Dihubungi,
+CUST0791,Teguh Wijaya,+62 811-6367-037,Surabaya,L 3809 GKS,Brio,2025-10-18,Kredit Leasing,Gita Permata,2026-06-03,7149,Body Repair,6353000,1,Sudah Dihubungi,5
+CUST0792,Taufik Santoso,0822-6904-397,Semarang,H 9030 GP,Brio,2025-10-22,Kredit Leasing,Eko Wahyudi,2026-08-17,12419,Ganti Oli,589000,2,Janji Servis,5
+CUST0793,Fitri Setiawan,08211841683,Tangerang,B 5244 SPL,Civic,2025-10-23,Kredit Leasing,Gita Permata,,,,,0,Belum Dihubungi,
+CUST0794,Sari Dewi Pratama,08126069067,Jakarta,B 8881 EU,Brio,2025-10-23,Kredit Leasing,Andi Prasetyo,2026-10-09,19275,General Repair,2658000,3,Janji Servis,5
+CUST0795,Melati Bambang Nugroho,08126898656,Surabaya,L 1308 MR,City Hatchback,2025-10-24,Kredit Leasing,Eko Wahyudi,2026-07-23,11308,Servis Berkala,968000,2,Sudah Dihubungi,5
+CUST0796,Citra  Wibowo,081229745973,Bekasi,B 4441 HC,Brio,2025-10-24,Cash,Budi Santoso,2026-09-30,18859,Body Repair,2273000,3,Belum Dihubungi,
+CUST0797,Gunawan Purnomo,08782106943,Surabaya,L 1990 AKU,Mobilio,2025-10-25,Kredit Leasing,Andi Prasetyo,2026-04-05,7355,Servis Berkala,741000,1,Sudah Dihubungi,5
+CUST0798,Lina Wijaya,081232590263,Bekasi,B 6246 GW,City Hatchback,2025-10-28,Cash,Eko Wahyudi,2026-01-23,8143,Body Repair,6520000,1,Belum Dihubungi,
+CUST0799,Fajar Pratama,8770072123,Tangerang,B 7759 BG,WR-V,2025-10-29,Kredit Leasing,Citra Lestari,2026-09-15,10151,Servis Berkala,360000,2,Tidak Diangkat,
+CUST0800,Anton Gunawan,87789016653,Surabaya,L 4142 YS,HR-V,2025-10-30,Kredit Leasing,Andi Prasetyo,2026-03-01,6046,Servis Berkala,978000,1,Janji Servis,4
+CUST0801,sri gunawan,08575831746,Bogor,F 7688 TRC,Brio,2025-11-01,Kredit Leasing,Dewi Anggraini,2026-08-20,12978,Servis Berkala,639000,2,Janji Servis,5
+CUST0802,Fitri Wijaya,082120889446,Tangerang,B 4784 TC,Brio,2025-11-02,Kredit Leasing,Budi Santoso,2026-08-02,11742,Ganti Oli,361000,2,Belum Dihubungi,
+CUST0803,Nur Firmansyah,081285697276,Bekasi,B 7116 MPR,City Hatchback,2025-11-03,Cash,Hendra Kusuma,2026-06-24,11336,Servis Berkala,637000,2,Janji Servis,5
+CUST0747,Maya Gunawan,08120357885,Jakarta,B 1859 LAX,HR-V,2025-08-17,Cash,Fajar Nugroho,2026-06-27,14333,Body Repair,4906000,3,Sudah Dihubungi,4
+CUST0804,Aditya Lina Gunawan ,08965790826,Tangerang,B 7010 NKL,WR-V,2025-11-04,Cash,Gita Permata,2026-07-15,11894,Servis Berkala,1187000,2,Tidak Diangkat,
+CUST0805,Rina Fajar Hakim,085285893664,Semarang,H 9119 KW,Brio,2025-11-06,Kredit Leasing,Eko Wahyudi,2026-08-06,12509,Servis Berkala,498000,2,Sudah Dihubungi,4
+CUST0806,Sari Rizky Siregar ,087778984132,Jakarta,B 5132 ANU,CR-V,2025-11-07,Cash,Andi Prasetyo,2026-04-22,11184,Servis Berkala,783000,2,Sudah Dihubungi,5
+CUST0807,Aditya Nasution,0877-4327-027,Surabaya,L 1425 FJH,City Hatchback,2025-11-08,Kredit Leasing,Gita Permata,2026-09-12,12721,General Repair,4710000,2,Belum Dihubungi,
+CUST0808,Putri Santoso ,0877-3000-4851,Surabaya,L 9824 VLL,BR-V,2025-11-10,Kredit Leasing,Andi Prasetyo,2026-07-12,13209,General Repair,1839000,2,Sudah Dihubungi,3
+CUST0809,Ahmad Sihombing,08139527673,Surabaya,L 7633 LRM,CR-V,2025-11-14,Kredit Leasing,Fajar Nugroho,2026-05-17,12558,Servis Berkala,550000,2,Sudah Dihubungi,4
+CUST0810,INDAH FIRMANSYAH,089532499876,Semarang,H 9004 HZ,Mobilio,2025-11-14,Kredit Leasing,Gita Permata,2026-08-26,11529,Servis Berkala,417000,2,Sudah Dihubungi,5
+CUST0811,Gunawan Wijaya,08789964481,Tangerang,B 3632 FWF,CR-V,2025-11-15,Kredit Leasing,Gita Permata,2026-03-12,7759,General Repair,3979000,1,Sudah Dihubungi,5
+CUST0812,Yoga Santoso,08579609564,Semarang,H 4970 PEV,Brio,2025-11-21,Kredit Leasing,Dewi Anggraini,2026-10-10,9651,Servis Berkala,352000,2,Sudah Dihubungi,4
+CUST0813,Rizky  Wijaya,08131173997,Bekasi,B 9552 ZU,City Hatchback,2025-11-21,Kredit Leasing,Andi Prasetyo,2026-03-04,5698,Body Repair,8987000,1,Belum Dihubungi,
+CUST0814,Reza Wijaya,089508508274,Bandung,D 6627 ZLL,CR-V,2025-11-21,Cash,Andi Prasetyo,2026-08-02,10421,Body Repair,2923000,2,Belum Dihubungi,
+CUST0815,Siti Utami ,0896-3731-132,Bekasi,B 7731 JX,Mobilio,2025-11-26,Cash,Citra Lestari,2026-08-19,10457,Servis Berkala,520000,2,Janji Servis,
+CUST0816,Agus Hidayat,087830167497,Jakarta,B 9209 NE,Brio,2025-11-27,Kredit Leasing,Eko Wahyudi,2026-03-09,5718,Servis Berkala,481000,1,Tidak Diangkat,
+CUST0817,Gunawan Handayani,08224270144,Jakarta,B 3460 ELV,HR-V,2025-12-03,Kredit Leasing,Dewi Anggraini,2026-07-28,10405,Ganti Oli,437000,2,Sudah Dihubungi,4
+CUST0818,Irfan Sihombing,08223848280,Tangerang,B 7325 ZMH,Brio,2025-12-08,Kredit Leasing,Citra Lestari,2026-09-22,12967,Servis Berkala,1198000,2,Sudah Dihubungi,5
+CUST0303,Bambang Utami,08123119612,Bogor,F 1944 TYV,BR-V,2023-08-19,Kredit Leasing,Gita Permata,2025-07-02,23040,Ganti Oli,325000,5,Sudah Dihubungi,4
+CUST0819,Hendra Wijaya,08129796543,Depok,B 9909 GUH,Brio,2025-12-10,Kredit Leasing,Hendra Kusuma,,,,,0,Belum Dihubungi,
+CUST0820,Bagus Handayani,081301077817,Bekasi,B 6395 NT,Mobilio,2025-12-11,Cash,Citra Lestari,2026-08-18,10784,General Repair,5975000,2,Sudah Dihubungi,5
+CUST0821,Agus Sihombing,08570016398,Jakarta,B 6008 RW,Brio,2025-12-14,Kredit Leasing,Hendra Kusuma,,,,,0,Belum Dihubungi,
+CUST0822,Siti Siregar,085773683327,Bekasi,B 3354 EMY,WR-V,2025-12-15,Kredit Leasing,Andi Prasetyo,2026-09-08,13881,Body Repair,6415000,2,Sudah Dihubungi,5
+CUST0823,Wahyu Susanto,08118635433,Depok,B 5735 SY,City Hatchback,2025-12-16,Kredit Leasing,Hendra Kusuma,2026-05-25,12077,Servis Berkala,515000,2,Sudah Dihubungi,4
+CUST0824,Joko Santoso,087890920985,Bekasi,B 5511 CR,BR-V,2025-12-17,Cash,Fajar Nugroho,2026-09-04,10316,Body Repair,7930000,2,Tidak Diangkat,
+CUST0825,Dian Hendra Hakim,087812509076,Bekasi,B 5728 DVU,Mobilio,2025-12-21,Kredit Leasing,Dewi Anggraini,2026-05-13,5664,General Repair,1667000,1,Belum Dihubungi,
+CUST0826,Ayu Simanjuntak,087747979585,Bekasi,B 1918 FR,HR-V,2025-12-28,Kredit Leasing,Andi Prasetyo,2026-08-25,10798,Servis Berkala,991000,2,Janji Servis,4
+CUST0827,Kartika Bambang Setiawan,08573262733,Surabaya,L 4419 SLB,Brio,2025-12-28,Kredit Leasing,Gita Permata,2026-04-09,5980,Servis Berkala,877000,1,Sudah Dihubungi,4
+CUST0828,Rina Susanto,08527535814,Jakarta,B 6352 VS,HR-V,2025-12-29,Kredit Leasing,Eko Wahyudi,,,,,0,Sudah Dihubungi,4
+CUST0829,Yoga Susanto,082247041281,Surabaya,L 2917 HJR,Mobilio,2025-12-30,Kredit Leasing,Fajar Nugroho,2026-06-09,8545,General Repair,1723000,1,Sudah Dihubungi,5
+CUST0830,Irfan Kurniawan,087778953955,Jakarta,B 5390 UPL,Civic,2026-01-04,Kredit Leasing,Hendra Kusuma,2026-10-07,12924,Servis Berkala,632000,2,Sudah Dihubungi,4
+CUST0831,Citra Lestari,08216197214,Depok,B 9493 YN,HR-V,2026-01-05,Cash,Hendra Kusuma,2026-04-28,7285,Servis Berkala,364000,1,Janji Servis,4
+CUST0832,Agus Santoso,08220592684,Tangerang,B 4552 UJ,Mobilio,2026-01-05,Kredit Leasing,Dewi Anggraini,2026-09-24,13535,Servis Berkala,852000,2,Sudah Dihubungi,5
+CUST0833,Irfan Simanjuntak ,08969813776,Bekasi,B 1163 HFB,CR-V,2026-01-06,Kredit Leasing,Eko Wahyudi,2026-06-11,7529,Body Repair,2413000,1,Belum Dihubungi,
+CUST0834,Sri Permana,+62 822-4776-218,Tangerang,B 5417 JGU,Mobilio,2026-01-08,Cash,Fajar Nugroho,2026-08-22,12186,General Repair,5463000,2,Tidak Diangkat,
+CUST0835,Citra Purnomo,08115302928,Bogor,F 2113 TT,HR-V,2026-01-09,Cash,Budi Santoso,2026-07-24,13376,Body Repair,8945000,2,Sudah Dihubungi,4
+CUST0836,Indah Setiawan,081274645329,Semarang,H 6163 TR,Brio,2026-01-09,Kredit Leasing,Hendra Kusuma,2026-07-24,6189,Servis Berkala,820000,1,Sudah Dihubungi,
+CUST0837,Hendra Hidayat,081374586659,Bandung,D 6922 HGS,City Hatchback,2026-01-09,Cash,Dewi Anggraini,2026-05-22,5539,Servis Berkala,843000,1,Janji Servis,5
+CUST0838,Ahmad Permana,+62 822-1152-6556,Depok,B 4085 LX,Mobilio,2026-01-10,Cash,Citra Lestari,2026-05-05,7163,Body Repair,7140000,1,Tidak Diangkat,
+CUST0839,Rudi Setiawan,08578136752,Depok,B 8198 JU,City Hatchback,2026-01-11,Cash,Dewi Anggraini,2026-10-12,12718,Servis Berkala,859000,2,Janji Servis,
+CUST0840,Dewi Halim,087894746500,Bekasi,B 6809 YWR,City Hatchback,2026-01-17,Kredit Leasing,Dewi Anggraini,2026-03-31,7801,Ganti Oli,335000,1,Sudah Dihubungi,5
+CUST0841,Agus Permana,089592891336,Bekasi,B 8723 AJ,Civic,2026-01-19,Kredit Leasing,Budi Santoso,2026-09-22,13683,Servis Berkala,1095000,2,Janji Servis,
+CUST0842,Joko Sihombing,087819189037,Bandung,D 1215 SCF,Brio,2026-01-20,Cash,Gita Permata,2026-10-09,7468,Servis Berkala,1181000,1,Sudah Dihubungi,4
+CUST0843,Putri Setiawan,+62 822-6770-305,Tangerang,B 7581 TV,Brio,2026-01-20,Kredit Leasing,Fajar Nugroho,2026-06-24,6712,Ganti Oli,439000,1,Sudah Dihubungi,
+CUST0844,Putri Simanjuntak,08124953211,Bogor,F 8652 ZY,BR-V,2026-01-21,Cash,Budi Santoso,,,,,0,Sudah Dihubungi,
+CUST0845,Melati Reza Saputra,087865645667,Surabaya,L 7364 DTF,Brio,2026-01-22,Kredit Leasing,Andi Prasetyo,2026-05-10,7813,General Repair,1376000,1,Belum Dihubungi,
+CUST0846,Anton Rina Pratama,081389351416,Semarang,H 9842 NF,CR-V,2026-01-24,Kredit Leasing,Dewi Anggraini,2026-09-01,13354,General Repair,897000,2,Sudah Dihubungi,4
+CUST0847,Rizky Hakim,08525882539,Bandung,D 5012 ZYR,City Hatchback,2026-01-25,Kredit Leasing,Gita Permata,2026-07-07,11985,Servis Berkala,1061000,2,Janji Servis,
+CUST0848,Melati Gunawan Tanjung,08960161136,Surabaya,L 7777 LFT,WR-V,2026-01-28,Kredit Leasing,Gita Permata,2026-08-11,7545,Servis Berkala,1044000,1,Tidak Diangkat,
+CUST0849,NUR FIRMANSYAH,08954128703,Tangerang,B 4968 LU,WR-V,2026-01-30,Kredit Leasing,Citra Lestari,,,,,0,Belum Dihubungi,
+CUST0850,Aditya Wijaya,082101576033,Semarang,H 8658 LB,Brio,2026-01-31,Kredit Leasing,Andi Prasetyo,2026-08-26,7884,Ganti Oli,537000,1,Sudah Dihubungi,4
+CUST0851,Siti Rahayu,085793804246,Tangerang,B 2597 SH,HR-V,2026-02-01,Cash,Citra Lestari,2026-07-09,11661,Servis Berkala,709000,2,Belum Dihubungi,
+CUST0852,Sri Nugroho,081188036588,Surabaya,L 5176 XM,BR-V,2026-02-07,Kredit Leasing,Fajar Nugroho,2026-07-16,7752,Ganti Oli,296000,1,Janji Servis,5
+CUST0853,Rina Gunawan Saputra,+62 813-5810-183,Depok,B 9437 KGM,City Hatchback,2026-02-08,Kredit Leasing,Hendra Kusuma,2026-08-23,13530,Ganti Oli,455000,2,Janji Servis,3
+CUST0854,Gunawan Ratna Utami,08967283480,Bekasi,B 5381 YL,BR-V,2026-02-08,Kredit Leasing,Andi Prasetyo,2026-08-31,7501,Servis Berkala,1034000,1,Janji Servis,5
+CUST0855,Rudi Nugroho,08224149282,Tangerang,B 9933 VN,WR-V,2026-02-10,Kredit Leasing,Eko Wahyudi,2026-09-03,11821,Ganti Oli,297000,2,Sudah Dihubungi,4
+CUST0856,Eko Susanto,089616176665,Semarang,H 1607 WM,City Hatchback,2026-02-11,Kredit Leasing,Dewi Anggraini,,,,,0,Tidak Diangkat,
+CUST0857,Ratna Fitri Handayani,08521849111,Bandung,D 1700 AK,City Hatchback,2026-02-14,Kredit Leasing,Citra Lestari,2026-07-16,6685,Servis Berkala,1127000,1,Janji Servis,4
+CUST0858,Yoga Hidayat,082130817330,Bekasi,B 3390 XGF,CR-V,2026-02-17,Cash,Fajar Nugroho,2026-08-24,14108,Servis Berkala,1051000,2,Janji Servis,5
+CUST0859,Nadia Santoso,082189288629,Jakarta,B 6585 RHH,Mobilio,2026-02-18,Cash,Citra Lestari,2026-07-18,5619,Servis Berkala,632000,1,Janji Servis,4
+CUST0860,Siti Gunawan,0852-2654-4027,Jakarta,B 8849 ZLK,BR-V,2026-02-21,Kredit Leasing,Citra Lestari,2026-08-03,10807,Servis Berkala,810000,2,Sudah Dihubungi,4
+CUST0861,Bagus Utami,08222316043,Jakarta,B 3107 NP,Brio,2026-02-25,Kredit Leasing,Hendra Kusuma,2026-08-28,13833,Servis Berkala,784000,2,Sudah Dihubungi,5
+CUST0862,Hendra Santoso,08575273028,Surabaya,L 9111 NG,WR-V,2026-03-04,Cash,Hendra Kusuma,2026-09-14,13209,General Repair,4377000,2,Sudah Dihubungi,3
+CUST0863,Putri  Kurniawan,085283229977,Depok,B 6545 JL,City Hatchback,2026-03-04,Cash,Eko Wahyudi,2026-09-01,12965,Body Repair,5300000,2,Sudah Dihubungi,3
+CUST0864,Hendra Setiawan,087815380380,Semarang,H 3888 TBD,City Hatchback,2026-03-09,Kredit Leasing,Eko Wahyudi,2026-09-30,10891,Ganti Oli,595000,2,Sudah Dihubungi,5
+CUST0865,Dedi Wijaya,0812-0055-515,Bandung,D 3347 LDR,Brio,2026-03-10,Kredit Leasing,Dewi Anggraini,2026-07-31,7792,Servis Berkala,1131000,1,Sudah Dihubungi,4
+CUST0774,yusuf firmansyah,081389994860,Semarang,H 7415 TPP,Mobilio,2025-09-20,Kredit Leasing,Gita Permata,2026-08-19,13001,General Repair,2208000,2,Sudah Dihubungi,
+CUST0866,Rudi Pratama,0811-6814-552,Jakarta,B 8722 KU,Brio,2026-03-12,Cash,Dewi Anggraini,2026-10-07,14480,Servis Berkala,1062000,2,Sudah Dihubungi,4
+CUST0867,Siti Susanto,085790430853,Depok,B 7270 HD,Brio,2026-03-13,Cash,Eko Wahyudi,2026-10-07,11124,Body Repair,7402000,2,Tidak Diangkat,
+CUST0868,Nur Handayani,08134194149,Bandung,D 5107 DD,Brio,2026-03-19,Kredit Leasing,Andi Prasetyo,2026-08-17,5538,Servis Berkala,772000,1,Belum Dihubungi,
+CUST0869,Irfan Ayu Kurniawan,089681445887,Surabaya,L 5934 SM,Brio,2026-03-21,Cash,Citra Lestari,2026-06-04,5772,General Repair,5285000,1,Janji Servis,4
+CUST0870,dian tanjung,087895588390,Jakarta,B 2145 YH,Mobilio,2026-03-21,Cash,Citra Lestari,2026-09-30,13279,Servis Berkala,551000,2,Belum Dihubungi,
+CUST0871,Indah Siregar,085713229150,Bandung,D 7794 CK,Mobilio,2026-03-22,Kredit Leasing,Hendra Kusuma,,,,,0,Janji Servis,4
+CUST0872,Hendra Firmansyah,081304626544,Surabaya,L 8846 CL,CR-V,2026-03-25,Kredit Leasing,Budi Santoso,2026-08-12,6278,General Repair,2549000,1,Janji Servis,5
+CUST0873,Melati Saputra,08954294035,Jakarta,B 4704 KRZ,CR-V,2026-03-28,Kredit Leasing,Eko Wahyudi,2026-09-08,6867,Ganti Oli,427000,1,Belum Dihubungi,
+CUST0874,Yusuf Sihombing,8210481404,Bogor,F 1630 EV,Brio,2026-03-28,Cash,Eko Wahyudi,2026-08-18,5950,Ganti Oli,504000,1,Belum Dihubungi,
+CUST0875,Maya Santoso,+62 895-4595-8254,Depok,B 2453 CJT,HR-V,2026-03-29,Cash,Hendra Kusuma,,,,,0,Sudah Dihubungi,
+CUST0876,Dian Citra Pratama ,08967343563,Jakarta,B 7954 MCD,WR-V,2026-04-02,Kredit Leasing,Citra Lestari,2026-08-24,6885,Servis Berkala,925000,1,Tidak Diangkat,
+CUST0877,nadia halim,085703784850,Bekasi,B 3880 MMR,Brio,2026-04-03,Kredit Leasing,Citra Lestari,2026-08-22,6944,General Repair,2778000,1,Belum Dihubungi,
+CUST0878,Maya Yoga Siregar,08135730964,Bogor,F 4779 WRN,Brio,2026-04-06,Kredit Leasing,Fajar Nugroho,2026-10-10,5350,Ganti Oli,413000,1,Sudah Dihubungi,5
+CUST0879,Yusuf Nadia Gunawan,081213893199,Semarang,H 1525 CSC,WR-V,2026-04-06,Kredit Leasing,Budi Santoso,2026-07-28,6339,General Repair,5766000,1,Sudah Dihubungi,4
+CUST0880,Yusuf Lestari,081287947785,Depok,B 2126 JJ,WR-V,2026-04-07,Cash,Citra Lestari,2026-10-13,9950,Servis Berkala,990000,2,Belum Dihubungi,
+CUST0881,Aditya Putri Wibowo,081162515265,Depok,B 4505 AK,Brio,2026-04-17,Kredit Leasing,Citra Lestari,2026-08-05,8760,Body Repair,4104000,1,Sudah Dihubungi,4
+CUST0882,Gunawan Budi Hidayat,+62 852-8448-6906,Surabaya,L 3480 WNX,Brio,2026-04-20,Kredit Leasing,Andi Prasetyo,2026-09-13,6332,Servis Berkala,701000,1,Belum Dihubungi,
+CUST0883,Kartika Siregar,082210359896,Bekasi,B 7627 XPU,CR-V,2026-04-20,Kredit Leasing,Hendra Kusuma,2026-08-11,7245,Servis Berkala,565000,1,Sudah Dihubungi,4
+CUST0884,Melati Utami ,08119379171,Tangerang,B 8216 MZ,Civic,2026-04-22,Kredit Leasing,Budi Santoso,2026-09-14,6517,Ganti Oli,531000,1,Janji Servis,5
+CUST0885,Sari Nugroho,08965947510,Bandung,D 7596 DTM,Brio,2026-04-22,Cash,Dewi Anggraini,2026-10-08,4810,Ganti Oli,494000,1,Belum Dihubungi,
+CUST0886,Budi Sihombing,08577264021,Bogor,F 6222 MFA,Brio,2026-04-23,Kredit Leasing,Gita Permata,2026-10-13,6575,General Repair,2513000,1,Belum Dihubungi,
+CUST0887,Fitri Nasution,08579059136,Jakarta,B 4910 BBX,City Hatchback,2026-04-24,Kredit Leasing,Dewi Anggraini,2026-08-15,6583,Ganti Oli,444000,1,Belum Dihubungi,
+CUST0888,Sri Santoso,08522247846,Jakarta,B 6118 LSA,HR-V,2026-04-25,Cash,Eko Wahyudi,2026-10-14,7645,Servis Berkala,558000,1,Sudah Dihubungi,
+CUST0889,Indah Susanto,082205784563,Depok,B 6966 EGH,WR-V,2026-04-26,Kredit Leasing,Hendra Kusuma,2026-06-23,7079,Body Repair,3086000,1,Sudah Dihubungi,5
+CUST0890,RINA FITRI KURNIAWAN,0896-0043-028,Tangerang,B 3913 DUK,Brio,2026-04-27,Kredit Leasing,Hendra Kusuma,2026-09-14,6274,Servis Berkala,431000,1,Belum Dihubungi,
+CUST0891,Citra Kurniawan,082270417909,Tangerang,B 4295 US,HR-V,2026-04-27,Cash,Budi Santoso,,,,,0,Sudah Dihubungi,5
+CUST0892,Siti Halim,08215194956,Bandung,D 2094 VP,City Hatchback,2026-04-28,Cash,Eko Wahyudi,2026-10-02,13333,Servis Berkala,547000,2,Tidak Diangkat,
+CUST0893,Yusuf Hakim,085779778883,Bekasi,B 5789 CAG,HR-V,2026-05-03,Kredit Leasing,Eko Wahyudi,,,,,0,Janji Servis,2
+CUST0894,Indah Indah Gunawan,08122589475,Bekasi,B 7856 VJ,BR-V,2026-05-03,Kredit Leasing,Dewi Anggraini,2026-10-13,6542,Servis Berkala,766000,1,Tidak Diangkat,
+CUST0895,Hendra Nugroho,08138146700,Tangerang,B 9665 SU,Mobilio,2026-05-05,Kredit Leasing,Dewi Anggraini,2026-09-17,5332,Servis Berkala,1098000,1,Belum Dihubungi,
+CUST0896,Anton Utami,08224291285,Bandung,D 7557 UN,BR-V,2026-05-09,Kredit Leasing,Hendra Kusuma,2026-09-20,6191,Ganti Oli,252000,1,Sudah Dihubungi,
+CUST0897,Bambang Firmansyah,08578466275,Bogor,F 6936 BS,Brio,2026-05-12,Kredit Leasing,Eko Wahyudi,2026-10-10,12989,General Repair,3945000,2,Tidak Diangkat,
+CUST0898,Wahyu Utami,08220977994,Bekasi,B 6337 DT,WR-V,2026-05-12,Kredit Leasing,Budi Santoso,2026-09-08,6728,Ganti Oli,566000,1,Belum Dihubungi,
+CUST0899,Dewi Purnomo,08779112172,Jakarta,B 7032 TNT,Brio,2026-05-12,Kredit Leasing,Budi Santoso,,,,,0,Tidak Diangkat,
+CUST0900,Irfan Hakim,+62 896-8147-1375,Depok,B 2527 CLY,HR-V,2026-05-12,Kredit Leasing,Citra Lestari,2026-10-04,6063,Servis Berkala,995000,1,Tidak Diangkat,
+CUST0901,Sri Wibowo,0857-0900-6045,Bogor,F 8605 CN,WR-V,2026-05-15,Kredit Leasing,Eko Wahyudi,2026-09-27,6900,Ganti Oli,374000,1,Sudah Dihubungi,
+CUST0902,Hendra Wibowo,81294134728,Tangerang,B 9647 TP,BR-V,2026-05-15,Kredit Leasing,Gita Permata,,,,,0,Tidak Diangkat,
+CUST0903,Putri Halim,08522384735,Bogor,F 5909 FE,CR-V,2026-05-17,Kredit Leasing,Budi Santoso,2026-10-18,7183,Servis Berkala,1095000,1,Tidak Diangkat,
+CUST0904,Ratna Hidayat,085715993193,Bandung,D 5896 KUD,BR-V,2026-05-18,Kredit Leasing,Fajar Nugroho,2026-06-18,6823,Body Repair,4676000,1,Sudah Dihubungi,5
+CUST0905,Budi Pratama ,08217324058,Surabaya,L 4615 JGH,BR-V,2026-05-18,Kredit Leasing,Citra Lestari,,,,,0,Belum Dihubungi,
+CUST0906,Teguh Handayani ,081337715815,Jakarta,B 8884 YMN,HR-V,2026-05-19,Cash,Hendra Kusuma,2026-10-16,6289,General Repair,3984000,1,Janji Servis,5
+CUST0907,Gunawan Kartika Handayani,085702642300,Jakarta,B 1341 YFF,HR-V,2026-05-22,Kredit Leasing,Andi Prasetyo,2026-10-15,6383,Servis Berkala,956000,1,Sudah Dihubungi,5
+CUST0908,Sari Saputra,087747361398,Semarang,H 3562 US,Mobilio,2026-05-24,Kredit Leasing,Budi Santoso,2026-10-02,5579,Servis Berkala,595000,1,Sudah Dihubungi,3
+CUST0909,Rina Ahmad Gunawan,08965801144,Bekasi,B 2994 YS,WR-V,2026-05-26,Cash,Eko Wahyudi,2026-09-12,7044,Servis Berkala,1195000,1,Sudah Dihubungi,3
+CUST0910,Ahmad Pratama,08225160507,Bogor,F 8142 SC,BR-V,2026-05-26,Kredit Leasing,Hendra Kusuma,,,,,0,Janji Servis,4
+CUST0911,Indah Ahmad Wijaya,08786396323,Jakarta,B 1176 ZU,HR-V,2026-05-26,Kredit Leasing,Eko Wahyudi,2026-10-01,5909,Servis Berkala,854000,1,Sudah Dihubungi,3
+CUST0912,Citra Maya Utami,+62 895-8861-387,Bekasi,B 4937 RW,Brio,2026-05-29,Kredit Leasing,Fajar Nugroho,2026-09-04,6999,Ganti Oli,349000,1,Janji Servis,
+CUST0910,Ahmad Pratama,08225160507,Bogor,F 8142 SC,BR-V,2026-05-26,Kredit Leasing,Hendra Kusuma,,,,,0,Janji Servis,4
+CUST0913,Taufik Purnomo,081252507366,Jakarta,B 1890 UHK,City Hatchback,2026-05-30,Kredit Leasing,Andi Prasetyo,2026-08-26,5509,Body Repair,3710000,1,Sudah Dihubungi,5
+CUST0914,Kartika Tanjung ,085710260448,Surabaya,L 9433 XG,Brio,2026-06-01,Cash,Hendra Kusuma,,,,,0,Sudah Dihubungi,4
+CUST0915,Fajar Sihombing,89591434877,Tangerang,B 5532 RLZ,Mobilio,2026-06-03,Kredit Leasing,Citra Lestari,2026-10-18,6831,Ganti Oli,312000,1,Sudah Dihubungi,5
+CUST0916,Lina Lestari,08123820962,Bandung,D 7193 MD,BR-V,2026-06-03,Kredit Leasing,Dewi Anggraini,,,,,0,Sudah Dihubungi,
+CUST0917,Kartika Agus Utami ,081340370038,Bekasi,B 8875 MUR,Brio,2026-06-06,Kredit Leasing,Gita Permata,,,,,0,Tidak Diangkat,
+CUST0918,Nur Tanjung,087791333160,Tangerang,B 1293 LL,Mobilio,2026-06-09,Kredit Leasing,Budi Santoso,2026-09-02,7300,General Repair,2356000,1,Janji Servis,5
+CUST0919,Nur Pratama,085210039077,Jakarta,B 3686 RW,Brio,2026-06-10,Cash,Andi Prasetyo,2026-10-13,7324,Servis Berkala,420000,1,Sudah Dihubungi,
+CUST0147,Bagus Kurniawan,08526208304,Bandung,D 3437 KN,Brio,2022-10-07,Kredit Leasing,Andi Prasetyo,2025-04-12,46166,Servis Berkala,653000,7,Tidak Diangkat,
+CUST0920,Teguh Sari Kurniawan,089522380654,Bekasi,B 2508 XTE,Civic,2026-06-12,Kredit Leasing,Hendra Kusuma,2026-09-18,6675,Servis Berkala,804000,1,Sudah Dihubungi,3
+CUST0921,Irfan Pratama,089641150592,Bandung,D 2244 CEC,BR-V,2026-06-12,Kredit Leasing,Andi Prasetyo,2026-08-28,5780,Servis Berkala,589000,1,Belum Dihubungi,
+CUST0922,Anton Pratama,+62 896-6203-125,Surabaya,L 1422 RHX,Civic,2026-06-16,Kredit Leasing,Budi Santoso,2026-10-12,5835,Servis Berkala,495000,1,Sudah Dihubungi,5
+CUST0923,Sari Hidayat,08124418448,Tangerang,B 4869 KS,CR-V,2026-06-19,Kredit Leasing,Dewi Anggraini,2026-08-02,5919,Ganti Oli,294000,1,Janji Servis,4
+CUST0924,Yusuf Gunawan,085210537640,Bandung,D 4659 YNN,Brio,2026-06-22,Cash,Eko Wahyudi,2026-08-20,6981,Servis Berkala,504000,1,Belum Dihubungi,
+CUST0925,Ratna Siti Nugroho,087890941508,Jakarta,B 5898 LSP,City Hatchback,2026-06-22,Cash,Eko Wahyudi,2026-09-26,6586,General Repair,3757000,1,Belum Dihubungi,
+CUST0926,Sri Utami,081198885873,Bekasi,B 3227 BPN,HR-V,2026-06-25,Kredit Leasing,Budi Santoso,2026-08-14,5983,Servis Berkala,1072000,1,Janji Servis,5
+CUST0927,Kartika Nugroho,082244690499,Jakarta,B 7266 RP,WR-V,2026-06-28,Cash,Dewi Anggraini,2026-10-11,6781,Servis Berkala,678000,1,Janji Servis,5
+CUST0928,Rizky Hakim,085230000918,Tangerang,B 3279 GH,Brio,2026-06-29,Kredit Leasing,Dewi Anggraini,2026-10-12,6790,Body Repair,8896000,1,Belum Dihubungi,
+CUST0929,Rizky Simanjuntak,08139555346,Jakarta,B 2440 TJX,HR-V,2026-07-03,Cash,Andi Prasetyo,2026-09-06,5930,Servis Berkala,687000,1,Tidak Diangkat,
+CUST0930,Dedi Gunawan Wijaya,085258079543,Tangerang,B 1373 THG,Brio,2026-07-04,Kredit Leasing,Eko Wahyudi,2026-09-27,6099,Servis Berkala,1083000,1,Belum Dihubungi,
+CUST0931,Reza Handayani,08964603491,Tangerang,B 4846 UVX,Brio,2026-07-04,Kredit Leasing,Citra Lestari,2026-09-26,6235,Servis Berkala,634000,1,Sudah Dihubungi,5
+CUST0932,Sari Handayani ,08770702806,Bogor,F 7923 KYV,Brio,2026-07-06,Kredit Leasing,Hendra Kusuma,2026-09-25,7356,General Repair,5976000,1,Janji Servis,4
+CUST0933,Eko Handayani,08787628472,Jakarta,B 1100 CP,WR-V,2026-07-06,Kredit Leasing,Citra Lestari,2026-09-20,5906,Body Repair,4490000,1,Sudah Dihubungi,4
+CUST0934,Nadia Hakim,082168254537,Bogor,F 3787 WU,Mobilio,2026-07-09,Cash,Andi Prasetyo,2026-09-03,5506,Servis Berkala,1157000,1,Sudah Dihubungi,5
+CUST0935,Maya  Kurniawan,081302246739,Jakarta,B 6452 XVL,CR-V,2026-07-09,Cash,Hendra Kusuma,2026-10-04,7326,Body Repair,8785000,1,Sudah Dihubungi,3
+CUST0936,melati pratama,08228512257,Bandung,D 3211 YJ,Brio,2026-07-09,Cash,Dewi Anggraini,2026-10-04,6842,Ganti Oli,429000,1,Sudah Dihubungi,5
+CUST0937,Lina Permana,08521843981,Surabaya,L 2702 TXG,CR-V,2026-07-09,Kredit Leasing,Dewi Anggraini,,,,,0,Belum Dihubungi,
+CUST0938,Taufik Utami,08772561537,Depok,B 9827 HDU,Brio,2026-07-12,Kredit Leasing,Hendra Kusuma,2026-09-30,8834,Servis Berkala,884000,1,Belum Dihubungi,
+CUST0939,Taufik Kurniawan,08227797923,Bekasi,B 9406 FG,BR-V,2026-07-13,Kredit Leasing,Fajar Nugroho,2026-09-27,7744,Ganti Oli,513000,1,Belum Dihubungi,
+CUST0940,Yusuf Siti Nugroho,085792669845,Semarang,H 3629 KFL,Brio,2026-07-15,Kredit Leasing,Budi Santoso,2026-09-24,7202,Servis Berkala,1030000,1,Janji Servis,5
+CUST0941,Budi Permana,81193074688,Jakarta,B 5961 EFY,Brio,2026-07-15,Kredit Leasing,Andi Prasetyo,2026-09-28,6094,Servis Berkala,915000,1,Sudah Dihubungi,2
+CUST0942,Maya Hendra Utami,08210586841,Tangerang,B 2008 GZ,BR-V,2026-07-16,Kredit Leasing,Gita Permata,2026-10-09,6655,Servis Berkala,689000,1,Belum Dihubungi,
+CUST0943,Indah Maulana,08219807429,Bekasi,B 9461 NLU,BR-V,2026-07-17,Kredit Leasing,Citra Lestari,2026-09-19,5957,Servis Berkala,1039000,1,Janji Servis,
+CUST0944,Ayu Wijaya,089502461807,Jakarta,B 9307 DGY,WR-V,2026-07-22,Cash,Fajar Nugroho,2026-10-12,6160,Body Repair,4186000,1,Sudah Dihubungi,4
+CUST0945,Rudi Maulana,08120713924,Semarang,H 3292 GJ,HR-V,2026-07-23,Kredit Leasing,Gita Permata,2026-10-18,7544,Ganti Oli,259000,1,Sudah Dihubungi,4
+CUST0946,Dewi Halim,0896-9757-144,Jakarta,B 5474 ET,BR-V,2026-07-24,Cash,Fajar Nugroho,2026-09-30,5836,Ganti Oli,560000,1,Belum Dihubungi,
+CUST0947,Eko Pratama,087889721924,Bekasi,B 5558 XN,WR-V,2026-07-24,Kredit Leasing,Fajar Nugroho,2026-09-28,6217,General Repair,1712000,1,Janji Servis,4
+CUST0948,Bagus Maya Susanto ,089602494106,Jakarta,B 1262 VH,Brio,2026-07-27,Kredit Leasing,Dewi Anggraini,2026-09-18,5066,General Repair,3539000,1,Tidak Diangkat,
+CUST0949,Hendra Permana,08120046257,Bogor,F 7228 DBD,Mobilio,2026-07-29,Kredit Leasing,Citra Lestari,2026-10-18,5953,Ganti Oli,573000,1,Janji Servis,4
+CUST0950,Yusuf Permana,081221132409,Surabaya,L 1324 UV,City Hatchback,2026-07-29,Cash,Fajar Nugroho,2026-09-08,6511,General Repair,1650000,1,Janji Servis,4
+CUST0951,Taufik Hidayat,08576501772,Bandung,D 1146 WRC,BR-V,2026-07-30,Kredit Leasing,Hendra Kusuma,2026-10-05,4544,Servis Berkala,1174000,1,Tidak Diangkat,
+CUST0952,Kartika Lestari,0811-1288-730,Bekasi,B 8333 TWP,BR-V,2026-07-30,Kredit Leasing,Dewi Anggraini,2026-10-12,7524,Servis Berkala,1153000,1,Sudah Dihubungi,5
+CUST0953,Gunawan Rudi Permana,+62 813-8509-7653,Bogor,F 7835 MXL,BR-V,2026-08-01,Kredit Leasing,Eko Wahyudi,2026-10-16,6722,Body Repair,1621000,1,Janji Servis,2
+CUST0954,Putri Yoga Rahayu,087846650040,Bogor,F 1458 VVW,Mobilio,2026-08-02,Cash,Hendra Kusuma,2026-10-10,5243,Ganti Oli,506000,1,Belum Dihubungi,
+CUST0955,Agus Maya Tanjung,089631048739,Jakarta,B 9728 JYB,Mobilio,2026-08-02,Kredit Leasing,Gita Permata,2026-10-14,6796,Body Repair,8955000,1,Sudah Dihubungi,5
+CUST0956,Irfan Permana,08575148673,Bandung,D 3282 XTC,WR-V,2026-08-05,Kredit Leasing,Gita Permata,2026-09-24,5542,General Repair,3582000,1,Sudah Dihubungi,3
+CUST0957,Siti Hidayat,08969106903,Bekasi,B 2901 KD,HR-V,2026-08-09,Cash,Dewi Anggraini,2026-10-15,7408,Ganti Oli,544000,1,Tidak Diangkat,
+CUST0958,Putri Tanjung,0896-8618-2606,Depok,B 5071 SFH,WR-V,2026-08-17,Kredit Leasing,Andi Prasetyo,2026-09-24,8209,General Repair,3999000,1,Tidak Diangkat,
+CUST0959,Indah Nugroho,08117810600,Bandung,D 8796 YN,City Hatchback,2026-08-22,Kredit Leasing,Gita Permata,2026-09-27,5577,Body Repair,4370000,1,Belum Dihubungi,
+CUST0960,Indah Bagus Rahayu,089512066165,Jakarta,B 6568 JB,WR-V,2026-08-27,Cash,Dewi Anggraini,,,,,0,Sudah Dihubungi,4
+CUST0961,Ayu Setiawan,08960876219,Tangerang,B 6484 ATJ,WR-V,2026-08-27,Kredit Leasing,Hendra Kusuma,2026-10-15,6667,Servis Berkala,1087000,1,Belum Dihubungi,
+CUST0962,Nadia Hakim,087818349082,Bekasi,B 8944 YF,Civic,2026-09-01,Kredit Leasing,Eko Wahyudi,2026-10-13,8098,Ganti Oli,297000,1,Sudah Dihubungi,5
+CUST0963,Hendra Yusuf Handayani,8224728302,Surabaya,L 4023 NUU,CR-V,2026-09-02,Cash,Eko Wahyudi,,,,,0,Tidak Diangkat,
+CUST0964,Lina Hidayat,08781433180,Surabaya,L 8577 XM,Mobilio,2026-09-02,Kredit Leasing,Gita Permata,2026-10-10,6076,General Repair,2749000,1,Belum Dihubungi,
+CUST0965,Nur Hakim ,08217754376,Semarang,H 7013 DU,Mobilio,2026-09-04,Cash,Budi Santoso,,,,,0,Tidak Diangkat,
+CUST0966,Ahmad  Teguh Wijaya,08950700765,Bekasi,B 2210 WKU,CR-V,2026-09-06,Kredit Leasing,Budi Santoso,2026-10-18,6412,Servis Berkala,775000,1,Sudah Dihubungi,4
+CUST0967,Maya Siregar ,08773694411,Depok,B 2302 JJJ,Mobilio,2026-09-06,Kredit Leasing,Budi Santoso,2026-10-14,6775,Ganti Oli,563000,1,Sudah Dihubungi,4
+CUST0968,Kartika Hakim,081153546133,Bekasi,B 7590 VH,Brio,2026-09-09,Kredit Leasing,Fajar Nugroho,2026-10-13,5749,General Repair,4992000,1,Belum Dihubungi,
+CUST0969,Budi Lestari,08953310612,Bekasi,B 5956 BF,BR-V,2026-09-10,Kredit Leasing,Gita Permata,,,,,0,Janji Servis,5
+CUST0970,dian purnomo,+62 821-3545-942,Bekasi,B 5714 JL,Brio,2026-09-11,Kredit Leasing,Eko Wahyudi,,,,,0,Belum Dihubungi,
+CUST0971,Siti Nugroho,089699424616,Semarang,H 8883 KK,City Hatchback,2026-09-12,Kredit Leasing,Fajar Nugroho,,,,,0,Tidak Diangkat,
+CUST0972,Melati Tanjung,082181947263,Bandung,D 5366 NJT,Brio,2026-09-13,Kredit Leasing,Eko Wahyudi,,,,,0,Belum Dihubungi,
+CUST0973,Budi Nugroho,081222750633,Surabaya,L 7939 FP,Mobilio,2026-09-13,Kredit Leasing,Budi Santoso,,,,,0,Sudah Dihubungi,
+CUST0974,Ratna Lestari,085793891193,Jakarta,B 7679 DR,Brio,2026-09-17,Kredit Leasing,Eko Wahyudi,,,,,0,Belum Dihubungi,
+CUST0975,ahmad simanjuntak,82224669225,Depok,B 2309 CWM,Mobilio,2026-09-17,Kredit Leasing,Andi Prasetyo,,,,,0,Belum Dihubungi,
+CUST0976,Dedi Permana,08527877550,Semarang,H 3529 UT,Mobilio,2026-09-18,Kredit Leasing,Hendra Kusuma,,,,,0,Sudah Dihubungi,
+CUST0977,Putri Hidayat,08122778150,Surabaya,L 6592 ZHM,CR-V,2026-09-20,Kredit Leasing,Eko Wahyudi,,,,,0,Janji Servis,
+CUST0978,Sri Pratama,08229459290,Surabaya,L 6217 JRE,CR-V,2026-09-21,Kredit Leasing,Citra Lestari,,,,,0,Sudah Dihubungi,4
+CUST0979,Reza Indah Rahayu,08524492166,Tangerang,B 2595 JT,Mobilio,2026-09-21,Cash,Budi Santoso,,,,,0,Sudah Dihubungi,5
+CUST0980,Melati Sihombing ,08118622175,Bandung,D 8504 JGU,Brio,2026-09-23,Kredit Leasing,Gita Permata,,,,,0,Sudah Dihubungi,5
+CUST0981,Bagus Yusuf Hakim ,0877-4556-621,Jakarta,B 9564 EV,Mobilio,2026-09-23,Cash,Fajar Nugroho,,,,,0,Janji Servis,4
+CUST0982,Melati Irfan Simanjuntak,081110460487,Bogor,F 8557 BSA,HR-V,2026-09-24,Kredit Leasing,Hendra Kusuma,,,,,0,Sudah Dihubungi,
+CUST0983,Bagus Nur Lestari,+62 877-5184-137,Bandung,D 2526 YHC,Brio,2026-09-24,Kredit Leasing,Andi Prasetyo,,,,,0,Belum Dihubungi,
+CUST0984,Dewi Siregar,081279729236,Surabaya,L 7698 RD,Brio,2026-09-28,Kredit Leasing,Fajar Nugroho,,,,,0,Sudah Dihubungi,1
+CUST0985,Nadia Tanjung,082266915779,Jakarta,B 6585 AU,BR-V,2026-09-28,Cash,Budi Santoso,,,,,0,Tidak Diangkat,
